@@ -1,0 +1,1 @@
+<base href="https://apache.loquacious.me/">

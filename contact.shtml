@@ -1,0 +1,114 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Anderson Research Group | University of Oxford</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								<!--#include virtual="includes/header.inc" -->
+
+
+							<!-- Content -->
+								<section>
+									<header class="major">
+										<h2>Contact the Group</h2>
+									</header>
+
+									<p>If you are planning to visit us, then you can find <a href="directions.shtml"><b>directions here</a></b>.</p>
+										
+									<p>You can contact Prof. Anderson as follows:</p>
+									
+									<div class="box">
+										<p>
+											Email: <a class="one" href="mailto:harry.anderson@chem.ox.ac.uk"><b>harry.anderson@chem.ox.ac.uk</b></a>.<br />
+											Telephone :	+44 (0)1865 2 75704 <br />
+											Fax : +44 (0)1865 2 85002
+										</p>
+									</div>
+									
+									<p align="justify">
+										You can also write to Prof. Anderson or any member of the group at:
+									</p>
+									<div class="box">
+										Department of Chemistry<br>
+										University of Oxford<br>
+										Chemistry Research Laboratory<br>
+										Mansfield Road<br>
+										Oxford OX1 3TA<br>
+									</div>
+											
+									<p>You can contact the keeper of these pages by email at <a class="one" href="mailto:connor.patrick@chem.ox.ac.uk" ><b>connor.patrick@chem.ox.ac.uk</b></a>.</p>				
+								</section>
+								
+								<section>
+									<header class="major">
+										<h2>Find us</h2>
+									</header>
+									
+									<p>
+										If you are planning to visit us in the <a class="one" href="http://www.chem.ox.ac.uk/crl/" ><b>Chemistry Research Laboratory</b></a>, here in Oxford, then just pick one of the links below to go to a handy map appropriate for you. The Chemistry Research Laboratory (CRL) is located on South Parks Road, adjacent to Mansfield road, in central Oxford.
+									</p>
+									
+									<h3>By car</h3>
+									<p>
+										If you are arriving by car there are poor parking facilities in central Oxford but you can park at one of the <a class="one" href="http://www.parkandride.net/oxford/html/oxford_frameset.html" ><b>Park and Ride</b></a> car parks and catch one of the frequent buses into the centre.
+									</p>
+									
+									<h3>By train</h3>
+									<p>
+										Oxford is connected by regular trains to other major cities. To find out train times, please visit <a href="http://www.nationalrail.co.uk/" target="_blank"><b>The National Rail Website</b></a>. From the station you can walk (using the map below), which takes approximately 15 minutes.
+									</p>
+									
+									<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Roger+Dudman+Way,+Oxford,+Oxford,+OX1+1,+UK+(Railway+Station)&amp;daddr=chemistry+research+laboratory,+oxford&amp;hl=en&amp;geocode=FSWyFQMdrJ_s_yEW-7zUwLBAQg%3BFULEFQMdM-Hs_yEPMpAviiobCg&amp;mra=ls&amp;dirflg=w&amp;sll=51.75494,-1.260845&amp;sspn=0.013495,0.032573&amp;ie=UTF8&amp;ll=51.755754,-1.261153&amp;spn=0.009298,0.021458&amp;z=15&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Roger+Dudman+Way,+Oxford,+Oxford,+OX1+1,+UK+(Railway+Station)&amp;daddr=chemistry+research+laboratory,+oxford&amp;hl=en&amp;geocode=FSWyFQMdrJ_s_yEW-7zUwLBAQg%3BFULEFQMdM-Hs_yEPMpAviiobCg&amp;mra=ls&amp;dirflg=w&amp;sll=51.75494,-1.260845&amp;sspn=0.013495,0.032573&amp;ie=UTF8&amp;ll=51.755754,-1.261153&amp;spn=0.009298,0.021458&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small><p>
+									
+									<p>Alternatively, you can take a taxi, which depart from just outside the station. There are currently no convienient local bus services which serve the science area.</p>
+									
+									<h3>By bus</h3>
+									<p>
+										Oxford can be reached by cross-country bus services run by <a href="http://www.nationalexpress.com/home.aspx" target="_blank"><b>National Express</b></a>. From the centre of London, the <a href="http://www.oxfordtube.com/" target="_blank"><b>Oxford tube</b></a> and <a href="http://www.oxfordbus.co.uk/main.php?page_id=27" target="_blank"><b>Oxford Bus Company</b></a> run regular services to Oxford departing from Baker Street, Marble Arch and Victoria.
+									</p>
+									
+									<h3>By air</h3>
+									<p>
+										The nearest airports to Oxford are the London airports, or Birmingham International. The Oxford Bus Company runs direct buses between <a href="http://www.oxfordbus.co.uk/main.php?page_id=24" target="_blank"><b>Heathrow</b></a> and <a href="http://www.oxfordbus.co.uk/main.php?page_id=25" target="_blank"><b>Gatwick</b></a>.
+									</p>
+									
+									<h3>Useful Links</h3>
+									<p>
+										<b><a href="http://www.chem.ox.ac.uk/maps.html" target="_blank">The University's own interactive map of Oxford </a><br>
+									<a href="http://www.dailyinfo.co.uk/sheet/maps/map.htm" target="_blank">Daily Info maps of Oxford </a></b></p>
+									
+								</section>
+							
+							<p align="right">Latest update of this page: May 2020 </p>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+				<!--#include virtual="/includes/sidebar.inc" -->	
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script async defer
+			src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
+			</script>
+
+	</body>
+</html>

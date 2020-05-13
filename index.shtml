@@ -22,8 +22,9 @@
 								<section id="banner">
 									<div class="content">
 										<header>
-											<h1>Welcome to the Anderson group website!</h1>
+											<h1 align="center">Welcome to the Anderson group website!</h1>
 										</header>
+										<span class="pic main"><img src="images/group/group.jpg" alt="" /></span>
 										<p>Our research is in the areas of molecular materials synthesis, supramolecular chemistry, molecular recognition, polymers and dyes. We are based in the Department of Chemistry at the University of Oxford.</p>
 
 										<p>We believe that a better understanding of the relationship between molecular structure, molecular function and macroscopic properties will give us the ability to build functional materials on the molecular scale.</p>
@@ -33,9 +34,7 @@
 											<li><a href="#" class="button big">Learn More</a></li>
 										</ul>
 									</div>
-									<span class="image object">
-										<img src="images/pic10.jpg" alt="" />
-									</span>
+
 								</section>
 
 							<!-- Section -->

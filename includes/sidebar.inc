@@ -29,7 +29,7 @@
 											<span class="opener">The Group</span>
 											<ul>
 												<li><a href="group/harry.shtml">Meet Harry</a></li>
-												<li><a href="#">Current Members</a></li>
+												<li><a href="group.shtml">Current Members</a></li>
 												<li><a href="#">Social Photo Gallery</a></li>
 												<li><a href="#">Alumni</a></li>
 											</ul>
@@ -75,11 +75,12 @@
 											<p>Welcome to <a href="group/bobby.shtml">Sili Qiu</a>, starting his DPhil in our group.</p>
 										</article>									
 									</div>
-									<ul class="actions">
+									<ul class="actions center">
 										<li><a href="#" class="button">More</a></li>
 									</ul>
 								</section>
-														<!-- Section -->
+							
+							<!-- Section -->
 <!--								<section>
 									<header class="major">
 										<h2>Get in touch</h2>
