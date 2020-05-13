@@ -1,0 +1,163 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Anderson Research Group @ Oxford University</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+body {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+a:link {
+	color: #000066;
+	text-decoration: none;
+}
+a:visited {
+	color: #000066;
+	text-decoration: none;
+}
+a:hover {
+	color: #666699;
+	text-decoration: none;
+}
+a:active {
+	color: #000066;
+	text-decoration: none;
+}
+-->
+</style>
+<link rel="stylesheet" type="text/css" href="chrometheme/chromestyle.css" />
+
+<script type="text/javascript" src="../chromejs/chrome2.js">
+
+/***********************************************
+* Chrome CSS Drop Down Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+</script>
+
+
+<script language="JavaScript1.1">
+<!--
+
+var slideimages=new Array()
+var slidelinks=new Array()
+
+function slideshowimages(){
+  for (i=0;i<slideshowimages.arguments.length;i++){
+  slideimages[i]=new Image()
+  slideimages[i].src=slideshowimages.arguments[i]
+  }
+}
+
+function slideshowlinks(){
+  for (i=0;i<slideshowlinks.arguments.length;i++)
+  slidelinks[i]=slideshowlinks.arguments[i]
+}
+
+function gotoshow(){
+  if (!window.winslide||winslide.closed)
+    winslide=window.open(slidelinks[whichlink])
+  else
+    winslide.location=slidelinks[whichlink]
+    winslide.focus()
+}
+//-->
+</script>
+</head>
+
+<body>
+<table width="733" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table border="0" cellpadding="0" cellspacing="0" width="733">
+<!-- fwtable fwsrc="baner10.png" fwbase="baner10.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+  <tr>
+   <td><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+   <td><img src="images/spacer.gif" width="109" height="1" border="0" alt=""></td>
+   <td><img src="images/spacer.gif" width="165" height="1" border="0" alt=""></td>
+   <td><img src="images/spacer.gif" width="458" height="1" border="0" alt=""></td>
+   <td><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+  <tr>
+<td><img src="../images/banner.jpg"></td>
+     </tr>
+   </table></td>
+   <td><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+</table></td>
+  </tr>
+</table>
+<table width="733" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="2" bgcolor="#FFFFFF"><table width="732" border="0" align="left" cellpadding="0" cellspacing="0">
+        <!--#include FILE="header.inc" --></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+<td width="732" valign="top"><table width="100%" height="0" border="0" cellpadding="0" cellspacing="0" bordercolor="#666699">
+
+
+    <td width="732" valign="top"><table width="100%" height="386" border="0" cellpadding="8" cellspacing="0" bordercolor="#666699">
+        <tr>
+          <td valign="top"><p align="justify"><strong><font color="#2945b0">
+          Group Photos</font></strong><br>
+                  <font size="2" face="Geneva, Arial, Helvetica, sans-serif">
+<br>
+<center><img  src="people/exgroup/xmas08.jpg" height=313 width=543 border=0></a><br>  
+<font size="2" face="Geneva, Arial, Helvetica, sans-serif">Christmas 2008 </font></center> 
+<br>
+<br>
+<center><img  src="people/exgroup/group07.jpg" height=298 width=543 border=0></a><br>  
+<font size="2" face="Geneva, Arial, Helvetica, sans-serif">August 2007 </font></center> 
+<br>
+<br>
+<center><img  src="people/exgroup/group-xmas2006.jpg" height=370 width=543 border=0></a><br>  
+<font size="2" face="Geneva, Arial, Helvetica, sans-serif">Christmas 2006 </font></center> 
+<br>
+<br>
+<center><img  src="people/exgroup/group-xmas2005.jpg" height=370 width=543 border=0></a><br>  
+<font size="2" face="Geneva, Arial, Helvetica, sans-serif">Christmas 2005 </font></center> 
+<br>
+<br>
+<center><img  src="people/exgroup/group05a.jpg" height=369 width=543 border=0></a><br>  
+<font size="2" face="Geneva, Arial, Helvetica, sans-serif">December 2005 </font></center> 
+<br>
+<br>
+<center><img  src="people/exgroup/group05.jpg" height=370 width=543 border=0></a><br>  
+<font size="2" face="Geneva, Arial, Helvetica, sans-serif">November 2005 </font></center> 
+<br>
+<br>
+<center><img  src="people/exgroup/group04.jpg" height=370 width=543 border=0></a><br>  
+<font size="2" face="Geneva, Arial, Helvetica, sans-serif">October 2003 </font></center>     
+<br>
+<br>
+<center><img  src="people/exgroup/group03.jpg" height=370 width=543 border=0></a><br>  
+<font size="2" face="Geneva, Arial, Helvetica, sans-serif">Xmas 2002 </font></center>     
+<br>
+<br>
+<center><img  src="people/exgroup/group01.jpg" height=370 width=543 border=0></a><br>  
+<font size="2" face="Geneva, Arial, Helvetica, sans-serif">October 2001 </font></center>     
+<br>
+<br>
+<center><img  src="people/exgroup/group00.jpg" height=370 width=543 border=0></a><br>  
+<font size="2" face="Geneva, Arial, Helvetica, sans-serif">October 2000 </font></center>     
+<br>   
+<br>
+<center><img  src="people/exgroup/group99-2.jpg" height=370 width=543 border=0></a><br>  
+<font size="2" face="Geneva, Arial, Helvetica, sans-serif">October 1999 </font></center>     
+<br>   
+</font> </p>               
+              <p align="center">&nbsp;</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+<!--#include FILE="footer.inc" -->
+</table>
+</body>
+</html>

@@ -1,0 +1,114 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Anderson Research Group | University of Oxford</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<!--#include virtual="includes/header.inc" -->
+
+							<!-- Banner -->
+								<section id="banner">
+									<div class="content">
+										<header>
+											<h1>Welcome to the Anderson group website!</h1>
+										</header>
+										<p>Our research is in the areas of molecular materials synthesis, supramolecular chemistry, molecular recognition, polymers and dyes. We are based in the Department of Chemistry at the University of Oxford.</p>
+
+										<p>We believe that a better understanding of the relationship between molecular structure, molecular function and macroscopic properties will give us the ability to build functional materials on the molecular scale.</p>
+
+										<p>For more of an idea of what we do, take a look at our publications. If you would like to come and work with us, have a read of our vacancies page.</p>
+										<ul class="actions">
+											<li><a href="#" class="button big">Learn More</a></li>
+										</ul>
+									</div>
+									<span class="image object">
+										<img src="images/pic10.jpg" alt="" />
+									</span>
+								</section>
+
+							<!-- Section -->
+								<section>										
+									<div class="row">
+										<div class="col-6 col-12-small">
+											<header class="major">
+												<h2>Recent Publications</h2>
+											</header>
+										</div>
+										<div class="col-6 col-12-small">
+											<p style="text-align:right;"><a href="#" class="button">More</a></p>
+										</div>
+									</div>
+									
+									<div class="posts">
+									  <article>
+											<a href="#" class="image pub"><img src="images/abstracts/310.gif" alt="" /></a>
+											<h3>Mechanisms of IR amplification in radical cation polarons</h3>
+										    <dl>
+    									    <dt>W. J. Kendrick, M. Jir&aacute;sek, M. D. Peeks, G. M. Greetham, I. V. Sazanovich, P. M. Donaldson, M. Towrie, A. W. Parker and H. L. Anderson.</dt>
+											<dd><i><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></i> <b>2020</b>, <span class="cite-vol">11</span>, <span class="cite-page"><a href="http://dx.doi.org/10.1039/C9SC05717J">2112-2120</a></span>.</dd>
+										    </dl>
+</article>
+									  <article>
+											<a href="#" class="image pub"><img src="images/abstracts/309.jpg" alt="" /></a>
+											<h3>Global aromaticity at the nanoscale</h3>
+										    <dl>
+    									    <dt>M. Rickhaus, M. Jir&aacute;sek, L. Tejerina, H. Gotfredsen, M. D. Peeks, R. Haver, H. Jiang, T. D. W. Claridge, H. L. Anderson.</dt>
+											<dd><i><a href="https://www.nature.com/nchem/">Nat. Chem.</a></i> <b>2020</b>, <span class="cite-vol">12</span>, <span class="cite-page"><a href="http://dx.doi.org/10.1038/s41557-019-0398-3">236-241</a></span>.</dd>
+										    </dl>
+</article>
+									  <article>
+											<a href="#" class="image pub"><img src="images/abstracts/308.png" alt="" /></a>
+											<h3>Time-Resolved Structural Dynamics of Extended &pi;-Electron Porphyrin Nanoring</h3>
+										    <dl>
+    									    <dt>G. Bressan, M. D. Peeks, H. L. Anderson, S. R. Meech and I. Heisler.</dt>
+											<dd><i><a href="https://pubs.acs.org/jpcc">J. Phys. Chem. C</a></i> <b>2019</b>, <span class="cite-vol">123</span>, <span class="cite-page"><a href="http://dx.doi.org/10.1021/acs.jpcc.9b07494">27222-27229</a></span>.</dd>
+										    </dl>
+</article>
+									  <article>
+											<a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
+											<h3>Sed etiam facilis</h3>
+										<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+</article>
+									  <article>
+											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
+											<h3>Feugiat lorem aenean</h3>
+										<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+</article>
+									  <article>
+											<a href="#" class="image"><img src="images/pic06.jpg" alt="" /></a>
+											<h3>Amet varius aliquam</h3>
+										<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+</article>
+									</div>
+						  </section>
+							
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<!--#include virtual="includes/sidebar.inc" -->
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
