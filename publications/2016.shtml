@@ -1,0 +1,115 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Anderson Research Group | University of Oxford</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<!--#include virtual="/includes/base.inc" -->
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								<!--#include virtual="/includes/header.inc" -->
+
+
+							<!-- Content -->
+								<section>
+									<header class="major">
+										<h2>Publications</h2>
+									</header>
+
+									<h2>2016 - present</h2>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">310</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Mechanisms of IR amplification in radical cation polarons</h3>
+											<p><refdata class="authors">W. J. Kendrick, M. Jir&aacute;sek, M. D. Peeks, G. M. Greetham, I. V. Sazanovich, P. M. Donaldson, M. Towrie, A. W. Parker and H. L. Anderson.</refdata></p>
+											<p>	<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
+												<refdata class="year">2020</refdata>,
+												<refdata class="vol">11</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C9SC05717J">2112-2120</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="../images/abstracts/310.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">309</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Global aromaticity at the nanoscale</h3>
+											<p><refdata class="authors">M. Rickhaus, M. Jir&aacute;sek, L. Tejerina, H. Gotfredsen, M. D. Peeks, R. Haver, H. Jiang, T. D. W. Claridge, H. L. Anderson.</refdata></p>
+											<p>	<a href="https://www.nature.com/nchem/">Nat. Chem.</a>,
+												<refdata class="year">2020</refdata>,
+												<refdata class="vol">12</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1038/s41557-019-0398-3">236-241</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="../images/abstracts/309.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">308</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Time-Resolved Structural Dynamics of Extended &pi;-Electron Porphyrin Nanoring</h3>
+											<p><refdata class="authors">G. Bressan, M. D. Peeks, H. L. Anderson, S. R. Meech and I. Heisler.</refdata></p>
+											<p>	<refdata class="journal"><a href="https://pubs.acs.org/jpcc">J. Phys. Chem. C</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">123</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/acs.jpcc.9b07494">27222-27229</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="../images/abstracts/308.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">307</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Understanding resonant charge transport through weakly coupled single-molecule junctions</h3>
+											<p><refdata class="authors">J. O. Thomas, B. Limburg, J. K. Sowa, K. Willick, J. Baugh, G. A. D. Briggs, E. M. Gauger, H. L. Anderson, J. A. Mol.</refdata></p>
+											<p>	<refdata class="journal"><a href="https://www.nature.com/ncomms/">Nat. Commun.</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">10</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1038/s41467-019-12625-4">4628</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="../images/abstracts/307.jpg" alt="" /></span>
+										</div>
+									</div>
+						  </section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+				<!--#include virtual="/includes/sidebar.inc" -->	
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/browser.min.js"></script>
+			<script src="../assets/js/breakpoints.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<script src="../assets/js/main.js"></script>
+
+	</body>
+</html>

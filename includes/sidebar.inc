@@ -16,7 +16,7 @@
 										<li>
 											<span class="opener">Publications</span>
 											<ul>
-												<li><a href="#">2016-present</a></li>
+												<li><a href="/publications/2016.shtml">2016-present</a></li>
 												<li><a href="#">2011-2015</a></li>
 												<li><a href="#">2006-2010</a></li>
 												<li><a href="#">2001-2005</a></li>
@@ -28,8 +28,8 @@
 										<li>
 											<span class="opener">The Group</span>
 											<ul>
-												<li><a href="group/harry.shtml">Meet Harry</a></li>
-												<li><a href="group.shtml">Current Members</a></li>
+												<li><a href="/group/harry.shtml">Meet Harry</a></li>
+												<li><a href="/group.shtml">Current Members</a></li>
 												<li><a href="#">Social Photo Gallery</a></li>
 												<li><a href="#">Alumni</a></li>
 											</ul>
@@ -54,27 +54,61 @@
 									  <h2>Recent News</h2>
 									</header>
 									<div class="mini-posts">
-										<article>
-											<a href="#" class="image"><img src="images/group/people/will.jpg" alt="" /></a>
-											<p>Goodbye to <a href="group/will.shtml">Will Kendrick</a>, leaving to start a PostDoc at the University of Melbourne.</p>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/group/people/james.jpg" alt="" /></a>
-											<p>Goodbye to <a href="group/james.shtml">James Thomas</a>, leaving to start a PostDoc at the Department of Materials, Oxford.</p>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/group/people/marcin.jpg" alt="" /></a>
-											<p>Welcome to <a href="group/marcin.shtml">Marcin Majewski</a>, joining us as a Post Doc.</p>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/group/people/jeff.jpg" alt="" /></a>
-											<p>A warm welcome to <a href="group/jeff.shtml">Jeff Van Raden</a>, joining us as a Post Doc.</p>
-										</article>
-										<article>
-											<a href="#" class="image"><img src="images/group/people/bobby.jpg" alt="" /></a>
-											<p>Welcome to <a href="group/bobby.shtml">Sili Qiu</a>, starting his DPhil in our group.</p>
-										</article>									
-									</div>
+										<div class="row">
+											<div class="col-4 col-12-small">
+												<a href="#" class="image fit"><img src="images/group/people/will.jpg" alt="" /></a>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>Goodbye to <a href="group/will.shtml">Will Kendrick</a>, leaving to start a PostDoc at the University of Melbourne.</p>
+											</div>
+										</div>
+										
+										<hr class="sidebar">
+										
+										<div class="row">
+											<div class="col-4 col-12-small">
+												<a href="#" class="image fit"><img src="images/group/people/james.jpg" alt="" /></a>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>Goodbye to <a href="group/james.shtml">James Thomas</a>, leaving to start a PostDoc at the Department of Materials, Oxford.</p>
+											</div>
+										</div>
+										
+										<hr class="sidebar">
+										
+										<div class="row">
+											<div class="col-4 col-12-small">
+												<a href="#" class="image fit"><img src="images/group/people/marcin.jpg" alt="" /></a>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>Welcome to <a href="group/marcin.shtml">Marcin Majewski</a>, joining us as a Post Doc.</p>
+											</div>
+										</div>
+										
+										<hr class="sidebar">
+										
+										<div class="row">
+											<div class="col-4 col-12-small">
+												<a href="#" class="image fit"><img src="images/group/people/jeff.jpg" alt="" /></a>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>A warm welcome to <a href="group/jeff.shtml">Jeff Van Raden</a>, joining us as a Post Doc.</p>
+											</div>
+										</div>
+										
+										<hr class="sidebar">
+										
+										<div class="row">
+											<div class="col-4 col-12-small">
+												<a href="#" class="image fit"><img src="images/group/people/bobby.jpg" alt="" /></a>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>Welcome to <a href="group/bobby.shtml">Sili Qiu</a>, starting his DPhil in our group.</p>
+											</div>
+										</div>
+									</div>	
+									
+
 									<ul class="actions center">
 										<li><a href="#" class="button">More</a></li>
 									</ul>

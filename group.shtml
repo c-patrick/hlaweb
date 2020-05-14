@@ -26,11 +26,11 @@
 
 									<div class="people">
 									  <article>
-											<a href="#" class="image"><img src="images/group/people/harry4.jpg" alt="" /></a>
+											<a href="group/harry.shtml" class="image"><img src="images/group/people/harry4.jpg" alt="" /></a>
 										  	<center>
 												<h3>Harry Anderson</h3>
 											<ul class="actions center">
-												<li><a href="#" class="button small">view</a></li>
+												<li><a href="group/harry.shtml" class="button small">view</a></li>
 											</ul>
 											</center>
 										</article>
