@@ -5,6 +5,9 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		
+		<script src='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.js'></script>
+		<link href='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.css' rel='stylesheet' />
 	</head>
 	<body class="is-preload">
 
@@ -69,7 +72,114 @@
 										Oxford is connected by regular trains to other major cities. To find out train times, please visit <a href="http://www.nationalrail.co.uk/" target="_blank"><b>The National Rail Website</b></a>. From the station you can walk (using the map below), which takes approximately 15 minutes.
 									</p>
 									
-									<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Roger+Dudman+Way,+Oxford,+Oxford,+OX1+1,+UK+(Railway+Station)&amp;daddr=chemistry+research+laboratory,+oxford&amp;hl=en&amp;geocode=FSWyFQMdrJ_s_yEW-7zUwLBAQg%3BFULEFQMdM-Hs_yEPMpAviiobCg&amp;mra=ls&amp;dirflg=w&amp;sll=51.75494,-1.260845&amp;sspn=0.013495,0.032573&amp;ie=UTF8&amp;ll=51.755754,-1.261153&amp;spn=0.009298,0.021458&amp;z=15&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Roger+Dudman+Way,+Oxford,+Oxford,+OX1+1,+UK+(Railway+Station)&amp;daddr=chemistry+research+laboratory,+oxford&amp;hl=en&amp;geocode=FSWyFQMdrJ_s_yEW-7zUwLBAQg%3BFULEFQMdM-Hs_yEPMpAviiobCg&amp;mra=ls&amp;dirflg=w&amp;sll=51.75494,-1.260845&amp;sspn=0.013495,0.032573&amp;ie=UTF8&amp;ll=51.755754,-1.261153&amp;spn=0.009298,0.021458&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small><p>
+									<div id='map' style='width: 100%; height: 300px;'></div>
+									<script>
+										mapboxgl.accessToken = 	'pk.eyJ1IjoiY29ubm9ycGF0cmljayIsImEiOiJja2E1czI0Y3kwMDB5Mnlrc2o0YXF3YnlxIn0.Vt2tDgBXruzym1qp0uaBeQ';
+										var map = new mapboxgl.Map({
+											container: 'map',
+											style: 'mapbox://styles/mapbox/streets-v11',
+											center: [-1.253, 51.758],
+											zoom: 16.00
+										});
+										
+										var size = 200;
+										
+										// implementation of CustomLayerInterface to draw a pulsing dot icon on the map
+										// see https://docs.mapbox.com/mapbox-gl-js/api/#customlayerinterface for more info
+										var pulsingDot = {
+											width: size,
+											height: size,
+											data: new Uint8Array(size * size * 4),
+
+											// get rendering context for the map canvas when layer is added to the map
+											onAdd: function() {
+												var canvas = document.createElement('canvas');
+												canvas.width = this.width;
+												canvas.height = this.height;
+												this.context = canvas.getContext('2d');
+											},
+
+											// called once before every frame where the icon will be used
+											render: function() {
+												var duration = 1000;
+												var t = (performance.now() % duration) / duration;
+
+												var radius = (size / 2) * 0.3;
+												var outerRadius = (size / 2) * 0.7 * t + radius;
+												var context = this.context;
+
+												// draw outer circle
+												context.clearRect(0, 0, this.width, this.height);
+												context.beginPath();
+												context.arc(
+													this.width / 2,
+													this.height / 2,
+													outerRadius,
+													0,
+													Math.PI * 2
+												);
+												context.fillStyle = 'rgba(255, 200, 200,' + (1 - t) + ')';
+												context.fill();
+
+												// draw inner circle
+												context.beginPath();
+												context.arc(
+													this.width / 2,
+													this.height / 2,
+													radius,
+													0,
+													Math.PI * 2
+												);
+												context.fillStyle = 'rgba(255, 100, 100, 1)';
+												context.strokeStyle = 'white';
+												context.lineWidth = 2 + 4 * (1 - t);
+												context.fill();
+												context.stroke();
+
+												// update this image's data with data from the canvas
+												this.data = context.getImageData(
+													0,
+													0,
+													this.width,
+													this.height
+												).data;
+												
+												// continuously repaint the map, resulting in the smooth animation of the dot
+												map.triggerRepaint();
+												
+												// return `true` to let the map know that the image was updated
+												return true;
+											}
+										};
+
+										map.on('load', function() {
+											map.addImage('pulsing-dot', pulsingDot, { pixelRatio: 2 });
+
+											map.addSource('points', {
+												'type': 'geojson',
+												'data': {
+													'type': 'FeatureCollection',
+													'features': [
+														{
+															'type': 'Feature',
+															'geometry': {
+																'type': 'Point',
+																'coordinates': [-1.2534216, 51.758314]
+															}
+														}
+													]
+												}
+											});
+											map.addLayer({
+												'id': 'points',
+												'type': 'symbol',
+												'source': 'points',
+												'layout': {
+													'icon-image': 'pulsing-dot'
+												}
+											});
+										});
+									</script>
 									
 									<p>Alternatively, you can take a taxi, which depart from just outside the station. There are currently no convienient local bus services which serve the science area.</p>
 									
@@ -106,9 +216,5 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-			<script async defer
-			src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap">
-			</script>
-
 	</body>
 </html>
