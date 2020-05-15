@@ -46,51 +46,83 @@
 											</header>
 										</div>
 										<div class="col-6 col-12-small">
-											<p style="text-align:right;"><a href="publications/2016.shtml" class="button">More</a></p>
+											<p style="text-align:right;"><a href="publications/2020.shtml" class="button">More</a></p>
 										</div>
 									</div>
 									
 									<div class="posts">
-									  <article>
+										<article>
 											<a href="http://dx.doi.org/10.1039/C9SC05717J" class="image pub"><img src="images/abstracts/310.gif" alt="" /></a>
 											<h3>Mechanisms of IR amplification in radical cation polarons</h3>
-										    <dl>
-    									    <dt>W. J. Kendrick, M. Jir&aacute;sek, M. D. Peeks, G. M. Greetham, I. V. Sazanovich, P. M. Donaldson, M. Towrie, A. W. Parker and H. L. Anderson.</dt>
-											<dd><ref class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></ref> <b>2020</b>, <ref class="vol">11</ref>, <ref class="page"><a href="http://dx.doi.org/10.1039/C9SC05717J">2112-2120</a></ref>.</dd>
-										    </dl>
-</article>
-									  <article>
+											<p><refdata class="authors">W. J. Kendrick, M. Jir&aacute;sek, M. D. Peeks, G. M. Greetham, I. V. Sazanovich, P. M. Donaldson, M. Towrie, A. W. Parker and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
+												<refdata class="year">2020</refdata>,
+												<refdata class="vol">11</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C9SC05717J">2112-2120</a></refdata>
+											</p>
+										</article>
+										<article>
 											<a href="http://dx.doi.org/10.1038/s41557-019-0398-3" class="image pub"><img src="images/abstracts/309.jpg" alt="" /></a>
 											<h3>Global aromaticity at the nanoscale</h3>
-										    <dl>
-    									    <dt>M. Rickhaus, M. Jir&aacute;sek, L. Tejerina, H. Gotfredsen, M. D. Peeks, R. Haver, H. Jiang, T. D. W. Claridge, H. L. Anderson.</dt>
-											<dd><i><a href="https://www.nature.com/nchem/">Nat. Chem.</a></i> <b>2020</b>, <span class="cite-vol">12</span>, <span class="cite-page"><a href="http://dx.doi.org/10.1038/s41557-019-0398-3">236-241</a></span>.</dd>
-										    </dl>
-</article>
-									  <article>
+											<p><refdata class="authors"> M. Rickhaus, M. Jir&aacute;sek, L. Tejerina, H. Gotfredsen, M. D. Peeks, R. Haver, H. Jiang, T. D. W. Claridge, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://www.nature.com/nchem/">Nat. Chem.</a></refdata>,
+												<refdata class="year">2020</refdata>,
+												<refdata class="vol">12</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1038/s41557-019-0398-3">236-241</a></refdata>
+											</p>
+										</article>
+										<article>
 											<a href="http://dx.doi.org/10.1021/acs.jpcc.9b07494" class="image pub"><img src="images/abstracts/308.png" alt="" /></a>
 											<h3>Time-Resolved Structural Dynamics of Extended &pi;-Electron Porphyrin Nanoring</h3>
-										    <dl>
-    									    <dt>G. Bressan, M. D. Peeks, H. L. Anderson, S. R. Meech and I. Heisler.</dt>
-											<dd><i><a href="https://pubs.acs.org/jpcc">J. Phys. Chem. C</a></i> <b>2019</b>, <span class="cite-vol">123</span>, <span class="cite-page"><a href="http://dx.doi.org/10.1021/acs.jpcc.9b07494">27222-27229</a></span>.</dd>
-										    </dl>
-</article>
-									  <article>
-											<a href="#" class="image"><img src="images/pic04.jpg" alt="" /></a>
-											<h3>Sed etiam facilis</h3>
-										<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-</article>
-									  <article>
-											<a href="#" class="image"><img src="images/pic05.jpg" alt="" /></a>
-											<h3>Feugiat lorem aenean</h3>
-										<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-</article>
-									  <article>
-											<a href="#" class="image"><img src="images/pic06.jpg" alt="" /></a>
-											<h3>Amet varius aliquam</h3>
-										<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-</article>
+											<p><refdata class="authors">G. Bressan, M. D. Peeks, H. L. Anderson, S. R. Meech and I. Heisler.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/jpcc">J. Phys. Chem. C</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">123</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/acs.jpcc.9b07494">27222-27229</a></refdata>
+											</p>
+										</article>
+										<article>
+											<a href="http://dx.doi.org/10.1038/s41467-019-12625-4" class="image pub"><img src="images/abstracts/307.jpg" alt="" /></a>
+											<h3>Understanding resonant charge transport through weakly coupled single-molecule junctions</h3>
+											<p><refdata class="authors">J. O. Thomas, B. Limburg, J. K. Sowa, K. Willick, J. Baugh, G. A. D. Briggs, E. M. Gauger, H. L. Anderson, J. A. Mol.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://www.nature.com/ncomms/">Nat. Commun.</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">10</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1038/s41467-019-12625-4">4628</a></refdata>
+											</p>
+										</article>
+										<article>
+											<a href="http://dx.doi.org/10.1021/acs.jpclett.9b02262" class="image pub"><img src="images/abstracts/306.jpg" alt="" /></a>
+											<h3>Delocalization in the Radical Cations of Porphyrin Molecular Wires: A New Perspective on EPR Approaches</h3>
+											<p><refdata class="authors">G. Moise, L. Tejerina, M. Rickhaus, H. L. Anderson, C. R. Timmel.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/journal/jpclcd">J. Phys. Chem. Lett.</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">10</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/acs.jpclett.9b02262">5708-5712</a></refdata>
+											</p>
+										</article>
+										<article>
+											<a href="XXXX" class="image pub"><img src="images/abstracts/305.jpg" alt="" /></a>
+											<h3>An <i>sp</i>-hybridized molecular carbon allotrope, cyclo[18]carbon</h3>
+											<p><refdata class="authors">K. Kaiser, L. M. Scriven, F. Schulz, P. Gawel, L. Gross, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://science.sciencemag.org/">Science</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">365</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1126/science.aay1914">1299-1301</a></refdata>
+											</p>
+										</article>
 									</div>
+									
+									<center>
+										<a href="publications/2020.shtml" class="button">More</a>
+									</center>
+									
 						  </section>
 							
 

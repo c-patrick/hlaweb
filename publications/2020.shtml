@@ -1,0 +1,1379 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Anderson Research Group | University of Oxford</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<!--#include virtual="/includes/base.inc" -->
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								<!--#include virtual="/includes/header.inc" -->
+
+
+							<!-- Content -->
+								<section>
+									<header class="major">
+										<h2>Publications</h2>
+									</header>
+									
+									<center>
+										<ul class="pagination">
+											<li><span class="button disabled">Prev</span></li>
+											<li><a href="publications/2020.shtml" class="page active">Current</a></li>
+											<li><a href="publications/2015.shtml" class="page">2015</a></li>
+											<li><a href="publications/2010.shtml" class="page">2010</a></li>
+											<li><a href="publications/2005.shtml" class="page">2005</a></li>
+											<li><a href="publications/2000.shtml" class="page">2000</a></li>
+											<li><a href="publications/1995.shtml" class="page">1995</a></li>
+											<li><a href="publications/theses.shtml" class="page">Theses</a></li>
+											<li><a href="publications/2015.shtml" class="button">Next</a></li>
+										</ul>
+									</center>
+
+									<h2>2016 - present</h2>
+									
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">310</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Mechanisms of IR amplification in radical cation polarons</h3>
+											<p><refdata class="authors">W. J. Kendrick, M. Jir&aacute;sek, M. D. Peeks, G. M. Greetham, I. V. Sazanovich, P. M. Donaldson, M. Towrie, A. W. Parker and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
+												<refdata class="year">2020</refdata>,
+												<refdata class="vol">11</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C9SC05717J">2112-2120</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/310.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">309</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Global aromaticity at the nanoscale</h3>
+											<p><refdata class="authors">M. Rickhaus, M. Jir&aacute;sek, L. Tejerina, H. Gotfredsen, M. D. Peeks, R. Haver, H. Jiang, T. D. W. Claridge, H. L. Anderson.</refdata></p>
+											<p>
+												<a href="https://www.nature.com/nchem/">Nat. Chem.</a>,
+												<refdata class="year">2020</refdata>,
+												<refdata class="vol">12</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1038/s41557-019-0398-3">236-241</a></refdata>
+											</p>
+											<div class="box">
+												<b>Highlighted in:</b>
+													<p class="pub">
+														<refdata class="journal"><a href="https://www.chemistryworld.com/" target="_blank">Chemistry World</a></refdata> (22 Jan. 2020); <a href="https://www.chemistryworld.com/news/largest-molecular-wheel-ever-made-pushes-limits-of-aromaticity-rules/4011060.article" target="_blank">"<i>Largest molecular wheel ever made pushes limits of aromaticity rules</i>"</a>
+													</p>
+													<p class="pub">
+														<refdata class="journal"><a href="https://cen.acs.org/index.html" target="_blank">C&EN</a></refdata> (18 Jan. 2020); <a href="https://cen.acs.org/materials/nanomaterials/Porphyrin-wheel-sets-record-largest/98/web/2020/01" target="_blank">"<i>Porphyrin wheel sets record as largest aromatic ring</i>"</a>
+													</p>
+											</div>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/309.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">308</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Time-Resolved Structural Dynamics of Extended &pi;-Electron Porphyrin Nanoring</h3>
+											<p><refdata class="authors">G. Bressan, M. D. Peeks, H. L. Anderson, S. R. Meech and I. Heisler.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/jpcc">J. Phys. Chem. C</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">123</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/acs.jpcc.9b07494">27222-27229</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/308.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">307</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Understanding resonant charge transport through weakly coupled single-molecule junctions</h3>
+											<p><refdata class="authors">J. O. Thomas, B. Limburg, J. K. Sowa, K. Willick, J. Baugh, G. A. D. Briggs, E. M. Gauger, H. L. Anderson, J. A. Mol.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://www.nature.com/ncomms/">Nat. Commun.</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">10</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1038/s41467-019-12625-4">4628</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/307.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">306</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>pin Delocalization in the Radical Cations of Porphyrin Molecular Wires: A New Perspective on EPR Approaches</h3>
+											<p><refdata class="authors">G. Moise, L. Tejerina, M. Rickhaus, H. L. Anderson, C. R. Timmel.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/journal/jpclcd">J. Phys. Chem. Lett.</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">10</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/acs.jpclett.9b02262">5708-5712</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/306.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">305</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>An <i>sp</i>-hybridized molecular carbon allotrope, cyclo[18]carbon</h3>
+											<p><refdata class="authors">K. Kaiser, L. M. Scriven, F. Schulz, P. Gawel, L. Gross, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://science.sciencemag.org/">Science</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">365</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1126/science.aay1914">1299-1301</a></refdata>
+											</p>
+											<div class="box">
+												<b>Highlighted in:</b>
+													<p class="pub">
+														<refdata class="journal"><a href="https://science.sciencemag.org/">Science</a></refdata> (15 Aug. 2019); <a href="https://www.sciencemag.org/news/2019/08/microscopic-ring-carbon-upending-how-element-relates-its-neighbors">"<i>Carbon atoms marry to form first-ever ring</i>"</a> <br>
+														DOI: <a href="http://dx.doi.org/10.1126/science.aaz1461">10.1126/science.aaz1461</a> 
+													</p>
+													<p class="pub">
+														<refdata class="journal">
+															<a href="https://www.nature.com/">Nature</a>
+														</refdata>,
+														<refdata class="year">
+															2019
+														</refdata>,
+														<refdata class="vol">
+															572
+														</refdata>,
+														<refdata class="page">
+															426
+														</refdata>;
+														<a href="https://www.nature.com/articles/d41586-019-02473-z" target="_blank">"<i>Chemists make first-ever ring of pure carbon</i>"</a> <br>
+														DOI: <a href="http://dx.doi.org/10.1038/d41586-019-02473-z">10.1038/d41586-019-02473-z</a> 
+													</p>
+													<p class="pub">
+														<refdata class="journal"><a href="https://cen.acs.org/index.html" target="_blank">C&EN</a></refdata> (21 Aug. 2019); <a href="https://cen.acs.org/physical-chemistry/chemical-bonding/Chemists-use-atomic-manipulation-nudge/97/web/2019/08" target="_blank">"<i>Chemists use atomic manipulation to nudge cyclo[18]carbon into being</i>"</a>
+													</p>
+													<p class="pub">
+														<refdata class="journal"><a href="https://www.chemistryworld.com/" target="_blank">Chemistry World</a></refdata> (15 Aug. 2019); <a href="https://www.chemistryworld.com/news/new-form-of-pure-carbon-made-by-manipulating-atoms/3010853.article" target="_blank">"<i>New form of pure carbon made by manipulating atoms</i>"</a>
+													</p>
+													<p class="pub">
+														<refdata class="journal"><a href="https://physicsworld.com/" target="_blank">Physics World</a></refdata> (15 Aug. 2019); <a href="https://physicsworld.com/a/hotly-debated-carbon-ring-allotrope-reveals-its-structure/" target="_blank">"<i>Hotly debated carbon ring allotrope reveals its structure</i>"</a>
+													</p>
+											</div>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/305.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">304</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Global Aromaticity and Antiaromaticity in Porphyrin Nanoring Anions</h3>
+											<p><refdata class="authors">M. D. Peeks, M. Jirasek, T. D. W. Claridge and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773">Angew. Chem. Int. Ed.</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">58</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1002/anie.201909032">15717-15720</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/304.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">303</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Charge-state assignment of nanoscale single-electron transistors from their current–voltage characteristics</h3>
+											<p><refdata class="authors">B. Limburg, J. O. Thomas, J. K. Sowa, K. Willick, J. Baugh, E. M. Gauger, G. A. D. Briggs, J. A. Mol and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journalissues/nr">Nanoscale</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">11</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1039/c9nr03754c">DOI: 10.1039/c9nr03754c</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/303.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">302</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Ordering, flexibility and frustration in arrays of porphyrin nanorings</h3>
+											<p><refdata class="authors">A. Summerfield, M. Baldoni, D. V. Kondratuk, H. L. Anderson, J. P. Garrahan, E. Besley and P. H. Beton.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://www.nature.com/ncomms/">Nat. Commun.</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">10</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1038/s41467-019-11009-y">2932</a></refdata>
+											</p>
+											<div class="box">
+												<b>Highlighted in:</b>
+													<p class="pub">
+														<refdata class="journal">
+															<a href="https://rdcu.be/bLhZ9">Nat. Rev. Phys.</a>
+														</refdata>,
+														<refdata class="year">
+															2019
+														</refdata>,
+														<refdata class="vol">
+															1
+														</refdata>,
+														<refdata class="page">
+															474
+														</refdata>;
+														<a href="https://www.nature.com/articles/s42254-019-0092-9">"<i>A pack of rings</i>"</a> <br>
+														DOI: <a href="https://doi.org/10.1038/s42254-019-0092-9">10.1038/s42254-019-0092-9</a> 
+													</p>
+											</div>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/302.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">301</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>On-surface synthesis within a porphyrin nanoring template</h3>
+											<p><refdata class="authors">C. J. Judd, D. V. Kondratuk, H. L. Anderson and A. Saywell.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://www.nature.com/srep/">Scientific Reports</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">9</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1038/s41598-019-45359-w">11676-11688</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/301.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">300</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Cross-conjugation increases the conductance of meta-connected fluorenones</h3>
+											<p><refdata class="authors">A. Alanazy, E. Leary, T. Kobatake, S. Sangtarash, M. T. González, H.-W. Jiang, G. Rubio Bollinger, N. Agräit, H. Sadeghi, I. Grace, S. J. Higgins, H. L. Anderson, R. J. Nichols and C. J. Lambert.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journalissues/nr">Nanoscale</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">11</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1039/C9NR01235D">13720-13724</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/300.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">299</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>ELDOR-detected NMR beyond hyperfine couplings: a case study with Cu(ii)-porphyrin dimers</h3>
+											<p><refdata class="authors">N. Wili, S. Richert, B. Limburg, S. J. Clarke, H. L. Anderson, C. R. Timmel and G. Jeschke.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journalissues/cp">Phys. Chem. Chem. Phys.</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">21</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1039/C9CP01760G">11676-11688</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/299.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">298</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Metal Atom Markers for Imaging Epitaxial Molecular Self-Assembly on Graphene by Scanning Transmission Electron Microscopy</h3>
+											<p><refdata class="authors">J. K. Lee, I. Bulut, M. Rickhaus, Y. Sheng, X. Li, G. G. D. Han, G. A. D. Briggs, H. L. Anderson and J. H. Warner.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/journal/ancac3">ACS Nano</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">13</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1021/acsnano.9b02906">7252-7260</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/298.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">297</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Unusual Length Dependence of the Conductance in Cumulene Molecular Wires</h3>
+											<p><refdata class="authors">W. Xu, E. Leary, S. Hou, S. Sangtarash, M. T. Gonz&aacute;lez, G. Rubio-Bollinger, Q. Wu, H. Sadeghi, L. Tejerina, K. E. Christensen, N. Agra&iuml;t, S. J. Higgins, C. J. Lambert, R. J. Nichols and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773">Angew. Chem. Int. Ed.</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">58</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1002/anie.201901228">8378-8382</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/297.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">296</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Tuning the Circumference of Six-Porphyrin Nanorings</h3>
+											<p><refdata class="authors">R. Haver, L. Tejerina, H. Jiang, M. Rickhaus, M. Jirasek, I. Gruebner, H. J. Eggimann, L. M. Herz and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">141</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1021/jacs.9b02965">7965-7971</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/296.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">295</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Aromaticity and Antiaromaticity in the Excited States of Porphyrin Nanorings</h3>
+											<p><refdata class="authors">M. D. Peeks, J. Q. Gong, K. McLoughlin, T. Kobatake, R. Haver, L. M. Herz and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/journal/jpclcd">J. Phys. Chem. Lett.</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">10</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1021/acs.jpclett.9b00623">2017-2022</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/295.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">294</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Atomic Scale Imaging of Reversible Ring Cyclization in Graphene Nanoconstrictions</h3>
+											<p><refdata class="authors">J. K. Lee, G.-D. Lee, S. Lee, E. Yoon, H. L. Anderson, G. A. D. Briggs, J. H. Warner.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/journal/ancac3">ACS Nano</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">13</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1021/acsnano.8b09211">2379-2388</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/294.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">293</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Watching Bonds Move in a Large Antiaromatic Ring</h3>
+											<p><refdata class="authors">M. D. Peeks, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://www.cell.com/chem/issue?pii=S2451-9294(18)X0002-3">Chem</a></refdata>,
+												<refdata class="year">2019</refdata>,
+												<refdata class="vol">5</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1016/j.chempr.2018.12.019">9-12</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/293.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">292</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Synthesis and Properties of Porphyrin Nanotubes</h3>
+											<p><refdata class="authors">R. Haver, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://onlinelibrary.wiley.com/journal/15222675">Helv. Chim. Acta</a></refdata>,
+												<refdata class="year">2018</refdata>,
+												<refdata class="vol">102</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/hlca.201800211">e1800211</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/292.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">291</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Tailored Homo- and Hetero- Lanthanide Porphyrin Dimers: a Synthetic Strategy for Integrating Multiple Spintronic Functionalities into a Single Molecule</h3>
+											<p><refdata class="authors">J. J. Le Roy, J. Cremers, I. A. Thomlinson, M. Slota, W. K. Myers, P. H. Horton, S. J. Coles, H. L. Anderson, L. Bogani.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
+												<refdata class="year">2018</refdata>,
+												<refdata class="vol">9</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/c8sc03762k">8474-8481</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/291.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">290</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Anchor Groups for Graphene-Porphyrin Single-Molecule Transistors</h3>
+											<p><refdata class="authors">B. Limburg, J. O. Thomas, G. Holloway, H. Sadeghi, S. Sangtarash, I. C. Hou, J. Cremers, A. Narita, K. M&uuml;llen, C. J. Lambert, G. A. D. Briggs, J. A. Mol, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://onlinelibrary.wiley.com/journal/16163028">Adv. Funct. Mater.</a></refdata>,
+												<refdata class="year">2018</refdata>,
+												<refdata class="vol">28</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/adfm.201803629">1803629</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/290.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">289</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Band Structures of Periodic Porphyrin Nanostructures</h3>
+											<p><refdata class="authors">V. Posligua, A. Aziz, R. Haver, M. D. Peeks, H. L. Anderson, R. Grau-Crespo.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jpccck">J. Phys. Chem. C</a></refdata>,
+												<refdata class="year">2018</refdata>,
+												<refdata class="vol">122</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/acs.jpcc.8b08131">23790-23798</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/289.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">288</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Bias-driven conductance increase with length in porphyrin tapes</h3>
+											<p><refdata class="authors">E. Leary, B. Limburg, A. Alanazy, S. Sangtarash, I. Grace, K. Swada, L. J. Esdaile, M. Noori, M. T. Gonz&aacute;lez, G. Rubio-Bollinger, H. Sadeghi, A. Hodgson, N. Agra&iuml;t, S. J. Higgins, C. J. Lambert, H. L. Anderson, R. J. Nichols.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2018</refdata>,
+												<refdata class="vol">140</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/jacs.8b06338">12877-12883</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/288.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">287</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Template-Directed Synthesis of Molecular Nanorings and Cages</h3>
+											<p><refdata class="authors">P. S. Bols, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/journal/achre4">Acc. Chem. Res.</a></refdata>,
+												<refdata class="year">2018</refdata>,
+												<refdata class="vol">51</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/acs.accounts.8b00313">2083-2092</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/287.jpeg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">286</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Probing the orientation of porphyrin oligomers in a liquid crystal solvent &ndash; a triplet state electron paramagnetic resonance study</h3>
+											<p><refdata class="authors">S. Richert, H. L. Anderson, M. D. Peeks, C. R. Timmel.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://www.tandfonline.com/loi/tmph20">Mol. Phys.</a></refdata>,
+												<refdata class="year">2018</refdata>,
+												<refdata class="vol">117</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1080/00268976.2018.1511868">2700-2708</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/286.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">285</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Polyyne formation via skeletal rearrangement induced by atomic manipulation</h3>
+											<p><refdata class="authors">N. Pavli&ccaron;ek, P. Gawel, D. R. Kohn, Z. Majzik, Y. Xiong, G. Meyer, H. L. Anderson and L. Gross.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://www.nature.com/nchem/">Nat. Chem.</a></refdata>,
+												<refdata class="year">2018</refdata>,
+												<refdata class="vol">10</refdata>,
+												<refdata class="page"><a href="https://www.nature.com/articles/s41557-018-0067-y">853-858</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/285.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">284</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Distance Measurement of a Noncovalently Bound Y@C82 Pair with Double Electron Electron Resonance Spectroscopy</h3>
+											<p><refdata class="authors">G. Gil-Ram&iacute;rez, A. Shah, H. El Mkami, K. Porfyrakis, G. A. D. Briggs, J. J. L. Morton, H. L. Anderson, J. E. Lovett.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2018</refdata>,
+												<refdata class="vol">140</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/jacs.8b03889">7420-7424</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/284.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">283</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Porphyrin Dyes for Nonlinear Optical Imaging of Live Cells</h3>
+											<p><refdata class="authors">A. Khadria, J. Fleischhauer, I. Boczarow, J. D. Wilkinson, M. M. Kohl, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://www.cell.com/">iScience</a></refdata>,
+												<refdata class="year">2018</refdata>,
+												<refdata class="vol">4</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1016/j.isci.2018.05.015">153-163</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/283.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">282</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Shadow Mask Templates for Site-Selective Metal Exchange in Magnesium Porphyrin Nanorings</h3>
+											<p><refdata class="authors">P. S. Bols, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773">Angew. Chem. Int. Ed.</a></refdata>,
+												<refdata class="year">2018</refdata>,
+												<refdata class="vol">57</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/anie.201804787">7874-7877</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/282.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">281</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Push-Pull Quinoidal Porphyrins</h3>
+											<p><refdata class="authors">M. J. Smith, I. M. Blake, W. Clegg, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/En/journals/journalissues/ob">Org. Biomol. Chem.</a></refdata>,
+												<refdata class="year">2018</refdata>,
+												<refdata class="vol">16</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C8OB00491A">3648-3654</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/281.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">280</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Template-Directed Synthesis of a Conjugated Zinc Porphyrin Nanoball</h3>
+											<p><refdata class="authors">J. Cremers, R. Haver, M. Rickhaus, J. Q. Gong, L. Favereau, M. D. Peeks, T. D. W. Claridge, L. M. Herz, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2018</refdata>,
+												<refdata class="vol">140</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/jacs.8b02552">5352-5355</a></refdata>
+											</p>
+											<div class="box">
+												<b>Featured in:</b>
+													<p class="pub">
+														<refdata class="journal">
+															<a href="https://pubs.acs.org/doi/10.1021/jacs.8b04465">JACS Highlight</a>
+														</refdata>,
+														<refdata class="year">
+															2018
+														</refdata>,
+														<refdata class="vol">
+															140
+														</refdata>,
+														<refdata class="page">
+															5873-5874
+														</refdata>;
+														<a href="https://pubs.acs.org/doi/10.1021/jacs.8b04465">"<i>Building a Nanoball with Template-Directed Synthesis</i>"</a> <br>
+														DOI: <a href="https://doi.org/10.1021/jacs.8b04465">10.1021/jacs.8b04465</a> 
+													</p>
+											</div>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/280.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">279</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Spironaphthoxazine switchable dyes for biological imaging</h3>
+											<p><refdata class="authors">Y. Xiong, A. Vargas Jentzsch, J. Osterrieth, E. Sezgin, I. V. Sazanovich, K. Reglinski, S. Galiani, A. W. Parker, C. Eggeling, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
+												<refdata class="year">2018</refdata>,
+												<refdata class="vol">9</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C8SC00130H">3029-3040</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/279.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">278</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Synthesis of Polyynes Using Dicobalt Masking Groups</h3>
+											<p><refdata class="authors">D. R. Kohn, P. Gawel, Y. Xiong, K. E. Christensen, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org">J. Org. Chem.</a></refdata>,
+												<refdata class="year">2018</refdata>,
+												<refdata class="vol">83</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/acs.joc.7b03015">2077-2086</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/278.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">277</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Detecting Mechanochemical Atropisomerization within an STM Break Junction</h3>
+											<p><refdata class="authors">E. Leary, C. Roche, H. Jiang, I. Grace, M. T. Gonz&aacute;lez, G. Rubio-Bollinger, C. Romero-Mu&ntilde;iz, Y. Xiong, Q. Al-Galiby, M. Noori, M. A. Lebedeva, K. Porfyrakis, N. Agrait, A. Hodgson, S. J. Higgins, C. J. Lambert, H. L. Anderson, R. J. Nichols.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2018</refdata>,
+												<refdata class="vol">140</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/jacs.7b10542">710-718</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/277.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">276</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Detection of a weak ring current in a nonaromatic porphyrin nanoring using magnetic circular dichroism</h3>
+											<p><refdata class="authors">P. Kowalska, M. D. Peeks, T. Roliński, H. L. Anderson and J. Waluk.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journalissues/cp">Phys. Chem. Chem. Phys.</a></refdata>,
+												<refdata class="year">2018</refdata>,
+												<refdata class="vol">19</refdata>,
+												<refdata class="page"><a href="http://pubs.rsc.org/en/Content/ArticleLanding/2017/CP/C7CP07348H#!divAbstract">32556-32565</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/276.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">275</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Single-Acetylene Linked Porphyrin Nanorings</h3>
+											<p><refdata class="authors">M. Rickhaus, A. Vargas Jentzsch, L. Tejerina, I. Gruebner, M. Jirasek, T. D. W. Claridge, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2017</refdata>,
+												<refdata class="vol">139</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/jacs.7b10710">16502-16505</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/275.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">274</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Scavenger templates: a systems chemistry approach to the synthesis of porphyrin-based molecular wires</h3>
+											<p><refdata class="authors">A. Cnossen, C. Roche, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journal/cc">Chem. Commun.</a></refdata>,
+												<refdata class="year">2017</refdata>,
+												<refdata class="vol">53</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C7CC04289B">10410-10413</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/274.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">273</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Thermally induced suppression of interchain interactions in dilute aqueous solutions of conjugated polyelectrolyte rotaxanes and their analogues</h3>
+											<p><refdata class="authors">G. Tregnago, A. Afshar, S. O. McDonnell, H. L. Anderson, F. Cacialli.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://aip.scitation.org/journal/apl">Appl. Phys. Lett.</a></refdata>,
+												<refdata class="year">2017</refdata>,
+												<refdata class="vol">111</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1063/1.4993457">083301</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/273.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">272</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>On the Influence of the Bridge on Triplet State Delocalization in Linear Porphyrin Oligomers</h3>
+											<p><refdata class="authors">S. Richert, B. Limburg, H. L. Anderson, C. R. Timmel.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2017</refdata>,
+												<refdata class="vol">139</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/jacs.7b06518">12003-12008</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/272.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">271</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>A Coarse-Grained Model for Free and Template-Bound Porphyrin Nanorings</h3>
+											<p><refdata class="authors">D. Ormrod Morley, M. Malfois, N. Kamonsutthipaijit, D. V. Kondratuk, H. L. Anderson, M. Wilson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jpcafh">J. Phys. Chem. A</a></refdata>,
+												<refdata class="year">2017</refdata>,
+												<refdata class="vol">121</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/acs.jpca.7b05279">5907-5920</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/271.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">270</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Electronic delocalization in the radical cations of porphyrin oligomer molecular wires</h3>
+											<p><refdata class="authors">M. D. Peeks, C. E. Tait, P. Neuhaus, G. M. Fischer, M. Hoffmann, R. Haver, A. Cnossen, J. R. Harmer, C. R. Timmel, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2017</refdata>,
+												<refdata class="vol">139</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/jacs.7b05386">10461-10471</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/270.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">269</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Unexpected interactions between alkyl straps and pyridine ligands in sulfur-strapped porphyrin nanorings</h3>
+											<p><refdata class="authors">C. Roche, Q. Luo, G. Gil-Ramirez, H. Jiang, D. R. Kohn, Y. Xiong, A. L. Thompson, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org">J. Org. Chem.</a></refdata>,
+												<refdata class="year">2017</refdata>,
+												<refdata class="vol">82</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/acs.joc.7b01128">7446-7462</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/269.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">268</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Quantifying the exchange coupling in linear copper porphyrin oligomers</h3>
+											<p><refdata class="authors">S. Richert, I. Kuprov, M. D. Peeks, E. A. Suturina, J. Cremers, H. L. Anderson, C. R. Timmel.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journalissues/cp">Phys. Chem. Chem. Phys.</a></refdata>,
+												<refdata class="year">2017</refdata>,
+												<refdata class="vol">19</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C7CP01787A">16057-16061</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/268.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">267</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Tuning the sensitivity of fluorescent porphyrin dimers to viscosity and temperature</h3>
+											<p><refdata class="authors">A. Vysniauskas, D. Ding, M. Qurashi, I. Boczarow, M. Balaz, H. L. Anderson, M. K. Kuimova.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3765">Chem. Eur. J.</a></refdata>,
+												<refdata class="year">2017</refdata>,
+												<refdata class="vol">23</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/chem.201700740">11001-11010</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/267.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">266</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Discrimination of Diverse Coherences Allows Identification of Electronic Transitions of a Molecular Nanoring</h3>
+											<p><refdata class="authors">V. Butkus, J. Alster, E. Basinskaite, R. Augulis, P. Neuhaus, L. Valkunas, H. L. Anderson, D. Abramavicius, D. Zigmantas.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jpclcd">J. Phys. Chem. Lett.</a></refdata>,
+												<refdata class="year">2017</refdata>,
+												<refdata class="vol">8</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/acs.jpclett.7b00612">2344-2349</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/266.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">265</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Constructive quantum interference in a bis-copper six-porphyrin nanoring</h3>
+											<p><refdata class="authors">S. Richert, J. Cremers, I. Kuprov, M. D. Peeks, H. L. Anderson, C. R. Timmel.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://www.nature.com/ncomms/">Nat. Commun.</a></refdata>,
+												<refdata class="year">2017</refdata>,
+												<refdata class="vol">8</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1038/ncomms14842">14842</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/265.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">264</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Resolving Vibrational from Electronic Coherences in Two-Dimensional Electronic Spectroscopy: The Role of the Laser Spectrum</h3>
+											<p><refdata class="authors">F. V. de A. Camargo, L. Grimmelsmann, H. L. Anderson, S. R. Meech, I. A. Heisler.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://journals.aps.org/prl/">Phys. Rev. Lett.</a></refdata>,
+												<refdata class="year">2017</refdata>,
+												<refdata class="vol">118</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1103/PhysRevLett.118.033001">033001</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/264.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">263</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Template-directed synthesis of linear porphyrin oligomers: classical, Vernier and mutual Vernier</h3>
+											<p><refdata class="authors">N. Kamonsutthipaijit, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
+												<refdata class="year">2017</refdata>,
+												<refdata class="vol">8</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C6SC05355F">2729-2740</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/263.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">262</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Porphyrin&ndash;Polyyne [3]- and [5]Rotaxanes</h3>
+											<p><refdata class="authors">D. R. Kohn, L. D. Movsisyan, A. L. Thompson, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/orlef7">Org. Lett.</a></refdata>,
+												<refdata class="year">2017</refdata>,
+												<refdata class="vol">19</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/acs.orglett.6b03528">348-351</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/262.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">261</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Push&ndash;pull pyropheophorbides for nonlinear optical imaging</h3>
+											<p><refdata class="authors">A. Khadria, Y. de Coene, P. Gawel, C. Roche, K. Clays, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/En/journals/journalissues/ob">Org. Biomol. Chem.</a></refdata>,
+												<refdata class="year">2017</refdata>,
+												<refdata class="vol">15</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C6OB02319C">947-956</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/261.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">260</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Aromatic and antiaromatic ring currents in a molecular nanoring</h3>
+											<p><refdata class="authors">M. D. Peeks, T. D. W. Claridge, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.nature.com/nature/index.html">Nature</a></refdata>,
+												<refdata class="year">2017</refdata>,
+												<refdata class="vol">541</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1038/nature20798">200-203</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/260.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">259</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>The single-molecule electrical conductance of a rotaxane-hexayne supramolecular assembly</h3>
+											<p><refdata class="authors">D. C. Milan, M. Krempe, A. K. Ismael, L. D. Movsisyan, M. Franz, I. Grace, R. J. Brooke, W. Schwarzacher, S. J. Higgins, H. L. Anderson, C. J. Lambert, R. R. Tykwinski, R. J. Nichols.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journalissues/nr">Nanoscale</a></refdata>,
+												<refdata class="year">2016</refdata>,
+												<refdata class="vol">9</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C6NR06355A">355-361</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/259.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">258</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Increased luminescence efficiency by synergistic exploitation of lipo/hydrophilic co-solvency and supramolecular design</h3>
+											<p><refdata class="authors">G. Tregnago, M. Serri, S. Brovelli, S. O. McDonnell, P. Korniychuk, L. Wang, M. Wykes, D. Beljonne, A. Tracz, H. L. Anderson, F. Cacialli.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journalissues/tc">J. Mater. Chem. C</a></refdata>,
+												<refdata class="year">2016</refdata>,
+												<refdata class="vol">4</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C6TC03098J">10893-10902</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/258.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">257</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Imaging plasma membrane phase behaviour in live cells using a thiophene-based molecular rotor</h3>
+											<p><refdata class="authors">M. R. Dent, I. López-Duarte, C. J. Dickson, P. Chairatana, H. L. Anderson, I. R. Gould, D. Wylie, A. Vysniauskas, N. J. Brooks, M. K. Kuimova.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journal/cc">Chem. Commun.</a></refdata>,
+												<refdata class="year">2016</refdata>,
+												<refdata class="vol">52</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C6CC05954F">13269-13272</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/257.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">256</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Photogenerated triplet states in supramolecular porphyrin ladder assemblies: an EPR study</h3>
+											<p><refdata class="authors">S. Richert, M. D. Peeks, C. E. Tait, H. L. Anderson, C. R. Timmel.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journalissues/cp">Phys. Chem. Chem. Phys.</a></refdata>,
+												<refdata class="year">2016</refdata>,
+												<refdata class="vol">18</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C6CP04444A">24171-24175</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/256.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">255</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Exploring template-bound dinuclear copper porphyrin nanorings by EPR spectroscopy</h3>
+											<p><refdata class="authors">S. Richert, J. Cremers, H. L. Anderson, C. R. Timmel.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
+												<refdata class="year">2016</refdata>,
+												<refdata class="vol">7</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C6SC01810F">6952-6960</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/255.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">254</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Nanorings with Copper(II) and Zinc(II) Centers: Forcing Copper Porphyrins to Bind Axial Ligands in Heterometallated Oligomers</h3>
+											<p><refdata class="authors">J. Cremers, S. Richert, D. Kondratuk, T. D. W. Claridge, C. Timmel, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
+												<refdata class="year">2016</refdata>,
+												<refdata class="vol">7</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C6SC01809B">6961-6968</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/254.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">253</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Photoswitchable Spiropyran Dyads for Biological Imaging</h3>
+											<p><refdata class="authors">Y. Xiong, P. Rivera-Fuentes, E. Sezgin, A. Vargas Jentzsch, C. Eggeling, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/orlef7">Org. Lett.</a></refdata>,
+												<refdata class="year">2016</refdata>,
+												<refdata class="vol">18</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/acs.orglett.6b01717">3666-3669</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/253.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">252</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Organisation and ordering of 1D porphyrin polymers synthesised by on-surface Glaser coupling</h3>
+											<p><refdata class="authors">A. Saywell, A. S. Browning, P. Rahe, H. L. Anderson, P. H. Beton.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journal/cc">Chem. Commun.</a></refdata>,
+												<refdata class="year">2016</refdata>,
+												<refdata class="vol">52</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C6CC03758E">10342-10345</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/252.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">251</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Synthesis of Five-Porphyrin Nanorings by Using Ferrocene and Corannulene Templates</h3>
+											<p><refdata class="authors">P. Liu, Y. Hisamune, M. D. Peeks, B. Odell, J. Q. Gong, L. M. Herz, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773">Angew. Chem. Int. Ed.</a></refdata>,
+												<refdata class="year">2016</refdata>,
+												<refdata class="vol">55</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/anie.201602909">8358-8362</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/251.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">250</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Size-Independent Energy Transfer in Biomimetic Nanoring Complexes</h3>
+											<p><refdata class="authors">P. Parkinson, N. Kamonsutthipaijit, H. L. Anderson, L. M. Herz.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/ancac3">ACS Nano</a></refdata>,
+												<refdata class="year">2016</refdata>,
+												<refdata class="vol">10</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/acsnano.6b01265">5933-5940</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/250.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">249</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Cooperative Enhancement of Two-Photon Absorption in Self-Assembled Zinc-Porphyrin Nanostructures</h3>
+											<p><refdata class="authors">A. Mikhaylov, D. V. Kondratuk, A. Cnossen, H. L. Anderson, M. Drobizhev, A. Rebane.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jpccck">J. Phys. Chem. C</a></refdata>,
+												<refdata class="year">2016</refdata>,
+												<refdata class="vol">120</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/acs.jpcc.6b01394">11663-11670</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/249.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">248</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Harnessing NMR relaxation interference effects to characterise supramolecular assemblies</h3>
+											<p><refdata class="authors">G. Karunanithy, A. Cnossen, H. M&uuml;ller, M. D. Peeks, N. H. Rees, T. D. W. Claridge, H. L. Anderson, A. J. Baldwin.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journal/cc">Chem. Commun.</a></refdata>,
+												<refdata class="year">2016</refdata>,
+												<refdata class="vol">52</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C6CC02544G">7450-7453</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/248.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">247</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Time resolved structural dynamics of butadiyne-linked porphyrin dimers</h3>
+											<p><refdata class="authors">F. V. A. Camargo, C. R. Hall, H. L. Anderson, S. R. Meech, I. A. Heisler.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://scitation.aip.org/content/aca/journal/sdy">Struct. Dyn.</a></refdata>,
+												<refdata class="year">2016</refdata>,
+												<refdata class="vol">3</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1063/1.4940222">023608</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/247.png" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">246</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Polyyne Rotaxanes: Stabilization by Encapsulation</h3>
+											<p><refdata class="authors">L. D. Movsisyan, M. Franz, F. Hampel, A. L. Thompson, R. R. Tykwinski, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2016</refdata>,
+												<refdata class="vol">138</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/jacs.5b12049">1366-1376</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/246.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">245</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Breaking the Symmetry in Molecular Nanorings</h3>
+											<p><refdata class="authors">J. Q. Gong, L. Favereau, H. L. Anderson, L. M. Herz.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jpclcd">J. Phys. Chem. Lett.</a></refdata>,
+												<refdata class="year">2016</refdata>,
+												<refdata class="vol">7</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/acs.jpclett.5b02617">332-338</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/245.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">244</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Excitation wavelength-dependent EPR study on the influence of the conformation of multiporphyrin arrays on triplet state delocalization</h3>
+											<p><refdata class="authors">C. E. Tait, P. Neuhaus, M. D. Peeks, H. L. Anderson, C. R. Timmel.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journalissues/cp">Phys. Chem. Chem. Phys.</a></refdata>,
+												<refdata class="year">2016</refdata>,
+												<refdata class="vol">18</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C5CP07424J">5275-5280</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/244.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">243</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Experimental and Computational Evaluation of the Barrier to Torsional Rotation in a Butadiyne-Linked Porphyrin Dimer</h3>
+											<p><refdata class="authors">M. D. Peeks, P. Neuhaus, H. L. Anderson.</refdata></p>
+											<p>	
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journalissues/cp">Phys. Chem. Chem. Phys.</a></refdata>,
+												<refdata class="year">2016</refdata>,
+												<refdata class="vol">18</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C5CP06167A">5264-5274</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="images/abstracts/243.gif" alt="" /></span>
+										</div>
+									</div>
+						  </section>
+						
+						<center>
+							<ul class="pagination">
+								<li><span class="button disabled">Prev</span></li>
+								<li><a href="publications/2020.shtml" class="page active">Current</a></li>
+								<li><a href="publications/2015.shtml" class="page">2015</a></li>
+								<li><a href="publications/2010.shtml" class="page">2010</a></li>
+								<li><a href="publications/2005.shtml" class="page">2005</a></li>
+								<li><a href="publications/2000.shtml" class="page">2000</a></li>
+								<li><a href="publications/1995.shtml" class="page">1995</a></li>
+								<li><a href="publications/theses.shtml" class="page">Theses</a></li>
+								<li><a href="publications/2015.shtml" class="button">Next</a></li>
+							</ul>
+						</center>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+				<!--#include virtual="/includes/sidebar.inc" -->	
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/browser.min.js"></script>
+			<script src="../assets/js/breakpoints.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<script src="../assets/js/main.js"></script>
+
+	</body>
+</html>

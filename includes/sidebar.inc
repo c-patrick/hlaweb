@@ -16,12 +16,12 @@
 										<li>
 											<span class="opener">Publications</span>
 											<ul>
-												<li><a href="/publications/2016.shtml">2016-present</a></li>
+												<li><a href="/publications/2020.shtml">2016-present</a></li>
 												<li><a href="#">2011-2015</a></li>
 												<li><a href="#">2006-2010</a></li>
 												<li><a href="#">2001-2005</a></li>
 												<li><a href="#">1996-2000</a></li>
-												<li><a href="#">1989-1995</a></li>
+												<li><a href="/publications/1995.shtml">1989-1995</a></li>
 												<li><a href="#">Theses</a></li>
 											</ul>
 										</li>
@@ -42,9 +42,9 @@
 												<li><a href="http://www.chem.ox.ac.uk/research.shtml">Oxford Chemistry</a></li>
 											</ul>
 										</li>
-										<li><a href="vacancies.shtml">Join Us</a></li>
-										<li><a href="contact.shtml">Find Us</a></li>
-										<li><a href="#">Our Collaborators</a></li>
+										<li><a href="/vacancies.shtml">Join Us</a></li>
+										<li><a href="/contact.shtml">Find Us</a></li>
+										<li><a href="/collaborators.shtml">Our Collaborators</a></li>
 									</ul>
 								</nav>
 
@@ -135,7 +135,7 @@
 
 							<!-- Footer -->
 								<footer id="footer">
-									<p class="copyright">&copy; Harry Anderson Group. All rights reserved.</p>
+									<p class="copyright">© Harry Anderson Group. All rights reserved.</p>
 								</footer>
 
 						</div>

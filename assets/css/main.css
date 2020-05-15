@@ -129,6 +129,8 @@ em, i {
 
 p {
   margin: 0 0 2em 0; }
+  p.pub{
+    margin: 1em 0 0 0; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #3d4449;
@@ -2522,7 +2524,7 @@ button,
   .ref > * {
     box-sizing: border-box; }
   .ref.gtr-uniform > * > :last-child {
-    margin-bottom: 0; }
+    border-bottom: 0; }
   .ref.aln-left {
     justify-content: flex-start; }
   .ref.aln-center {
@@ -3273,22 +3275,23 @@ button,
 refdata {
   border-radius: 0.375em;
   border: 0;
-  display: inline-block;
   position: relative; }
   refdata.authors {
   }
   refdata.authors.home{
-  font-weight: bold
-  }
+	display: inline-block;
+  	font-weight: bold; }
   refdata.journal {
-	  font-style: italic;
-  }
+	display: inline-block;
+  	font-style: italic; }
   refdata.year {
-	  font-weight: bold;
-  }
+	display: inline-block;
+	font-weight: bold; }
   refdata.vol {
+	display: inline-block;
   }
   refdata.page {
+	display: inline-block;
   }
 
 h4.refdatanum{
@@ -3338,4 +3341,16 @@ br_profile {
    display: block;
    margin: 10px 0;
 }
+
+
+/* Collaborators */
+  table tbody tr.collab {
+    border: solid 0px;
+    border-left: 0;
+    border-right: 0; }
+    table tbody tr.collab:nth-child(2n + 1) {
+      background-color: rgba(0, 0, 0, 0); }
+    table tbody tr td:first-child{	
+      width:1%;
+      white-space:nowrap; }
 

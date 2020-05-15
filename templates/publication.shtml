@@ -1,0 +1,94 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Anderson Research Group | University of Oxford</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<!--#include virtual="/includes/base.inc" -->
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								<!--#include virtual="/includes/header.inc" -->
+
+
+							<!-- Content -->
+								<section>
+									<header class="major">
+										<h2>Publications</h2>
+									</header>
+									
+									<center>
+										<ul class="pagination">
+											<li><a href="publications/2005.shtml" class="button">Prev</a></li>
+											<li><a href="publications/2020.shtml" class="page">Current</a></li>
+											<li><a href="publications/2015.shtml" class="page">2015</a></li>
+											<li><a href="publications/2010.shtml" class="page">2010</a></li>
+											<li><a href="publications/2005.shtml" class="page">2005</a></li>
+											<li><a href="publications/2000.shtml" class="page active">2000</a></li>
+											<li><a href="publications/1995.shtml" class="page">1995</a></li>
+											<li><a href="publications/theses.shtml" class="page">Theses</a></li>
+											<li><a href="publications/1995.shtml" class="button">Next</a></li>
+										</ul>
+									</center>
+
+									<h2>XXXX - XXXX</h2>
+									
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">XXXX</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>XXXX</h3>
+											<p><refdata class="authors">XXXX.</refdata></p>
+											<p>
+												<refdata class="journal">XXXX</refdata>,
+												<refdata class="year">XXXX</refdata>,
+												<refdata class="vol">XXXX</refdata>,
+												<refdata class="page">XXXX</refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image fit"><img src="../images/abstracts/XXXX" alt="" /></span>
+										</div>
+									</div>
+						  </section>
+							
+						<center>
+							<ul class="pagination">
+								<li><a href="publications/2005.shtml" class="button">Prev</a></li>
+								<li><a href="publications/2020.shtml" class="page">Current</a></li>
+								<li><a href="publications/2015.shtml" class="page">2015</a></li>
+								<li><a href="publications/2010.shtml" class="page">2010</a></li>
+								<li><a href="publications/2005.shtml" class="page">2005</a></li>
+								<li><a href="publications/2000.shtml" class="page active">2000</a></li>
+								<li><a href="publications/1995.shtml" class="page">1995</a></li>
+								<li><a href="publications/theses.shtml" class="page">Theses</a></li>
+								<li><a href="publications/1995.shtml" class="button">Next</a></li>
+							</ul>
+						</center>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+				<!--#include virtual="/includes/sidebar.inc" -->	
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/browser.min.js"></script>
+			<script src="../assets/js/breakpoints.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<script src="../assets/js/main.js"></script>
+
+	</body>
+</html>
