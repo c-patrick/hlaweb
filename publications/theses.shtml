@@ -1,0 +1,601 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Anderson Research Group | University of Oxford</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<!--#include virtual="/includes/base.inc" -->
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								<!--#include virtual="/includes/header.inc" -->
+
+
+							<!-- Content -->
+								<section>
+									<header class="major">
+										<h2>Publications</h2>
+									</header>
+									
+									<center>
+										<ul class="pagination">
+											<li><a href="publications/1995.shtml" class="button">Prev</a></li>
+											<li><a href="publications/2020.shtml" class="page">Current</a></li>
+											<li><a href="publications/2015.shtml" class="page">2015</a></li>
+											<li><a href="publications/2010.shtml" class="page">2010</a></li>
+											<li><a href="publications/2005.shtml" class="page">2005</a></li>
+											<li><a href="publications/2000.shtml" class="page">2000</a></li>
+											<li><a href="publications/1995.shtml" class="page">1995</a></li>
+											<li><a href="publications/theses.shtml" class="page active">Theses</a></li>
+											<li><span class="button disabled">Next</span></li>
+										</ul>
+									</center>
+
+									<h2>Theses</h2>
+									
+									<nav id="old_news">
+										<ul>
+											<li> <span class="opener active">DPhil theses (2011-present)</span>
+												<ul>
+													<table class="theses">
+														<tbody>
+															<tr>
+																<td><h4 class="refdatanum">20</h4></td>
+																<td><b>Isabell Gruebner</b></td>
+																<td>
+																	<a href="https://ora.ox.ac.uk/objects/uuid:440180a5-7ae8-45bc-9683-36ba90066d18"><i>Understanding the Origins of Strong Multivalent Cooperativity</i></a>
+																	(2019, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">19</h4></td>
+																<td><b>Sabine Weidlich</b></td>
+																<td>
+																	<a href="https://ora.ox.ac.uk/objects/uuid:a268d97d-be4d-4417-8f3b-206950f7d1f3"><i>Encapsulation of Indigoid Dyes</i></a>
+																	(2018, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">18</h4></td>
+																<td><b>Yaoyao Xiong</b></td>
+																<td>
+																	<a href="https://ora.ox.ac.uk/objects/uuid:577cf116-f891-4486-876b-9b761531429f"><i>Photoswitchable Dyes for Super-Resolution Microscopy</i></a>
+																	(2018, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">17</h4></td>
+																<td><b>Ren&eacute;e Haver</b></td>
+																<td>
+																	<a href="https://ora.ox.ac.uk/objects/uuid:92812d04-d23c-406a-b8e2-5b564b9b0cf1"><i>Synthesis and Properties of Porphyrin Nanotubes</i></a>
+																	(2018, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">16</h4></td>
+																<td><b>Jonathan Cremers</b></td>
+																<td>
+																	<a href="https://ora.ox.ac.uk/objects/uuid:2a9d43e5-1700-4f74-be65-288fdcca1357"><i>Electronic Communication in Heterometallated Porphyrin Oligomers</i></a>
+																	(2017)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">15</h4></td>
+																<td><b>Daniel R. Kohn</b></td>
+																<td>
+																	<a href="https://ora.ox.ac.uk/objects/uuid:b94c5870-8b89-4622-b4f3-6db3bbaf94c6"><i>Towards Stabilised Cyclocarbons</i></a>
+																	(2017, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">14</h4></td>
+																<td><b>Anjul Khadria</b></td>
+																<td>
+																	<a href="https://ora.ox.ac.uk/objects/uuid:82cbcee2-33a6-4508-9bde-50468a2796fe"><i>Nonlinear Optical Probes for Measuring Membrane Potential in Neurons</i></a>
+																	(2017, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">13</h4></td>
+																<td><b>Martin Peeks</b></td>
+																<td>
+																	<a href="https://ora.ox.ac.uk/objects/uuid:58a35932-320c-47dc-828e-0d121d693fd8"><i>Electronic Delocalisation in Linear and Cyclic Porphyrin Oligomers</i></a>
+																	(2017, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">12</h4></td>
+																<td><b>Nuntaporn Kamonsutthipaijit</b></td>
+																<td>
+																	<a href="http://ora.ox.ac.uk/objects/uuid:214c985e-8467-4ce3-a8c6-d86e55ad2437"><i>Self-assembly and Template-directed Synthesis in Multi-strand Porphyrin Arrays</i></a>
+																	(2016)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">11</h4></td>
+																<td><b>Pengpeng Liu</b></td>
+																<td>
+																	<a href="http://ora.ox.ac.uk/objects/uuid:7d05f302-7002-4fc2-81ea-fc106a8e2e24"><i>New Templates for Porphyrin Nanorings</i></a>
+																	(2016, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">10</h4></td>
+																<td><b>Karolina Anna Korzycka</b></td>
+																<td>
+																	<a href="http://ora.ox.ac.uk/objects/uuid:7e895ed2-04a5-4c0b-9105-74461eae8796"><i>Two-photon Sensitive Protecting Groups for Biological Application</i></a>
+																	(2015, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">9</h4></td>
+																<td><b>Levon Movsisyan</b></td>
+																<td>
+																	<a href="http://ora.ox.ac.uk/objects/uuid:7f436a99-071f-4cc5-a4b5-5779e1aa3347"><i>Polyyne Rotaxanes</i></a>
+																	(2014, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">8</h4></td>
+																<td><b>James D. Wilkinson</b></td>
+																<td>
+																	<a href="http://ora.ox.ac.uk/objects/uuid:9496dc0b-212c-4355-830c-dbbcb5d7e581"><i>Imaging Membrane Potential</i></a>
+																	(2014)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">7</h4></td>
+																<td><b>Dmytro Kondratiuk</b></td>
+																<td>
+																	<a href="http://ora.ox.ac.uk/objects/uuid:73c76c1a-2124-4bb8-91a1-893f841a80a1"><i>Synthesis and Properties of Giant Porphyrin Nanorings</i></a>
+																	(2013, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">6</h4></td>
+																<td><b>Philip M. Bennett</b></td>
+																<td>
+																	<a href="http://ora.ox.ac.uk/objects/uuid:b8cb9ce4-35eb-433c-86fc-b5df53a2e566"><i>Two-photon Dyes for Biological Application</i></a>
+																	(2013)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">5</h4></td>
+																<td><b>James E. Reeve</b></td>
+																<td>
+																	<a href="http://ora.ox.ac.uk/objects/uuid:8d8e7fa1-0f1d-4ff5-9f90-6915b15c1ad4"><i>Functional Dyes as Tools for Neurophysiology</i></a>
+																	(2012, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">4</h4></td>
+																<td><b>Johannes Klaus Sprafke</b></td>
+																<td>
+																	<a href="http://ora.ox.ac.uk/objects/uuid:91a74f29-07f0-4c10-819a-29bd5712176c"><i>Supramolecular Control of Synthesis and Electronic Structure of Porphyrin Oligomers</i></a>
+																	(2011, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">3</h4></td>
+																<td><b>Nicola K. S. Davis</b></td>
+																<td>
+																	<a href="http://ora.ox.ac.uk/objects/uuid:86b0efea-d33a-42e2-9304-82d94e8f895a"><i>Anthracene-fused Porphyrins</i></a>
+																	(2011)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">2</h4></td>
+																<td><b>Melanie C. O'Sullivan</b></td>
+																<td>
+																	<a href="http://ora.ox.ac.uk/objects/uuid:c500c594-fa28-4857-b74e-b80d14b87202"><i>Template Directed Synthesis of Porphyrin Nanorings</i></a>
+																	(2011)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">1</h4></td>
+																<td><b>Carol A. Stanier</b></td>
+																<td>
+																	<a href="http://ora.ox.ac.uk/objects/uuid:97fc0b1f-70e7-4e8c-a938-e332100013d2"><i>Cyclodextrin-based Rotaxanes</i></a>
+																	(2002)
+																</td>
+															</tr>
+														</tbody>
+													</table>
+												</ul>
+											</li>
+											<li> <span class="opener">Part II theses (Oxford VPN access only)</span>
+											  	<ul>
+													<table class="theses">
+														<tbody>
+															<tr>
+																<td><h4 class="refdatanum">43</h4></td>
+																<td><b>Jiratheep Pruchyathamkorn</b></td>
+																<td>
+																	<a href="protected/theses/part2/pruchyathamkorn2019.pdf"><i>Rotaxanes for Binding Nanorings</i></a>
+																	(2018-19)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">42</h4></td>
+																<td><b>Joseph F. Woods</b></td>
+																<td>
+																	<a href="protected/theses/part2/woods2019.pdf"><i>Towards Cobalt Polyyne Rotaxanes</i></a>
+																	(2018-19)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">41</h4></td>
+																<td><b>Qiu Xing Yu</b></td>
+																<td>
+																	<a href="protected/theses/part2/xingyu2017.pdf"><i>Switchable Fulgide Dyes for Super- Resolution microscopy</i></a>
+																	(2016-17)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">40</h4></td>
+																<td><b>Isabel Thomlinson</b></td>
+																<td>
+																	<a href="protected/theses/part2/thomlinson2016.pdf"><i>Synthesis of Lanthanide Porphyrins for Magnetic Studies</i></a>
+																	(2015-16)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">39</h4></td>
+																<td><b>Johannes Osterrieth</b></td>
+																<td>
+																	<a href="protected/theses/part2/osterrieth2016.pdf"><i>Switchable Oxazine Dyes for Super-Resolution Microscopy</i></a>
+																	(2015-16)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">38</h4></td>
+																<td><b>Fiona Porter</b></td>
+																<td>
+																	<a href="protected/theses/part2/porter2015.pdf"><i>Templates For Nanoring Catenanes</i></a>
+																	(2014-15)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">37</h4></td>
+																<td><b>Wilfred Lewis</b></td>
+																<td>
+																	<a href="protected/theses/part2/lewis2014.pdf"><i>Design and Synthesis of Molecular Wires for non-covalent Attachment to Carbon Electrodes</i></a>
+																	(2013-14)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">36</h4></td>
+																<td><b>Shi-qi (Christy) Liu</b></td>
+																<td>
+																	<a href="protected/theses/part2/liu2014.pdf"><i>A Non-Vernier Approach to Cooperative Templating</i></a>
+																	(2013-14)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">35</h4></td>
+																<td><b>Bethea Hanson-Jones</b></td>
+																<td>
+																	<a href="protected/theses/part2/hanson-jones2013.pdf"><i>Metal Complexes of Porphyrin Rotaxanes</i></a>
+																	(2012-13)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">34</h4></td>
+																<td><b>Joanna Tung</b></td>
+																<td>
+																	<a href="protected/theses/part2/tung2013.pdf"><i>Photo activated drugs for temporal and spatial control of gene expression</i></a>
+																	(2012-13)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">33</h4></td>
+																<td><b>Jinsze (Sarah) Wong</b></td>
+																<td>
+																	<a href="protected/theses/part2/wong2013.pdf"><i>Porphyrin-Squaraine Dyes for Photocells</i></a>
+																	(2012-13)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">32</h4></td>
+																<td><b>Stephen McCarthy</b></td>
+																<td>
+																	<a href="protected/theses/part2/rosser2012.pdf"><i>Probes for membrane potential based on iridium complexes</i></a>
+																	(2011-12)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">31</h4></td>
+																<td><b>Timothy Rosser</b></td>
+																<td>
+																	<a href="protected/theses/part2/rosser2012.pdf"><i>Probes for membrane potential based on iridium complexes</i></a>
+																	(2011-12)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">30</h4></td>
+																<td><b>Kuoren Tan</b></td>
+																<td>
+																	<a href="protected/theses/part2/tan2012.pdf"><i>Water-soluble caged coumarins for drug delivery</i></a>
+																	(2011-12)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">29</h4></td>
+																<td><b>Phoom Chairatana</b></td>
+																<td>
+																	<a href="protected/theses/part2/chairatana2011.pdf"><i>Thiophene-Based Dyes for SHG Imaging</i></a>
+																	(2010-11)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">28</h4></td>
+																<td><b>Matthew Langton</b></td>
+																<td>
+																	<a href="protected/theses/part2/langton2011.pdf"><i>Butadiyne-Linked Porphyrin Rotaxanes</i></a>
+																	(2010-11)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">27</h4></td>
+																<td><b>William Peveler</b></td>
+																<td>
+																	<a href="protected/theses/part2/peveler2011.pdf"><i>Porphyrin Nanorings</i></a>
+																	(2010-11)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">26</h4></td>
+																<td><b>Philip Sellar</b></td>
+																<td>
+																	<a href="protected/theses/part2/sellar2011.pdf"><i>Self-Indicating Caged Drugs</i></a>
+																	(2010-11)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">25</h4></td>
+																<td><b>Sally Millican</b></td>
+																<td>
+																	<a href="protected/theses/part2/millican2010.pdf"><i>Photolabile Protecting Groups for Neurophysiology</i></a>
+																	(2009-10)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">24</h4></td>
+																<td><b>James Wilkinson</b></td>
+																<td>
+																	<a href="protected/theses/part2/wilkinson2010.pdf"><i>Porphyrins for Photovoltaics</i></a>
+																	(2009-10)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">23</h4></td>
+																<td><b>Christopher Campbell</b></td>
+																<td>
+																	<a href="protected/theses/part2/campbell2009.pdf"><i>Polyrotaxanes for Lasing</i></a>
+																	(2008-9)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">22</h4></td>
+																<td><b>Simon Chambers</b></td>
+																<td>
+																	<a href="protected/theses/part2/chambers2009.pdf"><i>Bending Porphyrin Tapes</i></a>
+																	(2008-9)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">21</h4></td>
+																<td><b>Thomas Eaton</b></td>
+																<td>
+																	<a href="protected/theses/part2/eaton2009.pdf"><i>Porphyrin Dyes for SHG Imaging</i></a>
+																	(2008-9)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">20</h4></td>
+																<td><b>Nicola Davis</b></td>
+																<td>
+																	<a href="protected/theses/part2/davis2008.pdf"><i>Synthesis of Anthracene-Fused Porphyrins</i></a>
+																	(2007-8)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">19</h4></td>
+																<td><b>Hannah Hogben</b></td>
+																<td>
+																	<a href="protected/theses/part2/hogben2008.pdf"><i>Understanding Cooperativity of Binding to Porphyrin Oligomers</i></a>
+																	(2007-8)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">18</h4></td>
+																<td><b>James Reeve</b></td>
+																<td>
+																	<a href="protected/theses/part2/reeve2008.pdf"><i>Porphyrins for SHG Imaging</i></a>
+																	(2007-8)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">17</h4></td>
+																<td><b>Hugh Allen</b></td>
+																<td>
+																	<a href="protected/theses/part2/allen2007.pdf"><i>Poly-Cyanine Polyrotaxanes</i></a>
+																	(2006-7)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">16</h4></td>
+																<td><b>Francine Elizabeth Oddy</b></td>
+																<td>
+																	<a href="protected/theses/part2/oddy2007.pdf"><i>Gamma-Cyclodextrin Polyrotaxanes as Sensors</i></a>
+																	(2006-7)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">15</h4></td>
+																<td><b>Alex Shutter</b></td>
+																<td>
+																	<a href="protected/theses/part2/shutter2007.pdf"><i>Attaching Stable Radicals to Porphyrins</i></a>
+																	(2006-7)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">14</h4></td>
+																<td><b>Asha Brown</b></td>
+																<td>
+																	<a href="protected/theses/part2/brown2006.pdf"><i>Oligoaniline Rotaxanes</i></a>
+																	(2005-6)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">13</h4></td>
+																<td><b>Wei Jian Leong</b></td>
+																<td>
+																	<a href="protected/theses/part2/leong2006.pdf"><i>Porphyrins for Two-Photon Absorption</i></a>
+																	(2005-6)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">12</h4></td>
+																<td><b>Karl Thorley</b></td>
+																<td>
+																	<a href="protected/theses/part2/thorley2006.pdf"><i>Water-Soluble Porphyrin Dimers</i></a>
+																	(2005-6)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">11</h4></td>
+																<td><b>Matthew Birkett</b></td>
+																<td>
+																	<a href="protected/theses/part2/birkett2005.pdf"><i>Porphyrin dimers for photodynamic therapy</i></a>
+																	(2004-5)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">10</h4></td>
+																<td><b>Yvette Dann</b></td>
+																<td>
+																	<a href="protected/theses/part2/dann2005.pdf"><i>Design and Synthesis of a Molecular Motor</i></a>
+																	(2004-5)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">9</h4></td>
+																<td><b>Emily Townsend</b></td>
+																<td>
+																	<a href="protected/theses/part2/townsend2005.pdf"><i>Lipophilic Cyclodextrin Polyrotaxanes</i></a>
+																	(2004-5)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">8</h4></td>
+																<td><b>Simon Yau</b></td>
+																<td>
+																	<a href="protected/theses/part2/yau2005.pdf"><i>Cyanine Dye Rotaxanes</i></a>
+																	(2004-5)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">7</h4></td>
+																<td><b>Thomas Ball</b></td>
+																<td>
+																	<a href="protected/theses/part2/ball2004.pdf"><i>NMR studies of the binding of cyclodextrins in rotaxanes and polyrotaxanes</i></a>
+																	(2003-4)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">6</h4></td>
+																<td><b>Holly Blades</b></td>
+																<td>
+																	<a href="protected/theses/part2/blades2004.pdf"><i>Porphyrins for Photoinduced Electron Transfer</i></a>
+																	(2003-4)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">5</h4></td>
+																<td><b>Hazel Collins</b></td>
+																<td>
+																	<a href="protected/theses/part2/collins2004.pdf"><i>Porphyrin Dimers for Photodynamic Therapy</i></a>
+																	(2003-4)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">4</h4></td>
+																<td><b>Chia-Chieh (Amy) Hsieh</b></td>
+																<td>
+																	<a href="protected/theses/part2/hsieh2004.pdf"><i>Solid Phase Synthesis of Conjugated Oligomers</i></a>
+																	(2003-4)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">3</h4></td>
+																<td><b>Naeem Kaka</b></td>
+																<td>
+																	<a href="protected/theses/part2/kaka2004.pdf"><i>Conjugated Polyrotaxanes from Suzuki Coupling</i></a>
+																	(2003-4)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">2</h4></td>
+																<td><b>Craig Wilson</b></td>
+																<td>
+																	<a href="protected/theses/part2/wilson2002.pdf"><i>Porphyrins for Optical Limiting</i></a>
+																	(2001-2)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">1</h4></td>
+																<td><b>James Kelly</b></td>
+																<td>
+																	<a href="protected/theses/part2/kelly2000.pdf"><i>Conjugated Porphyrin Oligomers</i></a>
+																	(1999-2000)
+																</td>
+															</tr>
+														</tbody>
+													</table>
+												</ul>
+											</li>
+										</ul>
+									</nav>
+									
+						  </section>
+						
+						<center>
+							<ul class="pagination">
+								<li><a href="publications/1995.shtml" class="button">Prev</a></li>
+								<li><a href="publications/2020.shtml" class="page">Current</a></li>
+								<li><a href="publications/2015.shtml" class="page">2015</a></li>
+								<li><a href="publications/2010.shtml" class="page">2010</a></li>
+								<li><a href="publications/2005.shtml" class="page">2005</a></li>
+								<li><a href="publications/2000.shtml" class="page">2000</a></li>
+								<li><a href="publications/1995.shtml" class="page">1995</a></li>
+								<li><a href="publications/theses.shtml" class="page active">Theses</a></li>
+								<li><span class="button disabled">Next</span></li>
+							</ul>
+						</center>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+				<!--#include virtual="/includes/sidebar.inc" -->	
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/browser.min.js"></script>
+			<script src="../assets/js/breakpoints.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<script src="../assets/js/main.js"></script>
+
+	</body>
+</html>

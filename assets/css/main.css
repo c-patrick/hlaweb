@@ -3342,6 +3342,7 @@ h3.nospace{
 
 h4.refdatanum{
   text-align: center;
+  margin: 0;
   color: #f56a6a; }
 
 .cite-journal {
@@ -3608,6 +3609,30 @@ table.alumni {
   table.alumni thead {
     border-bottom: solid 2px rgba(210, 215, 217, 0.75); }
   table.alumni tfoot {
+    border-top: solid 2px rgba(210, 215, 217, 0.75); }
+
+/* Theses */
+table.theses {
+  margin: 0 0 2em 0;
+  width: 100%; }
+  table.theses tbody tr {
+	border: 0;
+    border-left: 0;
+    border-right: 0; }
+    table.theses tbody tr:nth-child(2n + 1) {
+      background-color: white}
+  table.theses td {
+	vertical-align: middle;
+    padding: 1em 0.75em; }
+  table.theses th {
+    color: #3d4449;
+    font-size: 0.9em;
+    font-weight: 600;
+    padding: 0 0.75em 0.75em 0.75em;
+    text-align: left; }
+  table.theses thead {
+    border-bottom: solid 2px rgba(210, 215, 217, 0.75); }
+  table.theses tfoot {
     border-top: solid 2px rgba(210, 215, 217, 0.75); }
 
 

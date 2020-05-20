@@ -22,7 +22,7 @@
 												<li><a href="/publications/2005.shtml">2001-2005</a></li>
 												<li><a href="/publications/2000.shtml">1996-2000</a></li>
 												<li><a href="/publications/1995.shtml">1989-1995</a></li>
-												<li><a href="#">Theses</a></li>
+												<li><a href="/publications/theses.shtml">Theses</a></li>
 											</ul>
 										</li>
 										<li>
