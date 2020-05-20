@@ -1,0 +1,1273 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Anderson Research Group | University of Oxford</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link href="assets/css/flag-icon.css" rel="stylesheet">
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								<!--#include virtual="includes/header.inc" -->
+
+
+							<!-- Content -->
+								<section>
+									<header class="major">
+										<h2>Former Group Members</h2>
+									</header>
+
+									<p>Some of our past group members have gone on to form academic research groups of their own, extending the Anderson research family. Click on their names to visit their research websites.</p>
+
+									<table class="alumni">
+										<thead>
+											<tr>
+											<th>Previous Members</th>
+											<th>Previous Position</th>
+											<th>Current Institution</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td class="break"><a href="https://www.chem.uzh.ch/en/research/groups/rickhaus" target="_blank">Michel Rickhaus</a></td>
+												<td>Postdoctoral RA 2016-2019</td>
+												<td>University of Zurich, Switzerland</td>
+											</tr>
+											<tr>
+												<td class="break"><a href="http://www.chemistry.unsw.edu.au/staff/martin-peeks" target="_blank">Martin Peeks</a></td>
+												<td>Postdoctoral RA (2017, 2018-19)</td>
+												<td>University of New South Wales, Australlia</td>
+											</tr>
+											<tr>
+												<td class="break"><a href="http://sams.ics-cnrs.unistra.fr/en/team/current-members/permanent-members/dr-andreas-v-jentzsch/" target="_blank">Andreas Jentzsch</a></td>
+												<td>Postdoctoral RA 2016-17</td>
+												<td>University of Strasbourg, France</td>
+											</tr>
+											<tr>
+												<td class="break"><a href="http://staff.lincoln.ac.uk/ggilramirez" target="_blank">Guzman Gil-Ramirez</a></td>
+												<td>Postdoctoral RA 2010-2012</td>
+												<td>University of Lincoln, UK</td>
+											</tr>
+											<tr>
+												<td class="break"><a href="https://www.epfl.ch/labs/locbp/prof-pablo-rivera-fuentes/" target="_blank">Pablo Rivera-Fuentes</a></td>
+												<td>Postdoctoral RA 2014-2015</td>
+												<td>EPFL Lausanne, Switzerland</td>
+											</tr>
+											<tr>
+												<td class="break"><a href="http://www.chem.utoronto.ca/wp/rousseaux/" target="_blank">Sophie Rousseaux</a></td>
+												<td>Postdoctoral RA 2012-2015</td>
+												<td>University of Toronto, Canada</td>
+											</tr>
+											<tr>
+												<td class="break"><a href="http://www.labome.org/expert/japan/kyoto/morisue/mitsuhiko-morisue-1641645.html" target="_blank">Mitsuhiko Morisue</a></td>
+												<td>Visiting Academic 2010-2011</td>
+												<td>Kyoto Institute of Technology, Japan</td>
+											</tr>
+											<tr>
+												<td class="break"><a href="http://hyoka.ofc.kyushu-u.ac.jp/search/details/K004176/english.html" target="_blank">Atsuomi Shundo</a></td>
+												<td>Postdoctoral RA 2009-2010</td>
+												<td>Kyushu University, Japan</td>
+											</tr>
+											<tr>
+												<td class="break"><a href="http://llg.chem.uni.wroc.pl/?Members%3BOur_Team___Staff___M._Pawlicki" target="_blank">Milosz Pawlicki</a></td>
+												<td>Postdoctoral RA 2007-2008</td>
+												<td>University of Wroclaw, Poland</td>
+											</tr>
+											<tr>
+												<td class="break"><a href="http://cheme.nl/asm/eelkema/" target="_blank">Rienk Eelkema</a></td>
+												<td>Postdoctoral RA 2006-2008</td>
+												<td>Delft University</td>
+											</tr>
+											<tr>
+												<td class="break"><a href="https://yonsei.pure.elsevier.com/en/persons/milan-balaz" target="_blank">Milan Balaz</a></td>
+												<td>Postdoctoral RA 2005-2008</td>
+												<td>Yonsei University, South Korea</td>
+											</tr>
+											<tr>
+												<td class="break"><a href="https://chem.as.uky.edu/users/saodom0" target="_blank">Susan Odom</a></td>
+												<td>Visiting PhD Student 2005</td>
+												<td>Assistant Professor, University of Kentucky, USA</td>
+											</tr>
+											<tr>
+												<td class="break"><a href="https://iscr.univ-rennes1.fr/huriye-akdas-kilic" target="_blank">Huriye Akdas-Kilig</a></td>
+												<td>Postdoctoral RA 2002-2004</td>
+												<td>University of Rennes, France</td>
+											</tr>
+											<tr>
+												<td class="break"><a href="http://www.nims.go.jp/macromol/nakanishi" target="_blank">Takashi Nakanishi</a></td>
+												<td>Postdoctoral RA 2003</td>
+												<td>National Institute for Materials Science, Tsukuba, Japan</td>
+											</tr>
+											<tr>
+												<td class="break"><a href="http://park.itc.u-tokyo.ac.jp/terao/custom.html" target="_blank">Jun Terao</a></td>
+												<td>Postdoctoral RA 2000-2003</td>
+												<td>University of Tokyo, Japan</td>
+											</tr>
+											<tr>
+												<td class="break"><a href="http://www.fen.bilkent.edu.tr/~dtuncel/" target="_blank">D&#246;n&#252;s Tuncel</a></td>
+												<td>Postdoctoral RA 2000-2002</td>
+												<td>University of Bilkent, Turkey</td>
+											</tr>
+											<tr>
+												<td class="break"><a href="https://www.ncl.ac.uk/nes/staff/profile/michaelhall.html#background" target="_blank">Michael Hall</a></td>
+												<td>Part II 1998-1999</td>
+												<td>Newcastle University, UK</td>
+											</tr>
+											<tr>
+												<td class="break"><a href="http://anderson.chem.ox.ac.uk/" target="_blank">Ed Anderson</a></td>
+												<td>Part II 1996-1997</td>
+												<td>Oxford University, UK</td>
+											</tr>
+										</tbody>
+									</table>
+									
+									<hr />
+									
+									<p>If you are a previous member of the group please stay in touch and let us know how you are doing. It's always nice to know how the people you have worked with are getting on and what they are currently doing. <a href="mailto:connor.patrick@chem.ox.ac.uk">(Please click here to update your current status)</a></p>
+									
+									<table class="alumni">
+										<thead>
+											<tr>
+												<th>Previous Members</th>
+												<th>Position in the group</th>
+												<th>What they went on to</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td class="break"><a href="group/will.shtml">William Kendrick</a></td>
+												<td>DPhil student (2016-20)</td>
+												<td>Postdoc University of Melbourne, Australia</td>
+											</tr>
+
+											<tr>
+												<td class="break"><a href="group/james.shtml">James Thomas</a></td>
+												<td>Postdoc (2016-19)</td>
+												<td>Postdoc University of Oxford, Department of Materials</td>
+											</tr>
+
+											<tr>
+												<td class="break">Przemyslaw Gawel</td>
+												<td>Postdoctoral Research Assistant (2015-19)</td>
+												<td>Senior scientist at Cambridge Display Technology</td>
+											</tr>
+
+											<tr>
+												<td class="break">Stuart Astle</td>
+												<td>CDT rotation student (2019)</td>
+												<td>DPhil in the Burton group, University of Oxford.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Lizzie Boulter</td>
+												<td>Visiting student (2019)</td>
+												<td>Continuing her studies at the University of Oxford.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Julia Pia</td>
+												<td>Visiting student (2019)</td>
+												<td>Returning to Ryerson University in Toronto, Canada to continue her studies.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Kristina Eriksen</td>
+												<td>Visiting student (2019)</td>
+												<td>Returning to University of Copenhagen.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Jiratheep Pruchyathamkorn</td>
+												<td>Part II student (2018-2019)</td>
+												<td>PhD at the University of Cambridge.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Joseph Woods</td>
+												<td>Part II student (2018-2019)</td>
+												<td>PhD at the University of Zurich.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Isabell Gruebner</td>
+												<td>DPhil student (2015-2019)</td>
+												<td>Data Scientist at Beamly in London, UK.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Michel Rickhaus</td>
+												<td>Postdoctoral Research Assistant (2016-19)</td>
+												<td>Independent Research Group Leader, University of Zurich.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Lara Tejerina</td>
+												<td>Postdoctoral Research Assistant (2017-2019)</td>
+												<td>PostDoc at the University of Zurich.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Denis Hartmann</td>
+												<td>CDT rotation student (2019)</td>
+												<td>Continue his SBM CDT rotation.</td>
+											</tr>
+
+
+											<tr>
+												<td class="break">Martin Peeks</td>
+												<td>DPhil student (2013-2016) <br> Postdoctoral Research Assistant (2017) <br> Postdoctoral Research Assistant (2018-19)</td>
+												<td>Lecturer/Scientia Fellow, University of New South Wales.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Bart Limburg</td>
+												<td>Postdoctoral Research Assistant (2016-2018)</td>
+												<td>Postdoctoral Research Assistant at ICIQ Institute of Chemical Research of Catalonia.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Sabine Weidlich</td>
+												<td>DPhil student (2015-2018)</td>
+												<td>Scientist at Cynora GmbH (Bruchsal, Germany) working on the synthesis of compounds for organic light emitting diodes.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Yaoyao Xiong</td>
+												<td>DPhil student (2015-2018)</td>
+												<td>R&amp;D Chemist at Oxford Nanoimaging Ltd, developing imaging agents for super resolution microscopy</td>
+											</tr>
+
+											<tr>
+												<td class="break">Renee Haver</td>
+												<td>PhD Student (2014-8) and Postdoctoral Research Assistant (2018)</td>
+												<td>Postdoctoral Research Assistant with Kylie Vincent and Holly Reeve, University of Oxford.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Hiromu Kubo</td>
+												<td>Visiting Student (2018)</td>
+												<td>Returning to the University of Kyoto, Japan.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Alistair Sterling</td>
+												<td>CDT Rotation Student (2018)</td>
+												<td>Started PhD with Fernanda Duarte, University of Oxford.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Jamie Duburg</td>
+												<td>Visiting Student (2018)</td>
+												<td>Returned to the University of Twente, The Netherland.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Huawei Jiang</td>
+												<td>Postdoctoral Research Assistant (2015-2018)</td>
+												<td>Faculty position at South China Normal University, Guangzhou, China.</td>
+											</tr>
+
+
+											<tr>
+												<td class="break">Jonathan Cremers</td>
+												<td>PhD Student (2014-2018)</td>
+												<td>Product Manager at the startup 'Researcher' in London.</td>
+											</tr>
+
+
+											<tr>
+												<td class="break">Daniel Kohn</td>
+												<td>PhD Student (2014-2017)</td>
+												<td>Consultant at OC&amp;C.</td>
+											</tr>
+
+
+											<tr>
+												<td class="break">Andreas Jentzsch</td>
+												<td>Postdoctoral Research Assistant (2016-2017)</td>
+												<td><a href="http://sams.ics-cnrs.unistra.fr/en/team/current-members/permanent-members/dr-andreas-v-jentzsch/">University of Strasbourg, France; Postdoctoral RA (2016-2017)</a></td>
+											</tr>
+
+
+											<tr>
+												<td class="break">Anjul Khadria</td>
+												<td>DPhil student (2014-17)</td>
+												<td>Postdoctoral fellow in <a href="http://coilab.caltech.edu/">Lihong V. Wang Group</a>, CalTec, USA.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Takayuki Kobatake</td>
+												<td>Research Assistant (2015-2017)</td>
+												<td>Nippon Shokubai Ltd, Japan.</td>
+											</tr>
+
+											<tr>
+												<td class="break">C&#233;cile Roche</td>
+												<td>Postdoctoral Research Assistant (2013-2017)</td>
+												<td>New South Wales, Australia.</td>
+											</tr>
+
+
+											<tr>
+												<td class="break">Qiu Xing Yu</td>
+												<td>Part II student (2016-17)</td>
+												<td>PhD at University of Oxford (Carol Robinson's group)</td>
+											</tr>
+
+
+											<tr>
+												<td class="break">Anne Jeppesen</td>
+												<td>Visiting student (2017)</td>
+												<td>PhD at University of Copenhagen.</td>
+											</tr>
+
+<!--
+												<tr>
+													<td>Martin Peeks</td>
+													<td>v </td>
+													<td>Postdoctoral fellow in <a href="https://swagergroup.mit.edu/">Swager Group</a>, MIT, USA</td>
+												</tr>
+-->
+	
+											<tr>
+												<td class="break">Ibrahim Bulut</td>
+												<td>PDRA (2015-17)</td>
+												<td>Research Scientist, <a href="http://www.ines-solaire.org/?lang=en">National Institute of Solar Energy</a>, Le Bourget-du-Lac, France</td>
+											</tr>
+
+											<tr>
+												<td class="break">Josh Sauer</td>
+												<td>Summer student (2016)</td>
+												<td>Part II in Carol Robinson's group</td>
+											</tr>
+
+											<tr>
+												<td class="break">Alexandru Vlasceanu</td>
+												<td>Visiting student (2016)</td>
+												<td>PhD at University of Copenhagen</td>
+											</tr>
+
+
+											<tr>
+												<td class="break">Nuntaporn Kamonsutthipaijit</td>
+												<td>DPhil student (2012-2016)</td>
+												<td>Synchrotron Light Research Institute, Thailand</td>
+											</tr>
+
+
+											<tr>
+												<td class="break">Isabel Thomlinson</td>
+												<td>Part II student (2015-16)</td>
+												<td>PhD in Sustainable Chemical Technologies at the University of Bath</td>
+											</tr>
+
+											<tr>
+												<td class="break">Johannes Osterrieth</td>
+												<td>Part II student (2015-16)</td>
+												<td>PhD at Cambridge</td>
+											</tr>
+
+											<tr>
+												<td class="break">Pengpeng Liu</td>
+												<td>DPhil student (2012-2016)</td>
+												<td>Postdoctoral position at the University of Kyoto, Japan</td>
+											</tr>
+
+											<tr>
+												<td class="break">Petr Motloch</td>
+												<td>Visiting student 2016</td>
+												<td>Returned to PhD position in Cambridge</td>
+											</tr>
+
+											<tr>
+												<td class="break">Yutaka Hisamune</td>
+												<td>Visiting student 2015-16</td>
+												<td>Returned to PhD position at Kyushu University, Japan</td>
+											</tr>
+
+											<tr>
+												<td class="break">Jennifer Le Roy</td>
+												<td>Visiting PDRA 2015</td>
+												<td><a href="http://www.materials.ox.ac.uk/">Oxford Department of Materials</a></td> 
+											</tr>
+
+											<tr>
+												<td class="break">Ren&#233; M. Oetterli</td>
+												<td>PDRA 2013-2015</td>
+												<td>PDRA in Alberto group, Zurich</td>
+											</tr>
+
+											<tr>
+												<td class="break">Giulia Magnano</td>
+												<td>Summer student 2015</td>
+												<td>Returned to PhD position at the University of Milan, Italy</td>
+											</tr>
+
+											<tr>
+												<td class="break">Levon Movsisyan</td>
+												<td>DPhil 2011-14 and PDRA 2014-15</td>
+												<td>PDRA at Diederich Group, ETH Zurich</td>
+											</tr>
+
+											<tr>
+												<td class="break">Ludovic Favereau</td>
+												<td>PDRA 2014-2015</td>
+												<td>CNRS Researcher, University of Nantes</td>
+											</tr>
+
+											<tr>
+												<td class="break">Pablo Rivera-Fuentes</td>
+												<td>PDRA 2014-2015</td>
+												<td><a href="https://www.epfl.ch/labs/locbp/prof-pablo-rivera-fuentes/">EPFL Lausanne, Switzerland</a></td>
+											</tr>
+
+											<tr>
+												<td class="break">Karolina Korzycka</td>
+												<td>DPhil 2011-2015</td>
+												<td>Clinical Operations, AstraZeneca then R&amp;D at Procter &amp; Gamble</td>
+											</tr>
+
+											<tr>
+												<td class="break">Fiona Porter</td>
+												<td>Part II 2014-2015</td>
+												<td>PhD in the <a href="http://www.graphene-nownano.manchester.ac.uk/">NOWNANO CDT</a>, University of Manchester</td>
+											</tr>
+
+											<tr>
+												<td class="break">Wilf Lewis</td>
+												<td>DTC project 2015</td>
+												<td>Project in <a href="http://users.ox.ac.uk/~jrobert/Home.html">JR group</a></td>
+											</tr>
+
+											<tr>
+												<td class="break">Sophie Rousseaux</td>
+												<td>PDRA 2012-2015</td>
+												<td><a href="http://www.chem.utoronto.ca/wp/rousseaux/">Assistant Professor, University of Toronto</a></td>
+											</tr>
+
+											<tr>
+												<td class="break">Julien Kelber</td>
+												<td>PDRA 2012-2015</td>
+												<td>Research at University of Strasbourg, with <a href="http://www.adisseo.com/">Adisseo</a>.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Arjen Cnossen</td>
+												<td>PDRA 2013-2015</td>
+												<td>Senior Scientist at Mercachem, Nijmegen, the Netherlands</td>
+											</tr>
+
+											<tr>
+												<td class="break">Dmitry Kondratuk</td>
+												<td>DPhil Student 2009-2013; then PDRA 2013-2014</td>
+												<td>TATA Steel, UK; then Principal Researcher at TATA Steel, Europe</td>
+											</tr>
+
+
+											<tr>
+												<td class="break">Igor Boczarow</td>
+												<td>DPhil Student 2010-2014</td>
+												<td>School teaching in Warsaw, Poland</td>
+											</tr>
+
+											<tr>
+												<td class="break">Dominik Lungerich</td>
+												<td>Summer research student</td>
+												<td>Returned to home institution</td>
+											</tr>
+
+											<tr>
+												<td class="break">Hiroshi Masai</td>
+												<td>Summer research student</td>
+												<td>Returned to home institution</td>
+											</tr>
+
+											<tr>
+												<td class="break">Wilf Lewis</td>
+												<td>Part II 2013-2014</td>
+												<td>DPhil at <a href="http://www.oxfordsynthesiscdt.ox.ac.uk/">Oxford CDT in Synthesis for Biology &amp; Medicine</a></td>
+											</tr>
+
+											<tr>
+												<td class="break">Christy Liu</td>
+												<td>Part II 2013-2014</td>
+												<td></td>
+											</tr>
+
+											<tr>
+												<td class="break">James Wilkinson</td>
+												<td>DPhil Student 2010-2014</td>
+												<td>British Airways</td>
+											</tr>
+
+											<tr>
+												<td class="break">Patrik Neuhaus</td>
+												<td>Postdoctoral RA 2011-2014</td>
+												<td>R&amp;D on printing inks for food packaging at Siegwerk Druckfarben AG & Co. </td>
+											</tr>
+
+											<tr>
+												<td class="break">Jonathan Cremers</td>
+												<td>Visiting Masters Student 2014</td>
+												<td>Returned to home institution</td>
+											</tr>
+
+											<tr>
+												<td class="break">Christiane Knappke</td>
+												<td>Postdoctoral RA 2011-2014</td>
+												<td>Research on polymeric rheology additives for paints and coatings at <a href="http://www.byk.com/en">BYK</a>. </td>
+											</tr>
+
+											<tr>
+												<td class="break">Di Wu</td>
+												<td>Visiting Academic 2012-2013</td>
+												<td>Returned to home institution</td>
+											</tr>
+
+											<tr>
+												<td class="break">Maxime Godfroy</td>
+												<td>Visiting Student Summer 2013</td>
+												<td>Starting PhD in Grenoble</td>
+											</tr>
+
+											<tr>
+												<td class="break">Renee Haver</td>
+												<td>Visiting Student Summer 2013</td>
+												<td>Returned to home institution</td>
+											</tr>
+
+											<tr>
+												<td class="break">Michael Franz</td>
+												<td>Visiting Student Summer 2013</td>
+												<td>Returned to home institution</td>
+											</tr>
+
+											<tr>
+												<td class="break">Qianfu Luo</td>
+												<td>Academic Visitor 2012-2013</td>
+												<td>Returned to home institution</td>
+											</tr>
+
+											<tr>
+												<td class="break">Philip Bennett</td>
+												<td>DPhil 2009-2013</td>
+												<td>Patent Law</td>
+											</tr>
+
+											<tr>
+												<td class="break">Joanna Tung</td>
+												<td>Part II 2012-13</td>
+												<td>Brighton and Sussex Medical School</td>
+											</tr>
+
+											<tr>
+												<td class="break">Sarah Wong</td>
+												<td>Part II 2012-13</td>
+												<td>Accountancy, The Fish Partnership</td>
+											</tr>
+
+											<tr>
+												<td class="break">Bethea Hanson-Jones</td>
+												<td>Part II 2012-13</td>
+												<td>MSc in Sustainable Development, University of Exeter, then NHS</td>
+											</tr>
+
+											<tr>
+												<td class="break">Kanokkorn Sirithip</td>
+												<td>Visiting Student 2012-13</td>
+												<td>Returned to home university to finish PhD</td>
+											</tr>
+
+											<tr>
+												<td class="break">Guzm&#225;n Gil-Ram&#237;rez</td>
+												<td>Postdoctoral RA 2010-2012</td>
+												<td>Postdoctoral RA, Manchester (Leigh group)</td>
+											</tr>
+
+											<tr>
+												<td class="break">Frank Arroyave</td>
+												<td>Postdoctoral RA 2012</td>
+												<td>Postdoc position, ICIQ Tarragona, Spain</td>
+											</tr>
+
+											<tr>
+												<td class="break">James Reeve</td>
+												<td>Part II 2007-2008, DPhil 2008-2012</td>
+												<td>Civil Service (UK)</td>
+											</tr>
+
+											<tr>
+												<td class="break">Isamel Lopez Duarte</td>
+												<td>Postdoctoral RA 2010-2012</td>
+												<td>Postdoc, Imperial College London (Kuimova group)</td>
+											</tr>
+
+											<tr>
+												<td class="break">Kuoren Tan</td>
+												<td>Part II Student 2011-2012</td>
+												<td>Defence Science Organisation, Singapore</td>
+											</tr>
+
+											<tr>
+												<td class="break">Tim Rosser</td>
+												<td>Part II Student 2011-2012</td>
+												<td>PhD at Cambridge (Reisner group)</td>
+											</tr>
+
+											<tr>
+												<td class="break">Stephen Mccarthy</td>
+												<td>Part II Student 2011-2012</td>
+												<td>PhD, Imperial College London</td>
+											</tr>
+
+											<tr>
+												<td class="break">Georg Fischer</td>
+												<td>Postdoctoral RA 2011-2012</td>
+												<td>Product Expert, Clariant, Frankfurt, Germany</td>
+											</tr>
+
+											<tr>
+												<td class="break">Nicola Davis</td>
+												<td>Part II Student 2007-2008; DPhil Student 2008-2011</td>
+												<td>Journalism (The Times)</td>
+											</tr>
+
+											<tr>
+												<td class="break">Melanie O'Sullivan</td>
+												<td>DPhil Student 2008-2011</td>
+												<td>Postdoc, Oxford (Hamilton Group)</td>
+											</tr>
+
+											<tr>
+												<td class="break">Johannes Sprafke</td>
+												<td>DPhil Student 2007-2011</td>
+												<td>Postdoc, Santa Barbara, USA (Hawker Group)</td>
+											</tr>
+
+											<tr>
+												<td class="break">Phoom Chairatana</td>
+												<td>Part II 2010-2011</td>
+												<td>PhD at MIT, USA</td>
+											</tr>
+
+											<tr>
+												<td class="break">Philip Sellar</td>
+												<td>Part II 2010-2011</td>
+												<td>Bank of England</td>
+											</tr>
+
+											<tr>
+												<td class="break">William Peveler</td>
+												<td>Part II 2010-2011</td>
+												<td>PhD in nano-materials and security, UCL</td>
+											</tr>
+
+											<tr>
+												<td class="break">Matthew Langton</td>
+												<td>Part II 2010-2011</td>
+												<td>DPhil, Oxford (Beer Group)</td>
+											</tr>
+
+											<tr>
+												<td class="break">Jonathan Matichak</td>
+												<td>Postdoctoral RA 2010-2011</td>
+												<td>Dana-Farber Cancer Institute, Georgia Institute of Technology, USA</td>
+											</tr>
+
+											<tr>
+												<td class="break">Jan Fleischhauer</td>
+												<td>Postdoctoral RA 2010-2011</td>
+												<td>Postdoc at Heidelberg University, Germany (Bunz Group)</td>
+											</tr>
+
+											<tr>
+												<td class="break">Mitsuhiko Morisue</td>
+												<td>Academic Visitor 2010-2011</td>
+												<td>Assistant Professor, Kyoto Institute of Technology</td>
+											</tr>
+
+											<tr>
+												<td class="break">Sally Millican</td>
+												<td>Part II 2009-2010</td>
+												<td>Studying Food Ingredient Functionality at Wageningen Universiteit, Holland</td>
+											</tr>
+
+											<tr>
+												<td class="break">Giuseppe Sforazzini</td>
+												<td>DPhil Student 2006-2010</td>
+												<td>Postdoc, University of Geneva, Switzerland (Matile Group)</td>
+											</tr>
+
+											<tr>
+												<td class="break">Karl Thorley</td>
+												<td>Part II 2005-2006<br>DPhil Student 2006-2010</td>
+												<td>Postdoc, University of W&#252;rzburg, Germany (W&#252;rthner Group)</td>
+											</tr>
+
+											<tr>
+												<td class="break">Atsuomi Shundo</td>
+												<td>Postdoctoral RA 2009-2010</td>
+												<td><a href="http://hyoka.ofc.kyushu-u.ac.jp/search/details/K004176/english.html">Assistant Professor at University of Kyushu, Japan</a></td>
+											</tr>
+
+											<tr>
+												<td class="break">Louisa Esdaile</td>
+												<td>Postdoctoral RA 2007-2010</td>
+												<td>Postdoc, Northwestern University, USA<br/>then Senior Chemist at Dow Chemical</td>
+											</tr>
+
+											<tr>
+												<td class="break">Takashi Nakamura</td>
+												<td>Visiting Student 2010</td>
+												<td>PhD, The University of Tokyo (Shionoya Group)</td>
+											</tr>
+
+											<tr>
+												<td class="break">Sebastien Ulrich</td>
+												<td>Postdoctoral RA 2009-2010</td>
+												<td>Postdoc, Stanford University, USA (Kool Group)</td>
+											</tr>
+
+											<tr>
+												<td class="break">Steven Karlen</td>
+												<td>Postdoctoral RA 2007-2009</td>
+												<td>Postdoc, Northwestern University, USA (Wasielewski Group)<br/>then Assistant Scientist at University of Wisconsin-Madison</td>
+											</tr>
+
+											<tr>
+												<td class="break">Marie Hutin</td>
+												<td>Postdoctoral RA 2008-2009</td>
+												<td>Postdoc, Eindhoven University of Technology (Meijer Group)<br/>Group Coordinator, University of Glasgow</td>
+											</tr>
+
+											<tr>
+												<td class="break">Simon Yau</td>
+												<td>Part II 2004-2005<br>DPhil Student 2005-2009</td>
+												<td>Technical Development Executive, SGS, Hong Kong</td>
+											</tr>
+
+											<tr>
+												<td class="break">Kana Tanabe</td>
+												<td>Visiting Student 2009</td>
+												<td>PhD, Tokyo</td>
+											</tr>
+
+											<tr>
+												<td class="break">Thomas Eaton</td>
+												<td>Part II 2008-2009</td>
+												<td>PhD, University of Basel (Mayor Group)</td>
+											</tr>
+
+											<tr>
+												<td class="break">Chris Campbell</td>
+												<td>Part II 2008-2009</td>
+												<td>PhD, University of Edinburgh (Leigh Group)</td>
+											</tr>
+
+											<tr>
+												<td class="break">Simon Chambers</td>
+												<td>Part II 2008-2009</td>
+												<td>Investment Banking, Lazard, London</td>
+											</tr>
+
+											<tr>
+												<td class="break">Hazel Collins</td>
+												<td>Part II 2003-2004<br/>DPhil Student 2004-2008<br/>Postdoctoral RA 2008-2009</td>
+												<td>General Manager, IPS, UK</td>
+											</tr>
+
+											<tr>
+												<td class="break">Markus Hoffmann</td>
+												<td>DPhil Student 2005-2009</td>
+												<td>Project Manager, Nynas AB, Sweden</td>
+											</tr>
+
+											<tr>
+												<td class="break">Milosz Pawlicki</td>
+												<td>Postdoctoral RA 2007-2009</td>
+												<td><a href="http://llg.chem.uni.wroc.pl/?Members%3BOur_Team___Staff___M._Pawlicki">Ass. Prof. at University of Wroclaw, Poland</a></td>
+											</tr>
+
+											<tr>
+												<td class="break">Kosuke Suzuki</td>
+												<td>Visiting PhD Student 2008</td>
+												<td>Toyko University, Japan</td>
+											</tr>
+
+											<tr>
+												<td class="break">Milan Balaz</td>
+												<td>Postdoctoral RA 2005-2008</td>
+												<td><a href="https://yonsei.pure.elsevier.com/en/persons/milan-balaz">Yonsei University, South Korea</a></td>
+											</tr>
+
+											<tr>
+												<td class="break">Rienk Eelkema</td>
+												<td>Postdoctoral RA 2006-2008</td>
+												<td><a href="http://cheme.nl/asm/eelkema/">Ass. Prof. at Delft University of Technology, the Netherlands</a></td>
+											</tr>
+
+											<tr>
+												<td class="break">Hannah Hogben</td>
+												<td>Part II 2007-2008</td>
+												<td>D.Phil. Oxford<br/>then Burgoynes - Forensic Investigators, investigation of fires and explosions</td>
+											</tr>
+
+											<tr>
+												<td class="break">Shane McDonnell</td>
+												<td>Postdoctoral RA 2006-2008</td>
+												<td>BASF, Germany<br/>then Iron market technology manager, Calderys</td>
+											</tr>
+
+											<tr>
+												<td class="break">Emma Dahlstedt</td>
+												<td>Postdoctoral RA 2003-2008</td>
+												<td>Chemilia AB, Sweden</td>
+											</tr>
+
+											<tr>
+												<td class="break">Katsutoshi Sawada</td>
+												<td>Visiting RA 2006-2007</td>
+												<td>JSR Corporation, Tokyo, Japan</td>
+											</tr>
+
+											<tr>
+												<td class="break">Michael Frampton</td>
+												<td>Postdoctoral RA 2003-2007</td>
+												<td>Science Teacher, Downe House School, Berkshire</td>
+											</tr>
+
+											<tr>
+												<td class="break">Matthew Stone</td>
+												<td>Postdoctoral RA 2005-2007</td>
+												<td>Postdoc at MIT, Boston, USA, <br/>then research scientist Millipore</td>
+											</tr>
+
+											<tr>
+												<td class="break">Heather Daniell</td>
+												<td>D.Phil. 2004-2007</td>
+												<td>Environmental Consulting</td>
+											</tr>
+
+											<tr>
+												<td class="break">Leszek Zalewski</td>
+												<td>Visiting Postdoctoral RA 2007</td>
+												<td>BASF then Reckitt Benckiser</td>
+											</tr>
+
+											<tr>
+												<td class="break">Alexander Shutter</td>
+												<td>Part II 2006-2007</td>
+												<td>Manager at OC&amp;C Strategy Consultants.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Hugh Allen</td>
+												<td>Part II 2006-2007</td>
+												<td>Banking</td>
+											</tr>
+
+											<tr>
+												<td class="break">Francine Oddy</td>
+												<td>Part II 2006-2007</td>
+												<td>Environmental Science, Imperial College London then Haringey Council</td>
+											</tr>
+
+											<tr>
+												<td class="break">Coralie Houarner-Rassin</td>
+												<td>Postdoctoral RA 2006-2007</td>
+												<td>Analysis of wine, Montpellier, France</td>
+											</tr>
+
+											<tr>
+												<td class="break">Eric Klotz</td>
+												<td>D.Phil. 2002-2006</td>
+												<td>IP Lawyer (Bristows) then legal counsel at Datahug</td>
+											</tr>
+
+											<tr>
+												<td class="break">Andrew G. Cheetham</td>
+												<td>D.Phil. 2002-2006</td>
+												<td>Postdoc at Northwestern University, USA<br/>then John Hopkins, Washington DC.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Asha Brown</td>
+												<td>Part II 2005-2006</td>
+												<td>D.Phil. Oxford</td>
+											</tr>
+
+											<tr>
+												<td class="break">Wei Leong</td>
+												<td>Part II 2005-2006</td>
+												<td>Science Teacher, Singapore</td>
+											</tr>
+
+											<tr>
+												<td class="break">Craig J. Wilson</td>
+												<td>D.Phil. 2002-2006</td>
+												<td>Head of Chemistry, Magdalen College School, Brackley<br/>then teaching in Shanghai, China</td>
+											</tr>
+
+											<tr>
+												<td class="break">Susan Odom</td>
+												<td>Visiting PhD Student 2005</td>
+												<td><a href="https://chem.as.uky.edu/users/saodom0">Assistant Professor, University of Kentucky, USA</a></td>
+											</tr>
+
+											<tr>
+												<td class="break">Matthew Birkett</td>
+												<td>Part II 2004-2005</td>
+												<td>Patent Law, Hoffmann Eitle</td>
+											</tr>
+
+											<tr>
+												<td class="break">Yvette Dann</td>
+												<td>Part II 2004-2005</td>
+												<td>Shell</td>
+											</tr>
+
+											<tr>
+												<td class="break">Emily Townsend</td>
+												<td>Part II 2004-2005</td>
+												<td>Tarmac technical division, UK</td>
+											</tr>
+
+											<tr>
+												<td class="break">Martin Smith</td>
+												<td>D.Phil. 2000-2003</td>
+												<td>Science Teacher</td>
+											</tr>
+
+											<tr>
+												<td class="break">Holly Blades</td>
+												<td>Part II 2003-2004, RA 2004</td>
+												<td>D.Phil. Oxford</td>
+											</tr>
+
+											<tr>
+												<td class="break">Ana Charas</td>
+												<td>Postdoctoral RA 2004</td>
+												<td>Enabled Technologies, Institute of Telecomunications, Lisbon, Portugal</td>
+											</tr>
+
+												<td>Amy Hsieh</td>
+												<td>Part II 2003-2004</td>
+												<td>D.Phil., Oxford</td>
+											</tr>
+
+												<td>Naeem Kaka</td>
+												<td>Part II 2003-2004</td>
+												<td>D.Phil., Oxford then Actuarial Analyst with Catlin Holdings, London</td>
+											</tr>
+
+												<td>Huriye Akdas-Kilig</td>
+												<td>Postdoctoral RA 2002-2004</td>
+												<td>Assistant Professor, University of Rennes</td>
+											</tr>
+
+												<td>Lars Thoresen</td>
+												<td>Postdoctoral RA 2002-2003</td>
+												<td>Research Scientist at Arena Pharmaceuticals (San Diego, USA)</td>
+											</tr>
+
+												<td>Tatsuhiko Fujimoto</td>
+												<td>Visiting Student 2003</td>
+												<td>Pharmaceutical Industry</td>
+											</tr>
+
+												<td>Robin Rogers</td>
+												<td>Part II 2002-2003</td>
+												<td>Local Government Officer</td>
+											</tr>
+
+												<td>Charlotte Williams</td>
+												<td>Postdoctoral RA 2002-2003</td>
+												<td>Johnson Matthey then CSIRO Melbourne, Australia</td>
+											</tr>
+
+												<td>Takashi Nakanishi</td>
+												<td>Postdoctoral RA 2002-2003</td>
+												<td>National Institute for Materials Science, Tsukuba, Japan</td>
+											</tr>
+
+											</tr>
+												<td>Alex Krivokapic</td>
+												<td>D.Phil. 1999-2002</td>
+												<td>Research Scientist, University of Oslo, Norway</td>
+											</tr>
+
+											</tr>
+												<td>Jasper Michels</td>
+												<td>Postdoctoral RA 2001-2003</td>
+												<td>Research Scientist, TNO Industrial Technology, Netherlands</td>
+											</tr>
+
+											</tr>
+												<td>Jun Terao</td>
+												<td>Postdoctoral RA 2000-2003</td>
+												<td><a href="http://park.itc.u-tokyo.ac.jp/terao/custom.html">Professor, University of Tokyo</a>.</td>
+											</tr>
+
+											<tr>
+												<td class="break">James Matthews</td>
+												<td>D.Phil. Student 1999-2003</td>
+												<td>Research Scientist in the Organic Technologies Division of Corning Inc. (New York, USA)</td>
+											</tr>
+
+											<tr>
+												<td class="break">D&ouml;n&uuml;s Tuncel</td>
+												<td>Postdoctoral RA 2000-2002</td>
+												<td>Professor, Bilkent University, Turkey</td>
+											</tr>
+
+											<tr>
+												<td class="break">Martin Katterle</td>
+												<td>Postdoctoral RA 2002</td>
+												<td>Chemical Industry, Germany</td>
+											</tr>
+
+											<tr>
+												<td class="break">Andrew Tang</td>
+												<td>Part II 2001-2002</td>
+												<td>Science tutor, London</td>
+											</tr>
+
+											<tr>
+												<td class="break">Iftikhar Sadiq</td>
+												<td>Part II 2001-2002</td>
+												<td></td>
+											</tr>
+
+											<tr>
+												<td class="break">Katharine Davis</td>
+												<td>D.Phil 2001-2002</td>
+												<td>Investment Analyst, London</td>
+											</tr>
+
+											<tr>
+											<td valign="top">Carol Stanier</td>
+											<td valign="top">D.Phil 1998-2001</td>
+												<td>Associate Editor for ChemPhysChem (Wiley-VCH), Weinheim, Germany<br />
+													then Editor of J. Mat. Chem. (RSC, Cambridge, UK)<br />
+													then freelance science writer.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Thomas Screen</td>
+												<td>D.Phil 1998-2001</td>
+												<td>Post Doctoral Research, Mainz, Germany<br />
+													then Reaxa Ltd., Manchester, UK<br />
+													then Yorkshire Process Technology</td>
+											</tr>
+
+											<tr>
+												<td class="break">Michael O'Connell</td>
+												<td>Part II 1999-2000,<br> Graduate RA 2000-2001</td>
+												<td>M.Sc. in Forensic Science, Strathclyde University</td>
+											</tr>
+
+											<tr>
+												<td class="break">Sara Alderman</td>
+												<td>Part II 2000-2001</td>
+												<td>Science Policy Unit - Home Office</td>
+											</tr>
+
+											<tr>
+												<td class="break">Jonathan Faiz</td>
+												<td>Part II 2000-2001</td>
+												<td>Ph.D. Birmingham University<br/>
+													Ass. Editor for Angewandte Chemie, Weinheim, Germany</td>
+											</tr>
+
+											<tr>
+												<td class="break">Daniel Greve</td>
+												<td>Postdoctoral RA 2001</td>
+												<td>Laboratory of Material Science, University of Copenhagen</td>
+											</tr>
+
+											<tr>
+												<td class="break">Jonathan Buston</td>
+												<td>Postdoctoral RA 1998-2001</td>
+												<td>Peakdale Molecular Ltd. then Health and Safety Laboratory, Stockport.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Michael R. Craig</td>
+												<td>D.Phil 1997-2000</td>
+												<td>Postdoc, Eindhoven, The Netherlands<br/>
+													Coating Effects, Ciba Speciality Chemicals, Basel,<br/>
+													then Regulatory Compliance Specialist at MeadWestvaco</td>
+											</tr>
+
+											<tr>
+												<td class="break">Xiaoping Yang</td>
+												<td>Postdoctoral RA 2000-2001</td>
+												<td>Postdoc, Cambridge</td>
+											</tr>
+
+											<tr>
+												<td class="break">Mark Bass</td>
+												<td>Part II 1999-2000</td>
+												<td>D.Phil Oxford University</td>
+											</tr>
+
+											<tr>
+											<td>>James Kelly</td>
+											<td>Part II 1999-2000</td>
+												<td>Chemistry teacher, Headington School, Oxford</td>
+											</tr>
+
+											<tr>
+												<td class="break">Peter Taylor</td>
+												<td>Postdoctoral RA 1996-1999</td>
+												<td>Sharp Laboratories of Europe Ltd.</td>
+											</tr>
+
+											<tr>
+											<td>Iain Blake</td>
+											<td>D.Phil 1996-1999; Postdoctoral RA 2001-2002</td>
+												<td>Postdoc, Sydney, Australia</td>
+											</tr>
+
+											<tr>
+												<td class="break">Amanda Cowan</td>
+												<td>Part II 1998-1999</td>
+												<td>Oxford University Press</td>
+											</tr>
+
+											<tr>
+												<td class="break">Michael Hall</td>
+												<td>Part II 1998-1999</td>
+												<td><a href="https://www.ncl.ac.uk/nes/staff/profile/michaelhall.html#background">D.Phil Oxford University then Lecturer, Newcastle University</td>
+											</tr>
+
+											<tr>
+												<td class="break">G. Scott Wilson</td>
+												<td>D.Phil 1995-1998</td>
+												<td>Johnson Matthey Ltd. then Encap Drug Delivery</td>
+											</tr>
+
+											<tr>
+												<td class="break">Andrew J. Hagan</td>
+												<td>Part II 1997-1998</td>
+												<td>Ph.D. Cambridge University; Director, Head of Chemicals Industry<br/>and Global Agenda Council on Emerging Technologies at World Economic Forum.</td>
+											</tr>
+
+											<tr>
+												<td class="break">Katrina B. Lawton</td>
+												<td>Part II 1997-1998</td>
+												<td>Accountancy</td>
+											</tr>
+
+											<tr>
+												<td class="break">James R. Young</td>
+												<td>Part II 1997-1998</td>
+												<td>Procter and Gamble Ltd. then Reckitt Benckiser</td>
+											</tr>
+
+											<tr>
+												<td class="break">Robert A. Woolf</td>
+												<td>Part II 1997-1998</td>
+												<td></td>
+											</tr>
+
+											<tr>
+												<td class="break">Edward A. Anderson</td>
+												<td>Part II 1996-1997</td>
+												<td>Ph.D. Cambridge University, then Lecturer, Oxford University</td>
+											</tr>
+
+											<tr>
+												<td class="break">Susan E. Lawlor</td>
+												<td>Part II 1996-1997</td>
+												<td>Ph.D. Southampton University</td>
+											</tr>
+
+											<tr>
+												<td class="break">Marcus J. White</td>
+												<td>Part II 1996-1997</td>
+												<td>Ph.D. Cambridge University, then freelance scientific editor, Seoul</td>
+											</tr>
+
+											<tr>
+												<td class="break">Neil D. Scotchmer</td>
+												<td>Part II 1996-1997</td>
+												<td>Ph.D. Nottingham University</td>
+											</tr>
+
+											<tr>
+												<td class="break">M. Sirish</td>
+												<td>Postdoctoral RA 1996-1997</td>
+												<td>Post Doctoral Research, Saarbruken, Germany</td>
+											</tr>
+
+											<tr>
+												<td class="break">Duncan McCallien</td>
+												<td>Postdoctoral RA 1996-1997</td>
+												<td>John Hogg Technical Solutions, then Johnson Matthey</td>
+											</tr>
+
+											<tr>
+												<td class="break">Juhani Huuskonen</td>
+												<td>Postdoctoral RA 1996-1997</td>
+												<td>Kuopio University, Finland</td>
+											</tr>
+
+											<tr>
+												<td class="break">Sally Anderson</td>
+												<td>Postdoctoral Fellow 1995-1997</td>
+												<td>Sharp Laboratories of Europe Ltd.</td>
+											</tr>
+
+											<tr>
+												<td class="break">John Navas</td>
+												<td>Postdoctoral RA 1996</td>
+												<td>Scientific Publishing</td>
+											</tr>
+
+											<tr>
+												<td class="break">Daniel Walker</td>
+												<td>Part II 1995-1996</td>
+												<td>M.Sc. Leicester University</td>
+											</tr>
+
+											<tr>
+												<td class="break">Andrew Wylie</td>
+												<td>Part II 1995-1996</td>
+												<td>Pfizer Central Research</td>
+											</tr>
+
+											<tr>
+												<td class="break">A. Ben Middleton</td>
+												<td>Part II 1995-1996</td>
+												<td>Ph.D. Cambridge University, then financial services industry London</td>
+											</tr>
+										</tbody>
+									</table>
+						  </section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+				<!--#include virtual="/includes/sidebar.inc" -->	
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

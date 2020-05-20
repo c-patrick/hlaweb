@@ -1,0 +1,564 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Anderson Research Group | University of Oxford</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<!--#include virtual="/includes/base.inc" -->
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								<!--#include virtual="/includes/header.inc" -->
+
+
+							<!-- Content -->
+								<section>
+									<header class="major">
+										<h2>Publications</h2>
+									</header>
+									
+									<center>
+										<ul class="pagination">
+											<li><a href="publications/2010.shtml" class="button">Prev</a></li>
+											<li><a href="publications/2020.shtml" class="page">Current</a></li>
+											<li><a href="publications/2015.shtml" class="page">2015</a></li>
+											<li><a href="publications/2010.shtml" class="page">2010</a></li>
+											<li><a href="publications/2005.shtml" class="page active">2005</a></li>
+											<li><a href="publications/2000.shtml" class="page">2000</a></li>
+											<li><a href="publications/1995.shtml" class="page">1995</a></li>
+											<li><a href="publications/theses.shtml" class="page">Theses</a></li>
+											<li><a href="publications/2000.shtml" class="button">Next</a></li>
+										</ul>
+									</center>
+									
+									<h2>2005 - 2001</h2>
+																	
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">97</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Synthesis, crystal structure and nonlinear optical behavior of &beta;-unsubstituted <i>meso-meso E</i>-vinylene-linked porphyrin dimers</h3>
+											<p><refdata class="authors">M.J. Frampton, H. Akdas, A.R. Cowley, J.E. Rogers, J.E. Slagle, P.A. Fleitz, M. Drobizhev, A. Rebane and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journals/orlef7/index.html">Org. Lett. </a></refdata>,
+												<refdata class="year">2005</refdata>,
+												<refdata class="volume">7</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ol0520525">5365-5368</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">96</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Supramolecular complexes of conjugated polyelectrolytes with poly(ethylene oxide): multifunctional luminescent semiconductors exhibiting electronic and ionic transport</h3>
+											<p><refdata class="authors">J.S. Wilson, M.J. Frampton, J.J. Michels, L. Sardone, G. Marletta, R.H. Friend, P. Samor&#236;, H.L. Anderson and F. Cacialli.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/cgi-bin/jhome/10008336">Adv. Mater. </a></refdata>,
+												<refdata class="year">2005</refdata>,
+												<refdata class="volume">17</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/adma.200401662">2659-2663</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">95</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>2-[(Dimethylamino)(phenyl)methyl]benzoic acid</h3>
+											<p><refdata class="authors">Y.L. Dann, A.R. Cowley and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://journals.iucr.org/e/journalhomepage.html">Acta Cryst. </a></refdata>,
+												<refdata class="year">2005</refdata>,
+												<refdata class="volume">E61</refdata>,
+												<refdata class="page"><a ref="http://dx.doi.org/10.1107/S1600536805021215">o2502-o2503</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">94</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Synthesis and crystal structure of a push-pull quinoidal porphyrin: a nanoporous framework assembled from cyclic trimer aggregates</h3>
+											<p><refdata class="authors">M.J. Smith, W. Clegg, K.A. Nguyen, J.E. Rogers, R. Pachter, P.A. Fleitz and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/is/journals/current/chemcomm/cccpub.htm">Chem. Commun. </a></refdata>,
+												<refdata class="year">2005</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b502776d">2433-2435</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">93</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Extremely strong near-IR two-photon absorption in conjugated porphyrin dimers: quantitative description with three essential states model</h3>
+											<p><refdata class="authors">M. Drobizhev, Y. Stepanenko, Y. Dzenis, A. Karotki, A. Rebane, P.N. Taylor and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journals/jpcbfk/index.html">J. Phys. Chem. B. </a></refdata>,
+												<refdata class="year">2005</refdata>,
+												<refdata class="volume">109</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/jp044261x">7223-7236</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">92</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Reverse saturable absorption in the near infrared by fused porphyrin dimers</h3>
+											<p><refdata class="authors">K.J. McEwan, P. A. Fleitz, J.E. Rogers, J.E. Slagle, D. G. McLean, H. Akdas, M. Katterle, I.M. Blake and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/cgi-bin/jhome/10008336">Adv. Mater. </a></refdata>,
+												<refdata class="year">2004</refdata>,
+												<refdata class="volume">16</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/adma.200400492">1933-1935</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">91</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Understanding strong two-photon absorption in p-conjugated porphyrin dimers via double-resonance enhancement in a three-level model</h3>
+											<p><refdata class="authors">M. Drobizhev, Y. Stepanenko, Y. Dzenis, A. Karotki, A. Rebane, P.N. Taylor and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journals/jacsat/index.html">J. Am. Chem. Soc. </a></refdata>,
+												<refdata class="year">2004</refdata>,
+												<refdata class="volume">126</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ja0445847">15352-15353</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">90</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Glass fiber templated synthesis of nano-walled polymer microtubes</h3>
+											<p><refdata class="authors">D. Tuncel, J.R. Matthews and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/cgi-bin/jhome/77003362">Adv. Funct. Mater.</a></refdata>,
+												<refdata class="year">2004</refdata>,
+												<refdata class="volume">14</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/adfm.200305201">851-855</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">89</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Dramatic enhancement of intrinsic two-photon absorption in a conjugated porphyrin dimer</h3>
+											<p><refdata class="authors">A. Karotki, M. Drobizhev, Y. Dzenis, P.N. Taylor, H.L. Anderson and A. Rebane.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/is/journals/current/pccp/pccppub.htm">Phys. Chem. Chem. Phys.</a></refdata>,
+												<refdata class="year">2004</refdata>,
+												<refdata class="volume">6</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b313399k">7-10</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">88</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Synthesis of poly(para-phenylenevinylene) rotaxanes by aqueous Suzuki coupling</h3>
+											<p><refdata class="authors">J. Terao, A. Tang, J.J. Michels, A. Krivokapic and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/is/journals/current/chemcomm/cccpub.htm">Chem. Commun.</a></refdata>,
+												<refdata class="year">2004</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b311762f">56-57</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">87</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Polymers get organized</h3>
+											<p><refdata class="authors">D. G. Bucknall and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://intl.sciencemag.org/" >Science</a></refdata>,
+												<refdata class="year">2003</refdata>,
+												<refdata class="volume">302</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1126/science.1091064">1904-1905</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">86</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Synthesis of conjugated polyrotaxanes</h3>
+											<p><refdata class="authors">J.J. Michels, M.J. O'Connell, P.N. Taylor, J.S. Wilson, F. Cacialli and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/cgi-bin/jhome/26293">Chem. Eur. J.</a></refdata>,
+												<refdata class="year">2003</refdata>,
+												<refdata class="volume">9</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/chem.200305245">6167-6176</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">85</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Two methods for amplifying the optical nonlinearity of a conjugated porphyrin polymer: transmetallation and self-assembly</h3>
+											<p><refdata class="authors">T.E.O. Screen, J.R.G. Thorne, R.G. Denning, D.G. Bucknall and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/is/journals/current/jmc/mappub.htm">J. Mater. Chem.</a></refdata>,
+												<refdata class="year">2003</refdata>,
+												<refdata class="volume">13</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b305053j">2796-2808</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">84</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Hindered fluorescence quenching in an insulated molecular wire</h3>
+											<p><refdata class="authors">P.N. Taylor, A.J. Hagan and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/is/journals/current/obc/obcpub.htm">Org. Biolmol. Chem.</a></refdata>,
+												<refdata class="year">2003</refdata>,
+												<refdata class="volume">1</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b306727k">3851-3856</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">83</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Synthesis and crystal structure of a meso-trialkynyl-[28]hexaphyrin</h3>
+											<p><refdata class="authors">A. Krivokapic and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/is/journals/current/obc/obcpub.htm">Org. Biolmol. Chem.</a></refdata>,
+												<refdata class="year">2003</refdata>,
+												<refdata class="volume">1</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b306725b">3639-3641</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">82</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Bis-BBN (9-borabicyclo[3.3.1]nonane) adduct of bis(diethylglyoximato)nickel(II)</h3>
+											<p><refdata class="authors">A. Krivokapic, J.A. Faiz and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://journals.iucr.org/e/journalhomepage.html">Acta Cryst. E</a></refdata>,
+												<refdata class="year">2003</refdata>,
+												<refdata class="volume">E59</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1107/S1600536803017288">m748-m749</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">81</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Mono-BBN (9-borabicyclo[3.3.1]nonane) adduct of bis(diethylglyoximato)nickel(II)</h3>
+											<p><refdata class="authors">A. Krivokapic, J.A. Faiz and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://journals.iucr.org/e/journalhomepage.html">Acta Cryst. E</a></refdata>,
+												<refdata class="year">2003</refdata>,
+												<refdata class="volume">E59</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1107/S160053680301729X">m745-m747</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">80</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>N,N'-Bis(4-iodophenyl)diazene N-oxide</h3>
+											<p><refdata class="authors">A. Krivokapic, C.J. Wilson, D.J. Watkin and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://journals.iucr.org/e/journalhomepage.html">Acta Cryst. E</a></refdata>,
+												<refdata class="year">2003</refdata>,
+												<refdata class="volume">E59</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1107/S1600536803013618">o1022-o1024</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">79</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Surfaces designed for charge-reversal</h3>
+											<p><refdata class="authors">J.R. Matthews, D. Tuncel, R.M.J. Jacobs, C.D. Bain and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journals/jacsat/index.html">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2003</refdata>,
+												<refdata class="volume">125</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ja028338b">6428-6433</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">78</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Photon energy upconversion in porphyrins: one-photon hot-band absorption versus two-photon absorption</h3>
+											<p><refdata class="authors">M. Drobizhev, A Karoti, M. Kruk, A. Krivokapic, H.L. Anderson and A. Rebane.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.sciencedirect.com/science/journal/00092614">Chem. Phys. Lett.</a></refdata>,
+												<refdata class="year">2003</refdata>,
+												<refdata class="volume">370</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1016/S0009-2614(03)00162-3">690-699</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">77</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Contracted and expanded meso-alkynyl porphyrinoids: from triphyrin to hexaphyrin</h3>
+											<p><refdata class="authors">A. Krivokapic, A.R. Cowley and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journals/joceah/index.html">J. Org. Chem.</a></refdata>,
+												<refdata class="year">2003</refdata>,
+												<refdata class="volume">68</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/jo026748c">1089-1096</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">76<h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Cyclodextrin-threaded conjugated polyrotaxanes as insulated molecular wires with reduced interstrand interactions</h3>
+											<p><refdata class="authors">F. Cacialli, J.S. Wilson, J.J. Michels, C. Daniel, C. Silva, R.H. Friend, N. Severin, P. Samor&#236;, J.P. Rabe,	M.J. O'Connell, P.N. Taylor and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.nature.com/cgi-taf/dynapage.taf?file=/nmat/journal/v1/n3/index.html">Nature Materials</a></refdata>,
+												<refdata class="year">2002</refdata>,
+												<refdata class="volume">1</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1038/nmat750">160-164</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">75<h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Amplified optical nonlinearity in a self-assembled double-strand conjugated porphyrin polymer ladder</h3>
+											<p><refdata class="authors">T.E.O. Screen, J.R.G. Thorne, R.G. Denning, D.G. Bucknall and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journals/jacsat/index.html">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2002</refdata>,
+												<refdata class="volume">124</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ja026205k">9712-9713</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">74</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Fusion and planarization of a quinoidal porphyrin dimer</h3>
+											<p><refdata class="authors">I.M. Blake, A. Krivokapic, M. Katterle and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/is/journals/current/chemcomm/cccpub.htm">Chem. Commun.</a></refdata>,
+												<refdata class="year">2002</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b204265g">1662-1663</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">73</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Unidirectional photoinduced shuttling in a rotaxane with a symmetric stilbene dumbbell</h3>
+											<p><refdata class="authors">C.A. Stanier, S.J. Alderman, T.D.W. Claridge and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/cgi-bin/jtoc?ID=26737">Angew. Chem. Int. Ed.</a></refdata>,
+												<refdata class="year">2002</refdata>,
+												<refdata class="volume">41</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/1521-3773(20020517)41:10<1769::AID-ANIE1769>3.0.CO;2-N">1769-1772</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">72</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>2,3,5-Trichlor-6-(2-diethylaminovinyl)-1,4-benzoquinone</h3>
+											<p><refdata class="authors">A. Krivokapic and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://journals.iucr.org/munksgaard/actacryste.html">Acta Cryst. E</a></refdata>,
+												<refdata class="year">2002</refdata>,
+												<refdata class="volume">E58</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1107/S1600536802002283">259-260</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">71</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Making conjugated connections to porphyrins: a comparison of alkyne, alkene, imine and azo links</h3>
+											<p><refdata class="authors">T.E.O. Screen, I.M. Blake, L.H. Rees, W. Clegg, S.J. Borwick and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/Publishing/Journals/P1/">J. Chem. Soc., Perkin Trans. 1</a></refdata>,
+												<refdata class="year">2002</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b109915a">320-329</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">70</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Enhanced Chemical Reversibility of redox processes in cyanine dye rotaxanes</h3>
+											<p><refdata class="authors">J.E.H. Buston, F. Marken and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/is/journals/current/chemcomm/cccpub.htm">Chem. Commun.</a></refdata>,
+												<refdata class="year">2001</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b102068o">1046-1047</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">69</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Meso-tetra-alkynyl porrphyrins for optical limiting - a survey of group III and IV metal complexes</h3>
+											<p><refdata class="authors">A. Krivokapic, H.L. Anderson, G. Bourhill, R. Ives, S. Clark and K.J. McEwan.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/cgi-bin/jtoc?ID=10008336">Adv. Mater.</a></refdata>,
+												<refdata class="year">2001</refdata>,
+												<refdata class="volume">13</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/1521-4095(200105)13:9<652::AID-ADMA652>3.0.CO;2-3">652-656</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">68</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Rotaxane-Encapsulation Enhances the Stability of an Azo Dye, in Solution and when Bonded to Cellulose</h3>
+											<p><refdata class="authors">M.R. Craig, M.G. Hutchings, T.D.W. Claridge and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/cgi-bin/jtoc?ID=26737">Angew. Chem. Int. Ed.</a></refdata>,
+												<refdata class="year">2001</refdata>,
+												<refdata class="volume">40</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/1521-3773(20010316)40:6<1071::AID-ANIE10710>3.0.CO;2-5">1071-1074</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">67</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Synthesis of fluorescent stilbene and tolan rotaxanes by Suzuki coupling</h3>
+											<p><refdata class="authors">C.A. Stanier, M.J. O'Connell, W. Clegg and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/is/journals/current/chemcomm/cccpub.htm">Chem. Commun.</a></refdata>,
+												<refdata class="year">2001</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b010015n">493 - 494</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">66</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Photoexcitations of Covalently Bridged Zinc Porphyrin Oligomers: Frenkel versus Wannier-Mott Type Excitons</h3>
+											<p><refdata class="authors">J.J. Piet, P.N. Taylor, B.R. Wegewijs, H.L. Anderson, A. Osuka and J.M. Warman.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journals/jpcbfk/index.html">J. Phys. Chem. B</a></refdata>,
+												<refdata class="year">2001</refdata>,
+												<refdata class="volume">105</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/jp0030140">97-104</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="row">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">65</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Synthesis and third order nonlinear optics of a new soluble conjugated porphyrin polymer</h3>
+											<p><refdata class="authors">T.E.O. Screen, K.B. Lawton, G.S. Wilson, N.Dolney, R. Ispasoiu, T. Goodson, S.J. Martin, D.D.C. Bradley and H.L. Anderso.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/is/journals/current/jmc/mappub.htm">J. Mater. Chem.</a></refdata>,
+												<refdata class="year">2001</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b007250h">312-320</a></refdata>
+											</p>
+										</div>
+									</div>
+						  </section>
+							
+						<center>
+							<ul class="pagination">
+								<li><a href="publications/2010.shtml" class="button">Prev</a></li>
+								<li><a href="publications/2020.shtml" class="page">Current</a></li>
+								<li><a href="publications/2015.shtml" class="page">2015</a></li>
+								<li><a href="publications/2010.shtml" class="page">2010</a></li>
+								<li><a href="publications/2005.shtml" class="page active">2005</a></li>
+								<li><a href="publications/2000.shtml" class="page">2000</a></li>
+								<li><a href="publications/1995.shtml" class="page">1995</a></li>
+								<li><a href="publications/theses.shtml" class="page">Theses</a></li>
+								<li><a href="publications/2000.shtml" class="button">Next</a></li>
+							</ul>
+						</center>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+				<!--#include virtual="/includes/sidebar.inc" -->	
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/browser.min.js"></script>
+			<script src="../assets/js/breakpoints.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<script src="../assets/js/main.js"></script>
+
+	</body>
+</html>

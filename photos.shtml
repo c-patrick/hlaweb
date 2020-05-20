@@ -1,0 +1,1511 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Anderson Research Group | University of Oxford</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/blueimp-gallery/css/blueimp-gallery.min.css" />
+	</head>
+	<body class="is-preload">
+
+		<div
+			id="blueimp-gallery"
+			class="blueimp-gallery blueimp-gallery-controls">
+			<div class="slides"></div>
+			<h3 class="title"></h3>
+			<a class="prev">‹</a>
+			<a class="next">›</a>
+			<a class="close">×</a>
+			<a class="play-pause"></a>
+			<ol class="indicator"></ol>
+		</div>
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								<!--#include virtual="includes/header.inc" -->
+
+
+							<!-- Content -->
+								<section>
+									<header class="major">
+										<h2>The Social Side of the Group</h2>
+									</header>
+									
+									<nav id="lightbox">
+										
+									<ul>
+										<li> <span class="opener">2019</span>
+										  <ul>
+												<li><a href="#">Christmas Dinner</a></li>
+													<div id="2019_christmas">
+														<a
+															href="images/social/2019_xmas/full1.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2019_xmas">
+															<img src="images/social/2019_xmas/thumb1.jpg" alt="Christmas" />
+														</a>
+													</div>
+												<li><a href="#">Punting</a></li>
+													<div id="2019_punting">
+														<a
+															href="images/social/2019_punting/full1.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2019_punting">
+															<img src="images/social/2019_punting/thumb1.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2019_punting/full2.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2019_punting">
+															<img src="images/social/2019_punting/thumb2.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2019_punting/full3.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2019_punting">
+															<img src="images/social/2019_punting/thumb3.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2019_punting/full4.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2019_punting">
+															<img src="images/social/2019_punting/thumb4.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2019_punting/full5.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2019_punting">
+															<img src="images/social/2019_punting/thumb5.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2019_punting/full6.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2019_punting">
+															<img src="images/social/2019_punting/thumb6.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2019_punting/full7.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2019_punting">
+															<img src="images/social/2019_punting/thumb7.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2019_punting/full8.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2019_punting">
+															<img src="images/social/2019_punting/thumb8.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2019_punting/full9.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2019_punting">
+															<img src="images/social/2019_punting/thumb9.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2019_punting/full10.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2019_punting">
+															<img src="images/social/2019_punting/thumb10.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2019_punting/full11.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2019_punting">
+															<img src="images/social/2019_punting/thumb11.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2019_punting/full12.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2019_punting">
+															<img src="images/social/2019_punting/thumb12.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2019_punting/full13.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2019_punting">
+															<img src="images/social/2019_punting/thumb13.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2019_punting/full14.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2019_punting">
+															<img src="images/social/2019_punting/thumb14.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2019_punting/full15.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2019_punting">
+															<img src="images/social/2019_punting/thumb15.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2019_punting/full16.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2019_punting">
+															<img src="images/social/2019_punting/thumb16.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2019_punting/full17.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2019_punting">
+															<img src="images/social/2019_punting/thumb17.jpg" alt="Punting" />
+														</a>
+													</div>
+											</ul>
+										</li>
+										<li>
+											<span class="opener">2018</span>
+											<ul>
+												<li><a href="#">Christmas Dinner</a></li>
+													<div id="2018_christmas">
+														<a
+															href="images/social/2018_xmas/full1.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2018_xmas">
+															<img src="images/social/2018_xmas/thumb1.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2018_xmas/full2.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2018_xmas">
+															<img src="images/social/2018_xmas/thumb2.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2018_xmas/full3.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2018_xmas">
+															<img src="images/social/2018_xmas/thumb3.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2018_xmas/full4.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2018_xmas">
+															<img src="images/social/2018_xmas/thumb4.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2018_xmas/full5.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2018_xmas">
+															<img src="images/social/2018_xmas/thumb5.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2018_xmas/full6.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2018_xmas">
+															<img src="images/social/2018_xmas/thumb6.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2018_xmas/full7.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2018_xmas">
+															<img src="images/social/2018_xmas/thumb7.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2018_xmas/full8.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2018_xmas">
+															<img src="images/social/2018_xmas/thumb8.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2018_xmas/full9.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2018_xmas">
+															<img src="images/social/2018_xmas/thumb9.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2018_xmas/full10.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2018_xmas">
+															<img src="images/social/2018_xmas/thumb10.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2018_xmas/full11.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2018_xmas">
+															<img src="images/social/2018_xmas/thumb11.jpg" alt="Christmas" />
+														</a>
+													</div>
+											</ul>
+										</li>
+										<li>
+											<span class="opener">2017</span>
+											<ul>
+													<div id="2017">
+														<a
+															href="images/social/2017/full1.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb1.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full2.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb2.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full3.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb3.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full4.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb4.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full5.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb5.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full6.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb6.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full7.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb7.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full8.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb8.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full9.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb9.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full10.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb10.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full11.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb11.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full12.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb12.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full13.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb13.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full14.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb14.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full15.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb15.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full16.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb16.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full17.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb17.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full18.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb18.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full19.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb19.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full20.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb20.jpg" alt="2017" />
+														</a>
+														<a
+															href="images/social/2017/full21.JPG"
+															title="2017"
+															data-gallery="#blueimp-gallery-2017">
+															<img src="images/social/2017/thumb21.jpg" alt="2017" />
+														</a>
+													</div>
+											</ul>
+										</li>
+										<li>
+											<span class="opener">2016</span>
+											<ul>
+													<div id="2016">
+														<a
+															href="images/social/2016/full1.jpg"
+															title="2016"
+															data-gallery="#blueimp-gallery-2016">
+															<img src="images/social/2016/thumb1.jpg" alt="2016" />
+														</a>
+														<a
+															href="images/social/2016/full2.jpg"
+															title="2016"
+															data-gallery="#blueimp-gallery-2016">
+															<img src="images/social/2016/thumb2.jpg" alt="2016" />
+														</a>
+														<a
+															href="images/social/2016/full3.jpg"
+															title="2016"
+															data-gallery="#blueimp-gallery-2016">
+															<img src="images/social/2016/thumb3.jpg" alt="2016" />
+														</a>
+														<a
+															href="images/social/2016/full4.jpg"
+															title="2016"
+															data-gallery="#blueimp-gallery-2016">
+															<img src="images/social/2016/thumb4.jpg" alt="2016" />
+														</a>
+														<a
+															href="images/social/2016/full5.jpg"
+															title="2016"
+															data-gallery="#blueimp-gallery-2016">
+															<img src="images/social/2016/thumb5.jpg" alt="2016" />
+														</a>
+														<a
+															href="images/social/2016/full6.jpg"
+															title="2016"
+															data-gallery="#blueimp-gallery-2016">
+															<img src="images/social/2016/thumb6.jpg" alt="2016" />
+														</a>
+														<a
+															href="images/social/2016/full7.jpg"
+															title="2016"
+															data-gallery="#blueimp-gallery-2016">
+															<img src="images/social/2016/thumb7.jpg" alt="2016" />
+														</a>
+													</div>
+											</ul>
+										</li>
+										<li>
+											<span class="opener">2015</span>
+											<ul>
+													<div id="2015">
+														<a
+															href="images/social/2015/full1.jpg"
+															title="2015"
+															data-gallery="#blueimp-gallery-2015">
+															<img src="images/social/2015/thumb1.jpg" alt="2015" />
+														</a>
+														<a
+															href="images/social/2015/full2.jpg"
+															title="2015"
+															data-gallery="#blueimp-gallery-2015">
+															<img src="images/social/2015/thumb2.jpg" alt="2015" />
+														</a>
+														<a
+															href="images/social/2015/full3.jpg"
+															title="2015"
+															data-gallery="#blueimp-gallery-2015">
+															<img src="images/social/2015/thumb3.jpg" alt="2015" />
+														</a>
+														<a
+															href="images/social/2015/full4.jpg"
+															title="2015"
+															data-gallery="#blueimp-gallery-2015">
+															<img src="images/social/2015/thumb4.jpg" alt="2015" />
+														</a>
+														<a
+															href="images/social/2015/full5.jpg"
+															title="2015"
+															data-gallery="#blueimp-gallery-2015">
+															<img src="images/social/2015/thumb5.jpg" alt="2015" />
+														</a>
+														<a
+															href="images/social/2015/full6.jpg"
+															title="2015"
+															data-gallery="#blueimp-gallery-2015">
+															<img src="images/social/2015/thumb6.jpg" alt="2015" />
+														</a>
+														<a
+															href="images/social/2015/full7.jpg"
+															title="2015"
+															data-gallery="#blueimp-gallery-2015">
+															<img src="images/social/2015/thumb7.jpg" alt="2015" />
+														</a>
+														<a
+															href="images/social/2015/full8.jpg"
+															title="2015"
+															data-gallery="#blueimp-gallery-2015">
+															<img src="images/social/2015/thumb8.jpg" alt="2015" />
+														</a>
+														<a
+															href="images/social/2015/full9.jpg"
+															title="2015"
+															data-gallery="#blueimp-gallery-2015">
+															<img src="images/social/2015/thumb9.jpg" alt="2015" />
+														</a>
+														<a
+															href="images/social/2015/full10.jpg"
+															title="2015"
+															data-gallery="#blueimp-gallery-2015">
+															<img src="images/social/2015/thumb10.jpg" alt="2015" />
+														</a>
+														<a
+															href="images/social/2015/full11.jpg"
+															title="2015"
+															data-gallery="#blueimp-gallery-2015">
+															<img src="images/social/2015/thumb11.jpg" alt="2015" />
+														</a>
+														<a
+															href="images/social/2015/full12.jpg"
+															title="2015"
+															data-gallery="#blueimp-gallery-2015">
+															<img src="images/social/2015/thumb12.jpg" alt="2015" />
+														</a>
+														<a
+															href="images/social/2015/full13.jpg"
+															title="2015"
+															data-gallery="#blueimp-gallery-2015">
+															<img src="images/social/2015/thumb13.jpg" alt="2015" />
+														</a>
+														<a
+															href="images/social/2015/full14.jpg"
+															title="2015"
+															data-gallery="#blueimp-gallery-2015">
+															<img src="images/social/2015/thumb14.jpg" alt="2015" />
+														</a>
+														<a
+															href="images/social/2015/full15.jpg"
+															title="2015"
+															data-gallery="#blueimp-gallery-2015">
+															<img src="images/social/2015/thumb15.jpg" alt="2015" />
+														</a>
+														<a
+															href="images/social/2015/full16.jpg"
+															title="2015"
+															data-gallery="#blueimp-gallery-2015">
+															<img src="images/social/2015/thumb16.jpg" alt="2015" />
+														</a>
+														<a
+															href="images/social/2015/full17.jpg"
+															title="2015"
+															data-gallery="#blueimp-gallery-2015">
+															<img src="images/social/2015/thumb17.jpg" alt="2015" />
+														</a>
+														<a
+															href="images/social/2015/full18.jpg"
+															title="2015"
+															data-gallery="#blueimp-gallery-2015">
+															<img src="images/social/2015/thumb18.jpg" alt="2015" />
+														</a>
+													</div>
+													<li><a href="#">Christmas Dinner</a></li>
+													<div id="2015_christmas">
+														<a
+															href="images/social/2015_xmas/full1.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2015_xmas">
+															<img src="images/social/2015_xmas/thumb1.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2015_xmas/full2.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2015_xmas">
+															<img src="images/social/2015_xmas/thumb2.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2015_xmas/full3.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2015_xmas">
+															<img src="images/social/2015_xmas/thumb3.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2015_xmas/full4.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2015_xmas">
+															<img src="images/social/2015_xmas/thumb4.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2015_xmas/full5.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2015_xmas">
+															<img src="images/social/2015_xmas/thumb5.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2015_xmas/full6.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2015_xmas">
+															<img src="images/social/2015_xmas/thumb6.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2015_xmas/full7.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2015_xmas">
+															<img src="images/social/2015_xmas/thumb7.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2015_xmas/full8.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2015_xmas">
+															<img src="images/social/2015_xmas/thumb8.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2015_xmas/full9.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2015_xmas">
+															<img src="images/social/2015_xmas/thumb9.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2015_xmas/full10.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2015_xmas">
+															<img src="images/social/2015_xmas/thumb10.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2015_xmas/full11.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2015_xmas">
+															<img src="images/social/2015_xmas/thumb11.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2015_xmas/full12.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2015_xmas">
+															<img src="images/social/2015_xmas/thumb12.jpg" alt="Christmas" />
+														</a>
+													</div>
+											</ul>
+										</li>
+										<li>
+											<span class="opener">2014</span>
+											<ul>
+													<div id="2014">
+														<a
+															href="images/social/2014/full1.jpg"
+															title="2014"
+															data-gallery="#blueimp-gallery-2014">
+															<img src="images/social/2014/thumb1.jpg" alt="2014" />
+														</a>
+														<a
+															href="images/social/2014/full2.jpg"
+															title="2014"
+															data-gallery="#blueimp-gallery-2014">
+															<img src="images/social/2014/thumb2.jpg" alt="2014" />
+														</a>
+														<a
+															href="images/social/2014/full3.jpg"
+															title="2014"
+															data-gallery="#blueimp-gallery-2014">
+															<img src="images/social/2014/thumb3.jpg" alt="2014" />
+														</a>
+														<a
+															href="images/social/2014/full4.jpg"
+															title="2014"
+															data-gallery="#blueimp-gallery-2014">
+															<img src="images/social/2014/thumb4.jpg" alt="2014" />
+														</a>
+														<a
+															href="images/social/2014/full5.jpg"
+															title="2014"
+															data-gallery="#blueimp-gallery-2014">
+															<img src="images/social/2014/thumb5.jpg" alt="2014" />
+														</a>
+														<a
+															href="images/social/2014/full6.jpg"
+															title="2014"
+															data-gallery="#blueimp-gallery-2014">
+															<img src="images/social/2014/thumb6.jpg" alt="2014" />
+														</a>
+														<a
+															href="images/social/2014/full7.jpg"
+															title="2014"
+															data-gallery="#blueimp-gallery-2014">
+															<img src="images/social/2014/thumb7.jpg" alt="2014" />
+														</a>
+														<a
+															href="images/social/2014/full8.jpg"
+															title="2014"
+															data-gallery="#blueimp-gallery-2014">
+															<img src="images/social/2014/thumb8.jpg" alt="2014" />
+														</a>
+														<a
+															href="images/social/2014/full9.jpg"
+															title="2014"
+															data-gallery="#blueimp-gallery-2014">
+															<img src="images/social/2014/thumb9.jpg" alt="2014" />
+														</a>
+													</div>
+												<li><a href="#">Punting</a></li>
+													<div id="2014_punting">
+														<a
+															href="images/social/2014_punting/full1.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb1.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full2.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb2.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full3.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb3.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full4.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb4.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full5.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb5.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full6.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb6.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full7.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb7.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full8.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb8.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full9.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb9.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full10.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb10.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full11.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb11.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full12.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb12.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full13.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb13.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full14.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb14.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full15.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb15.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full16.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb16.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full17.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb17.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full18.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb18.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full19.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb19.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full20.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb20.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full21.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb21.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full22.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb22.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full23.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb23.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full24.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb24.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full25.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb25.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full26.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb26.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full27.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb27.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full28.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb28.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full29.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb29.jpg" alt="Punting" />
+														</a>
+														<a
+															href="images/social/2014_punting/full30.jpg"
+															title="Punting"
+															data-gallery="#blueimp-gallery-2014_punting">
+															<img src="images/social/2014_punting/thumb30.jpg" alt="Punting" />
+														</a>
+													</div>
+												<li><a href="#">Christmas Dinner</a></li>
+													<div id="2014_christmas">
+														<a
+															href="images/social/2014_xmas/full1.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2014_xmas">
+															<img src="images/social/2014_xmas/thumb1.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2014_xmas/full2.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2014_xmas">
+															<img src="images/social/2014_xmas/thumb2.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2014_xmas/full3.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2014_xmas">
+															<img src="images/social/2014_xmas/thumb3.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2014_xmas/full4.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2014_xmas">
+															<img src="images/social/2014_xmas/thumb4.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2014_xmas/full5.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2014_xmas">
+															<img src="images/social/2014_xmas/thumb5.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2014_xmas/full6.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2014_xmas">
+															<img src="images/social/2014_xmas/thumb6.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2014_xmas/full7.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2014_xmas">
+															<img src="images/social/2014_xmas/thumb7.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2014_xmas/full8.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2014_xmas">
+															<img src="images/social/2014_xmas/thumb8.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2014_xmas/full9.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2014_xmas">
+															<img src="images/social/2014_xmas/thumb9.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2014_xmas/full10.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2014_xmas">
+															<img src="images/social/2014_xmas/thumb10.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2014_xmas/full11.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2014_xmas">
+															<img src="images/social/2014_xmas/thumb11.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2014_xmas/full12.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2014_xmas">
+															<img src="images/social/2014_xmas/thumb12.jpg" alt="Christmas" />
+														</a>
+													</div>
+											</ul>
+										</li>
+										<li> <span class="opener">2013</span>
+										  <ul>
+												<li><a href="#">HLA Reunion - September</a></li>
+													<div id="2013_reunion">
+														<a
+															href="images/social/2013_reunion/full1.jpg"
+															title="HLA Reunion"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_reunion/thumb1.jpg" alt="HLA Reunion" />
+														</a>
+														<a
+															href="images/social/2013_reunion/full2.jpg"
+															title="HLA Reunion"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_reunion/thumb2.jpg" alt="HLA Reunion" />
+														</a>
+														<a
+															href="images/social/2013_reunion/full3.jpg"
+															title="HLA Reunion"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_reunion/thumb3.jpg" alt="HLA Reunion" />
+														</a>
+														<a
+															href="images/social/2013_reunion/full4.jpg"
+															title="HLA Reunion"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_reunion/thumb4.jpg" alt="HLA Reunion" />
+														</a>
+														<a
+															href="images/social/2013_reunion/full5.jpg"
+															title="HLA Reunion"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_reunion/thumb5.jpg" alt="HLA Reunion" />
+														</a>
+														<a
+															href="images/social/2013_reunion/full6.jpg"
+															title="HLA Reunion"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_reunion/thumb6.jpg" alt="HLA Reunion" />
+														</a>
+														<a
+															href="images/social/2013_reunion/full7.jpg"
+															title="HLA Reunion"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_reunion/thumb7.jpg" alt="HLA Reunion" />
+														</a>
+														<a
+															href="images/social/2013_reunion/full8.jpg"
+															title="HLA Reunion"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_reunion/thumb8.jpg" alt="HLA Reunion" />
+														</a>
+														<a
+															href="images/social/2013_reunion/full9.jpg"
+															title="HLA Reunion"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_reunion/thumb9.jpg" alt="HLA Reunion" />
+														</a>
+														<a
+															href="images/social/2013_reunion/full10.jpg"
+															title="HLA Reunion"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_reunion/thumb10.jpg" alt="HLA Reunion" />
+														</a>
+														<a
+															href="images/social/2013_reunion/full11.jpg"
+															title="HLA Reunion"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_reunion/thumb11.jpg" alt="HLA Reunion" />
+														</a>
+														<a
+															href="images/social/2013_reunion/full12.jpg"
+															title="HLA Reunion"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_reunion/thumb12.jpg" alt="HLA Reunion" />
+														</a>
+														<a
+															href="images/social/2013_reunion/full13.jpg"
+															title="HLA Reunion"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_reunion/thumb13.jpg" alt="HLA Reunion" />
+														</a>
+											  		</div>
+											  		<li><a href="#">Christmas Dinner</a></li>
+											  		<div id="2013_christmas">
+														<a
+															href="images/social/2013_secret_santa/full1.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb1.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_secret_santa/full2.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb2.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_secret_santa/full3.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb3.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_secret_santa/full4.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb4.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_secret_santa/full5.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb5.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_secret_santa/full6.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb6.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_secret_santa/full7.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb7.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_secret_santa/full8.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb8.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_secret_santa/full9.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb9.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_secret_santa/full10.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb10.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_secret_santa/full11.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb11.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_secret_santa/full12.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb12.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_secret_santa/full13.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb13.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_secret_santa/full14.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb14.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_secret_santa/full15.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb15.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_secret_santa/full16.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb16.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_secret_santa/full17.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb17.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_secret_santa/full18.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb18.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_secret_santa/full19.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_secret_santa/thumb19.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_xmas/full1.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_xmas/thumb1.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_xmas/full2.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_xmas/thumb2.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_xmas/full3.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_xmas/thumb3.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_xmas/full4.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_xmas/thumb4.jpg" alt="Christmas" />
+														</a>
+														<a
+															href="images/social/2013_xmas/full5.jpg"
+															title="Christmas"
+															data-gallery="#blueimp-gallery-2013_xmas">
+															<img src="images/social/2013_xmas/thumb5.jpg" alt="Christmas" />
+														</a>
+													</div>
+											</ul>
+										</li>
+										<li>
+											<span class="opener">2012</span>
+											<ul>
+													<div id="2012">
+														<a
+															href="images/social/2012/full1.jpg"
+															title="2012"
+															data-gallery="#blueimp-gallery-2012">
+															<img src="images/social/2012/thumb1.jpg" alt="2012" />
+														</a>
+														<a
+															href="images/social/2012/full2.jpg"
+															title="2012"
+															data-gallery="#blueimp-gallery-2012">
+															<img src="images/social/2012/thumb2.jpg" alt="2012" />
+														</a>
+														<a
+															href="images/social/2012/full3.jpg"
+															title="2012"
+															data-gallery="#blueimp-gallery-2012">
+															<img src="images/social/2012/thumb3.jpg" alt="2012" />
+														</a>
+														<a
+															href="images/social/2012/full4.jpg"
+															title="2012"
+															data-gallery="#blueimp-gallery-2012">
+															<img src="images/social/2012/thumb4.jpg" alt="2012" />
+														</a>
+														<a
+															href="images/social/2012/full5.jpg"
+															title="2012"
+															data-gallery="#blueimp-gallery-2012">
+															<img src="images/social/2012/thumb5.jpg" alt="2012" />
+														</a>
+														<a
+															href="images/social/2012/full6.jpg"
+															title="2012"
+															data-gallery="#blueimp-gallery-2012">
+															<img src="images/social/2012/thumb6.jpg" alt="2012" />
+														</a>
+														<a
+															href="images/social/2012/full7.jpg"
+															title="2012"
+															data-gallery="#blueimp-gallery-2012">
+															<img src="images/social/2012/thumb7.jpg" alt="2012" />
+														</a>
+														<a
+															href="images/social/2012/full8.jpg"
+															title="2012"
+															data-gallery="#blueimp-gallery-2012">
+															<img src="images/social/2012/thumb8.jpg" alt="2012" />
+														</a>
+														<a
+															href="images/social/2012/full9.jpg"
+															title="2012"
+															data-gallery="#blueimp-gallery-2012">
+															<img src="images/social/2012/thumb9.jpg" alt="2012" />
+														</a>
+														<a
+															href="images/social/2012/full10.jpg"
+															title="2012"
+															data-gallery="#blueimp-gallery-2012">
+															<img src="images/social/2012/thumb10.jpg" alt="2012" />
+														</a>
+														<a
+															href="images/social/2012/full11.jpg"
+															title="2012"
+															data-gallery="#blueimp-gallery-2012">
+															<img src="images/social/2012/thumb11.jpg" alt="2012" />
+														</a>
+														<a
+															href="images/social/2012/full12.jpg"
+															title="2012"
+															data-gallery="#blueimp-gallery-2012">
+															<img src="images/social/2012/thumb12.jpg" alt="2012" />
+														</a>
+													</div>
+											</ul>
+										</li>
+										<li>
+											<span class="opener">2011</span>
+											<ul>
+													<div id="2011">
+														<a
+															href="images/social/2011/full1.jpg"
+															title="2011"
+															data-gallery="#blueimp-gallery-2011">
+															<img src="images/social/2011/thumb1.jpg" alt="2011" />
+														</a>
+														<a
+															href="images/social/2011/full2.jpg"
+															title="2011"
+															data-gallery="#blueimp-gallery-2011">
+															<img src="images/social/2011/thumb2.jpg" alt="2011" />
+														</a>
+														<a
+															href="images/social/2011/full3.jpg"
+															title="2011"
+															data-gallery="#blueimp-gallery-2011">
+															<img src="images/social/2011/thumb3.jpg" alt="2011" />
+														</a>
+														<a
+															href="images/social/2011/full4.jpg"
+															title="2011"
+															data-gallery="#blueimp-gallery-2011">
+															<img src="images/social/2011/thumb4.jpg" alt="2011" />
+														</a>
+														<a
+															href="images/social/2011/full5.jpg"
+															title="2011"
+															data-gallery="#blueimp-gallery-2011">
+															<img src="images/social/2011/thumb5.jpg" alt="2011" />
+														</a>
+														<a
+															href="images/social/2011/full6.jpg"
+															title="2011"
+															data-gallery="#blueimp-gallery-2011">
+															<img src="images/social/2011/thumb6.jpg" alt="2011" />
+														</a>
+														<a
+															href="images/social/2011/full7.jpg"
+															title="2011"
+															data-gallery="#blueimp-gallery-2011">
+															<img src="images/social/2011/thumb7.jpg" alt="2011" />
+														</a>
+													</div>
+											</ul>
+										</li>
+										<li>
+											<span class="opener">2010</span>
+											<ul>
+													<div id="2010">
+														<a
+															href="images/social/2010/full1.jpg"
+															title="2010"
+															data-gallery="#blueimp-gallery-2010">
+															<img src="images/social/2010/thumb1.jpg" alt="2010" />
+														</a>
+														<a
+															href="images/social/2010/full2.jpg"
+															title="2010"
+															data-gallery="#blueimp-gallery-2010">
+															<img src="images/social/2010/thumb2.jpg" alt="2010" />
+														</a>
+														<a
+															href="images/social/2010/full3.jpg"
+															title="2010"
+															data-gallery="#blueimp-gallery-2010">
+															<img src="images/social/2010/thumb3.jpg" alt="2010" />
+														</a>
+														<a
+															href="images/social/2010/full4.jpg"
+															title="2010"
+															data-gallery="#blueimp-gallery-2010">
+															<img src="images/social/2010/thumb4.jpg" alt="2010" />
+														</a>
+														<a
+															href="images/social/2010/full5.jpg"
+															title="2010"
+															data-gallery="#blueimp-gallery-2010">
+															<img src="images/social/2010/thumb5.jpg" alt="2010" />
+														</a>
+														<a
+															href="images/social/2010/full6.jpg"
+															title="2010"
+															data-gallery="#blueimp-gallery-2010">
+															<img src="images/social/2010/thumb6.jpg" alt="2010" />
+														</a>
+														<a
+															href="images/social/2010/full7.jpg"
+															title="2010"
+															data-gallery="#blueimp-gallery-2010">
+															<img src="images/social/2010/thumb7.jpg" alt="2010" />
+														</a>
+														<a
+															href="images/social/2010/full7.jpg"
+															title="2010"
+															data-gallery="#blueimp-gallery-2010">
+															<img src="images/social/2010/thumb7.jpg" alt="2010" />
+														</a>
+														<a
+															href="images/social/2010/full9.jpg"
+															title="2010"
+															data-gallery="#blueimp-gallery-2010">
+															<img src="images/social/2010/thumb9.jpg" alt="2010" />
+														</a>
+														<a
+															href="images/social/2010/full10.jpg"
+															title="2010"
+															data-gallery="#blueimp-gallery-2010">
+															<img src="images/social/2010/thumb10.jpg" alt="2010" />
+														</a>
+														<a
+															href="images/social/2010/full11.jpg"
+															title="2010"
+															data-gallery="#blueimp-gallery-2010">
+															<img src="images/social/2010/thumb11.jpg" alt="2010" />
+														</a>
+														<a
+															href="images/social/2010/full12.jpg"
+															title="2010"
+															data-gallery="#blueimp-gallery-2010">
+															<img src="images/social/2010/thumb12.jpg" alt="2010" />
+														</a>
+													</div>
+											</ul>
+										</li>
+										<li>
+											<span class="opener">Annual Group Photos</span>
+											<ul>
+													<div id="group_photos">
+														<a
+															href="images/social/group_archive/full1.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb1.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full2.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb2.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full3.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb3.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full4.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb4.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full5.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb5.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full6.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb6.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full7.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb7.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full8.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb8.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full9.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb9.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full10.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb10.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full11.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb11.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full12.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb12.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full13.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb13.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full14.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb14.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full15.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb15.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full16.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb16.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full17.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb17.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full18.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb18.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full19.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb19.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full20.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb20.jpg" alt="Annual Group Photos" />
+														</a>
+													</div>
+											</ul>
+										</li>
+									</ul>
+								</nav>
+						  </section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+				<!--#include virtual="/includes/sidebar.inc" -->	
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script src="assets/blueimp-gallery/js/jquery.blueimp-gallery.min.js"></script>
+	</body>
+</html>

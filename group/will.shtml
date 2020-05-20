@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Anderson Research Group | University of Oxford</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="/assets/css/main.css" />
+		<!--#include virtual="/includes/base.inc" -->
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								<!--#include virtual="/includes/header.inc" -->
+
+
+							<!-- Content -->
+								<section>
+									<header class="name-center">
+									  <h2>William Kendrick</h2>
+									</header>
+
+									<span class="image profile"><img src="/images/group/people/will.jpg" alt="" /></span>
+
+									<h3>DPhil Student (2016-)</h3><br>
+
+									<p>
+										<b>Project:</b> Synthesis of porphyrin-based molecular wires and nano rings.<br_profile>
+										<b>Support:</b> John Templeton Foundation.<br_profile>
+										<b>Previous Degrees:</b> MChem at Durham University, MChem project in industry with AWE ('Rapid Actinide Separations') (2012-2016).<br_profile>
+										<b>Other Interests:</b> Football, socialising, films, music.</a>
+									</p>
+						  </section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+				<!--#include virtual="/includes/sidebar.inc" -->	
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="/assets/js/jquery.min.js"></script>
+			<script src="/assets/js/browser.min.js"></script>
+			<script src="/assets/js/breakpoints.min.js"></script>
+			<script src="/assets/js/util.js"></script>
+			<script src="/assets/js/main.js"></script>
+
+	</body>
+</html>

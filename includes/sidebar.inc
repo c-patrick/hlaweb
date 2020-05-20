@@ -4,7 +4,7 @@
 							<!-- Menu -->
 						  <nav id="menu">
 							  		<p class="align-center">
-										<img src="/images/oxlogo_square.svg" width="50%" alt="centered image" />
+										<a href="https://www.chem.ox.ac.uk/"><img src="/images/oxlogo_square.svg" width="50%" alt="Oxford Logo" /></a>
 							  		</p>
 
 									<header class="major">
@@ -17,10 +17,10 @@
 											<span class="opener">Publications</span>
 											<ul>
 												<li><a href="/publications/2020.shtml">2016-present</a></li>
-												<li><a href="#">2011-2015</a></li>
-												<li><a href="#">2006-2010</a></li>
-												<li><a href="#">2001-2005</a></li>
-												<li><a href="#">1996-2000</a></li>
+												<li><a href="/publications/2015.shtml">2011-2015</a></li>
+												<li><a href="/publications/2010.shtml">2006-2010</a></li>
+												<li><a href="/publications/2005.shtml">2001-2005</a></li>
+												<li><a href="/publications/2000.shtml">1996-2000</a></li>
 												<li><a href="/publications/1995.shtml">1989-1995</a></li>
 												<li><a href="#">Theses</a></li>
 											</ul>
@@ -30,15 +30,14 @@
 											<ul>
 												<li><a href="/group/harry.shtml">Meet Harry</a></li>
 												<li><a href="/group.shtml">Current Members</a></li>
-												<li><a href="#">Social Photo Gallery</a></li>
-												<li><a href="#">Alumni</a></li>
+												<li><a href="/photos.shtml">Social Photo Gallery</a></li>
+												<li><a href="/alumni.shtml">Alumni</a></li>
 											</ul>
 										</li>
 										<li>
 											<span class="opener">Facilities</span>
 											<ul>
-												<li><a href="#">Equipment</a></li>
-												<li><a href="#">Virtual Lab Tour</a></li>
+												<li><a href="/equipment.shtml">Equipment</a></li>
 												<li><a href="http://www.chem.ox.ac.uk/research.shtml">Oxford Chemistry</a></li>
 											</ul>
 										</li>
@@ -56,7 +55,7 @@
 									<div class="mini-posts">
 										<div class="row">
 											<div class="col-4 col-12-small">
-												<a href="#" class="image fit"><img src="images/group/people/will.jpg" alt="" /></a>
+												<a href="group/will.shtml" class="image news"><img src="images/group/people/will.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
 												<p>Goodbye to <a href="group/will.shtml">Will Kendrick</a>, leaving to start a PostDoc at the University of Melbourne.</p>
@@ -67,7 +66,7 @@
 										
 										<div class="row">
 											<div class="col-4 col-12-small">
-												<a href="#" class="image fit"><img src="images/group/people/james.jpg" alt="" /></a>
+												<a href="group/james.shtml" class="image news"><img src="images/group/people/james.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
 												<p>Goodbye to <a href="group/james.shtml">James Thomas</a>, leaving to start a PostDoc at the Department of Materials, Oxford.</p>
@@ -78,7 +77,7 @@
 										
 										<div class="row">
 											<div class="col-4 col-12-small">
-												<a href="#" class="image fit"><img src="images/group/people/marcin.jpg" alt="" /></a>
+												<a href="group/marcin.shtml" class="image news"><img src="images/group/people/marcin.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
 												<p>Welcome to <a href="group/marcin.shtml">Marcin Majewski</a>, joining us as a Post Doc.</p>
@@ -89,7 +88,7 @@
 										
 										<div class="row">
 											<div class="col-4 col-12-small">
-												<a href="#" class="image fit"><img src="images/group/people/jeff.jpg" alt="" /></a>
+												<a href="group/jeff.shtml" class="image news"><img src="images/group/people/jeff.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
 												<p>A warm welcome to <a href="group/jeff.shtml">Jeff Van Raden</a>, joining us as a Post Doc.</p>
@@ -100,7 +99,7 @@
 										
 										<div class="row">
 											<div class="col-4 col-12-small">
-												<a href="#" class="image fit"><img src="images/group/people/bobby.jpg" alt="" /></a>
+												<a href="group/bobby.shtml" class="image news"><img src="images/group/people/bobby.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
 												<p>Welcome to <a href="group/bobby.shtml">Sili Qiu</a>, starting his DPhil in our group.</p>
@@ -110,28 +109,33 @@
 									
 
 									<ul class="actions center">
-										<li><a href="#" class="button">More</a></li>
+										<li><a href="/news.shtml" class="button">More</a></li>
 									</ul>
 								</section>
 							
 							<!-- Section -->
-<!--								<section>
+								<section>
 									<header class="major">
 										<h2>Get in touch</h2>
 									</header>
-									<p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+									<p>For more of an idea of what we do, take a look at our publications. If you would like to contact Harry, please use the details below:</p>
 									<ul class="contact">
-										<li class="icon solid fa-envelope"><a href="#">information@untitled.tld</a></li>
-										<li class="icon solid fa-phone">(000) 000-0000</li>
-										<li class="icon solid fa-home">1234 Somewhere Road #8254<br />
-										Nashville, TN 00000-0000</li>
+										<li class="icon solid fa-envelope"><a href="mailto:harry.anderson@chem.ox.ac.uk">harry.anderson@chem.ox.ac.uk</a></li>
+										<li class="icon solid fa-phone">+44 (0)1865 2 75704 </li>
+										<li class="icon solid fa-home">
+											Department of Chemistry<br />
+											University of Oxford<br />
+											Chemistry Research Laboratory<br />
+											Mansfield Road<br />
+											Oxford OX1 3TA
+										</li>
 									</ul>
-						  </section> -->
+									<p>If you would like to come and work with us, have a read of our vacancies page.</p>
+									<ul class="actions center">
+										<li><a href="vacancies.shtml" class="button big">Learn More</a></li>
+									</ul>
+						  </section> 
 
-							<!-- Section -->
-								<section>
-									<a class="twitter-timeline" data-height="750" data-theme="light" href="https://twitter.com/HLAGroupOx?ref_src=twsrc%5Etfw">Tweets by HLAGroupOx</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
-						  </section>
 
 							<!-- Footer -->
 								<footer id="footer">

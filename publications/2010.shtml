@@ -1,0 +1,1239 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Anderson Research Group | University of Oxford</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<!--#include virtual="/includes/base.inc" -->
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								<!--#include virtual="/includes/header.inc" -->
+
+
+							<!-- Content -->
+								<section>
+									<header class="major">
+										<h2>Publications</h2>
+									</header>
+									
+									<center>
+										<ul class="pagination">
+											<li><a href="publications/2015.shtml" class="button">Prev</a></li>
+											<li><a href="publications/2020.shtml" class="page">Current</a></li>
+											<li><a href="publications/2015.shtml" class="page">2015</a></li>
+											<li><a href="publications/2010.shtml" class="page active">2010</a></li>
+											<li><a href="publications/2005.shtml" class="page">2005</a></li>
+											<li><a href="publications/2000.shtml" class="page">2000</a></li>
+											<li><a href="publications/1995.shtml" class="page">1995</a></li>
+											<li><a href="publications/theses.shtml" class="page">Theses</a></li>
+											<li><a href="publications/2005.shtml" class="button">Next</a></li>
+										</ul>
+									</center>
+
+									<h2>2010 - 2006</h2>
+									
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">162</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Conformation and Packing of Porphyrin Polymer Chains Deposited Using Electrospray on a Gold Surface</h3>
+											<p><refdata class="authors">A. Saywell, J. K. Sprafke, L. J. Esdaile, A. J. Britton, A. Rienzo, H. L. Anderson, J. N. O'Shea, P. H. Beton.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291521-3773">Angew. Chem. Int. Ed.</a></refdata>,
+												<refdata class="year">2010</refdata>,
+												<refdata class="vol">49</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/anie.201004896">9136-9139</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/162.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">161</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Transition Voltage Spectroscopy of Porphyrin Molecular Wires</h3>
+											<p><refdata class="authors">N. Bennett, G. Xu, L. J. Esdaile, H. L. Anderson, J. E. Macdonald, M. Elliott.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291613-6829">Small</a></refdata>,
+												<refdata class="year">2010</refdata>,
+												<refdata class="vol">6</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/smll.201001046">2604-2611</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/161.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">160</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Dyes for biological second harmonic generation imaging</h3>
+											<p><refdata class="authors">J. E. Reeve, H. L. Anderson, K. Clays.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/Journals/JournalIssues/CP">Phys. Chem. Chem. Phys.</a></refdata>,
+												<refdata class="year">2010</refdata>,
+												<refdata class="vol">12</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C003720F">13484-13498</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/160.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">159</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Extending conjugation in porphyrin dimer carbocations</h3>
+											<p><refdata class="authors">K. J. Thorley, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/publishing/journals/OB/Index.asp">Org. Biomol. Chem.</a></refdata>,
+												<refdata class="year">2010</refdata>,
+												<refdata class="vol">8</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/c003715j">3472-3479</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/159.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">158</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>A Cyclic Porphyrin Trimer as a Receptor for Fullerenes</h3>
+											<p><refdata class="authors">G. Gil-Ram&#237;rez, S. D. Karlen, A. Shundo, K. Porfyrakis, Y. Ito, G. A. D. Briggs, J. J. L. Morton, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/orlef7">Org. Lett.</a></refdata>,
+												<refdata class="year">2010</refdata>,
+												<refdata class="vol">12</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ol101393h">3544-3547</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/158.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">157</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Entangling Remote Nuclear Spins Linked by a Chromophore</h3>
+											<p><refdata class="authors">M. Schaffry, V. Filidou, S. D. Karlen, E. M. Gauger, S. C. Benjamin, H. L. Anderson, A. Ardavan, G. A. D. Briggs, K. Maeda, K. B. Henbest, F. Giustino, J. J. L. Morton, B. W. Lovett.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://prl.aps.org/">Phys. Rev. Lett.</a></refdata>,
+												<refdata class="year">2010</refdata>,
+												<refdata class="vol">104</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1103/PhysRevLett.104.200501">200501-200504</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/157.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">156</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Ultra-Broad Optical Amplification and Two-Colour Amplified Spontaneous Emission in Binary Blends of Insulated Molecular Wires</h3>
+											<p><refdata class="authors">S. Brovelli, T. Virgili, M. M. Mroz, G. Sforazzini, A. Paleari, H. L. Anderson, G. Lanzani, F. Cacialli.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/journal/10008336/home">Adv. Mater.</a></refdata>,
+												<refdata class="year">2010</refdata>,
+												<refdata class="vol">22</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/adma.201000895">3690-3694</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/156.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">155</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Enhanced luminescence properties of highly threaded conjugated polyelectrolytes with potassium counter-ions upon blending with poly(ethylene oxide)</h3>
+											<p><refdata class="authors">G. Latini, G. Winroth, S. Brovelli, S. O. McDonnell, H. L. Anderson, J. M. Mativetsky, P. Samor&#236;, F. Cacialli.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://jap.aip.org/">J. Appl. Phys.</a></refdata>,
+												<refdata class="year">2010</refdata>,
+												<refdata class="vol">107</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1063/1.3372616">124509-124517</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/155.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">154</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Bis-Anthracene Fused Porphyrins: Synthesis, Crystal Structure, and Near-IR Absorption</h3>
+											<p><refdata class="authors">N. K. S. Davis, A. L. Thompson, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/orlef7">Org. Lett.</a></refdata>,
+												<refdata class="year">2010</refdata>,
+												<refdata class="vol">12</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ol100619p">2124-2127</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/154.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">153</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>A Conjugated Thiophene-Based Rotaxane: Synthesis, Spectroscopy, and Modeling</h3>
+											<p><refdata class="authors">L. Zalewski, M. Wykes, S. Brovelli, M. Bonini, T. Breiner, M. Kastler, F. D&#246;tz, D. Beljonne, H. L. Anderson, F. Cacialli, P. Samor.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/journal/26293/home">Chem. Eur. J.</a></refdata>,
+												<refdata class="year">2010</refdata>,
+												<refdata class="vol">16</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/chem.200903353">3933-3941</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/153.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">152</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Photochromic Supramolecular Memory With Nondestructive Readout</h3>
+											<p><refdata class="authors">J. K&#228;rnbratt, M. Hammarson, S. Li, H. L. Anderson, B. Albinsson and J. Andr&#233;asson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/journal/26737/home">Angew. Chem. Int. Ed.</a></refdata>,
+												<refdata class="year">2010</refdata>,
+												<refdata class="vol">49</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/anie.200906088">1854-1857</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/152.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">151</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>White Electroluminescence by Supramolecular Control of Energy Transfer in Blends of Organic-Soluble Encapsulated Polyfluorenes</h3>
+											<p><refdata class="authors">S. Brovelli, F. Meinardi, G. Winroth, O. Fenwick, G. Sforazzini, M. J. Frampton, L. Zalewski, J. A. Levitt, F. Marinello, P. Schiavuta, K. Suhling, H. L. Anderson and F. Cacialli.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/journal/77003362/home">Adv. Funct. Mater.</a></refdata>,
+												<refdata class="year">2010</refdata>,
+												<refdata class="vol">20</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/adfm.200901764">272-280</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/151.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">150</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Radical attraction of like charges</h3>
+											<p><refdata class="authors">H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.nature.com/nchem/index.html">Nature Chem.</a></refdata>,
+												<refdata class="year">2010</refdata>,
+												<refdata class="vol">2</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1038/nchem.494">12-13</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/150.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">149</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Linear and Nonlinear Spectroscopy of a Porphyrin-Squaraine-Porphyrin Conjugated System</h3>
+											<p><refdata class="authors">S. Webster, S. A. Odom, L. A. Padilha, O. V. Przhonska, D. Peceli, H. Hu, G. Nootz, A. D. Kachkovski, J. Matichak, S. Barlow, H. L. Anderson, S. R. Marder, D. J. Hagan and E. W. Van Stryland.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jpcbfk">J. Phys. Chem. B</a></refdata>,
+												<refdata class="year">2009</refdata>,
+												<refdata class="vol">113</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/jp904460f">14854-14867</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/149.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">148</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Metalloporphyrin polymer with temporally agile, broadband nonlinear absorption for optical limiting in the near infrared</h3>
+											<p><refdata class="authors">J. M. Hales, M. Cozzuol, T. E. O. Screen, H. L. Anderson and J. W. Perry.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.opticsinfobase.org/oe/Issue.cfm">Optics Express</a></refdata>,
+												<refdata class="year">2009</refdata>,
+												<refdata class="vol">17</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1364/OE.17.018478">18478-18488</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/148.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">147</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Photophysical Properties of an Alkyne-Bridged Bis(zinc porphyrin)- Perylene Bis(dicarboximide) Derivative</h3>
+											<p><refdata class="authors">S. A. Odom, R. F. Kelley, S. Ohira, T. R. Ensley, C. Huang, L. A. Padilha, S. Webster, V. Coropceanu, S. Barlow, D. J. Hagan, E. W. Van Stryland, J.-L. Bredas, H. L. Anderson, M. R. Wasielewski and S. R. Marder.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jpcafh">J. Phys. Chem. A</a></refdata>,
+												<refdata class="year">2009</refdata>,
+												<refdata class="vol">113</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/jp905214g">10826-10832</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/147.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">146</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>What is Cooperativity?</h3>
+											<p><refdata class="authors">C. A. Hunter, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/journal/26737/home">Angew. Chem. Int. Ed.</a></refdata>,
+												<refdata class="year">2009</refdata>,
+												<refdata class="vol">48</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/anie.200902490">7488-7499</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/146.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">145</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Probing Flexibility in Porphyrin-Based Molecular Wires Using Double Electron Electron Resonance</h3>
+											<p><refdata class="authors">J. E. Lovett, M. Hoffmann, A. Cnossen, A. T. J. Shutter, H. J. Hogben, J. E. Warren, S. I. Pascu, C. W. M. Kay, C. R. Timmel, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2009</refdata>,
+												<refdata class="vol">131</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ja905796z">13852-13859</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/145.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">144</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Laser action from a sugar-threaded polyrotaxane</h3>
+											<p><refdata class="authors">M. M. Mr&#243;z, S. Perissinotto, T. Virgili, G. Gigli, M. Salerno, M. J. Frampton, G. Sforazzini, H. L. Anderson, G. Lanzani.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://apl.aip.org/">Appl. Phys. Lett.</a></refdata>,
+												<refdata class="year">2009</refdata>,
+												<refdata class="vol">95</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1063/1.3179689">31108-31110</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/144.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">143</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Photoinduced on-chain charge-separation and ultrafast recombination in a sugar-coated insulated molecular wire</h3>
+											<p><refdata class="authors">M. M. Mr&#243;z, G. Lanzani, T. Virgili, S. O. Mc Donnell, M. J. Frampton, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://prb.aps.org/">Phys. Rev. B.</a></refdata>,
+												<refdata class="year">2009</refdata>,
+												<refdata class="vol">80</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1103/PhysRevB.80.045111">45111-45118</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/143.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">142</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Intramolecular Rotation in a Porphyrin Dimer Controls Singlet Oxygen Production</h3>
+											<p><refdata class="authors">M. K. Kuimova, M. Balaz, H. L. Anderson, P. R. Ogilby.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2009</refdata>,
+												<refdata class="vol">131</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ja901237s">7948-7949</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/142.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">141</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Synthesis and Two-Photon Spectrum of a Bis(Porphyrin)-Substituted Squaraine</h3>
+											<p><refdata class="authors">S. A. Odom, S. Webster, L. A. Padilha, D. Peceli, H. Hu, G. Nootz, S.-J. Chung, S. Ohira, J. D. Matichak, O. V. Przhonska, A. D. Kachkovski, S. Barlow, J.-L. Br&#233;das, H. L. Anderson, D. J. Hagan, E. W. Van Stryland, S. R. Marder.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2009</refdata>,
+												<refdata class="vol">131</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ja901244e">7510-7511</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/141.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">140</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Two-Photon Absorption and the Design of Two-Photon Dyes</h3>
+											<p><refdata class="authors">M. Pawlicki, H. A. Collins, R. G. Denning, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/journal/26737/home">Angew. Chem. Int. Ed.</a></refdata>,
+												<refdata class="year">2009</refdata>,
+												<refdata class="vol">48</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/anie.200805257">3244-3266</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/140.gif" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">139</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>A New Class of Cyanine-like Dyes with Large Bond-Length Alternation</h3>
+											<p><refdata class="authors">S. Ohira, J. M. Hales, K. J. Thorley, H. L. Anderson, J. W. Perry, J.-L. Br&#233;das.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2009</refdata>,
+												<refdata class="vol">131</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ja9007003">6099-6101</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/139.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">138</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Mechanism of Charge Transport along Zinc Porphyrin-Based Molecular Wires</h3>
+											<p><refdata class="authors">A. A. Kocherzhenko, S. Patwardhan, F. C. Grozema, H. L. Anderson, L. D. A. Siebbeles.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2009</refdata>,
+												<refdata class="vol">131</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ja809174y">5522-5529</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/138.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">137</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Imaging intracellular viscosity of a single cell during photoinduced cell death</h3>
+											<p><refdata class="authors">M. K. Kuimova, S. W. Botchway, A. W. Parker, M. Balaz, H. A. Collins, H. L. Anderson, K. Suhling, P. R. Ogilby.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.nature.com/nchem/index.html">Nature Chem.</a></refdata>,
+												<refdata class="year">2009</refdata>,
+												<refdata class="vol">1</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1038/nchem.120">69-73</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/137.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">136</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Influence of cyclodextrin size on fluorescence quenching in conjugated polyrotaxanes by methyl viologen in aqueous solution</h3>
+											<p><refdata class="authors">F. E. Oddy, S. Brovelli, M. T. Stone, E. J. F. Klotz, F. Cacialli and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/Publishing/Journals/jm/">J. Mater. Chem.</a></refdata>,
+												<refdata class="year">2009</refdata>,
+												<refdata class="vol">19</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b821950h">2846-2852</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/136.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">135</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Amphiphilic Porphyrins for Second Harmonic Generation Imaging</h3>
+											<p><refdata class="authors">J. E. Reeve, H. A. Collins, K. De Mey, M. M. Kohl, K. J. Thorley, O. Paulsen, K. Clays, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2009</refdata>,
+												<refdata class="vol">131</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ja8061369">2758-2759</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/135.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">134</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>One- and two-photon activated phototoxicity of conjugated porphyrin dimers with high two-photon absorption cross sections</h3>
+											<p><refdata class="authors">E. Dahlstedt, H. A. Collins, M. Balaz, M. K. Kuimova, M. Khurana, B. C. Wilson, D. Phillips, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/Publishing/Journals/OB/index.asp">Org. Biomol. Chem.</a></refdata>,
+												<refdata class="year">2009</refdata>,
+												<refdata class="vol">7</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b814792b">897-904</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/134.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">133</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Photophysical properties and intracellular imaging of water-soluble porphyrin dimers for two-photon excited photodynamic therapy</h3>
+											<p><refdata class="authors">M. K. Kuimova, H. A. Collins, M. Balaz, E. Dahlstedt, J. A. Levitt, N. Sergent, K. Suhling, M. Drobizhev, N. S. Makarov, A. Rebane, H. L. Anderson, D. Phillips.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/Publishing/Journals/OB/index.asp">Org. Biomol. Chem.</a></refdata>,
+												<refdata class="year">2009</refdata>,
+												<refdata class="vol">7</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b814791d">889-896</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/133.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">132</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Synthesis of hydrophilic conjugated porphyrin dimers for one-photon and two-photon photodynamic therapy at NIR wavelengths</h3>
+											<p><refdata class="authors">M. Balaz, H. A. Collins, E. Dahlstedt, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/Publishing/Journals/OB/index.asp">Org. Biomol. Chem.</a></refdata>,
+												<refdata class="year">2009</refdata>,
+												<refdata class="vol">7</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b814789b">874-888</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/132.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">131</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Tuning Intrachain versus Interchain Photophysics via Control of the Threading Ratio of Conjugated Polyrotaxanes</h3>
+											<p><refdata class="authors">S. Brovelli, G. Latini, M. J. Frampton, S. O. McDonnell, F. E. Oddy, O. Fenwick, H. L. Anderson and F. Cacialli.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/loi/nalefd">Nano Lett. </a></refdata>,
+												<refdata class="year">2008</refdata>,
+												<refdata class="vol">8</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/nl802775a">4546-4551</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/131.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">130</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Synthesis and optoelectronic properties of nonpolar polyrotaxane insulated molecular wires with high solubility in organic solvents</h3>
+											<p><refdata class="authors">M. J. Frampton, G. Sforazzini, E. Townsend, C. Williams, A. Charas, L. Zelewski, N. S. Kaka, M. Sirish, G. Latini, S. Brovelli, L.-J. Parrot, J. S. Wilson, F. Cacialli, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/journal/77003362/home">Adv. Funct. Mat. </a></refdata>,
+												<refdata class="year">2008</refdata>,
+												<refdata class="vol">18</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/adfm.200800653">3367-3376</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/130.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">129</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Synthesis of End-Functionalized Polyanilines</h3>
+											<p><refdata class="authors">R. Eelkema, and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/mamobx">Macromolecules </a></refdata>,
+												<refdata class="year">2008</refdata>,
+												<refdata class="vol">41</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ma801697w">9930-9933</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/129.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">128</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Cyclodextrin-Threaded Conjugated Polyrotaxanes for Organic Electronics: The Influence of the Counter Cations</h3>
+											<p><refdata class="authors">G. Latini, L.-J. Parrott, S. Brovelli, M.J. Frampton, H.L. Anderson, and F. Cacialli.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/journal/77003362/home">Adv. Funct. Mater. </a></refdata>,
+												<refdata class="year">2008</refdata>,
+												<refdata class="vol">18</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/adfm.200800120">2419&#45;2427</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/128.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">127</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Expanding the Porphyrin &pi;-System by Fusion with Anthracene</h3>
+											<p><refdata class="authors">N.K.S. Davis, M. Pawlicki, and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journals/orlef7/index.html">Org. Lett. </a></refdata>,
+												<refdata class="year">2008</refdata>,
+												<refdata class="vol">10</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ol801500b">3945&#45;3947</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/127.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">126</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Control of Rapid Formation of Interchain Excited States in Sugar-Threaded Supramolecular Wires</h3>
+											<p><refdata class="authors">A. Petrozza, S. Brovelli, J.J. Michels, H.L. Anderson, R.H. Friend, C. Silva, and F. Cacialli.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/cgi-bin/jhome/10008336">Adv. Mater. </a></refdata>,
+												<refdata class="year">2008</refdata>,
+												<refdata class="vol">20</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/adma.200800007">3218&#45;3223</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/126.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">125</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Porphyrin Dimer Carbocations with Strong Near Infrared Absorption and Third-Order Optical Nonlinearity</h3>
+											<p><refdata class="authors">K.J. Thorley, J.M. Hales, H.L. Anderson, and J.W. Perry.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/cgi-bin/jtoc/26737">Angew. Chem. Int. Ed. </a></refdata>,
+												<refdata class="year">2008</refdata>,
+												<refdata class="vol">47</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/anie.200802687">7095&#45;7098</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/125.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">124</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Dynamics of Excited-State Conformational Relaxation and Electronic Delocalization in Conjugated Porphyrin Oligomers</h3>
+											<p><refdata class="authors">M.-H. Chang, M. Hoffmann, H.L. Anderson, and L.M. Herz.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journals/jacsat/index.html">J. Am. Chem. Soc. </a></refdata>,
+												<refdata class="year">2008</refdata>,
+												<refdata class="vol">130</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ja711222c">10171&#45;10178</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/124.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">123</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Single Molecule Conductance of Porphyrin Wires with Ultralow Attenuation</h3>
+											<p><refdata class="authors">G. Sedghi, K. Sawada, L.J. Esdaile, M. Hoffmann, H.L. Anderson, D. Bethell, W. Haiss, S.J. Higgins, and R.J. Nichols.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journals/jacsat/index.html">J. Am. Chem. Soc. </a></refdata>,
+												<refdata class="year">2008</refdata>,
+												<refdata class="vol">130</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ja802281c">8582&#45;8583</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/123.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">122</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Blood-vessel closure using photosensitizers engineered for two-photon excitation</h3>
+											<p><refdata class="authors">H. A. Collins, M. Khurana, E. H. Moriyama, A. Mariampillai, E. Dahlstedt, M. Balaz, M. K. Kuimova, M. Drobizhev, V. X. D. Yang, D. Phillips, A. Rebane, B. C. Wilson, and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.nature.com/nphoton/index.html">Nat. Photonics </a></refdata>,
+												<refdata class="year">2008</refdata>,
+												<refdata class="vol">2</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1038/nphoton.2008.100">420&#45;424</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/122.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">121</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Amylose-wrapped luminescent conjugated polymers</h3>
+											<p><refdata class="authors">M.J. Frampton, T.D.W. Claridge, G. Latini, S. Brovelli, F. Cacialli, and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/publishing/journals/CC/">Chem. Commun. </a></refdata>,
+												<refdata class="year">2008</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b803335h">2797&#45;2799</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/121.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">120</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Enhanced &pi; Conjugation around a Porphyrin[6] Nanoring</h3>
+											<p><refdata class="authors">M. Hoffmann, J. K&#228;rnbratt, M.-H. Chang, L.M. Herz, B. Albinsson, and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/cgi-bin/jtoc/26737">Angew. Chem. Int. Ed. </a></refdata>,
+												<refdata class="year">2008</refdata>,
+												<refdata class="vol">47</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/anie.200801188">4993&#45;4996</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/120.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">119</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Stabilisation of a Heptamethine Cyanine Dye by Rotaxane Encapsulation</h3>
+											<p><refdata class="authors">C. M. S. Yau, S. I. Pascu, S. A. Odom, J. E. Warren, E. J. F. Klotz, M. J. Frampton, C. C. Williams, V. Coropceanu, M. K. Kuimova, D. Phillips, S. Barlow, J.-L. Br&#233;das, S. R. Marder, V. Millar, and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/publishing/journals/CC/">Chem. Commun. </a></refdata>,
+												<refdata class="year">2008</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b802728e">2897&#45;2899</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/119.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">118</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Three-Step Synthesis of End-Substituted Pentacenes</h3>
+											<p><refdata class="authors">M.T. Stone and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journals/joceah/index.html">J. Org. Chem. </a></refdata>,
+												<refdata class="year">2007</refdata>,
+												<refdata class="vol">72</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/jo7017284">9776&#45;9778</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/118.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">117</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Supramolecular Control of Charge Transport in Molecular Wires</h3>
+											<p><refdata class="authors">F.C. Grozema, C. Houarner-Rassin, P. Prins, L.D.A. Siebbeles, and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journals/jacsat/index.html">J. Am. Chem. Soc. </a></refdata>,
+												<refdata class="year">2007</refdata>,
+												<refdata class="vol">129</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ja0751274">13370&#45;13371</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/117.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">116</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Radical Cation Stabilization in a Cucurbituril Oligoaniline Rotaxane</h3>
+											<p><refdata class="authors">R. Eelkema, K. Maeda, B. Odell, and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journals/jacsat/index.html">J. Am. Chem. Soc. </a></refdata>,
+												<refdata class="year">2007</refdata>,
+												<refdata class="vol">129</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ja074997i">12384&#45;12385</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/116.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">115</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Quantitative <i>In Vitro</i> Demonstration of Two-Photon Photodynamic Therapy Using Photofrin<sup>&reg;</sup> and Visudyne<sup>&reg;</sup></h3>
+											<p><refdata class="authors">M. Khurana, H.A. Collins, A. Karotki, H.L. Anderson, D.T. Cramb, B.C. Wilson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.blackwell-synergy.com/loi/PHP"><dd>Photochem. Photobiol. </a></refdata>,
+												<refdata class="year">2007</refdata>,
+												<refdata class="vol">83</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1111/j.1751-1097.2007.00185.x">1441&#45;1448</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/115.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">114</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Solid-Phase Synthesis of Oligo(phenylene ethynylene) Rotaxanes</h3>
+											<p><refdata class="authors">H.W. Daniell, E.J.F. Klotz, B. Odell, T.D.W. Claridge, H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/cgi-bin/jtoc/26737"><dd>Angew. Chem. Int. Ed. </a></refdata>,
+												<refdata class="year">2007</refdata>,
+												<refdata class="vol">46</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/anie.200702349">6845&#45;6848</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/114.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">113</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Control of Electron Transfer in a Conjugated Porphyrin Dimer by Selective Excitation of Planar and Perpendicular Conformers</h3>
+											<p><refdata class="authors">M.U. Winters, J. K&#228;rnbratt, H.E. Blades, C.J. Wilson, M.J. Frampton, H.L. Anderson, B. Albinsson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/cgi-bin/jhome/26293"><dd>Chem. Eur. J. </a></refdata>,
+												<refdata class="year">2007</refdata>,
+												<refdata class="vol">13</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/chem.200700434">7385&#45;7394</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/113.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">112</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Phase Segregation in Thin Films of Conjugated Polyrotaxane- Poly(ethylene oxide) Blends: A Scanning Force Microscopy Study</h3>
+											<p><refdata class="authors">L. Sardone, C.C. Williams, H.L. Anderson, G. Marletta, F. Cacialli and P. Samor&#236;.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/cgi-bin/jhome/77003362"><dd>Adv. Funct. Mater. </a></refdata>,
+												<refdata class="year">2007</refdata>,
+												<refdata class="vol">17</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/adfm.200600181">927&#45;932</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/112.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">111</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Photophysics of a Butadiyne-Linked Porphyrin Dimer: Influence of Conformational Flexibility in the Ground and First Singlet Excited State</h3>
+											<p><refdata class="authors">M.U. Winters, J. K&#228;rnbratt, M. Eng, C.J. Wilson, H.L. Anderson and B. Albinsson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journals/jpccck/index.html"><dd>J. Phys. Chem. C</a></refdata>,
+												<refdata class="year">2007</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/jp0683519">7192&#45;7199</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/111.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">110</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Determination of the triplet state energies of a series of conjugated porphyrin oligomers</h3>
+											<p><refdata class="authors">M.K. Kuimova, M. Hoffmann, M.U. Winters, M. Eng, M. Balaz, I.P. Clark, H.A. Collins, S.M. Tavender, C.J. Wilson, B. Albinsson, H.L. Anderson, A.W. Parker and D. Phillips.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/Publishing/Journals/PP/"><dd>Photochem. Photobiol. Sci. </a></refdata>,
+												<refdata class="year">2007</refdata>,
+												<refdata class="vol">6</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b700557a">675&#45;682</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/110.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">109</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Synthesis and near-infrared luminescence of a deuterated conjugated porphyrin dimer for probing the mechanism of non-radiative deactivation</h3>
+											<p><refdata class="authors">M.J. Frampton, G. Accorsi, N. Armaroli, J.E. Rogers, P.A. Fleitz, K.J. McEwan and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/Publishing/Journals/OB/"><dd>Org. Biomol. Chem. </a></refdata>,
+												<refdata class="year">2007</refdata>,
+												<refdata class="vol">5</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b700408g">1056&#45;1061</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/109.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">108</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Probing the Efficiency of Electron Transfer through Porphyrin-Based Molecular Wires</h3>
+											<p><refdata class="authors">M.U. Winters, E. Dahlstedt, H.E. Blades, C.J. Wilson, M.J. Frampton, H.L. Anderson, and B. Albinsson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journals/jacsat/index.html"><dd>J. Am. Chem. Soc. </a></refdata>,
+												<refdata class="year">2007</refdata>,
+												<refdata class="vol">129</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ja067447d">4291&#45;4297</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/108.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">107</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>A cyclodextrin-insulated anthracene rotaxane with enhanced fluorescence and photostability</h3>
+											<p><refdata class="authors">M.T. Stone and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/publishing/journals/CC/"><dd>Chem. Commun. </a></refdata>,
+												<refdata class="year">2007</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b700868f">2387&#45;2389</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/107.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">106</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Template-Directed Synthesis of a &pi;-Conjugated Porphyrin Nanoring</h3>
+											<p><refdata class="authors">M. Hoffmann, C.J. Wilson, B. Odell and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/cgi-bin/jtoc/26737"><dd>Angew. Chem. Int. Ed. </a></refdata>,
+												<refdata class="year">2007</refdata>,
+												<refdata class="vol">46</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/anie.200604601">3122&#45;3125</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/106.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">105</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Metal-driven ligand assembly in the synthesis of cyclodextrin [2] and [3]rotaxanes</h3>
+											<p><refdata class="authors">A.G. Cheetham, T.D.W. Claridge and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www.rsc.org/Publishing/Journals/OB/"><dd>Org. Biomol. Chem. </a></refdata>,
+												<refdata class="year">2007</refdata>,
+												<refdata class="vol">5</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/b616621k">457&#45;462</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/105.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">104</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Intermolecular interaction effects on the ultrafast depolarization of the optical emission from conjugated polymers</h3>
+											<p><refdata class="authors">M.H. Chang, M.J. Frampton, H.L. Anderson and L.M. Herz.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://prl.aps.org/"><dd>Phys. Rev. Lett. </a></refdata>,
+												<refdata class="year">2007</refdata>,
+												<refdata class="vol">98</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1103/PhysRevLett.98.027402">027402&#45;027402(4)</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/104.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">103</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Insulated Molecular Wires</h3>
+											<p><refdata class="authors">M.J. Frampton and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/cgi-bin/jtoc/26737"><dd>Angew. Chem. Int. Ed. </a></refdata>,
+												<refdata class="year">2007</refdata>,
+												<refdata class="vol">46</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/anie.200601780">1028-1064</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/103.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">102</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Photoexcitation dynamics in thin films of insulated molecular wires</h3>
+											<p><refdata class="authors">M.H. Chang, M.J. Frampton, H.L. Anderson, and L.M. Herz.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://apl.aip.org/">Appl. Phys. Lett.</a></refdata>,
+												<refdata class="year">2006</refdata>,
+												<refdata class="vol">89</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1063/1.2398914">232110-232110(3)</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/102.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">101</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Homo- and Hetero-[3]Rotaxanes with Two &pi;-Systems Clasped in a Single Macrocycle</h3>
+											<p><refdata class="authors">E.J.F. Klotz, T.D.W. Claridge, and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journals/jacsat/index.html">J. Am. Chem. Soc. </a></refdata>,
+												<refdata class="year">2006</refdata>,
+												<refdata class="vol">128</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ja0665139">15374-15375</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/101.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">100</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Strong Cooperative Enhancement of Two-Photon Absorption in Double-Strand Conjugated Porphyrin Ladder Arrays</h3>
+											<p><refdata class="authors">M. Drobizhev, Y. Stepanenko, A. Rebane, C.J. Wilson, T.E.O. Screen, and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://pubs.acs.org/journals/jacsat/index.html">J. Am. Chem. Soc. </a></refdata>,
+												<refdata class="year">2006</refdata>,
+												<refdata class="vol">128</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ja0649623">12432-12433</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/100.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">99</h4>
+										</div>
+										<div class="col-11 col-12-small">
+											<h3>Towards Complex Functions from Complex Materials</h3>
+											<p><refdata class="authors">P. Samor&#236;, F. Cacialli, H.L. Anderson, and A.E. Rowan.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/cgi-bin/jhome/10008336">Adv. Mater. </a></refdata>,
+												<refdata class="year">2006</refdata>,
+												<refdata class="vol">18</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/adma.200600601">1235-1238</a></refdata>
+											</p>
+										</div>
+									</div>
+									<div class="row">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">98</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Enzymatic Synthesis and Photoswitchable Enzymatic Cleavage of a Peptide-Linked Rotaxane</h3>
+											<p><refdata class="authors">A.G. Cheetham, M.G. Hutchings, T.D.W. Claridge and H.L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://www3.interscience.wiley.com/cgi-bin/jtoc/26737">Angew. Chem. Int. Ed. </a></refdata>,
+												<refdata class="year">2006</refdata>,
+												<refdata class="vol">45</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1002/anie.200504064">1596-1599</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img src="../images/abstracts/98.jpg" alt="" /></span>
+										</div>
+									</div>
+						  </section>
+							
+						<center>
+							<ul class="pagination">
+								<li><a href="publications/2015.shtml" class="button">Prev</a></li>
+								<li><a href="publications/2020.shtml" class="page">Current</a></li>
+								<li><a href="publications/2015.shtml" class="page">2015</a></li>
+								<li><a href="publications/2010.shtml" class="page active">2010</a></li>
+								<li><a href="publications/2005.shtml" class="page">2005</a></li>
+								<li><a href="publications/2000.shtml" class="page">2000</a></li>
+								<li><a href="publications/1995.shtml" class="page">1995</a></li>
+								<li><a href="publications/theses.shtml" class="page">Theses</a></li>
+								<li><a href="publications/2005.shtml" class="button">Next</a></li>
+							</ul>
+						</center>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+				<!--#include virtual="/includes/sidebar.inc" -->	
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="../assets/js/jquery.min.js"></script>
+			<script src="../assets/js/browser.min.js"></script>
+			<script src="../assets/js/breakpoints.min.js"></script>
+			<script src="../assets/js/util.js"></script>
+			<script src="../assets/js/main.js"></script>
+
+	</body>
+</html>

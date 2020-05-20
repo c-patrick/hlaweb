@@ -258,5 +258,55 @@
 				});
 
 			});
+	
+	// Lightbox.
+		var $lightbox = $('#lightbox'),
+			$lightbox_openers = $lightbox.children('ul').find('.opener');
+
+		// Openers.
+			$lightbox_openers.each(function() {
+
+				var $this = $(this);
+
+				$this.on('click', function(event) {
+
+					// Prevent default.
+						event.preventDefault();
+
+					// Toggle.
+						$lightbox_openers.not($this).removeClass('active');
+						$this.toggleClass('active');
+
+					// Trigger resize (sidebar lock).
+						$window.triggerHandler('resize.sidebar-lock');
+
+				});
+
+			});
+	
+	// old_news.
+		var $old_news = $('#old_news'),
+			$old_news_openers = $old_news.children('ul').find('.opener');
+
+		// Openers.
+			$old_news_openers.each(function() {
+
+				var $this = $(this);
+
+				$this.on('click', function(event) {
+
+					// Prevent default.
+						event.preventDefault();
+
+					// Toggle.
+						$old_news_openers.not($this).removeClass('active');
+						$this.toggleClass('active');
+
+					// Trigger resize (sidebar lock).
+						$window.triggerHandler('resize.sidebar-lock');
+
+				});
+
+			});
 
 })(jQuery);

@@ -1,0 +1,480 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Anderson Research Group | University of Oxford</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								<!--#include virtual="includes/header.inc" -->
+
+
+							<!-- Content -->
+								<section>
+									<header class="major">
+										<h2>Old News</h2>
+									</header>
+									
+									<nav id="old_news">
+										<ul>
+											<li> <span class="opener active">2019</span>
+											  <ul>
+												<table>
+													<tr class="old_news">
+							  							<td class="date">September 2019</td>
+														<td>Goodbye to Przemek, leaving us to join Cambridge Display Technology as a senior scientist.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">September 2019</td>
+														<td>Goodbye to Stuart, leaving to start his PhD in the Burton group.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">August 2019</td>
+														<td>Goodbye to summer students Lizzie and Julia, returning to their undergraduate studies.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">July 2019</td>
+														<td>A warm welcome to Lizzie, joining us for a summer project.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">June 2019</td>
+														<td>Goodbye to Michel, starting his research group at the University of Zurich.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">May 2019</td>
+														<td>A warm welcome to Julia, joining us for a summer project.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">May 2019</td>
+														<td>A warm welcome to <a href="group/kate.shtml">Kate</a>, joining us on a SBM CDT rotation.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">May 2019</td>
+														<td>Welcome to Stuart, joining us on a SBM CDT rotation.</td>
+													</tr>						
+													<tr class="old_news">
+							  							<td class="date">May 2019</td>
+														<td>Goodbye to Denis, continuing his SBM CDT rotation.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">May 2019</td>
+														<td>Welcome to <a href="group/sebastian.shtml">Sebastian</a>, joining us for a summer project.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">May 2019</td>
+														<td>Goodbye to Lara, starting a new PostDoc position at the University of Zurich.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">March 2019</td>
+														<td>Goodbye to Martin, starting as a Lecturer/Scientia Fellow at University of New South Wales.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">February 2019</td>
+														<td>A warm welcome to Denis, joining us on an SBM CDT rotation.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">January 2019</td>
+														<td>Welcome to our new PDRA <a href="group/henrik.shtml">Henrik</a> and visiting student Kristina.</td>
+													</tr>
+												</table>
+											</ul>
+										<li> <span class="opener">2018</span>
+											<ul>
+												<table>
+													<tr class="old_news">
+							  							<td class="date">December 2018</td>
+														<td>Goodbye to Bart, starting a new PostDoc at ICIQ Institute of Chemical Research of Catalonia.</td>
+													</tr>	
+													<tr class="old_news">
+							  							<td class="date">December 2018</td>
+														<td>Welcome back to Martin, joining us for a PostDoc.</td>
+													</tr>	
+													<tr class="old_news">
+							  							<td class="date">December 2018</td>
+														<td>Congratulations to Sabine and Yaoyao for passing their vivas.</td>
+													</tr>				
+													<tr class="old_news">
+							  							<td class="date">October 2018</td>
+														<td>Welcome to our new PhD students <a href="group/connor.shtml">Connor</a> and <a href="group/jieren.shtml">Jieren.</a></td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">September 2018</td>
+														<td>Welcome to Boom and Joseph, starting their Part II project.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">September 2018</td>
+														<td>Congratulations to Yaoyao and Sabine for handing in their PhD thesis.</td>
+													</tr>	
+													<tr class="old_news">
+							  							<td class="date">September 2018</td>
+														<td>Congratulations to <a href="group/lorel.shtml">Lorel</a> and Renee for winning the poster prizes at CURO-PI-3.</td>
+													</tr>	
+													<tr class="old_news">
+							  							<td class="date">September 2018</td>
+														<td>Goodbye to Renee, starting a new PostDoc with Kylie Vincent and Holly Reeve.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">August 2018</td>
+														<td>Goodbye to Hiromu, returning to his home institution in Japan.</td>
+													</tr>	
+													<tr class="old_news">
+							  							<td class="date">June 2018</td>
+														<td>Welcome to Hiromu, visiting student from Japan.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">June 2018</td>
+														<td>Goodbye to Jamie, returning to his home institution.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">May 2018</td>
+														<td>Goodbye to Alistair, continuing his SBM CDT rotation.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">May 2018</td>
+														<td>Goodbye and good luck to Huawei.</td>
+													</tr>							
+													<tr class="old_news">
+							  							<td class="date">April 2018</td>
+														<td>Welcome to our new group member <a href="group/virginia.shtml">Virginia</a>.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">March 2018</td>
+														<td>Congratulations to Renee for passing her viva.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">March 2018</td>
+														<td>Congratulations for passing his viva and goodbye to Jonathan.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">February 2018</td>
+														<td>A warm welcome to Alistair, joining us on an SBM CDT rotation.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">January 2018</td>
+														<td>Congratulations for passing his viva and goodbye to Dan.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">January 2018</td>
+														<td>Congratulations to Renee for handing in her thesis.</td>
+													</tr>	
+													<tr class="old_news">
+							  							<td class="date">January 2018</td>
+														<td>Congratulations to Jonathan for handing in his thesis.</td>
+													</tr>	
+													<tr class="old_news">
+							  							<td class="date">January 2018</td>
+														<td>Welcome to our new group members <a href="group/andrew.shtml">Andrew</a>, Jamie and <a href="group/keith.shtml">Keith</a>.</td>
+													</tr>
+												</table>
+											</ul>
+										<li> <span class="opener">2017</span>
+											<ul>
+												<table>
+													<tr class="old_news">
+							  							<td class="date">December 2017</td>
+														<td>Goodbye to Andreas.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">November 2017</td>
+														<td>Congratulations to Dan for handing in his thesis.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">November 2017</td>
+														<td>Congratulations to Anjul for passing his viva.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">October 2017</td>
+														<td>Welcome to our new group members <a href="group/lorel.shtml">Lorel</a> and <a href="group/wenjun.shtml">Wenjun</a>.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">September 2017</td>
+														<td>Congratulations to Anjul on submitting his <a href="https://ora.ox.ac.uk/objects/uuid:82cbcee2-33a6-4508-9bde-50468a2796fe">DPhil thesis</a>.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">September 2017</td>
+														<td>Welcome to our new group member <a href="group/steffen.shtml">Steffen</a>.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">August 2017</td>
+														<td>Goodbye to Takayuki.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">July 2017</td>
+														<td>Congratulations to Renee for winning the Journal of Materials Chemistry B Poster Prize at ISNA.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">July 2017</td>
+														<td>Welcome to our new group member Lara.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">June 2017</td>
+														<td>Goodbye to C&#233;cile.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">June 2017</td>
+														<td>Congratulations and goodbye to Qiu on the completion of his Part II project.</td>
+													</tr>
+														<tr class="old_news">
+							  							<td class="date">June 2017</td>
+														<td>Goodbye to Anne, visiting student who is now returning to her home institution.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">May 2017</td>
+														<td>Congratulations and goodbye to Martin on the successful completion of his DPhil.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">April 2017</td>
+														<td>Congratulations to Martin</a> on been awarded the <a href="http://www.esu.org/our-work/scientific-research-scholarships">Lindemann Trust</a> fellowship.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">April 2017</td>
+														<td>Congratulations to Martin</a> on submitting his <a href="https://ora.ox.ac.uk/objects/uuid:58a35932-320c-47dc-828e-0d121d693fd8">DPhil thesis</a>.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">April 2017</td>
+														<td>Welcome to new PhD student Pernille.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">March 2017</td>
+														<td>Congratulations to Harry</a> on winning the <a href="http://www.rsc.org/events/detail/17933/international-symposium-on-macrocyclic-and-supramolecular-chemistry-ismsc-in-conjunction-with-isacs-challenges-in-organic-materials-and-supramolecular-chemistry">Izatt-Christensen Prize</a>. This international prize is awarded annually for work in the field of macrocyclic chemistry.</td>
+													</tr>									
+													<tr class="old_news">
+							  							<td class="date">March 2017</td>
+														<td>Congratulations to Dr Martin Peeks on completing his viva exam.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">January 2017</td>
+														<td>A recent paper from the group, published in in <i>Org. Biomol. Chem.</i>, has been designated "hot" by the referees and editors! Congratulations to Anjul, Przemek, Cecile and coauthors.</td>
+													</tr>
+												</table>
+											</ul>
+										<li> <span class="opener">2016</span>
+											<ul>
+												<table>
+													<tr class="old_news">
+							  							<td class="date">December 2016</td>
+														<td>Congratulations to Martin on winning a poster prize for his poster at the <a href="http://www.chem.ox.ac.uk/news.asp#2489">RSC Organic Poster Symposium</a>, London.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">December 2016</td>
+														<td>Congratulations to Yaoyao and Isabell on winning a <a href="http://postgraduate.chem.ox.ac.uk/lilly-prizes-for-excellence-in-organic-chemistry-research-.aspx">Lilly prize</a> for the PRS transfer of status.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">October 2016</td>
+														<td>Congratulations to Dan for winning a further poster prize, this time at the Pfizer Symposium in Oxford.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">October 2016</td>
+														<td>Welcome to new group members <a href="group/will.shtml">William</a>, <a href="group/michael.shtml">Michael</a> and Qiu.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">September 2016</td>
+														<td>Goodbye to Josh and Alexandru.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">August 2016</td>
+														<td>Congratulations to Renee on winning a flash talk prize at the first <a href="http://www.oxfordsynthesiscdt.ox.ac.uk/conference/">Oxford Synthesis Summer Conference</a>.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">August 2016</td>
+														<td>Welcome to new group members Bart, Josh and Mike.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">July 2016</td>
+														<td>Congratulations to Dan on winning a Wiley poster prize for his poster at the <a href="http://www.ismsc2016.org/">International Symposium on Macrocyclic and Supramolecular Chemistry</a>, Seoul, South Korea.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">June 2016</td>
+														<td>Welcome to new postdoc <a href="group/james.shtml">James</a>.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">June 2016</td>
+														<td>Congratulations and goodbye to Nun on the successful completion of her DPhil.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">June 2016</td>
+														<td>Goodbye to <a href="group/tom.shtml">Tom</a> who has finished his CDT rotation project.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">June 2016</td>
+														<td>Congratulations and goodbye to Izzy and Johannes on the completion of their Part II projects.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">May 2016</td>
+														<td>Congratulations to Anjul on winning a graduate scholarship from St Catz.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">April 2016</td>
+														<td>Welcome to Alex, visiting student from Copenhagen.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">March 2016</td>
+														<td>Congratulations to Renee for winning an award for the Best Oral Presentation in Macromolecular Chemistry at the Chemistry Conference for Young Scientists, Blankenberge, Belgium.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">March 2016</td>
+														<td>Congratulations and goodbye to Dr. Pengpeng at the completion of his DPhil.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">February 2016</td>
+														<td>Goodbye to Yutaka and Petr, visiting students who are now returning to their home institutions.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">February 2016</td>
+														<td>A warm welcome to <a href="group/tom.shtml">Tom</a>, joining us on an SBM DTC rotation.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">January 2016</td>
+														<td>Congratulations to Jonathan on winning a <a href="http://www.chem.ox.ac.uk/news/lillyprizes2015.html">Lilly prize for his PRS transfer of status.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">January 2016</td>
+														<td>Welcome to new group members Andreas and Petr (Petr is visiting from the Hunter group, Cambridge).</td>
+													</tr>
+												</table>
+											</ul>
+										<li> <span class="opener">2015</span>
+											<ul>
+												<table>
+													<tr class="old_news">
+							  							<td class="date">December 2015</td>
+														<td>Congratulations to Yaoyao on winning a prize from the SBM DTC for work published from her first rotation in the Beer group.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">December 2015</td>
+														<td>Congratulations to visiting PDRA Jennifer who was awarded a prestigious Glasstone Fellowship at Oxford.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">December 2015</td>
+														<td>Goodbye and good luck to Ren&#233;.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">November 2015</td>
+														<td>Welcome to new group members Huawei and Przemek.</td>
+													</tr>
+														<tr class="old_news">
+							  							<td class="date">September 2015</td>
+														<td>The Russian Doll paper is highlighted in <a href="https://cen.acs.org/index.html">Chemical &amp; Engineering News</a> on 30th September 2015 <a href="http://cen.acs.org/articles/93/web/2015/09/Porphyrins-Run-Rings-Around.html">"Porphyrins run rings around each other"</a>.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">September 2015</td>
+														<td>All change in the HLA group. Goodbye to Giulia, Levon, Ludovic and Pablo, and welcome to Isabell, Izzy (returning), Jennifer, Johannes and Takayuki.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">August 2015</td>
+														<td>Welcome to new group member Sabine.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">July 2015</td>
+														<td>Welcome to new group members Izzy and Ibrahim.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">July 2015</td>
+														<td>Well done to Dan on winning a poster prize at ISNA-16 (International Symposium on Novel Aromatics).</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">July 2015</td>
+														<td>Congratulations to Dr Karolina on completing her viva exam.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">July 2015</td>
+														<td>Congratulations to Fiona on completing her Part II viva!</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">June 2015</td>
+														<td>Welcome to new group members Giulia, Jane and Yutaka.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">June 2015</td>
+														<td>The <a href="http://dx.doi.org/10.1002/anie.201502735">nanotube paper</a> is <a href="http://cen.acs.org/articles/93/i21/Getting-NanoTubular-Porphyrins.html">featured in C&EN</a>.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">May 2015</td>
+														<td>Goodbye to Julien, Sophie and Wilf, who have left the group.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">May 2015</td>
+														<td>A <a href="http://dx.doi.org/10.1002/anie.201502735">recent paper</a> on 3D &pi; conjugation in a porphyrin nanotube is designated VIP (Very Important Paper) by Angewandte Chemie.</td>
+													</tr>
+												</table>
+											</ul>
+										<li> <span class="opener">2014</span>
+											<ul>
+												<table>
+													<tr class="old_news">
+							  							<td class="date">Dec 2014</td>
+														<td>Goodbye and good luck to Dima and Igor, who have now left the group.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">Dec 2014</td>
+														<td>Congratulations to Igor on passing his DPhil viva.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">Dec 2014</td>
+														<td>Congratulations to Ren&eacute; on winning a prize for his flash talk at <a href="http://masc2014.weebly.com/">MASC2014</a>.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">Dec 2014</td>
+														<td>We are excited to make some DPhil and Part II theses <a href="publications/theses.shtml">available online</a>. Part II theses are only accessible to visitors in Oxford.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">Nov 2014</td>
+														<td>Congratulations to Igor on submitting his DPhil thesis.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">Oct 2014</td>
+														<td>Congratulations to Levon on passing his DPhil viva.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">Oct 2014</td>
+														<td><a href="http://www.chem.ox.ac.uk/news.asp#2266">Congratulations to Karolina</a> on winning a prize for her talk at the 2014 Organic Chemistry DPhil Symposium (Oxford).</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">Oct 2014</td>
+														<td>Welcome to new members of the group: Jonathan Cremers, Ludovic Favereau, Renee Haver, Daniel Kohn, Fiona Porter and Pablo Rivera-Fuentes, and goodbye to summer students Dominik Lungerich and Hiroshi Masai.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">Sept 2014</td>
+														<td>Congratulations to Levon on submitting his DPhil thesis, entitled "<i>Polyyne Rotaxanes</i>".</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">Sept 2014</td>
+														<td><a href="http://www.chem.ox.ac.uk/news.asp#2263">Congratulations to Sabine (CRT/HLA groups):</a> on winning a poster prize at the 2014 EF-EPR conference in Marseilles.</td>
+													</tr>
+													<tr class="old_news">
+							  							<td class="date">Sept 2014</td>
+														<td><a href="http://www.chem.ox.ac.uk/news.asp#2252">Congratulations to Karolina</a> on winning the Chemical Science Poster Prize at the conference "Challenges in Organic Chemistry", ISACS2014, in Shanghai.</td>
+													</tr>
+												</table>
+											</ul>
+									</ul>
+								</nav>
+
+						  </section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+				<!--#include virtual="/includes/sidebar.inc" -->	
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
