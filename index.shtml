@@ -25,8 +25,7 @@
 											<h1 align="center">Welcome to the Anderson group website!</h1>
 										</header>
 										<div class="row">
-											<div class="col-9 col-12-small col-border-left">
-												<div class="front-pad">
+											<div class="col-8 col-12-small">
 													<div class="slides">
 														<img class="mySlides w3-animate-opacity" src="images/group/group.jpg" >
 														<img class="mySlides w3-animate-opacity" src="images/slideshow/img2.jpg" >
@@ -43,16 +42,16 @@
 													<br>
 													<p>Our research is in the areas of molecular materials synthesis, supramolecular chemistry, molecular recognition, polymers and dyes. We are based in the Department of Chemistry at the University of Oxford.</p>
 													<p>We believe that a better understanding of the relationship between molecular structure, molecular function and macroscopic properties will give us the ability to build functional materials on the molecular scale.</p>
-												</div>
 											</div>
-											<div class="col-3 col-12-small col-border-left">
-											<hr class="col-border-top" />
-												<a class="twitter-timeline"
-												   href="https://twitter.com/HLAGroupOx?ref_src=twsrc%5Etfw"
-												   data-chrome="nofooter"
-												   data-height="100%"
-												   data-theme="light">Tweets by HLAGroupOx
-												</a> 
+											<div class="col-4 col-12-small">
+												<div class="box-twitter">
+													<a class="twitter-timeline"
+													   href="https://twitter.com/HLAGroupOx?ref_src=twsrc%5Etfw"
+													   data-chrome="nofooter noborders"
+													   data-height="100%"
+													   data-theme="light">Tweets by HLAGroupOx
+													</a> 
+												</div>
 											</div>
 										</div>
 

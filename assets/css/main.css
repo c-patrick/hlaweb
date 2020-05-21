@@ -1187,6 +1187,18 @@ input[type="radio"] + label:before {
     border-radius: 0;
     padding: 0; }
 
+/* Twitter Box */
+.box-twitter {
+  border-radius: 0.375em;
+  border: solid 1px rgba(210, 215, 217, 0.75);
+  height: 100%;
+  padding: 0 1em; }
+@media screen and (min-width: 481px) and (max-width: 736px) {
+.box-twitter {
+  margin: auto;
+  max-width: 427px;}}
+
+
 /* Icon */
 .icon {
   text-decoration: none;
@@ -3640,7 +3652,7 @@ iframe.twitter-timeline {
     min-height: 500px !important;
 }
 
-@media screen and (min-width: 737px) {
+/*@media screen and (min-width: 737px) {
 	#banner > .content > .row > .col-border-left + .col-border-left {
 		border-left: solid 1.5px rgba(210, 215, 217, 0.75);
 		padding: 0 0 0 1em;}
@@ -3658,7 +3670,7 @@ iframe.twitter-timeline {
 		border: 0;
 		margin: 0;}
 	.front-pad {
-		padding: 0 1em 0 0; }}
+		padding: 0 1em 0 0; }} */
 
 
 /* Mini Posts */
@@ -3667,12 +3679,21 @@ iframe.twitter-timeline {
 		margin: auto;
         width: 40%; } }
 
-@media screen and (min-width: 1681px) {
+
+/* Front Slider */
+@media screen and (min-width: 2001px) {
 .mySlides {
 	border-radius: 0.375em; 
 	width: auto;
 	margin: auto;
-	height: 450px;
+	height: 500px;
+	display:none; }}
+@media screen and (min-width: 1681px) and (max-width: 2000px) {
+.mySlides {
+	border-radius: 0.375em; 
+	width: auto;
+	margin: auto;
+	height: 400px;
 	display:none; }}
 
 @media screen and (min-width: 1281px) and (max-width: 1680px) {
@@ -3680,7 +3701,7 @@ iframe.twitter-timeline {
 	border-radius: 0.375em; 
 	width: auto;
 	margin: auto;
-	height: 325px;
+	height: 310px;
 	display:none; }}
 
 @media screen and (min-width: 981px) and (max-width: 1280px) {
@@ -3688,7 +3709,7 @@ iframe.twitter-timeline {
 	border-radius: 0.375em; 
 	width: auto;
 	margin: auto;
-	height: 350px;
+	height: 325px;
 	display:none; }}
 
 @media screen and (min-width: 737px) and (max-width: 980px) {
@@ -3696,7 +3717,7 @@ iframe.twitter-timeline {
 	border-radius: 0.375em; 
 	width: auto;
 	margin: auto;
-	height: 250px;
+	height: 235px;
 	display:none; }}
 
 @media screen and (min-width: 481px) and (max-width: 736px) {
