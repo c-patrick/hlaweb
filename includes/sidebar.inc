@@ -38,7 +38,7 @@
 											<span class="opener">Facilities</span>
 											<ul>
 												<li><a href="/equipment.shtml">Equipment</a></li>
-												<li><a href="http://www.chem.ox.ac.uk/research.shtml">Oxford Chemistry</a></li>
+												<li><a href="https://www.chem.ox.ac.uk">Oxford Chemistry</a></li>
 											</ul>
 										</li>
 										<li><a href="/vacancies.shtml">Join Us</a></li>
