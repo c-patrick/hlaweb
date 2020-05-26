@@ -58,7 +58,7 @@
 												<a href="group/will.shtml" class="image news"><img src="images/group/people/will.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
-												<p>Goodbye to <a href="group/will.shtml">Will Kendrick</a>, leaving to start a PostDoc at the University of Melbourne.</p>
+												<p>Goodbye to <a href="group/will.shtml">Will Kendrick</a>, all the best in the future!</p>
 											</div>
 										</div>
 										
