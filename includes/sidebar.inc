@@ -16,12 +16,12 @@
 										<li>
 											<span class="opener">Publications</span>
 											<ul>
-												<li><a href="/publications/2020.shtml">present-2016</a></li>
-												<li><a href="/publications/2015.shtml">2015-2011</a></li>
-												<li><a href="/publications/2010.shtml">2010-2006</a></li>
-												<li><a href="/publications/2005.shtml">2005-2001</a></li>
-												<li><a href="/publications/2000.shtml">2000-1996</a></li>
-												<li><a href="/publications/1995.shtml">1995-1989</a></li>
+												<li><a href="/publications/2020.shtml">2016-present</a></li>
+												<li><a href="/publications/2015.shtml">2011-2015</a></li>
+												<li><a href="/publications/2010.shtml">2006-2010</a></li>
+												<li><a href="/publications/2005.shtml">2001-2005</a></li>
+												<li><a href="/publications/2000.shtml">1996-2000</a></li>
+												<li><a href="/publications/1995.shtml">1989-1995</a></li>
 												<li><a href="/publications/theses.shtml">Theses</a></li>
 											</ul>
 										</li>
