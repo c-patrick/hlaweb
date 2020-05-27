@@ -1557,9 +1557,17 @@ input[type="radio"] + label:before {
 @media screen and (min-width: 481px) and (max-width: 736px) {
 .box-twitter {
 	margin: auto;
-	max-width: 427px;
+	width: 90%;
+	max-width: 400px;
 }
 }
+@media screen and (min-width: 361px) and (max-width: 480px) {
+.box-twitter {
+	margin: auto;
+	width: 90%;
+}
+}
+
 /* Icon */
 .icon {
 	text-decoration: none;
