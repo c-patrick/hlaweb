@@ -32,22 +32,31 @@
 										</header>
 										<div class="row">
 											<div class="col-8 col-12-small">
-													<div class="slides">
-														<img class="mySlides w3-animate-opacity" src="images/group/group.jpg" >
-														<img class="mySlides w3-animate-opacity" src="images/slideshow/img2.jpg" >
-														<img class="mySlides w3-animate-opacity" src="images/slideshow/img3.jpg" >
-														<img class="mySlides w3-animate-opacity" src="images/slideshow/img4.jpg" >
-														<img class="mySlides w3-animate-opacity" src="images/slideshow/img5.jpg" >
-														<img class="mySlides w3-animate-opacity" src="images/slideshow/img6.jpg" >
-														<img class="mySlides w3-animate-opacity" src="images/slideshow/img7.jpg" >
-														<img class="mySlides w3-animate-opacity" src="images/slideshow/img8.jpg" >
-														<img class="mySlides w3-animate-opacity" src="images/slideshow/img9.jpg" >
-														<img class="mySlides w3-animate-opacity" src="images/slideshow/img10.jpg" >
+												<div class="slides">
+													<img class="mySlides w3-animate-opacity" src="images/group/group.jpg" >
+													<img class="mySlides w3-animate-opacity" src="images/slideshow/img2.jpg" >
+													<img class="mySlides w3-animate-opacity" src="images/slideshow/img3.jpg" >
+													<img class="mySlides w3-animate-opacity" src="images/slideshow/img4.jpg" >
+													<img class="mySlides w3-animate-opacity" src="images/slideshow/img5.jpg" >
+													<img class="mySlides w3-animate-opacity" src="images/slideshow/img6.jpg" >
+													<img class="mySlides w3-animate-opacity" src="images/slideshow/img7.jpg" >
+													<img class="mySlides w3-animate-opacity" src="images/slideshow/img8.jpg" >
+													<img class="mySlides w3-animate-opacity" src="images/slideshow/img9.jpg" >
+													<img class="mySlides w3-animate-opacity" src="images/slideshow/img10.jpg" >
+												</div>
+												<br>
+												<p>Our research is in the areas of molecular materials synthesis, supramolecular chemistry, molecular recognition, polymers and dyes. We are based in the Department of Chemistry at the University of Oxford.</p>
+												<p>We believe that a better understanding of the relationship between molecular structure, molecular function and macroscopic properties will give us the ability to build functional materials on the molecular scale.</p>
+											
+												<!-- Vacancy -->
+												<section>
+													<div class="box">
+														<p style="text-align: center"><strong>A postdoctoral positions is available in <a href="http://working.chem.ox.ac.uk/jobs.aspx?ID=1330">Synthesis and Physical Organic Chemistry of Porphyrin Nanorings</a>.</strong></p>
+														<ul class="actions fit">
+															<li><a href="http://working.chem.ox.ac.uk/jobs.aspx?ID=1330" class="button primary">view</a></li>
+														</ul>
 													</div>
-
-													<br>
-													<p>Our research is in the areas of molecular materials synthesis, supramolecular chemistry, molecular recognition, polymers and dyes. We are based in the Department of Chemistry at the University of Oxford.</p>
-													<p>We believe that a better understanding of the relationship between molecular structure, molecular function and macroscopic properties will give us the ability to build functional materials on the molecular scale.</p>
+												</section>		
 											</div>
 											<div class="col-4 col-12-small">
 												<div class="box-twitter">
@@ -63,16 +72,7 @@
 
 								</section>
 
-								<!-- Vacancy -->
-<!--								<section>
-								<div class="box">
-										<p style="text-align: center"><strong>A postdoctoral positions is available in <a href="http://working.chem.ox.ac.uk/jobs.aspx?ID=1136">Synthesis & Molecular Electronics</a>.</strong></p>
-										<ul class="actions fit">
-											<li><a href="http://working.chem.ox.ac.uk/jobs.aspx?ID=1136" class="button primary">view</a></li>
-										</ul>
-									</div>
-								</section>
--->
+
 									
 							<!-- Recent Publications -->
 								<section>
