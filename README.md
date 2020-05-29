@@ -176,7 +176,7 @@ An example entry would look like:
     </tr>
 
 ## Vacancies
-There is usually little that requires changing on this page. If, however, a vacancy in the group opens up then the vacancy can be listed. There are many ways of doing this, but in following the design language for the rest of the site, the `box` class could be used listing the vacancy. Also adding the `mb0` class ensure removes any margin below the box to ensure it aligns with the twitter widget. An example entry for a PostDoc vacancy could look like:
+There is usually little that requires changing on this page. If, however, a vacancy in the group opens up then the vacancy can be listed. There are many ways of doing this, but in following the design language for the rest of the site, the `box` class could be used listing the vacancy. Also adding the `mb0` class removes any margin below the box to ensure it aligns with the twitter widget. An example entry for a PostDoc vacancy could look like:
 
     <div class="box mb0">
     	<p><strong>A postdoctoral positions is available in <a href="link/to/vacancy/page">#POSITION~</a>.</strong></p>
