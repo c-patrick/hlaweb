@@ -124,8 +124,21 @@ a:hover {
 	border-bottom-color: #f56a6a;
 	color: #f56a6a !important;
 }
+a:hover grpname {
+	border-bottom-color: #f56a6a;
+	color: #f56a6a !important;
+}
 a:hover strong {
 	color: inherit;
+}
+grpname {
+	-moz-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+	-webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+	-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+	transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+	text-decoration: none;
+	color: #3d4449;
+	font-weight: 600;
 }
 strong, b {
 	color: #3d4449;
