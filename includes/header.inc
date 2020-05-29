@@ -5,7 +5,7 @@
 										</div>
 										<div class="col-10 col-12-small">
 											<p class="align-center">
-												<a href="index.html" class="logo"><grpname>Anderson Group</grpname> <br>Molecular Engineering</a>
+												<a href="index.shtml" class="logo"><grpname>Anderson Group</grpname> <br>Molecular Engineering</a>
 							  				</p>	
 										</div>
 										<div class="col-1 col-12-small">
