@@ -4,13 +4,15 @@
 	Connor Patrick | connor<dot>patrick<at>chem<dot>ox<dot>ac<dot>uk
 	https://github.com/c-patrick/hlaweb
 -->
-<html>
+<html lang="en">
 	<head>
 		<title>Anderson Research Group | University of Oxford</title>
+		<meta name="keywords" content="porphyrin, rotaxanes, PDT, photodynamic therapy, molecular wires, molecular machines, supramolecular chemistry, encapsulation, dyes, photophysics" />
+		<meta name="description" content="HLA group publications pre 1996.">
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="../assets/css/main.css" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--#include virtual="/includes/base.inc" -->
+		<!--#include virtual="/includes/head_theme.inc" -->
 	</head>
 	<body class="is-preload">
 
@@ -46,7 +48,7 @@
 
 									<h2>1995 - 1989</h2>
 									
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">28</h4>
 										</div>
@@ -60,7 +62,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">27</h4>
 										</div>
@@ -74,7 +76,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">26</h4>
 										</div>
@@ -88,7 +90,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">25</h4>
 										</div>
@@ -102,7 +104,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">24</h4>
 										</div>
@@ -116,7 +118,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">23</h4>
 										</div>
@@ -130,7 +132,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">22</h4>
 										</div>
@@ -145,7 +147,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">21</h4>
 										</div>
@@ -160,7 +162,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">20</h4>
 										</div>
@@ -175,7 +177,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">19</h4>
 										</div>
@@ -190,7 +192,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">18</h4>
 										</div>
@@ -205,7 +207,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">17</h4>
 										</div>
@@ -220,7 +222,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">16</h4>
 										</div>
@@ -235,7 +237,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">15</h4>
 										</div>
@@ -250,7 +252,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">14</h4>
 										</div>
@@ -265,7 +267,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">13</h4>
 										</div>
@@ -280,7 +282,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">12</h4>
 										</div>
@@ -295,7 +297,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">11</h4>
 										</div>
@@ -309,7 +311,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">10</h4>
 										</div>
@@ -324,7 +326,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">9</h4>
 										</div>
@@ -339,7 +341,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">8</h4>
 										</div>
@@ -353,7 +355,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">7</h4>
 										</div>
@@ -368,7 +370,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">6</h4>
 										</div>
@@ -382,7 +384,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">5</h4>
 										</div>
@@ -396,7 +398,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">4</h4>
 										</div>
@@ -411,7 +413,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">3</h4>
 										</div>
@@ -426,7 +428,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">2</h4>
 										</div>
@@ -440,7 +442,7 @@
 											</p>
 										</div>
 									</div>
-									<div class="row">
+									<div class="row ref last">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">1</h4>
 										</div>
@@ -477,13 +479,17 @@
 				<!--#include virtual="/includes/sidebar.inc" -->	
 
 			</div>
+		
+		<!-- IE-Banner -->
+			<!--#include virtual="includes/ie-banner.inc" -->
 
 		<!-- Scripts -->
-			<script src="../assets/js/jquery.min.js"></script>
-			<script src="../assets/js/browser.min.js"></script>
-			<script src="../assets/js/breakpoints.min.js"></script>
-			<script src="../assets/js/util.js"></script>
-			<script src="../assets/js/main.js"></script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script src="assets/js/lazysizes.min.js"></script>
 
 	</body>
 </html>

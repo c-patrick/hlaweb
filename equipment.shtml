@@ -4,13 +4,14 @@
 	Connor Patrick | connor<dot>patrick<at>chem<dot>ox<dot>ac<dot>uk
 	https://github.com/c-patrick/hlaweb
 -->
-<html>
+<html lang="en">
 	<head>
 		<title>Anderson Research Group | University of Oxford</title>
 		<meta name="keywords" content="porphyrin, rotaxanes, PDT, photodynamic therapy, molecular wires, molecular machines, supramolecular chemistry, encapsulation, dyes, photophysics" />
+		<meta name="description" content="Some of the more speciallised equipment owned by the HLA group.">
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--#include virtual="includes/head_theme.inc" -->
 	</head>
 	<body class="is-preload">
 
@@ -30,11 +31,11 @@
 										<h2>Lab Equipment and Facilities</h2>
 									</header>
 									
-									<p>The <a href="http://www.chem.ox.ac.uk/" target="_blank"><b>Department</b></a> has exceptional <a href="http://www.chem.ox.ac.uk/spectroscopy/nmr/" target="_blank"><b>NMR</b></a> and <a href="http://www.chem.ox.ac.uk/spectroscopy/mass-spec/Instruments/oxinstruments.html" target="_blank"><b>Mass Spec</b></a> facilities. We also have an outstanding <a href="http://cryst.chem.ox.ac.uk/" target="_blank"><b>X-ray Crystallography</b></a> facility. For more specialist services, our group collaborates with the <a href="http://www.swan.ac.uk/nmssc/" target="blank"><b>EPSRC National Mass Spectrometry Service Centre</b></a>, and <a href="http://www.diamond.ac.uk/Home.html" target="_blank"><b>Diamond Light Source</b></a>. The Anderson group has strong links with the <a href="http://www.arc.ox.ac.uk"><b>Oxford Advanced Research Computing Centre</b></a>. We carry out experiments using a very wide range of physical techniques mostly in collaborations with experts in these fields. Visit our collaborators <a href="collaborators.shtml"><b>here</b></a>.</p>
+									<p class="nolink">The <a href="http://www.chem.ox.ac.uk/" target="_blank"><b>Department</b></a> has exceptional <a href="http://www.chem.ox.ac.uk/spectroscopy/nmr/" target="_blank"><b>NMR</b></a> and <a href="http://www.chem.ox.ac.uk/spectroscopy/mass-spec/Instruments/oxinstruments.html" target="_blank"><b>Mass Spec</b></a> facilities. We also have an outstanding <a href="http://cryst.chem.ox.ac.uk/" target="_blank"><b>X-ray Crystallography</b></a> facility. For more specialist services, our group collaborates with the <a href="http://www.swan.ac.uk/nmssc/" target="blank"><b>EPSRC National Mass Spectrometry Service Centre</b></a>, and <a href="http://www.diamond.ac.uk/Home.html" target="_blank"><b>Diamond Light Source</b></a>. The Anderson group has strong links with the <a href="http://www.arc.ox.ac.uk"><b>Oxford Advanced Research Computing Centre</b></a>. We carry out experiments using a very wide range of physical techniques mostly in collaborations with experts in these fields. Visit our collaborators <a href="collaborators.shtml"><b>here</b></a>.</p>
 									
-									<p>For a virtual lab tour, please click <a href="http://www.chem.ox.ac.uk/oxfordtour/crl/movies/72.html"><b>here</b></a>.</p>
+									<p class="nolink">For a virtual lab tour, please click <a href="http://www.chem.ox.ac.uk/oxfordtour/crl/movies/72.html"><b>here</b></a>.</p>
 
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-3 col-12-small">
 											<span class="image fit"><img src="images/equipment/gpc.jpg" alt="" /></span>
 										</div>
@@ -43,7 +44,7 @@
 											<p>Used for analytical and preparative recycling GPC.</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-3 col-12-small">
 											<span class="image fit"><img src="images/equipment/bobandanna.jpg" alt="" /></span>
 										</div>
@@ -53,45 +54,45 @@
 											<p>We have a range of columns; normal and reverse phase, and more specialised columns which allows to separate everything from small organic molecules, our large macrocycles, to water-soluble peptides.</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-3 col-12-small">
-											<span class="image fit"><img src="images/equipment/agilent.jpg" alt="" /></span>
+											<span class="image fit"><img class="lazyload" data-src="images/equipment/agilent.jpg" alt="" /></span>
 										</div>
 										<div class="col-9 col-12-small">
 											<h3 class="nospace">Agilent 1100 Series Chemstation HPLC</h3><br>
 											<p>With a DAD, autosampler, and fraction collector.</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-3 col-12-small">
-											<span class="image fit"><img src="images/equipment/newuv.jpg" alt="" /></span>
+											<span class="image fit"><img class="lazyload" data-src="images/equipment/newuv.jpg" alt="" /></span>
 										</div>
 										<div class="col-9 col-12-small">
 											<h3 class="nospace">Perkin Elmer Lambda 25 UV-Vis Spectrometer</h3><br>
 											<p>Allows scanning between 250-1100 nm. The accompanying Peltier element allows to acquire UV-Vis spectra at a range of temperatures.</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-3 col-12-small">
-											<span class="image fit"><img src="images/equipment/uv-vis.jpg" alt="" /></span>
+											<span class="image fit"><img class="lazyload" data-src="images/equipment/uv-vis.jpg" alt="" /></span>
 										</div>
 										<div class="col-9 col-12-small">
 											<h3 class="nospace">Perkin Elmer Lambda 20 UV-Vis Spectrometer</h3><br>
 											<p>Allows scanning between 250-1100 nm. The accompanying Peltier element allows to acquire UV-Vis spectra at a range of temperatures.</p>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-3 col-12-small">
-											<span class="image fit"><img src="images/equipment/fluorimeter.jpg" alt="" /></span>
+											<span class="image fit"><img class="lazyload" data-src="images/equipment/fluorimeter.jpg" alt="" /></span>
 										</div>
 										<div class="col-9 col-12-small">
 											<h3 class="nospace">FS5 Spectrofluorometer - Edinburgh Instruments</h3><br>
 											<p>Allows both emission and excitation spectra of our samples to be recorded. Spectral range up to 1650 nm and fluorescence lifetimes down to 400 ps.</p>
 										</div>
 									</div>
-									<div class="row">
+									<div class="row ref last">
 										<div class="col-3 col-12-small">
-											<span class="image fit"><img src="images/equipment/electrochemistry.jpg" alt="" /></span>
+											<span class="image fit"><img class="lazyload" data-src="images/equipment/electrochemistry.jpg" alt="" /></span>
 										</div>
 										<div class="col-9 col-12-small">
 											<h3 class="nospace">Autolab Electrochemistry Kit</h3><br>
@@ -109,6 +110,9 @@
 				<!--#include virtual="/includes/sidebar.inc" -->	
 
 			</div>
+		
+		<!-- IE-Banner -->
+			<!--#include virtual="includes/ie-banner.inc" -->
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
@@ -116,6 +120,7 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="assets/js/lazysizes.min.js"></script>
 
 	</body>
 </html>
