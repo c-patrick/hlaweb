@@ -8,7 +8,7 @@
 	<head>
 		<title>Anderson Research Group | University of Oxford</title>
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="assets/image-slider/css/ideal-image-slider.css" />
 		<link rel="stylesheet" href="assets/image-slider/css/themes/default/default.css" />
@@ -163,6 +163,9 @@
 					<!--#include virtual="includes/sidebar.inc" -->
 
 			</div>
+		
+		<!-- IE-Banner -->
+			<!--#include virtual="includes/ie-banner.inc" -->
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
@@ -170,6 +173,7 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="assets/js/lazysizes.min.js"></script>
 			<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 			<script src="assets/image-slider/js/ideal-image-slider.min.js"></script>
 			<script>

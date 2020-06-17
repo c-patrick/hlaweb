@@ -4,13 +4,15 @@
 	Connor Patrick | connor<dot>patrick<at>chem<dot>ox<dot>ac<dot>uk
 	https://github.com/c-patrick/hlaweb
 -->
-<html>
+<html lang="en">
 	<head>
 		<title>Anderson Research Group | University of Oxford</title>
+		<meta name="keywords" content="porphyrin, rotaxanes, PDT, photodynamic therapy, molecular wires, molecular machines, supramolecular chemistry, encapsulation, dyes, photophysics" />
+		<meta name="description" content="HLA group publications from 2011-2015.">
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="../assets/css/main.css" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--#include virtual="/includes/base.inc" -->
+		<!--#include virtual="/includes/head_theme.inc" -->
 	</head>
 	<body class="is-preload">
 
@@ -46,7 +48,7 @@
 
 									<h2>2015 - 2011</h2>
 									
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">242</h4>
 										</div>
@@ -61,10 +63,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/242.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/242.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">241</h4>
 										</div>
@@ -79,10 +81,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/241.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/241.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">240</h4>
 										</div>
@@ -97,10 +99,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/240.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/240.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">239</h4>
 										</div>
@@ -121,10 +123,10 @@
 											</div>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/239.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/239.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">238</h4>
 										</div>
@@ -139,10 +141,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/238.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/238.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">237</h4>
 										</div>
@@ -157,10 +159,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/237.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/237.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">236</h4>
 										</div>
@@ -175,10 +177,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/236.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/236.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">235</h4>
 										</div>
@@ -193,10 +195,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/235.png" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/235.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">234</h4>
 										</div>
@@ -211,10 +213,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/234.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/234.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">233</h4>
 										</div>
@@ -229,10 +231,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/233.png" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/233.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">232</h4>
 										</div>
@@ -266,10 +268,10 @@
 											</div>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/232.png" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/232.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">231</h4>
 										</div>
@@ -284,10 +286,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/231.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/231.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">230</h4>
 										</div>
@@ -302,10 +304,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/230.png" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/230.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">229</h4>
 										</div>
@@ -320,10 +322,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/229.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/229.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">228</h4>
 										</div>
@@ -338,10 +340,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/228.png" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/228.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">227</h4>
 										</div>
@@ -356,10 +358,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/227.png" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/227.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">226</h4>
 										</div>
@@ -374,10 +376,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/226.png" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/226.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">225</h4>
 										</div>
@@ -398,10 +400,10 @@
 											</div>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/225.png" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/225.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">224</h4>
 										</div>
@@ -416,10 +418,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/224.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/224.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">223</h4>
 										</div>
@@ -434,10 +436,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/223.png" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/223.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">222</h4>
 										</div>
@@ -452,10 +454,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/222.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/222.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">221</h4>
 										</div>
@@ -470,10 +472,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/221.png" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/221.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">220</h4>
 										</div>
@@ -488,10 +490,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/220.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/220.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">219</h4>
 										</div>
@@ -505,10 +507,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/219.png" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/219.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">218</h4>
 										</div>
@@ -523,10 +525,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/218.png" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/218.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">217</h4>
 										</div>
@@ -541,10 +543,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/217.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/217.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">216</h4>
 										</div>
@@ -559,10 +561,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/216.png" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/216.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">215</h4>
 										</div>
@@ -577,10 +579,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/215.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/215.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">214</h4>
 										</div>
@@ -595,10 +597,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/214.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/214.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">213</h4>
 										</div>
@@ -613,10 +615,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/213.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/213.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">212</h4>
 										</div>
@@ -631,10 +633,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/212.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/212.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">211</h4>
 										</div>
@@ -668,10 +670,10 @@
 											</div>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/211.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/211.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">210</h4>
 										</div>
@@ -686,10 +688,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/210.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/210.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">209</h4>
 										</div>
@@ -704,10 +706,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/209.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/209.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">208</h4>
 										</div>
@@ -722,10 +724,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/208.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/208.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">207</h4>
 										</div>
@@ -740,10 +742,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/207.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/207.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">206</h4>
 										</div>
@@ -758,10 +760,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/206.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/206.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">205</h4>
 										</div>
@@ -776,10 +778,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/205.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/205.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">204</h4>
 										</div>
@@ -794,10 +796,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/204.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/204.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">203</h4>
 										</div>
@@ -812,10 +814,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/203.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/203.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">202</h4>
 										</div>
@@ -830,10 +832,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/202.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/202.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">201</h4>
 										</div>
@@ -848,10 +850,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/201.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/201.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">200</h4>
 										</div>
@@ -866,10 +868,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/200.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/200.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">199</h4>
 										</div>
@@ -884,10 +886,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/199.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/199.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">198</h4>
 										</div>
@@ -902,10 +904,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/198.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/198.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">197</h4>
 										</div>
@@ -920,10 +922,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/197.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/197.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">196</h4>
 										</div>
@@ -938,10 +940,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/196.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/196.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">195</h4>
 										</div>
@@ -956,10 +958,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/195.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/195.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">194</h4>
 										</div>
@@ -974,10 +976,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/194.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/194.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">193</h4>
 										</div>
@@ -992,10 +994,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/193.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/193.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">192</h4>
 										</div>
@@ -1010,10 +1012,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/192.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/192.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">191</h4>
 										</div>
@@ -1028,10 +1030,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/191.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/191.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">190</h4>
 										</div>
@@ -1046,10 +1048,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/190.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/190.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">189</h4>
 										</div>
@@ -1064,10 +1066,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/189.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/189.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">188</h4>
 										</div>
@@ -1082,10 +1084,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/188.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/188.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">187</h4>
 										</div>
@@ -1100,10 +1102,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/187.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/187.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">186</h4>
 										</div>
@@ -1118,10 +1120,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/186.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/186.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">185</h4>
 										</div>
@@ -1136,10 +1138,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/185.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/185.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">184</h4>
 										</div>
@@ -1154,10 +1156,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/184.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/184.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">183</h4>
 										</div>
@@ -1172,10 +1174,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/183.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/183.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">182</h4>
 										</div>
@@ -1190,10 +1192,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/182.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/182.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">181</h4>
 										</div>
@@ -1227,10 +1229,10 @@
 											</div>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/181.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/181.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">180</h4>
 										</div>
@@ -1264,10 +1266,10 @@
 											</div>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/180.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/180.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">179</h4>
 										</div>
@@ -1282,10 +1284,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/179.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/179.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">178</h4>
 										</div>
@@ -1300,10 +1302,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/178.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/178.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">177</h4>
 										</div>
@@ -1318,10 +1320,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/177.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/177.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">176</h4>
 										</div>
@@ -1336,10 +1338,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/176.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/176.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">175</h4>
 										</div>
@@ -1354,10 +1356,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/175.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/175.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">174</h4>
 										</div>
@@ -1372,10 +1374,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/174.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/174.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">173</h4>
 										</div>
@@ -1390,10 +1392,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/173.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/173.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">172</h4>
 										</div>
@@ -1408,10 +1410,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/172.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/172.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">171</h4>
 										</div>
@@ -1426,10 +1428,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/171.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/171.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">170</h4>
 										</div>
@@ -1444,10 +1446,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/170.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/170.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">169</h4>
 										</div>
@@ -1462,10 +1464,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/169.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/169.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">168</h4>
 										</div>
@@ -1480,10 +1482,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/168.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/168.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">167</h4>
 										</div>
@@ -1498,10 +1500,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/167.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/167.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">166</h4>
 										</div>
@@ -1516,10 +1518,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/166.gif" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/166.gif" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">165</h4>
 										</div>
@@ -1534,10 +1536,10 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/165.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/165.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="ref">
+									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">164</h4>
 										</div>
@@ -1599,10 +1601,10 @@
 											</div>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/164.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/164.jpg" alt="" /></span>
 										</div>
 									</div>
-									<div class="row">
+									<div class="row ref last">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">163</h4>
 										</div>
@@ -1623,7 +1625,7 @@
 											</div>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img src="../images/abstracts/163.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/163.jpg" alt="" /></span>
 										</div>
 									</div>
 						  </section>
@@ -1649,13 +1651,17 @@
 				<!--#include virtual="/includes/sidebar.inc" -->	
 
 			</div>
+		
+		<!-- IE-Banner -->
+			<!--#include virtual="includes/ie-banner.inc" -->
 
 		<!-- Scripts -->
-			<script src="../assets/js/jquery.min.js"></script>
-			<script src="../assets/js/browser.min.js"></script>
-			<script src="../assets/js/breakpoints.min.js"></script>
-			<script src="../assets/js/util.js"></script>
-			<script src="../assets/js/main.js"></script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script src="assets/js/lazysizes.min.js"></script>
 
 	</body>
 </html>

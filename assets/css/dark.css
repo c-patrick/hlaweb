@@ -1,0 +1,44 @@
+/* CSS Document */
+
+:root {
+	--header-color: #f7f7f7;
+	--body-color: #b0b3b8;
+	--background-color: #181818;
+	--link-color: #f56a6a;
+	--box-color: #242526;
+	--tweet-box-color: #242526;
+	--box-border: 0;
+	--table-border: solid 1px #ffffff;
+	--table-fill-color: #212121;
+	--sidebar-color: #212121;
+	--sidebar-opener-color: #b0b3b8;
+	--sidebar-opener-background:  #212121;
+	--opener-ul-color: #f7f7f7;
+	--tbody-tr-colour: #212121;
+	--tbody-tr-colour-alt: 0;
+	--oxlogo-border: 1px solid #ffffff;
+}
+
+/* If no dark mode user agent stylesheet exists, emulate it */
+/*select,
+input,
+button,
+option {
+  color: var(--text-color);
+  background-color: var(--background-color);
+  border-width: 1px;
+  border-radius: 1px;
+} */
+
+/* Else, use the user agent stylesheet */
+/*@media (prefers-color-scheme: dark) {
+  select,
+  input,
+  button,
+  option {
+    color: unset;
+    background-color: unset;
+  }
+} */
+
+/*   --link-color: #BC4F4F; */

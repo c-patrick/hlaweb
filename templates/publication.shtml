@@ -8,7 +8,7 @@
 	<head>
 		<title>Anderson Research Group | University of Oxford</title>
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="../assets/css/main.css" />
 		<!--#include virtual="/includes/base.inc" -->
 	</head>
@@ -87,6 +87,9 @@
 				<!--#include virtual="/includes/sidebar.inc" -->	
 
 			</div>
+		
+		<!-- IE-Banner -->
+			<!--#include virtual="includes/ie-banner.inc" -->
 
 		<!-- Scripts -->
 			<script src="../assets/js/jquery.min.js"></script>

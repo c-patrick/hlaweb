@@ -4,7 +4,7 @@
 							<!-- Menu -->
 						  <nav id="menu">
 							  		<p class="align-center">
-										<a href="https://www.chem.ox.ac.uk/"><img src="/images/oxlogo_square.svg" width="50%" alt="Oxford Logo" /></a>
+										<a href="https://www.chem.ox.ac.uk/"><img class="lazyload oxlogo" data-src="/images/oxlogo_square.svg" alt="Oxford Logo" /></a>
 							  		</p>
 
 									<header class="major">
@@ -55,7 +55,7 @@
 									<div class="mini-posts">
 										<div class="row">
 											<div class="col-4 col-12-small">
-												<a href="group/will.shtml" class="image news"><img src="images/group/people/will.jpg" alt="" /></a>
+												<a href="group/will.shtml" class="image news"><img class="lazyload" data-src="images/group/people/will.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
 												<p>Goodbye to <a href="group/will.shtml">Will Kendrick</a>, all the best in the future!</p>
@@ -66,7 +66,7 @@
 										
 										<div class="row">
 											<div class="col-4 col-12-small">
-												<a href="group/james.shtml" class="image news"><img src="images/group/people/james.jpg" alt="" /></a>
+												<a href="group/james.shtml" class="image news"><img class="lazyload" data-src="images/group/people/james.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
 												<p>Goodbye to <a href="group/james.shtml">James Thomas</a>, leaving to start a PostDoc at the Department of Materials, Oxford.</p>
@@ -77,7 +77,7 @@
 										
 										<div class="row">
 											<div class="col-4 col-12-small">
-												<a href="group/marcin.shtml" class="image news"><img src="images/group/people/marcin.jpg" alt="" /></a>
+												<a href="group/marcin.shtml" class="image news"><img class="lazyload" data-src="images/group/people/marcin.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
 												<p>Welcome to <a href="group/marcin.shtml">Marcin Majewski</a>, joining us as a Post Doc.</p>
@@ -88,7 +88,7 @@
 										
 										<div class="row">
 											<div class="col-4 col-12-small">
-												<a href="group/jeff.shtml" class="image news"><img src="images/group/people/jeff.jpg" alt="" /></a>
+												<a href="group/jeff.shtml" class="image news"><img class="lazyload" data-src="images/group/people/jeff.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
 												<p>A warm welcome to <a href="group/jeff.shtml">Jeff Van Raden</a>, joining us as a Post Doc.</p>
@@ -99,7 +99,7 @@
 										
 										<div class="row">
 											<div class="col-4 col-12-small">
-												<a href="group/bobby.shtml" class="image news"><img src="images/group/people/bobby.jpg" alt="" /></a>
+												<a href="group/bobby.shtml" class="image news"><img class="lazyload" data-src="images/group/people/bobby.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
 												<p>Welcome to <a href="group/bobby.shtml">Sili Qiu</a>, starting his DPhil in our group.</p>
@@ -134,12 +134,19 @@
 									<ul class="actions center">
 										<li><a href="vacancies.shtml" class="button big">Learn More</a></li>
 									</ul>
-						  </section> 
-
+								</section> 
 
 							<!-- Footer -->
 								<footer id="footer">
 									<p class="copyright">© Harry Anderson Group. All rights reserved.</p>
+									<dark-mode-toggle
+								    	id="dark-mode-toggle-1"
+										appearance="toggle"
+								    	dark=""
+								    	light=""
+								    	remember="Remember"
+										permanent="true"
+									></dark-mode-toggle>
 								</footer>
 
 						</div>
