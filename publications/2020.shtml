@@ -49,6 +49,24 @@
 									
 									<div class="row ref">
 										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">311</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>A cyanine dye rotaxane porphyrin nanoring complex as a model light harvesting system</h3>
+											<p><refdata class="authors">J. Pruchyathamkorn, W. J. Kendrick, A. T. Frawley, A. Mattioni, F. Caycedo-Soler, S. F. Huelga, M. B. Plenio and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773">Angew. Chem. Int. Ed.</a></refdata>,
+												<refdata class="year">2020</refdata>,
+												<!-- <refdata class="vol"></refdata>, -->
+												<refdata class="page">DOI: <a href="https://doi.org/10.1002/anie.202006644">10.1002/anie.202006644</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img class="lazyload" data-src="images/abstracts/311.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="row ref">
+										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">310</h4>
 										</div>
 										<div class="col-9 col-12-small">
