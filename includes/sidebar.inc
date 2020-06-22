@@ -55,10 +55,24 @@
 									<div class="mini-posts">
 										<div class="row">
 											<div class="col-4 col-12-small">
+	  											<div class="column">
+		   											<a href="group/isaac/shtml" class="image stack"><img src="images/group/people/isaac.jpg" alt="" /></a>
+		    										<a href="group/thomas.shtml" class="image stack"><img src="images/group/people/thomas.jpg" alt="" /></a>
+	    										</div>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>Congratulations to <a href="group/isaac.shtml">Isaac</a> and <a href="group/thomas.shtml">Tom</a> for handing in their Part II theses. (June 2020)</p>
+											</div>
+										</div>
+
+										<hr class="sidebar">
+
+										<div class="row">
+											<div class="col-4 col-12-small">
 												<a href="group/will.shtml" class="image news"><img class="lazyload" data-src="images/group/people/will.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
-												<p>Goodbye to <a href="group/will.shtml">Will Kendrick</a>, all the best in the future!</p>
+												<p>Goodbye to <a href="group/will.shtml">Will Kendrick</a>, all the best in the future! (February 2020)</p>
 											</div>
 										</div>
 										
@@ -69,7 +83,7 @@
 												<a href="group/james.shtml" class="image news"><img class="lazyload" data-src="images/group/people/james.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
-												<p>Goodbye to <a href="group/james.shtml">James Thomas</a>, leaving to start a PostDoc at the Department of Materials, Oxford.</p>
+												<p>Goodbye to <a href="group/james.shtml">James Thomas</a>, leaving to start a PostDoc at the Department of Materials, Oxford. (January 2020)</p>
 											</div>
 										</div>
 										
@@ -80,7 +94,7 @@
 												<a href="group/marcin.shtml" class="image news"><img class="lazyload" data-src="images/group/people/marcin.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
-												<p>Welcome to <a href="group/marcin.shtml">Marcin Majewski</a>, joining us as a Post Doc.</p>
+												<p>Welcome to <a href="group/marcin.shtml">Marcin Majewski</a>, joining us as a Post Doc. (January 2020)</p>
 											</div>
 										</div>
 										
@@ -91,23 +105,12 @@
 												<a href="group/jeff.shtml" class="image news"><img class="lazyload" data-src="images/group/people/jeff.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
-												<p>A warm welcome to <a href="group/jeff.shtml">Jeff Van Raden</a>, joining us as a Post Doc.</p>
+												<p>A warm welcome to <a href="group/jeff.shtml">Jeff Van Raden</a>, joining us as a Post Doc. (October 2019)</p>
 											</div>
 										</div>
 										
 										<hr class="sidebar">
 										
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<a href="group/bobby.shtml" class="image news"><img class="lazyload" data-src="images/group/people/bobby.jpg" alt="" /></a>
-											</div>
-											<div class="col-8 col-12-small">
-												<p>Welcome to <a href="group/bobby.shtml">Sili Qiu</a>, starting his DPhil in our group.</p>
-											</div>
-										</div>
-									</div>	
-									
-
 									<ul class="actions center">
 										<li><a href="/news.shtml" class="button">More</a></li>
 									</ul>
