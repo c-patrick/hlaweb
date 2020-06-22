@@ -1,3 +1,4 @@
+
 # README
 
 This is a work-in-progress site for the Harry Anderson research group website (http://hla.chem.ox.ac.uk). Most of the dynamic grids and rows are handled by **bootstrap**.
@@ -6,16 +7,32 @@ This is a work-in-progress site for the Harry Anderson research group website (h
 
 The sidebar and header are **server-side includes** and can be found in the `includes` folder.
 
-`base.inc` is used to define a base URL and is used for testing.
+`base.inc` is used to define a base URL for pages in subfolders where absolute paths are not defined.
+<![endif]-->
+
+## General
+### Lazy Loading Images
+This site supports lazily loading images using the [lazysizes](https://github.com/aFarkas/lazysizes) script to conserve bandwidth and improve page loading times.
+
+Images can be lazily loaded simply by adding the `lazyload` class to the `<img>` tag. As with most lazyloading strategies, it is recommended not to lazyload the first few images to prevent those images from appearing after the page has loaded.
+
+### Theme Switcher
+Since `V1.1.0`, the ability to toggle the site theme between a light and dark them was introduced. The fundamental script behind this was taken from GoogleChromeLabs' [dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle).
+
+CSS variable have been introduced in the `main.css` file, and are set in `light.css` and `dark.css`, respectively. The majority of site-wide settings are configured in the `head_theme.inc` include file. For browsers that do not support CSS variables (e.g. Internet Explorer), [ie11CustomProperties](https://github.com/nuxodin/ie11CustomProperties) is loaded specifically for those browsers.
+
+In order to ensure the Twitter widget is displayed in the correct theme, a reload is required upon changing theme on the index page. This is configured in the `scripts/darkmode-twitter.js` file.
 
 ## Image Slider
-The `index.shtml` image slider uses W3.CSS to display a series of images, strongly based on the [W3Schools example](https://www.w3schools.com/w3css/w3css_slideshow.asp). A fade animation (`w3-animate-opacity`) is applied to each image in the slider. 
+The `index.shtml` image slider uses W3.CSS to display a series of images, heavily based on the [W3Schools example](https://www.w3schools.com/w3css/w3css_slideshow.asp). A fade animation (`w3-animate-opacity`) is applied to each image in the slider. 
 
 The slider displays the images at a fixed height as defined in `main.css`. The height responds to screen resolution using the `@media` rule for a given width range.
 
 Images should be added to the slider following the general form:
 
     <img class="mySlides w3-animate-opacity" src="path/to/image" >
+    
+For all but the first image in the slider, the `lazyload` class can be added to lazy load the images.
 
 ## Sidebar
 ### Recent News
