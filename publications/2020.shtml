@@ -49,6 +49,24 @@
 									
 									<div class="row ref">
 										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">312</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Photochemical Unmasking of Polyyne Rotaxanes</h3>
+											<p><refdata class="authors">S. L. Woltering, P. Gawel, K. E. Christensen, A. L. Thompson and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2020</refdata>,
+												<!-- <refdata class="vol"></refdata>, -->
+												<refdata class="page">DOI: <a href="https://doi.org/10.1021/jacs.0c05308">10.1021/jacs.0c05308</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img class="lazyload" data-src="images/abstracts/312.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="row ref">
+										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">311</h4>
 										</div>
 										<div class="col-9 col-12-small">
