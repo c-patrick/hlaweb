@@ -87,25 +87,23 @@
 										</div>
 									</div>
 									<div class="row ref">
-										<div class="row ref">
-											<div class="col-1 col-12-small">
-												<h4 class="refdatanum">313</h4>
-											</div>
-											<div class="col-9 col-12-small">
-												<h3>Panchromatic light funneling through the synergy in hexabenzocoronene–(metallo)porphyrin–fullerene assemblies to realize the separation of charges</h3>
-												<p><refdata class="authors">M. Wolf, D. Lungerich, S. Bauroth, M. Popp, B. Platzer, T. Clark, H. L. Anderson, N. Jux and D. M. Guldi.</refdata></p>
-												<p>
-													<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
-													<refdata class="year">2020</refdata>,
-													<!-- <refdata class="vol">XXXX</refdata>, -->
-													<refdata class="page">DOI: <a href="https://doi.org/10.1039/D0SC02028A">10.1039/D0SC02028A</a></refdata>
-												</p>
-											</div>
-											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" data-src="images/abstracts/313.jpg" alt="" /></span>
-											</div>
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">313</h4>
 										</div>
-										<div class="row ref">						
+										<div class="col-9 col-12-small">
+											<h3>Panchromatic light funneling through the synergy in hexabenzocoronene–(metallo)porphyrin–fullerene assemblies to realize the separation of charges</h3>
+											<p><refdata class="authors">M. Wolf, D. Lungerich, S. Bauroth, M. Popp, B. Platzer, T. Clark, H. L. Anderson, N. Jux and D. M. Guldi.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
+												<refdata class="year">2020</refdata>,
+												<!-- <refdata class="vol">XXXX</refdata>, -->
+												<refdata class="page">DOI: <a href="https://doi.org/10.1039/D0SC02028A">10.1039/D0SC02028A</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img class="lazyload" data-src="images/abstracts/313.jpg" alt="" /></span>
+										</div>
+									</div>					
 									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">312</h4>
