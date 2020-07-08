@@ -47,6 +47,65 @@
 
 									<h2>Present - 2016</h2>
 									
+									<!-- EXAMPLE ENTRY -->
+									<!-- <div class="row ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">XXXX</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>XXXX</h3>
+											<p><refdata class="authors">XXXX.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="XXXX">XXXX</a></refdata>,
+												<refdata class="year">XXXX</refdata>,
+												<refdata class="vol">XXXX</refdata>,
+												<refdata class="page"><a href="https://doi.org/XXXX">XXXX</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img class="lazyload" data-src="images/abstracts/XXXX.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="row ref"> -->
+
+									<div class="row ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">314</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Allosteric Cooperativity and Template-Directed Synthesis with Stacked Ligands in Porphyrin Nanorings</h3>
+											<p><refdata class="authors">P. S. Bols, M. Rickhaus, L. Tejerina, H. Gotfredsen, K. Eriksen, M. Jirasek and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2020</refdata>,
+												<!-- <refdata class="vol">XXXX</refdata>, -->
+												<refdata class="page"><a href="https://doi.org/10.1021/jacs.0c06269">10.1021/jacs.0c06269</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img class="lazyload" data-src="images/abstracts/314.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="row ref">
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">313</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Panchromatic light funneling through the synergy in hexabenzocoronene–(metallo)porphyrin–fullerene assemblies to realize the separation of charges</h3>
+												<p><refdata class="authors">M. Wolf, D. Lungerich, S. Bauroth, M. Popp, B. Platzer, T. Clark, H. L. Anderson, N. Jux and D. M. Guldi.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
+													<refdata class="year">2020</refdata>,
+													<!-- <refdata class="vol">XXXX</refdata>, -->
+													<refdata class="page"><a href="https://doi.org/10.1039/D0SC02028A">10.1039/D0SC02028A</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/313.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">						
 									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">312</h4>
