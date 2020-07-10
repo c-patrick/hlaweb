@@ -101,6 +101,17 @@
 											</p>
 										</article> -->
 										<article>
+											<a href="https://doi.org/10.1021/jacs.0c05033" class="image front"><img class="lazyload" data-src="images/abstracts/315.jpg" alt="" /></a>
+											<h3>Synthesis of cyclo[18]carbon via debromination of C<sub>18</sub>Br<sub>6</sub></h3>
+											<p><refdata class="authors">L. M. Scriven, K. Kaiser, F. Schulz, A. J. Sterling, S. L. Woltering, P. Gawel, K. E. Christensen, H. L. Anderson and L. Gross.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2020</refdata>,
+												<!-- <refdata class="vol">XXXX</refdata>, -->
+												<refdata class="page">DOI: <a href="https://doi.org/10.1021/jacs.0c05033">10.1021/jacs.0c05033</a></refdata>
+											</p>
+										</article>
+										<article>
 											<a href="https://doi.org/10.1021/jacs.0c06269" class="image front"><img class="lazyload" data-src="images/abstracts/314.jpg" alt="" /></a>
 											<h3>Allosteric Cooperativity and Template-Directed Synthesis with Stacked Ligands in Porphyrin Nanorings</h3>
 											<p><refdata class="authors">P. S. Bols, M. Rickhaus, L. Tejerina, H. Gotfredsen, K. Eriksen, M. Jirasek and H. L. Anderson.</refdata></p>
@@ -153,17 +164,6 @@
 												<refdata class="year">2020</refdata>,
 												<refdata class="vol">11</refdata>,
 												<refdata class="page"><a href="http://dx.doi.org/10.1039/C9SC05717J">2112-2120</a></refdata>
-											</p>
-										</article>
-										<article>
-											<a href="http://dx.doi.org/10.1038/s41557-019-0398-3" class="image front"><img class="lazyload" data-src="images/abstracts/309.jpg" alt="" /></a>
-											<h3>Global aromaticity at the nanoscale</h3>
-											<p><refdata class="authors"> M. Rickhaus, M. Jir&aacute;sek, L. Tejerina, H. Gotfredsen, M. D. Peeks, R. Haver, H. Jiang, T. D. W. Claridge, H. L. Anderson.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="https://www.nature.com/nchem/">Nat. Chem.</a></refdata>,
-												<refdata class="year">2020</refdata>,
-												<refdata class="vol">12</refdata>,
-												<refdata class="page"><a href="http://dx.doi.org/10.1038/s41557-019-0398-3">236-241</a></refdata>
 											</p>
 										</article>
 									</div>
