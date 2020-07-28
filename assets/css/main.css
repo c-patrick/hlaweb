@@ -1541,6 +1541,7 @@ header.main > :last-child {
 	float: right;
 	margin: 0 0 2em 0;
 	padding-left: 1em;
+	padding-right: 1em;
 	width: 50%;
 }
 .image.front img {

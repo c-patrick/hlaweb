@@ -55,6 +55,17 @@
 									<div class="mini-posts">
 										<div class="row">
 											<div class="col-4 col-12-small">
+												<a href="group/jibin.shtml" class="image news"><img class="lazyload" data-src="images/group/people/jibin.jpg" alt="" /></a>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>Goodbye to <a href="group/will.shtml">Jibin Sun</a>, returning to China to continue his studies. (July 2020)</p>
+											</div>
+										</div>
+
+										<hr class="sidebar">
+
+										<div class="row">
+											<div class="col-4 col-12-small">
 	  											<div class="column">
 		   											<a href="group/isaac/shtml" class="image stack"><img src="images/group/people/isaac.jpg" alt="" /></a>
 		    										<a href="group/thomas.shtml" class="image stack"><img src="images/group/people/thomas.jpg" alt="" /></a>
@@ -97,18 +108,7 @@
 												<p>Welcome to <a href="group/marcin.shtml">Marcin Majewski</a>, joining us as a Post Doc. (January 2020)</p>
 											</div>
 										</div>
-										
-										<hr class="sidebar">
-										
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<a href="group/jeff.shtml" class="image news"><img class="lazyload" data-src="images/group/people/jeff.jpg" alt="" /></a>
-											</div>
-											<div class="col-8 col-12-small">
-												<p>A warm welcome to <a href="group/jeff.shtml">Jeff Van Raden</a>, joining us as a Post Doc. (October 2019)</p>
-											</div>
-										</div>
-										
+																			
 										<hr class="sidebar">
 										
 									<ul class="actions center">
