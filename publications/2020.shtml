@@ -68,6 +68,42 @@
 									</div> -->
 									<div class="row ref">
 										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">317</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Super-resolution RESOLFT microscopy of lipid bilayers using a fluorophore-switch dyad</h3>
+											<p><refdata class="authors">A. T. Frawley, V. Wycisk, Y. Xiong, S. Galiani, E. Sezgin, I. Urbancic, A. Vargas Jentzsch, K. Leslie, C. Eggeling and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
+												<refdata class="year">2020</refdata>,
+												<!-- <refdata class="vol">XXXX</refdata>, -->
+												<refdata class="page">DOI: <a href="https://doi.org/10.1039/D0SC02447C">10.1039/D0SC02447C</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img class="lazyload" data-src="images/abstracts/317.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="row ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">316</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Exciton-Exciton Annihilation as a Probe of Exciton Diffusion in Large Porphyrin Nanorings</h3>
+											<p><refdata class="authors">G. Bressan, M. Jir&aacute;sek, H. L. Anderson, I. A. Heisler and S. R. Meech.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/journal/jpccck">J. Phys. Chem. C</a></refdata>,
+												<refdata class="year">2020</refdata>,
+												<!-- <refdata class="vol">XXXX</refdata>, -->
+												<refdata class="page">DOI: <a href="https://doi.org/10.1021/acs.jpcc.0c04546">10.1021/acs.jpcc.0c04546</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img class="lazyload" data-src="images/abstracts/316.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="row ref">
+										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">315</h4>
 										</div>
 										<div class="col-9 col-12-small">
@@ -76,8 +112,8 @@
 											<p>
 												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
 												<refdata class="year">2020</refdata>,
-												<!-- <refdata class="vol">XXXX</refdata>, -->
-												<refdata class="page">DOI: <a href="https://doi.org/10.1021/jacs.0c05033">10.1021/jacs.0c05033</a></refdata>
+												<refdata class="vol">142</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1021/jacs.0c05033">12921-12924</a></refdata>
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
@@ -90,12 +126,18 @@
 										</div>
 										<div class="col-9 col-12-small">
 											<h3>Allosteric Cooperativity and Template-Directed Synthesis with Stacked Ligands in Porphyrin Nanorings</h3>
-											<p><refdata class="authors">P. S. Bols, M. Rickhaus, L. Tejerina, H. Gotfredsen, K. Eriksen, M. Jirasek and H. L. Anderson.</refdata></p>
+											<p><refdata class="authors">P. S. Bols, M. Rickhaus, L. Tejerina, H. Gotfredsen, K. Eriksen, M. Jir&aacute;sek and H. L. Anderson.</refdata></p>
 											<p>
 												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
 												<refdata class="year">2020</refdata>,
-												<!-- <refdata class="vol">XXXX</refdata>, -->
-												<refdata class="page">DOI: <a href="https://doi.org/10.1021/jacs.0c06269">10.1021/jacs.0c06269</a></refdata>
+												<refdata class="vol">142</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1021/jacs.0c06269">13219-13226</a></refdata>
+												<div class="box">
+													<b>Highlighted in:</b>
+														<p class="pub">
+															<refdata class="journal"><a href="https://www.nature.com/natrevchem/">Nature Reviews Chemistry</a></refdata> (7 Aug. 2020); <a href="https://www.nature.com/articles/s41570-020-0217-9">"<i>Making molecules work together</i>"</a>
+														</p>
+												</div>
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
@@ -130,8 +172,8 @@
 											<p>
 												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
 												<refdata class="year">2020</refdata>,
-												<!-- <refdata class="vol"></refdata>, -->
-												<refdata class="page">DOI: <a href="https://doi.org/10.1021/jacs.0c05308">10.1021/jacs.0c05308</a></refdata>
+												<refdata class="vol">142</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1021/jacs.0c05308">13523–13532</a></refdata>
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
@@ -317,7 +359,7 @@
 										</div>
 										<div class="col-9 col-12-small">
 											<h3>Global Aromaticity and Antiaromaticity in Porphyrin Nanoring Anions</h3>
-											<p><refdata class="authors">M. D. Peeks, M. Jirasek, T. D. W. Claridge and H. L. Anderson.</refdata></p>
+											<p><refdata class="authors">M. D. Peeks, M. Jir&aacute;sek, T. D. W. Claridge and H. L. Anderson.</refdata></p>
 											<p>
 												<refdata class="journal"><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773">Angew. Chem. Int. Ed.</a></refdata>,
 												<refdata class="year">2019</refdata>,
@@ -480,7 +522,7 @@
 										</div>
 										<div class="col-9 col-12-small">
 											<h3>Tuning the Circumference of Six-Porphyrin Nanorings</h3>
-											<p><refdata class="authors">R. Haver, L. Tejerina, H. Jiang, M. Rickhaus, M. Jirasek, I. Gruebner, H. J. Eggimann, L. M. Herz and H. L. Anderson.</refdata></p>
+											<p><refdata class="authors">R. Haver, L. Tejerina, H. Jiang, M. Rickhaus, M. Jir&aacute;sek, I. Gruebner, H. J. Eggimann, L. M. Herz and H. L. Anderson.</refdata></p>
 											<p>
 												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
 												<refdata class="year">2019</refdata>,
@@ -877,7 +919,7 @@
 										</div>
 										<div class="col-9 col-12-small">
 											<h3>Single-Acetylene Linked Porphyrin Nanorings</h3>
-											<p><refdata class="authors">M. Rickhaus, A. Vargas Jentzsch, L. Tejerina, I. Gruebner, M. Jirasek, T. D. W. Claridge, H. L. Anderson.</refdata></p>
+											<p><refdata class="authors">M. Rickhaus, A. Vargas Jentzsch, L. Tejerina, I. Gruebner, M. Jir&aacute;sek, T. D. W. Claridge, H. L. Anderson.</refdata></p>
 											<p>
 												<refdata class="journal"><a href="http://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
 												<refdata class="year">2017</refdata>,

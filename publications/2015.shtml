@@ -480,13 +480,13 @@
 											<h4 class="refdatanum">220</h4>
 										</div>
 										<div class="col-9 col-12-small">
-											<h3>Photophysics of Threaded sp-Carbon Chains: The Polyyne is a Sink for Singlet and Triplet Excitation</h3>
-											<p><refdata class="authors">L. D. Movsisyan, M. D. Peeks, G. M. Greetham, M. Towrie, A. L. Thompson, A. W. Parker, H. L. Anderson.</refdata></p>
+											<h3>Ultrafast delocalization of excitation in synthetic light-harvesting nanorings</h3>
+											<p><refdata class="authors">C-K. Yong, P. Parkinson, D. V. Kondratuk, W-H. Chen, A. Stannard, A. Summerfield, J. K. Sprafke, M. C. O'Sullivan, P. H. Beton, H. L. Anderson, L. M. Herz.</refdata></p>
 											<p>
-												<refdata class="journal"><a href="http://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
-												<refdata class="year">2014</refdata>,
-												<refdata class="vol">136</refdata>,
-												<refdata class="page"><a href="http://dx.doi.org/10.1021/ja510663z">17996-18008</a></refdata>
+												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journalissues/sc#!recentarticles&all">Chem. Sci.</a></refdata>,
+												<refdata class="year">2015</refdata>,
+												<refdata class="vol">6</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1039/C4SC02424A">181-189</a></refdata>
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
@@ -498,12 +498,13 @@
 											<h4 class="refdatanum">219</h4>
 										</div>
 										<div class="col-9 col-12-small">
-											<h3>Exploiting the Symmetry of the Resonator Mode to Enhance PELDOR Sensitivity</h3>
-											<p><refdata class="authors">E. Salvadori, M. W. Fung, M. Hoffmann, H. L. Anderson, C. W. M. Kay.</refdata></p>
+											<h3>Photophysics of Threaded sp-Carbon Chains: The Polyyne is a Sink for Singlet and Triplet Excitation</h3>
+											<p><refdata class="authors">L. D. Movsisyan, M. D. Peeks, G. M. Greetham, M. Towrie, A. L. Thompson, A. W. Parker, H. L. Anderson.</refdata></p>
 											<p>
-												<refdata class="journal"><a href="http://link.springer.com/journal/723">Appl. Magn. Reson.</a></refdata>,
+												<refdata class="journal"><a href="http://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
 												<refdata class="year">2014</refdata>,
-												<refdata class="page"><a href="http://dx.doi.org/10.1007/s00723-014-0621-8">online</a></refdata>
+												<refdata class="vol">136</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1021/ja510663z">17996-18008</a></refdata>
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
@@ -513,6 +514,23 @@
 									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">218</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Exploiting the Symmetry of the Resonator Mode to Enhance PELDOR Sensitivity</h3>
+											<p><refdata class="authors">E. Salvadori, M. W. Fung, M. Hoffmann, H. L. Anderson, C. W. M. Kay.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://link.springer.com/journal/723">Appl. Magn. Reson.</a></refdata>,
+												<refdata class="year">2014</refdata>,
+												<refdata class="page"><a href="http://dx.doi.org/10.1007/s00723-014-0621-8">online</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/218.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="row ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">217</h4>
 										</div>
 										<div class="col-9 col-12-small">
 											<h3>Full Characterization of Vibrational Coherence in a Porphyrin Chromophore by Two-Dimensional Electronic Spectroscopy</h3>
@@ -525,12 +543,12 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/218.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/217.jpg" alt="" /></span>
 										</div>
 									</div>
 									<div class="row ref">
 										<div class="col-1 col-12-small">
-											<h4 class="refdatanum">217</h4>
+											<h4 class="refdatanum">216</h4>
 										</div>
 										<div class="col-9 col-12-small">
 											<h3>A photoswitchable supramolecular complex with release-and-report capabilities</h3>
@@ -543,12 +561,12 @@
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
-											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/217.jpg" alt="" /></span>
+											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/216.jpg" alt="" /></span>
 										</div>
 									</div>
 									<div class="row ref">
 										<div class="col-1 col-12-small">
-											<h4 class="refdatanum">216</h4>
+											<h4 class="refdatanum">215</h4>
 										</div>
 										<div class="col-9 col-12-small">
 											<h3>Chromophores in Molecular Nanorings - When Is a Ring a Ring?</h3>
@@ -558,24 +576,6 @@
 												<refdata class="year">2014</refdata>,
 												<refdata class="vol">5</refdata>,
 												<refdata class="page"><a href="http://dx.doi.org/10.1021/jz5022153">4356-4361</a></refdata>
-											</p>
-										</div>
-										<div class="col-2 col-12-small">
-											<span class="image pub"><img class="lazyload" data-src="../images/abstracts/216.jpg" alt="" /></span>
-										</div>
-									</div>
-									<div class="row ref">
-										<div class="col-1 col-12-small">
-											<h4 class="refdatanum">215</h4>
-										</div>
-										<div class="col-9 col-12-small">
-											<h3>Ultrafast delocalization of excitation in synthetic light-harvesting nanorings</h3>
-											<p><refdata class="authors">C-K. Yong, P. Parkinson, D. V. Kondratuk, W-H. Chen, A. Stannard, A. Summerfield, J. K. Sprafke, M. C. O'Sullivan, P. H. Beton, H. L. Anderson, L. M. Herz.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="http://pubs.rsc.org/en/journals/journalissues/sc#!recentarticles&all">Chem. Sci.</a></refdata>,
-												<refdata class="year">2014</refdata>,
-												<refdata class="vol">6</refdata>,
-												<refdata class="page"><a href="http://dx.doi.org/10.1039/C4SC02424A">181-189</a></refdata>
 											</p>
 										</div>
 										<div class="col-2 col-12-small">

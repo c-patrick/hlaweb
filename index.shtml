@@ -101,25 +101,47 @@
 											</p>
 										</article> -->
 										<article>
+											<a href="https://doi.org/10.1039/D0SC02447C" class="image front"><img class="lazyload" data-src="images/abstracts/317.jpg" alt="" /></a>
+											<h3>Super-resolution RESOLFT microscopy of lipid bilayers using a fluorophore-switch dyad</h3>
+											<p><refdata class="authors">A. T. Frawley, V. Wycisk, Y. Xiong, S. Galiani, E. Sezgin, I. Urbancic, A. Vargas Jentzsch, K. Leslie, C. Eggeling and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
+												<refdata class="year">2020</refdata>,
+												<!-- <refdata class="vol">XXXX</refdata>, -->
+												<refdata class="page">DOI: <a href="https://doi.org/10.1039/D0SC02447C">10.1039/D0SC02447C</a></refdata>
+											</p>
+										</article>
+										<article>
+											<a href="https://doi.org/10.1021/acs.jpcc.0c04546" class="image front"><img class="lazyload" data-src="images/abstracts/316.jpg" alt="" /></a>
+											<h3>Exciton-Exciton Annihilation as a Probe of Exciton Diffusion in Large Porphyrin Nanorings</h3>
+											<p><refdata class="authors">G. Bressan, M. Jir&aacute;sek, H. L. Anderson, I. A. Heisler and S. R. Meech.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/journal/jpccck">J. Phys. Chem. C</a></refdata>,
+												<refdata class="year">2020</refdata>,
+												<!-- <refdata class="vol">XXXX</refdata>, -->
+												<refdata class="page">DOI: <a href="https://doi.org/10.1021/acs.jpcc.0c04546">10.1021/acs.jpcc.0c04546</a></refdata>
+											</p>
+										</article>
+										<article>
 											<a href="https://doi.org/10.1021/jacs.0c05033" class="image front"><img class="lazyload" data-src="images/abstracts/315.jpg" alt="" /></a>
 											<h3>Synthesis of cyclo[18]carbon via debromination of C<sub>18</sub>Br<sub>6</sub></h3>
 											<p><refdata class="authors">L. M. Scriven, K. Kaiser, F. Schulz, A. J. Sterling, S. L. Woltering, P. Gawel, K. E. Christensen, H. L. Anderson and L. Gross.</refdata></p>
 											<p>
 												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
 												<refdata class="year">2020</refdata>,
-												<!-- <refdata class="vol">XXXX</refdata>, -->
-												<refdata class="page">DOI: <a href="https://doi.org/10.1021/jacs.0c05033">10.1021/jacs.0c05033</a></refdata>
+												<refdata class="vol">142</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1021/jacs.0c05033">12921-12924</a></refdata>
 											</p>
 										</article>
 										<article>
 											<a href="https://doi.org/10.1021/jacs.0c06269" class="image front"><img class="lazyload" data-src="images/abstracts/314.jpg" alt="" /></a>
 											<h3>Allosteric Cooperativity and Template-Directed Synthesis with Stacked Ligands in Porphyrin Nanorings</h3>
-											<p><refdata class="authors">P. S. Bols, M. Rickhaus, L. Tejerina, H. Gotfredsen, K. Eriksen, M. Jirasek and H. L. Anderson.</refdata></p>
+											<p><refdata class="authors">P. S. Bols, M. Rickhaus, L. Tejerina, H. Gotfredsen, K. Eriksen, M. Jir&aacute;sek and H. L. Anderson.</refdata></p>
 											<p>
 												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
 												<refdata class="year">2020</refdata>,
-												<!-- <refdata class="vol">XXXX</refdata>, -->
-												<refdata class="page">DOI: <a href="https://doi.org/10.1021/jacs.0c06269">10.1021/jacs.0c06269</a></refdata>
+												<refdata class="vol">142</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1021/jacs.0c06269">13219-13226</a></refdata>
 											</p>
 										</article>
 										<article>
@@ -140,30 +162,8 @@
 											<p>
 												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
 												<refdata class="year">2020</refdata>,
-												<!-- <refdata class="vol"></refdata>, -->
-												<refdata class="page">DOI: <a href="https://doi.org/10.1021/jacs.0c05308">10.1021/jacs.0c05308</a></refdata>
-											</p>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1002/anie.202006644" class="image front"><img class="lazyload" data-src="images/abstracts/311.jpg" alt="" /></a>
-											<h3>A cyanine dye rotaxane porphyrin nanoring complex as a model light harvesting system</h3>
-											<p><refdata class="authors">J. Pruchyathamkorn, W. J. Kendrick, A. T. Frawley, A. Mattioni, F. Caycedo-Soler, S. F. Huelga, M. B. Plenio and H. L. Anderson.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773">Angew. Chem. Int. Ed.</a></refdata>,
-												<refdata class="year">2020</refdata>,
-												<!-- <refdata class="vol"></refdata>, -->
-												<refdata class="page">DOI: <a href="https://doi.org/10.1002/anie.202006644">10.1002/anie.202006644</a></refdata>
-											</p>
-										</article>
-										<article>
-											<a href="http://dx.doi.org/10.1039/C9SC05717J" class="image front"><img class="lazyload" data-src="images/abstracts/310.gif" alt="" /></a>
-											<h3>Mechanisms of IR amplification in radical cation polarons</h3>
-											<p><refdata class="authors">W. J. Kendrick, M. Jir&aacute;sek, M. D. Peeks, G. M. Greetham, I. V. Sazanovich, P. M. Donaldson, M. Towrie, A. W. Parker and H. L. Anderson.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
-												<refdata class="year">2020</refdata>,
-												<refdata class="vol">11</refdata>,
-												<refdata class="page"><a href="http://dx.doi.org/10.1039/C9SC05717J">2112-2120</a></refdata>
+												<refdata class="vol">142</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1021/jacs.0c05308">13523-13532</a></refdata>
 											</p>
 										</article>
 									</div>
