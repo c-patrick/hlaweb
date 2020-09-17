@@ -10,8 +10,8 @@
 		<meta name="keywords" content="porphyrin, rotaxanes, PDT, photodynamic therapy, molecular wires, molecular machines, supramolecular chemistry, encapsulation, dyes, photophysics" />
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--#include virtual="includes/head_theme.inc" -->
 		<!--#include virtual="/includes/base.inc" -->
+		<!--#include virtual="/includes/head_theme.inc" -->
 	</head>
 	<body class="is-preload">
 

@@ -53,12 +53,23 @@
 									  <h2>Recent News</h2>
 									</header>
 									<div class="mini-posts">
-										<div class="row">
+																				<div class="row">
 											<div class="col-4 col-12-small">
 												<a href="group/jibin.shtml" class="image news"><img class="lazyload" data-src="images/group/people/jibin.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
 												<p>Goodbye to <a href="group/will.shtml">Jibin Sun</a>, returning to China to continue his studies. (July 2020)</p>
+											</div>
+										</div>
+
+										<hr class="sidebar">
+
+										<div class="row">
+											<div class="col-4 col-12-small">
+												<a href="group/pernille.shtml" class="image news"><img class="lazyload" data-src="images/group/people/pernille.jpg" alt="" /></a>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>Goodbye to <a href="group/pernille.shtml">Pernille Bols</a>, returning to Denmark after completing her PhD. (June 2020)</p>
 											</div>
 										</div>
 
@@ -99,18 +110,7 @@
 										</div>
 										
 										<hr class="sidebar">
-										
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<a href="group/marcin.shtml" class="image news"><img class="lazyload" data-src="images/group/people/marcin.jpg" alt="" /></a>
-											</div>
-											<div class="col-8 col-12-small">
-												<p>Welcome to <a href="group/marcin.shtml">Marcin Majewski</a>, joining us as a Post Doc. (January 2020)</p>
-											</div>
-										</div>
-																			
-										<hr class="sidebar">
-										
+									
 									<ul class="actions center">
 										<li><a href="/news.shtml" class="button">More</a></li>
 									</ul>

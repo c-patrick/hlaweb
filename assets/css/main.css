@@ -2998,7 +2998,7 @@ body.is-preload #sidebar {
 	-webkit-transition: color 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out;
 	-ms-transition: color 0.2s ease-in-out, -ms-transform 0.2s ease-in-out;
 	transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
-	color: #9fa3a6;
+	color: var(--opener-ul-color, #9fa3a6);
 	content: '\f078';
 	position: absolute;
 	right: 0;
@@ -3021,7 +3021,7 @@ body.is-preload #sidebar {
 	padding: 0.5em 0 0 0;
 }
 #menu > ul > li > ul {
-	color: #9fa3a6;
+	color: var(--opener-ul-color);
 	display: none;
 	margin: 0.5em 0 1.5em 0;
 	padding-left: 1em;
