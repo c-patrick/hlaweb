@@ -32,7 +32,18 @@
 									</header>
 
 									<div class="people">
-									  <article>
+										<!--
+										<article>
+											<a href="group/XXXX.shtml" class="image"><img src="images/group/people/XXXX.jpg" alt="" /></a>
+										  	<center>
+												<h3>XXXX</h3>
+											<ul class="actions center">
+												<li><a href="group/XXXX.shtml" class="button small">view</a></li>
+											</ul>
+											</center>
+										</article>
+										-->
+										<article>
 											<a href="group/harry.shtml" class="image"><img src="images/group/people/harry4.jpg" alt="" /></a>
 										  	<center>
 												<h3>Harry Anderson</h3>
@@ -47,15 +58,6 @@
 												<h3>Keith Andrews</h3>
 											<ul class="actions center">
 												<li><a href="group/keith.shtml" class="button small">view</a></li>
-											</ul>
-											</center>
-										</article>
-										<article>
-											<a href="group/pernille.shtml" class="image"><img src="images/group/people/pernille.jpg" alt="" /></a>
-										  	<center>
-												<h3>Pernille Bols</h3>
-											<ul class="actions center">
-												<li><a href="group/pernille.shtml" class="button small">view</a></li>
 											</ul>
 											</center>
 										</article>
