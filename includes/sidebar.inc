@@ -141,7 +141,7 @@
 
 							<!-- Footer -->
 								<footer id="footer">
-									<p class="copyright">© Harry Anderson Group. All rights reserved.</p>
+									<p class="copyright">© Connor Patrick & the Harry Anderson Group. All rights reserved.</p>
 									<dark-mode-toggle
 								    	id="dark-mode-toggle-1"
 										appearance="toggle"

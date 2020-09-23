@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1500 1500" style="enable-background:new 0 0 1500 1500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0F1F47;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:20;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#B3B3B3;stroke-width:5;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#B3B3B3;stroke-width:14;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;}
+</style>
+<g id="Layer_2">
+</g>
+<g id="Layer_1">
+	<path class="st0" d="M1339.9,1499.7H159.5c-87.9,0-159.8-71.9-159.8-159.8V159.5C-0.3,71.6,71.6-0.3,159.5-0.3h1180.4
+		c87.9,0,159.8,71.9,159.8,159.8v1180.4C1499.7,1427.8,1427.8,1499.7,1339.9,1499.7z"/>
+	<circle class="st1" cx="750.2" cy="749.7" r="500"/>
+	<g>
+		<polyline class="st3" points="660.2,316.7 750.2,426.7 840.2,321.7 750.2,426.7 750.2,749.2 		"/>
+		<polyline class="st3" points="330.2,611.1 470.4,588.2 424.5,457.7 470.4,588.2 749.7,749.4 		"/>
+		<polyline class="st3" points="420.2,1044.1 470.4,911.2 334.5,885.7 470.4,911.2 749.7,749.9 		"/>
+		<polyline class="st3" points="840.2,1182.7 750.2,1072.7 660.2,1177.7 750.2,1072.7 750.2,750.2 		"/>
+		<polyline class="st3" points="1170.2,888.2 1029.9,911.2 1075.8,1041.6 1029.9,911.2 750.6,749.9 		"/>
+		<polyline class="st3" points="1080.2,455.2 1029.9,588.2 1165.8,613.6 1029.9,588.2 750.6,749.4 		"/>
+	</g>
+	<g>
+		<circle class="st4" cx="749.7" cy="249.2" r="125"/>
+	</g>
+	<g>
+		<circle class="st4" cx="749.7" cy="1250.2" r="125"/>
+	</g>
+	<g>
+		<circle class="st4" cx="316.2" cy="999.9" r="125"/>
+	</g>
+	<g>
+		<circle class="st4" cx="1183.1" cy="499.4" r="125"/>
+	</g>
+	<g>
+		<circle class="st4" cx="1183.1" cy="999.9" r="125"/>
+	</g>
+	<g>
+		<circle class="st4" cx="316.2" cy="499.4" r="125"/>
+	</g>
+</g>
+</svg>
