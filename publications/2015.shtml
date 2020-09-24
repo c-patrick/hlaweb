@@ -1653,7 +1653,7 @@
 			</div>
 		
 		<!-- IE-Banner -->
-			<!--#include virtual="includes/ie-banner.inc" -->
+			<!--#include virtual="/includes/ie-banner.inc" -->
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
