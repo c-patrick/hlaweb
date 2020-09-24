@@ -39,8 +39,8 @@
 										<b>Project:</b> Synthesis and Investigation of Single Molecule Memory Devices.<br_profile>
 										<b>Support:</b> EPSRC.<br_profile>
 										<b>First Degree:</b> M.Sc.: State Key Laboratory of Elemento-Organic Chemistry & Nankai University, "Post-synthetic functionalization of porphyrin", under supervision of Prof. Dr. Jianyu Zheng.<br_profile>
-										<b>PhD:</b> PhD: Max Planck Institute for Polymer Research & Mainz University, "Synthesis and properties of nanographenes", under supervision of Prof. Dr. Klaus M&‌uuml;llen.<br_profile>
-										<b>PDRA:</b> Max Planck Institute for Polymer Research, "Open-shell PAH", with Prof. Dr. Klaus M&‌uuml;llen.<br_profile>
+										<b>PhD:</b> PhD: Max Planck Institute for Polymer Research & Mainz University, "Synthesis and properties of nanographenes", under supervision of Prof. Dr. Klaus M&uuml;llen.<br_profile>
+										<b>PDRA:</b> Max Planck Institute for Polymer Research, "Open-shell PAH", with Prof. Dr. Klaus M&uuml;llen.<br_profile>
 										<b>Other Interests:</b> Doing sports (basketball, table tennis, swimming), travelling, reading, listening to music.</a><br_profile>
 										<b>ORCID:</b> <a href="http://orcid.org/0000-0001-5612-1504">http://orcid.org/0000-0001-5612-1504</a>	
 									</p>
@@ -58,10 +58,10 @@
 			<!--#include virtual="includes/ie-banner.inc" -->
 
 		<!-- Scripts -->
-			<script src="/assets/js/jquery.min.js"></script>
-			<script src="/assets/js/browser.min.js"></script>
-			<script src="/assets/js/breakpoints.min.js"></script>
-			<script src="/assets/js/util.js"></script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 			<script src="assets/js/lazysizes.min.js"></script>
 
