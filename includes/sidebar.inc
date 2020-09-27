@@ -52,8 +52,34 @@
 									<header class="major">
 									  <h2>Recent News</h2>
 									</header>
+									
 									<div class="mini-posts">
-																				<div class="row">
+										<div class="row">
+											<div class="col-4 col-12-small">
+	  											<div class="column">
+		   											<a href="group/wojtek.shtml" class="image stack"><img src="images/group/people/wojtek.jpg" alt="" /></a>
+		    										<a href="group/he.shtml" class="image stack"><img src="images/group/people/he.jpg" alt="" /></a>
+	    										</div>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>Welcome to our new DPhil students <a href="group/wojtek.shtml">Wojtek Stawski</a> and <a href="group/he.shtml">He Zhu</a>. (September 2020)</p>
+											</div>
+										</div>
+
+										<hr class="sidebar">
+
+										<div class="row">
+											<div class="col-4 col-12-small">
+												<a href="group/qiang.shtml" class="image news"><img class="lazyload" data-src="images/group/people/qiang.jpg" alt="" /></a>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>Welcome to Qiang <a href="group/qiang.shtml">Qiang Chen</a>, joining us as a PDRA. (September 2020)</p>
+											</div>
+										</div>
+
+										<hr class="sidebar">
+
+										<div class="row">
 											<div class="col-4 col-12-small">
 												<a href="group/jibin.shtml" class="image news"><img class="lazyload" data-src="images/group/people/jibin.jpg" alt="" /></a>
 											</div>
@@ -78,7 +104,7 @@
 										<div class="row">
 											<div class="col-4 col-12-small">
 	  											<div class="column">
-		   											<a href="group/isaac/shtml" class="image stack"><img src="images/group/people/isaac.jpg" alt="" /></a>
+		   											<a href="group/isaac.shtml" class="image stack"><img src="images/group/people/isaac.jpg" alt="" /></a>
 		    										<a href="group/thomas.shtml" class="image stack"><img src="images/group/people/thomas.jpg" alt="" /></a>
 	    										</div>
 											</div>
@@ -87,28 +113,6 @@
 											</div>
 										</div>
 
-										<hr class="sidebar">
-
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<a href="group/will.shtml" class="image news"><img class="lazyload" data-src="images/group/people/will.jpg" alt="" /></a>
-											</div>
-											<div class="col-8 col-12-small">
-												<p>Goodbye to <a href="group/will.shtml">Will Kendrick</a>, all the best in the future! (February 2020)</p>
-											</div>
-										</div>
-										
-										<hr class="sidebar">
-										
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<a href="group/james.shtml" class="image news"><img class="lazyload" data-src="images/group/people/james.jpg" alt="" /></a>
-											</div>
-											<div class="col-8 col-12-small">
-												<p>Goodbye to <a href="group/james.shtml">James Thomas</a>, leaving to start a PostDoc at the Department of Materials, Oxford. (January 2020)</p>
-											</div>
-										</div>
-										
 										<hr class="sidebar">
 									
 									<ul class="actions center">

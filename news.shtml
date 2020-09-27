@@ -33,13 +33,34 @@
 									
 									<nav id="old_news">
 										<ul>
-											<li> <span class="opener active">2019</span>
+											<li> <span class="opener active">2020</span>
 											  <ul>
 												<table>
+													
+													<!--<tr class="old_news">
+														<td class="date">XXXX</td>
+														<td>XXXX</td>
+													</tr> -->
+
+													<tr class="old_news">
+														<td class="date">February 2020</td>
+														<td>Goodbye to <a href="group/will.shtml">Will Kendrick</a>, all the best in the future!</td>
+													</tr>
+													<tr class="old_news">
+														<td class="date">January 2020</td>
+														<td>Goodbye to <a href="group/james.shtml">James Thomas</a>, leaving to start a PostDoc at the Department of Materials, Oxford.</td>
+													</tr>
 													<tr class="old_news">
 														<td class="date">January 2020</td>
 														<td>Welcome to <a href="group/marcin.shtml">Marcin Majewski</a>, joining us as a Post Doc.</td>
 													</tr>
+												</table>
+											</ul>
+										</li>
+										<ul>
+											<li> <span class="opener">2019</span>
+											  <ul>
+												<table>
 													<tr class="old_news">
 														<td class="date">October 2019</td>
 														<td>A warm welcome to <a href="group/jeff.shtml">Jeff Van Raden</a>, joining us as a Post Doc.</td>

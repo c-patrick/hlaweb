@@ -213,7 +213,16 @@
 												<li><a href="group/wenjun.shtml" class="button small">view</a></li>
 											</ul>
 											</center>
-										</article>						
+										</article>
+										<article>
+											<a href="group/he.shtml" class="image"><img src="images/group/people/he.jpg" alt="" /></a>
+										  	<center>
+												<h3>He Zhu</h3>
+											<ul class="actions center">
+												<li><a href="group/he.shtml" class="button small">view</a></li>
+											</ul>
+											</center>
+										</article>
 									</div>
 
 						  </section>
