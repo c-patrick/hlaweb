@@ -73,7 +73,7 @@
 												<a href="group/qiang.shtml" class="image news"><img class="lazyload" data-src="images/group/people/qiang.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
-												<p>Welcome to Qiang <a href="group/qiang.shtml">Qiang Chen</a>, joining us as a PDRA. (September 2020)</p>
+												<p>Welcome to <a href="group/qiang.shtml">Qiang Chen</a>, joining us as a PDRA. (September 2020)</p>
 											</div>
 										</div>
 
