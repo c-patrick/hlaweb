@@ -53,16 +53,24 @@
 									  <h2>Recent News</h2>
 									</header>
 									
-									<div class="mini-posts">
 										<div class="row">
 											<div class="col-4 col-12-small">
-	  											<div class="column">
-		   											<a href="group/wojtek.shtml" class="image stack"><img src="images/group/people/wojtek.jpg" alt="" /></a>
-		    										<a href="group/he.shtml" class="image stack"><img src="images/group/people/he.jpg" alt="" /></a>
-	    										</div>
+												<a href="group/he.shtml" class="image news"><img class="lazyload" data-src="images/group/people/he.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
-												<p>Welcome to our new DPhil students <a href="group/wojtek.shtml">Wojtek Stawski</a> and <a href="group/he.shtml">He Zhu</a>. (September 2020)</p>
+												<p>Welcome to <a href="group/he.shtml">He Zhu</a>, joining us as MSc student. (September 2020)</p>
+											</div>
+										</div>
+
+										<hr class="sidebar">
+
+									<div class="mini-posts">
+										<div class="row">
+											<div class="col-4 col-12-small">>
+		   											<a href="group/wojtek.shtml" class="image stack"><img src="images/group/people/wojtek.jpg" alt="" /></a>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>Welcome to our new DPhil student <a href="group/wojtek.shtml">Wojtek Stawski</a>. (September 2020)</p>
 											</div>
 										</div>
 
@@ -96,20 +104,6 @@
 											</div>
 											<div class="col-8 col-12-small">
 												<p>Goodbye to <a href="group/pernille.shtml">Pernille Bols</a>, returning to Denmark after completing her PhD. (June 2020)</p>
-											</div>
-										</div>
-
-										<hr class="sidebar">
-
-										<div class="row">
-											<div class="col-4 col-12-small">
-	  											<div class="column">
-		   											<a href="group/isaac.shtml" class="image stack"><img src="images/group/people/isaac.jpg" alt="" /></a>
-		    										<a href="group/thomas.shtml" class="image stack"><img src="images/group/people/thomas.jpg" alt="" /></a>
-	    										</div>
-											</div>
-											<div class="col-8 col-12-small">
-												<p>Congratulations to <a href="group/isaac.shtml">Isaac</a> and <a href="group/thomas.shtml">Tom</a> for handing in their Part II theses. (June 2020)</p>
 											</div>
 										</div>
 
