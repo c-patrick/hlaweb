@@ -58,7 +58,7 @@
 												<a href="group/he.shtml" class="image news"><img class="lazyload" data-src="images/group/people/he.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
-												<p>Welcome to <a href="group/he.shtml">He Zhu</a>, joining us as MSc student. (September 2020)</p>
+												<p>Welcome to <a href="group/he.shtml">He Zhu</a>, joining us as a MSc student. (September 2020)</p>
 											</div>
 										</div>
 
@@ -66,8 +66,8 @@
 
 									<div class="mini-posts">
 										<div class="row">
-											<div class="col-4 col-12-small">>
-		   											<a href="group/wojtek.shtml" class="image stack"><img src="images/group/people/wojtek.jpg" alt="" /></a>
+											<div class="col-4 col-12-small">
+												<a href="group/wojtek.shtml" class="image news"><img class="lazyload" data-src="images/group/people/wojtek.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
 												<p>Welcome to our new DPhil student <a href="group/wojtek.shtml">Wojtek Stawski</a>. (September 2020)</p>
