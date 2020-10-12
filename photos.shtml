@@ -1494,6 +1494,18 @@
 															data-gallery="#blueimp-gallery-group_photos">
 															<img src="images/social/group_archive/thumb20.jpg" alt="Annual Group Photos" />
 														</a>
+														<a
+															href="images/social/group_archive/full21.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb21.jpg" alt="Annual Group Photos" />
+														</a>
+														<a
+															href="images/social/group_archive/full22.jpg"
+															title="Annual Group Photos"
+															data-gallery="#blueimp-gallery-group_photos">
+															<img src="images/social/group_archive/thumb22.jpg" alt="Annual Group Photos" />
+														</a>
 													</div>
 											</ul>
 										</li>
