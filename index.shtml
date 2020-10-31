@@ -87,7 +87,6 @@
 									</table>
 							
 									<div class="posts">
-
 										<!-- EXAMPLE ENTRY -->
 										<!-- <article>
 											<a href="https://doi.org/XXXX" class="image front"><img class="lazyload" data-src="images/abstracts/XXXX.jpg" alt="" /></a>
@@ -100,6 +99,17 @@
 												<refdata class="page"><a href="https://doi.org/XXXX">XXXX</a></refdata>
 											</p>
 										</article> -->
+										<article>
+											<a href="https://doi.org/10.1021/jacs.0c09973" class="image front"><img class="lazyload" data-src="images/abstracts/318.jpg" alt="" /></a>
+											<h3>Global Aromaticity in a Partially Fused 8-Porphyrin Nanoring</h3>
+											<p><refdata class="authors">S. M. Kopp, H. Gotfredsen, J.-R. Deng, T. D. W. Claridge and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2020</refdata>,
+												<!-- <refdata class="vol">XXXX</refdata>, -->
+												<refdata class="page">DOI: <a href="https://doi.org/10.1021/jacs.0c09973">10.1021/jacs.0c09973</a></refdata>
+											</p>
+										</article>
 										<article>
 											<a href="https://doi.org/10.1039/D0SC02447C" class="image front"><img class="lazyload" data-src="images/abstracts/317.jpg" alt="" /></a>
 											<h3>Super-resolution RESOLFT microscopy of lipid bilayers using a fluorophore-switch dyad</h3>
@@ -153,17 +163,6 @@
 												<refdata class="year">2020</refdata>,
 												<refdata class="vol">11</refdata>,
 												<refdata class="page"><a href="https://doi.org/10.1039/D0SC02028A">7123-7132</a></refdata>
-											</p>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1002/anie.202006644" class="image front"><img class="lazyload" data-src="images/abstracts/312.jpg" alt="" /></a>
-											<h3>Photochemical Unmasking of Polyyne Rotaxanes</h3>
-											<p><refdata class="authors">S. L. Woltering, P. Gawel, K. E. Christensen, A. L. Thompson and H. L. Anderson.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
-												<refdata class="year">2020</refdata>,
-												<refdata class="vol">142</refdata>,
-												<refdata class="page"><a href="https://doi.org/10.1021/jacs.0c05308">13523-13532</a></refdata>
 											</p>
 										</article>
 									</div>
