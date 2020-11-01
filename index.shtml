@@ -88,7 +88,8 @@
 							
 									<div class="posts">
 										<!-- EXAMPLE ENTRY -->
-										<!-- <article>
+										<!-- 
+										<article>
 											<a href="https://doi.org/XXXX" class="image front"><img class="lazyload" data-src="images/abstracts/XXXX.jpg" alt="" /></a>
 											<h3>XXXX</h3>
 											<p><refdata class="authors">XXXX.</refdata></p>
@@ -98,7 +99,19 @@
 												<refdata class="vol">XXXX</refdata>,
 												<refdata class="page"><a href="https://doi.org/XXXX">XXXX</a></refdata>
 											</p>
-										</article> -->
+										</article>
+										-->
+										<article>
+											<a href="https://doi.org/10.1039/D0NH00415D" class="image front"><img class="lazyload" data-src="images/abstracts/319.jpg" alt="" /></a>
+											<h3>Long-lived charged states of single porphyrin-tape junctions under ambient conditions</h3>
+											<p><refdata class="authors">E. Leary, G. Kastlunger, B. Limburg, L. Rincón-García, J. Hurtado-Gallego, M. T. González, G. R. Bollinger, N. Agrait, S. J. Higgins, H. L. Anderson, R. Stadler and R. J. Nichols.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journal/nh">Nanoscale Horizons</a></refdata>,
+												<refdata class="year">2020</refdata>,
+												<!--<refdata class="vol">XXXX</refdata>,-->
+												<refdata class="page">DOI: <a href="https://doi.org/10.1039/D0NH00415D">10.1039/D0NH00415D</a></refdata>
+											</p>
+										</article>
 										<article>
 											<a href="https://doi.org/10.1021/jacs.0c09973" class="image front"><img class="lazyload" data-src="images/abstracts/318.jpg" alt="" /></a>
 											<h3>Global Aromaticity in a Partially Fused 8-Porphyrin Nanoring</h3>
@@ -152,17 +165,6 @@
 												<refdata class="year">2020</refdata>,
 												<refdata class="vol">142</refdata>,
 												<refdata class="page"><a href="https://doi.org/10.1021/jacs.0c06269">13219-13226</a></refdata>
-											</p>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1039/D0SC02028A" class="image front"><img class="lazyload" data-src="images/abstracts/313.jpg" alt="" /></a>
-											<h3>Panchromatic light funneling through the synergy in hexabenzocoronene–(metallo)porphyrin–fullerene assemblies to realize the separation of charges</h3>
-											<p><refdata class="authors">M. Wolf, D. Lungerich, S. Bauroth, M. Popp, B. Platzer, T. Clark, H. L. Anderson, N. Jux and D. M. Guldi.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
-												<refdata class="year">2020</refdata>,
-												<refdata class="vol">11</refdata>,
-												<refdata class="page"><a href="https://doi.org/10.1039/D0SC02028A">7123-7132</a></refdata>
 											</p>
 										</article>
 									</div>
