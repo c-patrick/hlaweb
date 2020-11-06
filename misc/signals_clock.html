@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<!--
+	Harry Anderson Group Website
+	Connor Patrick | connor<dot>patrick<at>chem<dot>ox<dot>ac<dot>uk
+	https://github.com/c-patrick/hlaweb
+-->
+<html lang="en">
+
+    <style>
+        body {background-color: transparent;}
+        #timedate {
+            text-align: center;
+            width: 50%;
+            margin: 40px auto;
+            color:#001A53;
+            padding: 20px;
+        }
+        .time {
+            font: small-caps 50px/150% "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+        }
+        .date {
+            font: small-caps lighter 30px/150% "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+        }
+    </style>
+	<head>
+		<title>Anderson Research Group | University of Oxford</title>
+		<meta name="keywords" content="porphyrin, rotaxanes, PDT, photodynamic therapy, molecular wires, molecular machines, supramolecular chemistry, encapsulation, dyes, photophysics" />
+		<meta name="description" content="The HLA group researches in the areas of molecular materials synthesis, supramolecular chemistry, molecular recognition, polymers and dyes. We are based in the Department of Chemistry at the University of Oxford.">
+		<meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--#include virtual="includes/head_theme.inc" -->
+	</head>
+    
+    <body onLoad="initClock()">
+        <div id="timedate">
+            <div class=time>
+                <a id="h">12</a> :
+                <a id="m">00</a> :
+                <a id="s">00</a><br />
+            </div>
+            <div class=date>
+                <a id="day">Sunday</a>
+                <a id="d">1</a>
+                <a id="mon">January</a>
+                <a id="y">0</a>
+            </div>
+        </div>
+
+		<!-- Scripts -->
+			<script src="js/clock.js"></script>
+	</body>
+</html>
