@@ -43,6 +43,11 @@
 										</thead>
 										<tbody>
 											<tr>
+												<td class="break"><a href="http://research.chem.ox.ac.uk/matthew-langton.aspx" target="_blank">Matthew Langton</a></td>
+												<td>Part II 2010-2011</td>
+												<td>Oxford University, UK</td>
+											</tr>
+											<tr>
 												<td class="break"><a href="https://www.chem.uzh.ch/en/research/groups/rickhaus" target="_blank">Michel Rickhaus</a></td>
 												<td>Postdoctoral RA 2016-2019</td>
 												<td>University of Zurich, Switzerland</td>
@@ -151,7 +156,7 @@
 											<tr>
 												<td class="break"><a href="group/pernille.shtml">Pernille S. Bols</a></td>
 												<td>DPhil student (2013-2016)</td>
-												<td></td>
+												<td>Management consultant at McKinsey & Company, Copenhagen</td>
 											</tr>
 											<tr>
 												<td class="break"><a href="group/jibin.shtml">Jibin Sun</a></td>
@@ -592,11 +597,6 @@
 												<td class="break">William Peveler</td>
 												<td>Part II 2010-2011</td>
 												<td>PhD in nano-materials and security, UCL</td>
-											</tr>
-											<tr>
-												<td class="break">Matthew Langton</td>
-												<td>Part II 2010-2011</td>
-												<td>DPhil, Oxford (Beer Group)</td>
 											</tr>
 											<tr>
 												<td class="break">Jonathan Matichak</td>
