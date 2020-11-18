@@ -102,6 +102,17 @@
 										</article>
 										-->
 										<article>
+											<a href="https://doi.org/10.1103/PhysRevLett.125.206803" class="image front"><img class="lazyload" data-src="images/abstracts/320.jpg" alt="" /></a>
+											<h3>Molecular Quantum Rings Formed from a &pi;-Conjugated Macrocycle</h3>
+											<p><refdata class="authors">C. J. Judd, A. S. Nizovtsev, R. Plougmann, D. V. Kondratuk, H. L. Anderson, E. Besley and A. Saywell.</refdata></p>
+											<p>
+												<refdata class="journal"><a href=http://journals.aps.org/prl/">Phys. Rev. Lett.</a></refdata>,
+												<refdata class="year">2020</refdata>,
+												<refdata class="vol">215</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1103/PhysRevLett.125.206803">206803</a></refdata>
+											</p>
+										</article>
+										<article>
 											<a href="https://doi.org/10.1039/D0NH00415D" class="image front"><img class="lazyload" data-src="images/abstracts/319.jpg" alt="" /></a>
 											<h3>Long-lived charged states of single porphyrin-tape junctions under ambient conditions</h3>
 											<p><refdata class="authors">E. Leary, G. Kastlunger, B. Limburg, L. Rinc&oacute;n-Garc&iacute;a, J. Hurtado-Gallego, M. T. Gonz&aacute;lez, G. R. Bollinger, N. Agrait, S. J. Higgins, H. L. Anderson, R. Stadler and R. J. Nichols.</refdata></p>
@@ -154,17 +165,6 @@
 												<refdata class="year">2020</refdata>,
 												<refdata class="vol">142</refdata>,
 												<refdata class="page"><a href="https://doi.org/10.1021/jacs.0c05033">12921-12924</a></refdata>
-											</p>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1021/jacs.0c06269" class="image front"><img class="lazyload" data-src="images/abstracts/314.jpg" alt="" /></a>
-											<h3>Allosteric Cooperativity and Template-Directed Synthesis with Stacked Ligands in Porphyrin Nanorings</h3>
-											<p><refdata class="authors">P. S. Bols, M. Rickhaus, L. Tejerina, H. Gotfredsen, K. Eriksen, M. Jir&aacute;sek and H. L. Anderson.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
-												<refdata class="year">2020</refdata>,
-												<refdata class="vol">142</refdata>,
-												<refdata class="page"><a href="https://doi.org/10.1021/jacs.0c06269">13219-13226</a></refdata>
 											</p>
 										</article>
 									</div>
