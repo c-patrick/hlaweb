@@ -1430,7 +1430,7 @@ header.main > :last-child {
 /* Pulse Animation */
 .box.pulse {
 	cursor: pointer;
-	box-shadow: 0 0 0 var(--pulse-colour-0, rgba(204,169,44, 0.4));
+	box-shadow: 0 0 0 var(--pulse-colour-0, rgba(0, 0, 0, 0.2));
 	animation: pulse 2s infinite;
 }
 .box.pulse:hover {
@@ -1438,27 +1438,27 @@ header.main > :last-child {
 }
 @-webkit-keyframes pulse {
 	0% {
-	  -webkit-box-shadow: 0 0 0 0 var(--pulse-colour-0, rgba(204,169,44, 0.4));
+	  -webkit-box-shadow: 0 0 0 0 var(--pulse-colour-0, rgba(0, 0, 0, 0.2));
 	}
 	70% {
-		-webkit-box-shadow: 0 0 0 10px var(--pulse-colour-70-100, rgba(204,169,44, 0));
+		-webkit-box-shadow: 0 0 0 10px var(--pulse-colour-70-100, rgba(0, 0, 0, 0));
 	}
 	100% {
-		-webkit-box-shadow: 0 0 0 0 var(--pulse-colour-70-100, rgba(204,169,44, 0));
+		-webkit-box-shadow: 0 0 0 0 var(--pulse-colour-70-100, rgba(0, 0, 0, 0));
 	}
   }
   @keyframes pulse {
 	0% {
-	  -moz-box-shadow: 0 0 0 0 var(--pulse-colour-0, rgba(204,169,44, 0.4));
-	  box-shadow: 0 0 0 0 var(--pulse-colour-0, rgba(204,169,44, 0.4));
+	  -moz-box-shadow: 0 0 0 0 var(--pulse-colour-0, rgba(0, 0, 0, 0.2));
+	  box-shadow: 0 0 0 0 var(--pulse-colour-0, rgba(0, 0, 0, 0.2));
 	}
 	70% {
-		-moz-box-shadow: 0 0 0 10px var(--pulse-colour-70-100, rgba(204,169,44, 0));
-		box-shadow: 0 0 0 10px var(--pulse-colour-70-100, rgba(204,169,44, 0));
+		-moz-box-shadow: 0 0 0 10px var(--pulse-colour-70-100, rgba(0, 0, 0, 0));
+		box-shadow: 0 0 0 10px var(--pulse-colour-70-100, rgba(0, 0, 0, 0));
 	}
 	100% {
-		-moz-box-shadow: 0 0 0 0 var(--pulse-colour-70-100, rgba(204,169,44, 0));
-		box-shadow: 0 0 0 0 var(--pulse-colour-70-100, rgba(204,169,44, 0));
+		-moz-box-shadow: 0 0 0 0 var(--pulse-colour-70-100, rgba(0, 0, 0, 0));
+		box-shadow: 0 0 0 0 var(--pulse-colour-70-100, rgba(0, 0, 0, 0));
 	}
   }
 /* Twitter Box */
