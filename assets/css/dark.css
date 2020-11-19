@@ -17,6 +17,8 @@
 	--tbody-tr-colour: #212121;
 	--tbody-tr-colour-alt: 0;
 	--oxlogo-border: 1px solid #ffffff;
+	--pulse-colour-0: rgba(204,169,44, 0.4);
+	--pulse-colour-70-100: rgba(204,169,44, 0);
 }
 
 /* If no dark mode user agent stylesheet exists, emulate it */

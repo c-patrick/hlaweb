@@ -18,4 +18,6 @@
 	--tbody-tr-colour-alt: 0;
 	--opener-title-color: #3d4449;
 	--oxlogo-border: 0;
+	--pulse-colour-0: rgba(0, 0, 0, 0.2);
+	--pulse-colour-70-100: rgba(0, 0, 0, 0);
 }
