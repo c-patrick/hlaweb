@@ -80,8 +80,8 @@
 										<div class="row">
 											<div class="col-4 col-12-small">
 											    <div class="column">
-												    <a href="group/paramveer" class="image stack"><img src="images/group/people/paramveer.jpg" alt="" /></a>
-												    <a href="group/stephen" class="image stack"><img src="images/group/people/stephen.jpg" alt="" /></a>
+												    <a href="group/paramveer.shtml" class="image stack"><img src="images/group/people/paramveer.jpg" alt="" /></a>
+												    <a href="group/stephen.shtml" class="image stack"><img src="images/group/people/stephen.jpg" alt="" /></a>
 											    </div>
 											</div>
 											<div class="col-8 col-12-small">
