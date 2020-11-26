@@ -32,6 +32,7 @@
 									</header>
 
 									<div class="people">
+										<!-- EXAMPLE ENTRY -->
 										<!--
 										<article>
 											<a href="group/XXXX.shtml" class="image"><img src="images/group/people/XXXX.jpg" alt="" /></a>
@@ -98,6 +99,15 @@
 											</center>
 										</article>
 										<article>
+											<a href="group/janko.shtml" class="image"><img src="images/group/people/janko.jpg" alt="" /></a>
+										  	<center>
+												<h3>Janko Hergenhahn</h3>
+											<ul class="actions center">
+												<li><a href="group/janko.shtml" class="button small">view</a></li>
+											</ul>
+											</center>
+										</article>
+										<article>
 											<a href="group/michael.shtml" class="image"><img src="images/group/people/michael.jpg" alt="" /></a>
 										  	<center>
 												<h3>Michael Jir&aacute;sek</h3>
@@ -125,6 +135,15 @@
 											</center>
 										</article>
 										<article>
+											<a href="group/paramveer.shtml" class="image"><img src="images/group/people/paramveer.jpg" alt="" /></a>
+										  	<center>
+												<h3>Paramveer Kumar</h3>
+											<ul class="actions center">
+												<li><a href="group/paramveer.shtml" class="button small">view</a></li>
+											</ul>
+											</center>
+										</article>
+										<article>
 											<a href="group/kate.shtml" class="image"><img src="images/group/people/kate.jpg" alt="" /></a>
 										  	<center>
 												<h3>Kathryn Leslie</h3>
@@ -139,6 +158,15 @@
 												<h3>Marcin Majewski</h3>
 											<ul class="actions center">
 												<li><a href="group/marcin.shtml" class="button small">view</a></li>
+											</ul>
+											</center>
+										</article>
+										<article>
+											<a href="group/stephen.shtml" class="image"><img src="images/group/people/stephen.jpg" alt="" /></a>
+										  	<center>
+												<h3>Stephen Marriott</h3>
+											<ul class="actions center">
+												<li><a href="group/stephen.shtml" class="button small">view</a></li>
 											</ul>
 											</center>
 										</article>

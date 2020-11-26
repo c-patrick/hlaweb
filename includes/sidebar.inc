@@ -48,11 +48,60 @@
 								</nav>
 
 							<!-- Section -->
+							<!-- EXAMPLE ENTRY -->
+							<!-- For news requiring a single photo, the following template should be used -->
+							<!--	<div class="row">
+										<div class="col-4 col-12-small">
+											<a href="group/XXXX" class="image news"><img src="images/group/people/XXXX.jpg" alt="" /></a>
+										</div>
+										<div class="col-8 col-12-small">
+											<p>#SOME_TEXT_HERE#. (#DATE#)</p>
+										</div>
+									</div> -->
+
+							<!-- For news requiring a two photos, the following template should be used -->
+							<!--	<div class="row">
+										<div class="col-4 col-12-small">
+										    <div class="column">
+											    <a href="group/XXXX" class="image stack"><img src="images/group/people/XXXX.jpg" alt="" /></a>
+											    <a href="group/XXXX" class="image stack"><img src="images/group/people/XXXX.jpg" alt="" /></a>
+										    </div>
+										</div>
+										<div class="col-8 col-12-small">
+											<p>#SOME_TEXT_HERE#. (#DATE#)</p>
+										</div>
+									</div> -->
+
 								<section>
 									<header class="major">
 									  <h2>Recent News</h2>
 									</header>
 									
+										<div class="row">
+											<div class="col-4 col-12-small">
+											    <div class="column">
+												    <a href="group/paramveer" class="image stack"><img src="images/group/people/paramveer.jpg" alt="" /></a>
+												    <a href="group/stephen" class="image stack"><img src="images/group/people/stephen.jpg" alt="" /></a>
+											    </div>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>Welcome to <a href="group/paramveer.shtml">Paramveer Kumar</a> and <a href="group/stephen.shtml">Stephen Marriott</a> jointing us for their Part II year. (November 2020)</p>
+											</div>
+										</div>
+
+										<hr class="sidebar">
+
+										<div class="row">
+											<div class="col-4 col-12-small">
+												<a href="group/janko.shtml" class="image news"><img class="lazyload" data-src="images/group/people/janko.jpg" alt="" /></a>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>Welcome to <a href="group/janko.shtml">Janko Hergenhahn</a>, starting his Part II year with us and the <a href="http://fduartegroup.org/">Durate group</a>. (November 2020)</p>
+											</div>
+										</div>
+
+										<hr class="sidebar">
+
 										<div class="row">
 											<div class="col-4 col-12-small">
 												<a href="group/he.shtml" class="image news"><img class="lazyload" data-src="images/group/people/he.jpg" alt="" /></a>
