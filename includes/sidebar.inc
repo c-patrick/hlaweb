@@ -96,7 +96,7 @@
 												<a href="group/janko.shtml" class="image news"><img class="lazyload" data-src="images/group/people/janko.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
-												<p>Welcome to <a href="group/janko.shtml">Janko Hergenhahn</a>, starting his Part II year with us and the <a href="http://fduartegroup.org/">Durate group</a>. (November 2020)</p>
+												<p>Welcome to <a href="group/janko.shtml">Janko Hergenhahn</a>, starting his Part II year with us and the <a href="http://fduartegroup.org/">Duarte group</a>. (November 2020)</p>
 											</div>
 										</div>
 
