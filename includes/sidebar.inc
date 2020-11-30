@@ -141,7 +141,7 @@
 												<a href="group/jibin.shtml" class="image news"><img class="lazyload" data-src="images/group/people/jibin.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
-												<p>Goodbye to <a href="group/will.shtml">Jibin Sun</a>, returning to China to continue his studies. (July 2020)</p>
+												<p>Goodbye to <a href="group/jibin.shtml">Jibin Sun</a>, returning to China to continue his studies. (July 2020)</p>
 											</div>
 										</div>
 
