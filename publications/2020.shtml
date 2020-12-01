@@ -70,6 +70,24 @@
 									-->
 									<div class="row ref">
 										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">321</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Masked Alkyne Equivalents for the Synthesis of Mechanically Interlocked Polyynes</h3>
+											<p><refdata class="authors">P. Gawel, S. Woltering, Y. Xiong, K. Christensen and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773">Angew. Chem. Int. Ed.</a></refdata>,
+												<refdata class="year">2020</refdata>,
+												<!-- <refdata class="vol"></refdata>, -->
+												<refdata class="page">DOI: <a href="https://doi.org/10.1002/anie.202013623">10.1002/anie.202013623</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img class="lazyload" data-src="images/abstracts/321.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="row ref">
+										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">320</h4>
 										</div>
 										<div class="col-9 col-12-small">
@@ -114,8 +132,8 @@
 											<p>
 												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
 												<refdata class="year">2020</refdata>,
-												<!-- <refdata class="vol">XXXX</refdata>, -->
-												<refdata class="page">DOI: <a href="https://doi.org/10.1021/jacs.0c09973">10.1021/jacs.0c09973</a></refdata>
+												<refdata class="vol">142</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1021/jacs.0c09973">19393-19401</a></refdata>
 											</p>
 										</div>
 										<div class="col-2 col-12-small">
@@ -246,8 +264,8 @@
 											<p>
 												<refdata class="journal"><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773">Angew. Chem. Int. Ed.</a></refdata>,
 												<refdata class="year">2020</refdata>,
-												<!-- <refdata class="vol"></refdata>, -->
-												<refdata class="page">DOI: <a href="https://doi.org/10.1002/anie.202006644">10.1002/anie.202006644</a></refdata>
+												<refdata class="vol">59</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1002/anie.202006644">16455-16458</a></refdata>
 												<div class="box">
 													<b>Highlighted in:</b>
 														<p class="pub">
