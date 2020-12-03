@@ -61,8 +61,9 @@
 												</section> -->
 
 												<!-- Special Notice -->
+												<!-- Use the pulse class for an eye-catching pulsating effect -->
 												<section>
-													<div class="box pulse mb0">
+													<div class="box mb0">
 														<p style="text-align: center"><strong>We made a short <a href="https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=588239e3-fdd0-4f4e-b0dd-ac78008d32f5">video</a> for prospective graduate students, highlighting our group's research interests. Find out more at the Department of Chemistry's <a href="http://gradopenday.chem.ox.ac.uk/">Graduate Virtual Open Day</a>.</strong></p>
 														<ul class="actions fit">
 															<li><a href="https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=588239e3-fdd0-4f4e-b0dd-ac78008d32f5" class="button primary">view</a></li>
