@@ -70,6 +70,24 @@
 									-->
 									<div class="row ref">
 										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">322</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Cooperative assembly of H-bonded rosettes inside a porphyrin nanoring</h3>
+											<p><refdata class="authors">P. Motloch, P. S. Bols, H. L. Anderson and C. A. Hunter.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
+												<refdata class="year">2021</refdata>,
+												<!-- <refdata class="vol">XXXX</refdata>, -->
+												<refdata class="page">DOI: <a href="https://doi.org/10.1039/D0SC06097F">10.1039/D0SC06097F</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img class="lazyload" data-src="images/abstracts/322.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="row ref">
+										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">321</h4>
 										</div>
 										<div class="col-9 col-12-small">

@@ -79,6 +79,17 @@
 									
 										<div class="row">
 											<div class="col-4 col-12-small">
+												<a href="group/michael.shtml" class="image news"><img class="lazyload" data-src="images/group/people/michael.jpg" alt="" /></a>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>Goodbye to <a href="group/michael.shtml">Michael Jir&aacute;sek</a>, starting a PDRA position in the <a href="https://wennemers.ethz.ch/">Helma Wennemers group</a>. (December 2020)</p>
+											</div>
+										</div>
+
+										<hr class="sidebar">
+
+										<div class="row">
+											<div class="col-4 col-12-small">
 											    <div class="column">
 												    <a href="group/paramveer.shtml" class="image stack"><img src="images/group/people/paramveer.jpg" alt="" /></a>
 												    <a href="group/stephen.shtml" class="image stack"><img src="images/group/people/stephen.jpg" alt="" /></a>
@@ -131,17 +142,6 @@
 											</div>
 											<div class="col-8 col-12-small">
 												<p>Welcome to <a href="group/qiang.shtml">Qiang Chen</a>, joining us as a PDRA. (September 2020)</p>
-											</div>
-										</div>
-
-										<hr class="sidebar">
-
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<a href="group/jibin.shtml" class="image news"><img class="lazyload" data-src="images/group/people/jibin.jpg" alt="" /></a>
-											</div>
-											<div class="col-8 col-12-small">
-												<p>Goodbye to <a href="group/jibin.shtml">Jibin Sun</a>, returning to China to continue his studies. (July 2020)</p>
 											</div>
 										</div>
 
