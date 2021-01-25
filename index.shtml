@@ -93,12 +93,13 @@
 												</header>
 											</td>
 											<td>
-												<p style="text-align:right;"><a href="publications/2020.shtml" class="button">More</a></p>
+												<p style="text-align:right;"><a href="publications/current.shtml" class="button">More</a></p>
 											</td>
 										</tr>
 									</table>
 							
 									<div class="posts">
+
 										<!-- EXAMPLE ENTRY -->
 										<!-- 
 										<article>
@@ -113,6 +114,18 @@
 											</p>
 										</article>
 										-->
+
+										<article>
+											<a href="https://doi.org/10.1038/s41377-020-00456-8" class="image front"><img class="lazyload" data-src="images/abstracts/323.jpg" alt="" /></a>
+											<h3>Towards efficient near-infrared fluorescent organic light-emitting diodes</h3>
+											<p><refdata class="authors">A. Minotto, I. Bulut, A. G. Rapidis, G. Carnicella, M. Patrini, E. Lunedei, H. L. Anderson and F. Cacialli.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://www.nature.com/lsa/">Light Sci. Appl.</a></refdata>,
+												<refdata class="year">2021</refdata>,
+												<refdata class="vol">10</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1038/s41377-020-00456-8">18</a></refdata>
+											</p>
+										</article>
 										<article>
 											<a href="https://doi.org/10.1039/D0SC06097F" class="image front"><img class="lazyload" data-src="images/abstracts/322.jpg" alt="" /></a>
 											<h3>Cooperative assembly of H-bonded rosettes inside a porphyrin nanoring</h3>
@@ -136,25 +149,25 @@
 											</p>
 										</article>
 										<article>
-											<a href="https://doi.org/10.1103/PhysRevLett.125.206803" class="image front"><img class="lazyload" data-src="images/abstracts/320.jpg" alt="" /></a>
-											<h3>Molecular Quantum Rings Formed from a &pi;-Conjugated Macrocycle</h3>
-											<p><refdata class="authors">C. J. Judd, A. S. Nizovtsev, R. Plougmann, D. V. Kondratuk, H. L. Anderson, E. Besley and A. Saywell.</refdata></p>
-											<p>
-												<refdata class="journal"><a href=http://journals.aps.org/prl/">Phys. Rev. Lett.</a></refdata>,
-												<refdata class="year">2020</refdata>,
-												<refdata class="vol">215</refdata>,
-												<refdata class="page"><a href="https://doi.org/10.1103/PhysRevLett.125.206803">206803</a></refdata>
-											</p>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1039/D0NH00415D" class="image front"><img class="lazyload" data-src="images/abstracts/319.jpg" alt="" /></a>
+											<a href="https://doi.org/10.1039/D0NH00415D" class="image front"><img class="lazyload" data-src="images/abstracts/320.jpg" alt="" /></a>
 											<h3>Long-lived charged states of single porphyrin-tape junctions under ambient conditions</h3>
 											<p><refdata class="authors">E. Leary, G. Kastlunger, B. Limburg, L. Rinc&oacute;n-Garc&iacute;a, J. Hurtado-Gallego, M. T. Gonz&aacute;lez, G. R. Bollinger, N. Agrait, S. J. Higgins, H. L. Anderson, R. Stadler and R. J. Nichols.</refdata></p>
 											<p>
 												<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journal/nh">Nanoscale Horizons</a></refdata>,
 												<refdata class="year">2020</refdata>,
-												<!--<refdata class="vol">XXXX</refdata>,-->
-												<refdata class="page">DOI: <a href="https://doi.org/10.1039/D0NH00415D">10.1039/D0NH00415D</a></refdata>
+												<refdata class="vol">6</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1039/D0NH00415D">49-58</a></refdata>
+											</p>
+										</article>
+										<article>
+											<a href="https://doi.org/10.1103/PhysRevLett.125.206803" class="image front"><img class="lazyload" data-src="images/abstracts/319.jpg" alt="" /></a>
+											<h3>Molecular Quantum Rings Formed from a &pi;-Conjugated Macrocycle</h3>
+											<p><refdata class="authors">C. J. Judd, A. S. Nizovtsev, R. Plougmann, D. V. Kondratuk, H. L. Anderson, E. Besley and A. Saywell.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://journals.aps.org/prl/">Phys. Rev. Lett.</a></refdata>,
+												<refdata class="year">2020</refdata>,
+												<refdata class="vol">215</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1103/PhysRevLett.125.206803">206803</a></refdata>
 											</p>
 										</article>
 										<article>
@@ -190,21 +203,10 @@
 												<refdata class="page"><a href="https://doi.org/10.1021/acs.jpcc.0c04546">18416-18425</a></refdata>
 											</p>
 										</article>
-										<article>
-											<a href="https://doi.org/10.1021/jacs.0c05033" class="image front"><img class="lazyload" data-src="images/abstracts/315.jpg" alt="" /></a>
-											<h3>Synthesis of cyclo[18]carbon via debromination of C<sub>18</sub>Br<sub>6</sub></h3>
-											<p><refdata class="authors">L. M. Scriven, K. Kaiser, F. Schulz, A. J. Sterling, S. L. Woltering, P. Gawel, K. E. Christensen, H. L. Anderson and L. Gross.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
-												<refdata class="year">2020</refdata>,
-												<refdata class="vol">142</refdata>,
-												<refdata class="page"><a href="https://doi.org/10.1021/jacs.0c05033">12921-12924</a></refdata>
-											</p>
-										</article>
 									</div>
 									
 									<center>
-										<a href="publications/2020.shtml" class="button">More</a>
+										<a href="publications/current.shtml" class="button">More</a>
 									</center>								
 						  </section>
 							

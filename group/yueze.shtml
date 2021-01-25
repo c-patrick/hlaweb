@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<!--
+	Harry Anderson Group Website
+	Connor Patrick | connor<dot>patrick<at>chem<dot>ox<dot>ac<dot>uk
+	https://github.com/c-patrick/hlaweb
+-->
+<html lang="en">
+	<head>
+		<title>Anderson Research Group | University of Oxford</title>
+		<meta name="keywords" content="porphyrin, rotaxanes, PDT, photodynamic therapy, molecular wires, molecular machines, supramolecular chemistry, encapsulation, dyes, photophysics" />
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--#include virtual="/includes/base.inc" -->
+		<!--#include virtual="/includes/head_theme.inc" -->
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								<!--#include virtual="/includes/header.inc" -->
+
+
+							<!-- Content -->
+								<section>
+									<header class="name-center">
+									  <h2>Yueze Gao</h2>
+									</header>
+
+									<span class="image profile"><img src="/images/group/people/yueze.jpg" alt="" /></span>
+
+									<h3>PDRA (2021-)</h3><br>
+
+									<p>
+										<b>Project:</b> Cyclocarbon catenanes.<br_profile>
+										<b>Support:</b> European Research Council.<br_profile>
+										<b>PhD:</b> University of Alberta under supervision of Prof. Rik R. Tykwinski, "<i>Synthesis and Study of Long Pyridyl-Endcapped Oligoynes on the Way to Carbyne</i>". <br_profile>
+										<b>Other Interests:</b> Hiking, badminton, basketball, table tennis.</a><br_profile>
+										<b>ORCID:</b> <a href="https://orcid.org/0000-0002-1856-7959">0000-0002-1856-7959</a>
+									</p>
+						  </section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+				<!--#include virtual="/includes/sidebar.inc" -->	
+
+			</div>
+		
+		<!-- IE-Banner -->
+			<!--#include virtual="/includes/ie-banner.inc" -->
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script src="assets/js/lazysizes.min.js"></script>
+
+	</body>
+</html>

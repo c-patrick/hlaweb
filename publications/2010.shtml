@@ -35,7 +35,8 @@
 									<center>
 										<ul class="pagination">
 											<li><a href="publications/2015.shtml" class="button">Prev</a></li>
-											<li><a href="publications/2020.shtml" class="page">Current</a></li>
+											<li><a href="publications/current.shtml" class="page">Current</a></li>
+											<li><a href="publications/2020.shtml" class="page">2020</a></li>
 											<li><a href="publications/2015.shtml" class="page">2015</a></li>
 											<li><a href="publications/2010.shtml" class="page active">2010</a></li>
 											<li><a href="publications/2005.shtml" class="page">2005</a></li>
@@ -1216,7 +1217,8 @@
 						<center>
 							<ul class="pagination">
 								<li><a href="publications/2015.shtml" class="button">Prev</a></li>
-								<li><a href="publications/2020.shtml" class="page">Current</a></li>
+								<li><a href="publications/current.shtml" class="page">Current</a></li>
+								<li><a href="publications/2020.shtml" class="page">2020</a></li>
 								<li><a href="publications/2015.shtml" class="page">2015</a></li>
 								<li><a href="publications/2010.shtml" class="page active">2010</a></li>
 								<li><a href="publications/2005.shtml" class="page">2005</a></li>

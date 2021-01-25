@@ -1,0 +1,170 @@
+<!DOCTYPE HTML>
+<!--
+	Harry Anderson Group Website
+	Connor Patrick | connor<dot>patrick<at>chem<dot>ox<dot>ac<dot>uk
+	https://github.com/c-patrick/hlaweb
+-->
+<html lang="en">
+	<head>
+		<title>Anderson Research Group | University of Oxford</title>
+		<meta name="keywords" content="porphyrin, rotaxanes, PDT, photodynamic therapy, molecular wires, molecular machines, supramolecular chemistry, encapsulation, dyes, photophysics" />
+		<meta name="description" content="HLA group publications from 2015-present.">
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--#include virtual="/includes/base.inc" -->
+		<!--#include virtual="/includes/head_theme.inc" -->
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								<!--#include virtual="/includes/header.inc" -->
+
+							<!-- Content -->
+								<section>
+									<header class="major">
+										<h2>Publications</h2>
+									</header>
+									
+									<center>
+										<ul class="pagination">
+											<li><span class="button disabled">Prev</span></li>
+											<li><a href="publications/current.shtml" class="page active">Current</a></li>
+											<li><a href="publications/2020.shtml" class="page">2020</a></li>
+											<li><a href="publications/2015.shtml" class="page">2015</a></li>
+											<li><a href="publications/2010.shtml" class="page">2010</a></li>
+											<li><a href="publications/2005.shtml" class="page">2005</a></li>
+											<li><a href="publications/2000.shtml" class="page">2000</a></li>
+											<li><a href="publications/1995.shtml" class="page">1995</a></li>
+											<li><a href="publications/theses.shtml" class="page">Theses</a></li>
+											<li><a href="publications/2020.shtml" class="button">Next</a></li>
+										</ul>
+									</center>
+
+									<h2>Present - 2021</h2>
+									
+									<!-- EXAMPLE ENTRY -->
+									<!--
+									<div class="row ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">XXXX</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>XXXX</h3>
+											<p><refdata class="authors">XXXX.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="XXXX">XXXX</a></refdata>,
+												<refdata class="year">XXXX</refdata>,
+												<refdata class="vol">XXXX</refdata>,
+												<refdata class="page"><a href="https://doi.org/XXXX">XXXX</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img class="lazyload" data-src="images/abstracts/XXXX.jpg" alt="" /></span>
+										</div>
+									</div>
+									-->
+
+									<div class="row ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">323</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Towards efficient near-infrared fluorescent organic light-emitting diodes</h3>
+											<p><refdata class="authors">A. Minotto, I. Bulut, A. G. Rapidis, G. Carnicella, M. Patrini, E. Lunedei, H. L. Anderson and F. Cacialli.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://www.nature.com/lsa/">Light Sci. Appl.</a></refdata>,
+												<refdata class="year">2021</refdata>,
+												<refdata class="vol">10</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1038/s41377-020-00456-8">18</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img class="lazyload" data-src="images/abstracts/323.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="row ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">322</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Cooperative assembly of H-bonded rosettes inside a porphyrin nanoring</h3>
+											<p><refdata class="authors">P. Motloch, P. S. Bols, H. L. Anderson and C. A. Hunter.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
+												<refdata class="year">2021</refdata>,
+												<!-- <refdata class="vol">XXXX</refdata>, -->
+												<refdata class="page">DOI: <a href="https://doi.org/10.1039/D0SC06097F">10.1039/D0SC06097F</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img class="lazyload" data-src="images/abstracts/322.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="row ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">321</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Masked Alkyne Equivalents for the Synthesis of Mechanically Interlocked Polyynes</h3>
+											<p><refdata class="authors">P. Gawel, S. Woltering, Y. Xiong, K. Christensen and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773">Angew. Chem. Int. Ed.</a></refdata>,
+												<refdata class="year">2021</refdata>,
+												<!-- <refdata class="vol"></refdata>, -->
+												<refdata class="page">DOI: <a href="https://doi.org/10.1002/anie.202013623">10.1002/anie.202013623</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img class="lazyload" data-src="images/abstracts/321.jpg" alt="" /></span>
+										</div>
+									</div>
+								</section>
+						
+						<center>
+							<ul class="pagination">
+								<li><span class="button disabled">Prev</span></li>
+								<li><a href="publications/current.shtml" class="page active">Current</a></li>
+								<li><a href="publications/2020.shtml" class="page">2020</a></li>
+								<li><a href="publications/2015.shtml" class="page">2015</a></li>
+								<li><a href="publications/2010.shtml" class="page">2010</a></li>
+								<li><a href="publications/2005.shtml" class="page">2005</a></li>
+								<li><a href="publications/2000.shtml" class="page">2000</a></li>
+								<li><a href="publications/1995.shtml" class="page">1995</a></li>
+								<li><a href="publications/theses.shtml" class="page">Theses</a></li>
+								<li><a href="publications/2020.shtml" class="button">Next</a></li>
+							</ul>
+						</center>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+				<!--#include virtual="/includes/sidebar.inc" -->	
+
+			</div>
+		
+		<!-- IE-Banner -->
+			<!--#include virtual="/includes/ie-banner.inc" -->
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script src="assets/js/lazysizes.min.js"></script>
+		<script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
+
+	</body>
+</html>

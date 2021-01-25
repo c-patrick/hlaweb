@@ -16,7 +16,8 @@
 										<li>
 											<span class="opener">Publications</span>
 											<ul>
-												<li><a href="/publications/2020.shtml">2016-present</a></li>
+												<li><a href="/publications/current.shtml">2021-present</a></li>
+												<li><a href="/publications/2020.shtml">2016-2020</a></li>
 												<li><a href="/publications/2015.shtml">2011-2015</a></li>
 												<li><a href="/publications/2010.shtml">2006-2010</a></li>
 												<li><a href="/publications/2005.shtml">2001-2005</a></li>
@@ -79,6 +80,17 @@
 									
 										<div class="row">
 											<div class="col-4 col-12-small">
+												<a href="group/yueze.shtml" class="image news"><img src="images/group/people/yueze.jpg" alt="" /></a>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>Welcome to <a href="group/yueze.shtml">Yueze Gao</a>, joining us as a PostDoc. (January 2021)</p>
+											</div>
+										</div>
+
+										<hr class="sidebar">
+
+										<div class="row">
+											<div class="col-4 col-12-small">
 												<a href="group/michael.shtml" class="image news"><img class="lazyload" data-src="images/group/people/michael.jpg" alt="" /></a>
 											</div>
 											<div class="col-8 col-12-small">
@@ -131,17 +143,6 @@
 											</div>
 											<div class="col-8 col-12-small">
 												<p>Welcome to our new DPhil student <a href="group/wojtek.shtml">Wojtek Stawski</a>. (September 2020)</p>
-											</div>
-										</div>
-
-										<hr class="sidebar">
-
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<a href="group/qiang.shtml" class="image news"><img class="lazyload" data-src="images/group/people/qiang.jpg" alt="" /></a>
-											</div>
-											<div class="col-8 col-12-small">
-												<p>Welcome to <a href="group/qiang.shtml">Qiang Chen</a>, joining us as a PDRA. (September 2020)</p>
 											</div>
 										</div>
 
