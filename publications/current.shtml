@@ -69,7 +69,24 @@
 										</div>
 									</div>
 									-->
-
+									<div class="row ref">
+										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">324</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Experimental and Theoretical Evidence for Aromatic Stabilization Energy in Large Macrocycles</h3>
+											<p><refdata class="authors">M. Jir&aacute;sek, M. Rickhaus, L. Tejerina and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2021</refdata>,
+												<!--<refdata class="vol">XXXX</refdata>,-->
+												<refdata class="page">DOI: <a href="https://doi.org/10.1021/jacs.0c12845">10.1021/jacs.0c12845</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img class="lazyload" data-src="images/abstracts/324.jpg" alt="" /></span>
+										</div>
+									</div>
 									<div class="row ref">
 										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">323</h4>

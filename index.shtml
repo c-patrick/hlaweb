@@ -114,7 +114,17 @@
 											</p>
 										</article>
 										-->
-
+										<article>
+											<a href="https://doi.org/10.1021/jacs.0c12845" class="image front"><img class="lazyload" data-src="images/abstracts/324.jpg" alt="" /></a>
+											<h3>Experimental and Theoretical Evidence for Aromatic Stabilization Energy in Large Macrocycles</h3>
+											<p><refdata class="authors">M. Jir&aacute;sek, M. Rickhaus, L. Tejerina and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2021</refdata>,
+												<!--<refdata class="vol">XXXX</refdata>,-->
+												<refdata class="page">DOI: <a href="https://doi.org/10.1021/jacs.0c12845">10.1021/jacs.0c12845</a></refdata>
+											</p>
+										</article>
 										<article>
 											<a href="https://doi.org/10.1038/s41377-020-00456-8" class="image front"><img class="lazyload" data-src="images/abstracts/323.jpg" alt="" /></a>
 											<h3>Towards efficient near-infrared fluorescent organic light-emitting diodes</h3>
@@ -190,17 +200,6 @@
 												<refdata class="year">2020</refdata>,
 												<refdata class="vol">11</refdata>,
 												<refdata class="page"><a href="https://doi.org/10.1039/D0SC02447C">8955-8960</a></refdata>
-											</p>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1021/acs.jpcc.0c04546" class="image front"><img class="lazyload" data-src="images/abstracts/316.jpg" alt="" /></a>
-											<h3>Exciton-Exciton Annihilation as a Probe of Exciton Diffusion in Large Porphyrin Nanorings</h3>
-											<p><refdata class="authors">G. Bressan, M. Jir&aacute;sek, H. L. Anderson, I. A. Heisler and S. R. Meech.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="https://pubs.acs.org/journal/jpccck">J. Phys. Chem. C</a></refdata>,
-												<refdata class="year">2020</refdata>,
-												<refdata class="vol">124</refdata>,
-												<refdata class="page"><a href="https://doi.org/10.1021/acs.jpcc.0c04546">18416-18425</a></refdata>
 											</p>
 										</article>
 									</div>
