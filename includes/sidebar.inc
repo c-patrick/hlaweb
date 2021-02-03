@@ -53,7 +53,7 @@
 							<!-- For news requiring a single photo, the following template should be used -->
 							<!--	<div class="row">
 										<div class="col-4 col-12-small">
-											<a href="group/XXXX" class="image news"><img src="images/group/people/XXXX.jpg" alt="" /></a>
+											<a href="group/XXXX.shtml" class="image news"><img src="images/group/people/XXXX.jpg" alt="" /></a>
 										</div>
 										<div class="col-8 col-12-small">
 											<p>#SOME_TEXT_HERE#. (#DATE#)</p>
@@ -64,8 +64,8 @@
 							<!--	<div class="row">
 										<div class="col-4 col-12-small">
 										    <div class="column">
-											    <a href="group/XXXX" class="image stack"><img src="images/group/people/XXXX.jpg" alt="" /></a>
-											    <a href="group/XXXX" class="image stack"><img src="images/group/people/XXXX.jpg" alt="" /></a>
+											    <a href="group/XXXX.shtml" class="image stack"><img src="images/group/people/XXXX.jpg" alt="" /></a>
+											    <a href="group/XXXX.shtml" class="image stack"><img src="images/group/people/XXXX.jpg" alt="" /></a>
 										    </div>
 										</div>
 										<div class="col-8 col-12-small">
@@ -78,6 +78,17 @@
 									  <h2>Recent News</h2>
 									</header>
 									
+										<div class="row">
+											<div class="col-4 col-12-small">
+												<a href="group/junfu.shtml" class="image news"><img src="images/group/people/junfu.jpg" alt="" /></a>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>A warm welcome to <a href="group/junfu.shtml">Junfu Tian</a> who is joining us for one of his CDT rotations. (February 2021)</p>
+											</div>
+										</div>
+										
+										<hr class="sidebar">
+										
 										<div class="row">
 											<div class="col-4 col-12-small">
 												<a href="group/yueze.shtml" class="image news"><img src="images/group/people/yueze.jpg" alt="" /></a>
@@ -131,18 +142,6 @@
 											</div>
 											<div class="col-8 col-12-small">
 												<p>Welcome to <a href="group/he.shtml">He Zhu</a>, joining us as a MSc student. (September 2020)</p>
-											</div>
-										</div>
-
-										<hr class="sidebar">
-
-									<div class="mini-posts">
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<a href="group/wojtek.shtml" class="image news"><img class="lazyload" data-src="images/group/people/wojtek.jpg" alt="" /></a>
-											</div>
-											<div class="col-8 col-12-small">
-												<p>Welcome to our new DPhil student <a href="group/wojtek.shtml">Wojtek Stawski</a>. (September 2020)</p>
 											</div>
 										</div>
 
