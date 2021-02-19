@@ -1465,7 +1465,7 @@ header.main > :last-child {
 .twitter {
 	height: 100%;
 	padding: 0 1em;
-	background-color: var(--tweet-box-color, #f7f7f7);
+	background-color: var(--tweet-box-color, #f7f7f7) !important;
 }
 
 @media screen and (min-width: 481px) and (max-width: 736px) {
