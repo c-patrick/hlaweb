@@ -115,6 +115,17 @@
 										</article>
 										-->
 										<article>
+											<a href="https://doi.org/10.1246/bcsj.20200345" class="image front"><img class="lazyload" data-src="images/abstracts/325.jpg" alt="" /></a>
+											<h3>A Short History of Cyclocarbons</h3>
+												<p><refdata class="authors">H. L. Anderson, C. W. Patrick, L. M. Scriven and S. L. Woltering.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://www.journal.csj.jp/journal/bcsj">Bull. Chem. Soc. Jpn.</a></refdata>,
+												<refdata class="year">2021</refdata>,
+												<!-- <refdata class="vol">XXXX</refdata>, -->
+												<refdata class="page">DOI: <a href="https://doi.org/10.1246/bcsj.20200345">10.1246/bcsj.20200345</a></refdata>
+											</p>
+										</article>
+										<article>
 											<a href="https://doi.org/10.1021/jacs.0c12845" class="image front"><img class="lazyload" data-src="images/abstracts/324.jpg" alt="" /></a>
 											<h3>Experimental and Theoretical Evidence for Aromatic Stabilization Energy in Large Macrocycles</h3>
 											<p><refdata class="authors">M. Jir&aacute;sek, M. Rickhaus, L. Tejerina and H. L. Anderson.</refdata></p>
@@ -189,17 +200,6 @@
 												<refdata class="year">2020</refdata>,
 												<!-- <refdata class="vol">XXXX</refdata>, -->
 												<refdata class="page">DOI: <a href="https://doi.org/10.1021/jacs.0c09973">10.1021/jacs.0c09973</a></refdata>
-											</p>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1039/D0SC02447C" class="image front"><img class="lazyload" data-src="images/abstracts/317.jpg" alt="" /></a>
-											<h3>Super-resolution RESOLFT microscopy of lipid bilayers using a fluorophore-switch dyad</h3>
-											<p><refdata class="authors">A. T. Frawley, V. Wycisk, Y. Xiong, S. Galiani, E. Sezgin, I. Urbancic, A. Vargas Jentzsch, K. Leslie, C. Eggeling and H. L. Anderson.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
-												<refdata class="year">2020</refdata>,
-												<refdata class="vol">11</refdata>,
-												<refdata class="page"><a href="https://doi.org/10.1039/D0SC02447C">8955-8960</a></refdata>
 											</p>
 										</article>
 									</div>
