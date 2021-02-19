@@ -1,8 +1,6 @@
-<!--
 <meta name="supported-color-schemes" content="dark light">
 	    <meta name="color-scheme" content="dark light">
 	    <meta name="theme-color" content="">
--->
 
 		<!-- Load dark mode toggle script from CDN -->
 <!--	<script type="module" src="https://unpkg.com/dark-mode-toggle"></script>
