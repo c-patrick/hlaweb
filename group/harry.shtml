@@ -46,6 +46,38 @@
 									</p>
 						  </section>
 
+						  <section>
+							  	<header class="major">
+									<h2>Links to research lectures</h2>
+								</header>
+
+								<div class="row ptb2">
+									<div class="col-4 col-12-small pb1">
+										<h3>International Institute for Nanotechnology, Northwestern University USA</h3>
+										<b><i>December 2019</i></b>
+									</div>
+									<div class="col-8 col-12-small">
+										<iframe height="400" width="100%"
+											src="https://www.youtube.com/embed/VgUH_MLx4s8">
+										</iframe> 
+									</div>
+								</div>
+
+								<hr>
+
+								<div class="row ptb2">
+									<div class="col-4 col-12-small pb1">
+										<h3>Chemical & Physical Society, UCL, London</h3>
+										<b><i>January 2021</i></b>
+									</div>
+									<div class="col-8 col-12-small">
+										<iframe height="400" width="100%"
+											src="https://www.youtube.com/embed/dawoevSEIa8">
+										</iframe> 
+									</div>
+								</div>
+						  </section>
+
 						</div>
 					</div>
 

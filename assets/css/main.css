@@ -267,6 +267,10 @@ hr.major {
 hr.sidebar {
 	margin: 0 0 2em 0;
 }
+hr.profile {
+	padding: 0 0 20em 0;
+	margin: 0 0 2em 0;
+}
 .align-left {
 	text-align: left;
 }
@@ -3648,6 +3652,18 @@ transform:scale(1)
 }
 .pr0 {
 	padding-right: 0;
+}
+.ptb1 {
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
+.ptb2 {
+	padding-bottom: 2em;
+	padding-top: 2em;
+}
+.ptb3 {
+	padding-bottom: 3em;
+	padding-top: 3em;
 }
 @media screen and (max-width: 736px) {
 	.twitter_pad {
