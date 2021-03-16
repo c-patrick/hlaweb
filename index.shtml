@@ -61,15 +61,16 @@
 												</section> -->
 
 												<!-- Special Notice -->
+												<!-- The following box can be used to advertise any special notices -->
 												<!-- Use the pulse class for an eye-catching pulsating effect -->
-												<section>
+												<!--<section>
 													<div class="box mb0">
 														<p style="text-align: center"><strong>We made a short <a href="https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=588239e3-fdd0-4f4e-b0dd-ac78008d32f5">video</a> for prospective graduate students, highlighting our group's research interests. Find out more at the Department of Chemistry's <a href="http://gradopenday.chem.ox.ac.uk/">Graduate Virtual Open Day</a>.</strong></p>
 														<ul class="actions fit">
 															<li><a href="https://ox.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=588239e3-fdd0-4f4e-b0dd-ac78008d32f5" class="button primary">view</a></li>
 														</ul>
 													</div>
-												</section>
+												</section> -->
 												
 											</div>
 											<div class="col-4 col-12-small twitter_pad">
@@ -117,12 +118,12 @@
 										<article>
 											<a href="https://doi.org/10.1246/bcsj.20200345" class="image front"><img class="lazyload" data-src="images/abstracts/325.jpg" alt="" /></a>
 											<h3>A Short History of Cyclocarbons</h3>
-												<p><refdata class="authors">H. L. Anderson, C. W. Patrick, L. M. Scriven and S. L. Woltering.</refdata></p>
+											<p><refdata class="authors">H. L. Anderson, C. W. Patrick, L. M. Scriven and S. L. Woltering.</refdata></p>
 											<p>
 												<refdata class="journal"><a href="https://www.journal.csj.jp/journal/bcsj">Bull. Chem. Soc. Jpn.</a></refdata>,
 												<refdata class="year">2021</refdata>,
-												<!-- <refdata class="vol">XXXX</refdata>, -->
-												<refdata class="page">DOI: <a href="https://doi.org/10.1246/bcsj.20200345">10.1246/bcsj.20200345</a></refdata>
+												<refdata class="vol">94</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1246/bcsj.20200345">798-811</a></refdata>
 											</p>
 										</article>
 										<article>
@@ -132,8 +133,8 @@
 											<p>
 												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
 												<refdata class="year">2021</refdata>,
-												<!--<refdata class="vol">XXXX</refdata>,-->
-												<refdata class="page">DOI: <a href="https://doi.org/10.1021/jacs.0c12845">10.1021/jacs.0c12845</a></refdata>
+												<refdata class="vol">143</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1021/jacs.0c12845">2403-2412</a></refdata>
 											</p>
 										</article>
 										<article>
@@ -154,8 +155,8 @@
 											<p>
 												<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
 												<refdata class="year">2021</refdata>,
-												<!-- <refdata class="vol">XXXX</refdata>, -->
-												<refdata class="page">DOI: <a href="https://doi.org/10.1039/D0SC06097F">10.1039/D0SC06097F</a></refdata>
+												<refdata class="vol">12</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1039/D0SC06097F">1427-1432</a></refdata>
 											</p>
 										</article>
 										<article>
@@ -165,8 +166,8 @@
 											<p>
 												<refdata class="journal"><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773">Angew. Chem. Int. Ed.</a></refdata>,
 												<refdata class="year">2021</refdata>,
-												<!-- <refdata class="vol"></refdata>, -->
-												<refdata class="page">DOI: <a href="https://doi.org/10.1002/anie.202013623">10.1002/anie.202013623</a></refdata>
+												<refdata class="vol">60</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1002/anie.202013623">5941-5947</a></refdata>
 											</p>
 										</article>
 										<article>
