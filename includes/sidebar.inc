@@ -86,7 +86,18 @@
 												<p>A warm welcome to <a href="group/junfu.shtml">Junfu Tian</a> who is joining us for one of his CDT rotations. (February 2021)</p>
 											</div>
 										</div>
+
+										<hr class="sidebar">
 										
+										<div class="row">
+											<div class="col-4 col-12-small">
+												<a href="group/lorel.shtml" class="image news"><img src="images/group/people/lorel.jpg" alt="" /></a>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>Congratulations to <a href="group/lorel.shtml">Lorel Scriven</a> for defending her thesis and leaving to join the Civil Service. (January 2021)</p>
+											</div>
+										</div>
+
 										<hr class="sidebar">
 										
 										<div class="row">
@@ -131,17 +142,6 @@
 											</div>
 											<div class="col-8 col-12-small">
 												<p>Welcome to <a href="group/janko.shtml">Janko Hergenhahn</a>, starting his Part II year with us and the <a href="http://fduartegroup.org/">Duarte group</a>. (November 2020)</p>
-											</div>
-										</div>
-
-										<hr class="sidebar">
-
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<a href="group/he.shtml" class="image news"><img class="lazyload" data-src="images/group/people/he.jpg" alt="" /></a>
-											</div>
-											<div class="col-8 col-12-small">
-												<p>Welcome to <a href="group/he.shtml">He Zhu</a>, joining us as a MSc student. (September 2020)</p>
 											</div>
 										</div>
 
