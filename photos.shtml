@@ -48,6 +48,19 @@
 									<nav id="lightbox">
 										
 									<ul>
+										<li> <span class="opener">2020</span>
+											<ul>
+												  <li><a href="#">Christmas Party</a></li>
+													  <div id="2020_christmas">
+														  <a
+															  href="images/social/2020_xmas/full1.jpg"
+															  title="Christmas"
+															  data-gallery="#blueimp-gallery-2020_xmas">
+															  <img src="images/social/2020_xmas/thumb1.jpg" alt="Christmas" />
+														  </a>
+													  </div>
+											</ul>
+										</li>
 										<li> <span class="opener">2019</span>
 										  <ul>
 												<li><a href="#">Christmas Dinner</a></li>
