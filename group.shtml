@@ -81,6 +81,15 @@
 											</center>
 										</article>
 										<article>
+											<a href="group/joshua.shtml" class="image"><img src="images/group/people/joshua.jpg" alt="" /></a>
+										  	<center>
+												<h3>Joshua Field</h3>
+											<ul class="actions center">
+												<li><a href="group/joshua.shtml" class="button small">view</a></li>
+											</ul>
+											</center>
+										</article>
+										<article>
 											<a href="group/andrew.shtml" class="image"><img src="images/group/people/andrew.jpg" alt="" /></a>
 										  	<center>
 												<h3>Andrew Frawley</h3>
@@ -203,15 +212,6 @@
 												<h3>Wojtek Stawski</h3>
 											<ul class="actions center">
 												<li><a href="group/wojtek.shtml" class="button small">view</a></li>
-											</ul>
-											</center>
-										</article>
-										<article>
-											<a href="group/junfu.shtml" class="image"><img src="images/group/people/junfu.jpg" alt="" /></a>
-										  	<center>
-												<h3>Junfu Tian</h3>
-											<ul class="actions center">
-												<li><a href="group/junfu.shtml" class="button small">view</a></li>
 											</ul>
 											</center>
 										</article>

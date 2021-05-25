@@ -77,7 +77,29 @@
 									<header class="major">
 									  <h2>Recent News</h2>
 									</header>
-									
+
+										<div class="row">
+											<div class="col-4 col-12-small">
+												<a href="group/joshua.shtml" class="image news"><img src="images/group/people/joshua.jpg" alt="" /></a>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>Welcome to <a href="group/joshua.shtml">Joshua Field</a> who is joining us for his second CDT rotation. (May 2021)</p>
+											</div>
+										</div>
+										
+										<hr class="sidebar">
+
+										<div class="row">
+											<div class="col-4 col-12-small">
+												<a href="group/junfu.shtml" class="image news"><img src="images/group/people/junfu.jpg" alt="" /></a>
+											</div>
+											<div class="col-8 col-12-small">
+												<p>Goodbye <a href="group/junfu.shtml">Junfu Tian</a> who is leaving us to continue his CDT rotation. (May 2021)</p>
+											</div>
+										</div>
+
+										<hr class="sidebar">
+
 										<div class="row">
 											<div class="col-4 col-12-small">
 												<a href="group/junfu.shtml" class="image news"><img src="images/group/people/junfu.jpg" alt="" /></a>
@@ -117,31 +139,6 @@
 											</div>
 											<div class="col-8 col-12-small">
 												<p>Goodbye to <a href="group/michael.shtml">Michael Jir&aacute;sek</a>, starting a PDRA position in the <a href="https://wennemers.ethz.ch/">Helma Wennemers group</a>. (December 2020)</p>
-											</div>
-										</div>
-
-										<hr class="sidebar">
-
-										<div class="row">
-											<div class="col-4 col-12-small">
-											    <div class="column">
-												    <a href="group/paramveer.shtml" class="image stack"><img src="images/group/people/paramveer.jpg" alt="" /></a>
-												    <a href="group/stephen.shtml" class="image stack"><img src="images/group/people/stephen.jpg" alt="" /></a>
-											    </div>
-											</div>
-											<div class="col-8 col-12-small">
-												<p>Welcome to <a href="group/paramveer.shtml">Paramveer Kumar</a> and <a href="group/stephen.shtml">Stephen Marriott</a> jointing us for their Part II year. (November 2020)</p>
-											</div>
-										</div>
-
-										<hr class="sidebar">
-
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<a href="group/janko.shtml" class="image news"><img class="lazyload" data-src="images/group/people/janko.jpg" alt="" /></a>
-											</div>
-											<div class="col-8 col-12-small">
-												<p>Welcome to <a href="group/janko.shtml">Janko Hergenhahn</a>, starting his Part II year with us and the <a href="http://fduartegroup.org/">Duarte group</a>. (November 2020)</p>
 											</div>
 										</div>
 
