@@ -53,97 +53,105 @@
 							<!-- For news requiring a single photo, the following template should be used -->
 							<!--	<div class="row">
 										<div class="col-4 col-12-small">
-											<a href="group/XXXX.shtml" class="image news"><img src="images/group/people/XXXX.jpg" alt="" /></a>
+											<div class="grid">
+												<a href="group/XXXX.shtml" class="image sidebar-picture"><img src="images/group/people/XXXX.jpg" alt="" /></a>
+											</div>
 										</div>
 										<div class="col-8 col-12-small">
-											<p>#SOME_TEXT_HERE#. (#DATE#)</p>
+											<p class="sidebar">#SOME INTERESTING TEXT HERE# (#DATE#)</p>
 										</div>
 									</div> -->
 
-							<!-- For news requiring a two photos, the following template should be used -->
-							<!--	<div class="row">
-										<div class="col-4 col-12-small">
-										    <div class="column">
-											    <a href="group/XXXX.shtml" class="image stack"><img src="images/group/people/XXXX.jpg" alt="" /></a>
-											    <a href="group/XXXX.shtml" class="image stack"><img src="images/group/people/XXXX.jpg" alt="" /></a>
-										    </div>
-										</div>
-										<div class="col-8 col-12-small">
-											<p>#SOME_TEXT_HERE#. (#DATE#)</p>
-										</div>
-									</div> -->
-
+							<!-- For news requiring multiple photos (up to 4), add additional <a> tags in the grid class. For example -->
+							<!--	<div class="grid">
+										<a href="group/XXXX.shtml" class="image sidebar-picture"><img src="images/group/people/XXXX.jpg" alt="" /></a>
+										<a href="group/XXXX.shtml" class="image sidebar-picture"><img src="images/group/people/XXXX.jpg" alt="" /></a>
+									</div> -->	
 								<section>
 									<header class="major">
 									  <h2>Recent News</h2>
 									</header>
-
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<a href="group/joshua.shtml" class="image news"><img src="images/group/people/joshua.jpg" alt="" /></a>
-											</div>
-											<div class="col-8 col-12-small">
-												<p>Welcome to <a href="group/joshua.shtml">Joshua Field</a> who is joining us for his second CDT rotation. (May 2021)</p>
-											</div>
-										</div>
-										
-										<hr class="sidebar">
-
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<a href="group/junfu.shtml" class="image news"><img src="images/group/people/junfu.jpg" alt="" /></a>
-											</div>
-											<div class="col-8 col-12-small">
-												<p>Goodbye <a href="group/junfu.shtml">Junfu Tian</a> who is leaving us to continue his CDT rotation. (May 2021)</p>
-											</div>
-										</div>
-
-										<hr class="sidebar">
-
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<a href="group/junfu.shtml" class="image news"><img src="images/group/people/junfu.jpg" alt="" /></a>
-											</div>
-											<div class="col-8 col-12-small">
-												<p>A warm welcome to <a href="group/junfu.shtml">Junfu Tian</a> who is joining us for one of his CDT rotations. (February 2021)</p>
-											</div>
-										</div>
-
-										<hr class="sidebar">
-										
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<a href="group/lorel.shtml" class="image news"><img src="images/group/people/lorel.jpg" alt="" /></a>
-											</div>
-											<div class="col-8 col-12-small">
-												<p>Congratulations to <a href="group/lorel.shtml">Lorel Scriven</a> for defending her thesis and leaving to join the Civil Service. (January 2021)</p>
-											</div>
-										</div>
-
-										<hr class="sidebar">
-										
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<a href="group/yueze.shtml" class="image news"><img src="images/group/people/yueze.jpg" alt="" /></a>
-											</div>
-											<div class="col-8 col-12-small">
-												<p>Welcome to <a href="group/yueze.shtml">Yueze Gao</a>, joining us as a PostDoc. (January 2021)</p>
-											</div>
-										</div>
-
-										<hr class="sidebar">
-
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<a href="group/michael.shtml" class="image news"><img class="lazyload" data-src="images/group/people/michael.jpg" alt="" /></a>
-											</div>
-											<div class="col-8 col-12-small">
-												<p>Goodbye to <a href="group/michael.shtml">Michael Jir&aacute;sek</a>, starting a PDRA position in the <a href="https://wennemers.ethz.ch/">Helma Wennemers group</a>. (December 2020)</p>
-											</div>
-										</div>
-
-										<hr class="sidebar">
 									
+										<div class="row">
+											<div class="col-4 col-12-small">
+												<div class="grid">
+													<a href="group/wenjun.shtml" class="image sidebar-picture"><img src="images/group/people/wenjun.jpg" alt="" /></a>
+												</div>
+											</div>
+											<div class="col-8 col-12-small">
+												<p class="sidebar">Congratulations to <a href="group/wenjun.shtml">Wenjun Xu</a> for submitting his thesis! (June 2021)</p>
+											</div>
+										</div>
+
+										<hr class="sidebar">
+
+										<div class="row">
+											<div class="col-4 col-12-small">
+												<div class="grid">
+													<a href="group/steffen.shtml" class="image sidebar-picture"><img src="images/group/people/steffen.jpg" alt="" /></a>
+												</div>
+											</div>
+											<div class="col-8 col-12-small">
+												<p class="sidebar">Goodbye to <a href="group/steffen.shtml">Steffen Woltering</a> who is starting at Technische Universit&auml;t Dresden. We wish you the best with your future! (June 2021)</p>
+											</div>
+										</div>
+										
+										<hr class="sidebar">
+
+										<div class="row">
+											<div class="col-4 col-12-small">
+												<div class="grid">
+													<a href="group/janko.shtml" class="image sidebar-picture"><img src="images/group/people/janko.jpg" alt="" /></a>
+													<a href="group/stephen.shtml" class="image sidebar-picture"><img src="images/group/people/stephen.jpg" alt="" /></a>
+													<a href="group/paramveer.shtml" class="image sidebar-picture"><img src="images/group/people/paramveer.jpg" alt="" /></a>
+												</div>
+											</div>
+											<div class="col-8 col-12-small">
+												<p class="sidebar">Congratulations and goodbye to <a href="group/janko.shtml">Janko</a>, <a href="group/stephen.shtml">Stephen</a> and <a href="group/paramveer.shtml">Paramveer</a> who have sumbitted their Part II theses. (June 2021)</p>
+											</div>
+										</div>
+										
+										<hr class="sidebar">
+
+										<div class="row">
+											<div class="col-4 col-12-small">
+												<div class="grid">
+													<a href="group/joshua.shtml" class="image sidebar-picture"><img src="images/group/people/joshua.jpg" alt="" /></a>
+												</div>
+											</div>
+											<div class="col-8 col-12-small">
+												<p class="sidebar">Welcome to <a href="group/joshua.shtml">Joshua Field</a> who is joining us for his second CDT rotation. (May 2021)</p>
+											</div>
+										</div>
+										
+										<hr class="sidebar">
+
+										<div class="row">
+											<div class="col-4 col-12-small">
+												<div class="grid">
+													<a href="group/junfu.shtml" class="image sidebar-picture"><img src="images/group/people/junfu.jpg" alt="" /></a>
+												</div>
+											</div>
+											<div class="col-8 col-12-small">
+												<p class="sidebar">Goodbye <a href="group/junfu.shtml">Junfu Tian</a> who is leaving us to continue his CDT rotation. (May 2021)</p>
+											</div>
+										</div>
+
+										<hr class="sidebar">
+
+										<div class="row">
+											<div class="col-4 col-12-small">
+												<div class="grid">
+													<a href="group/junfu.shtml" class="image sidebar-picture"><img src="images/group/people/junfu.jpg" alt="" /></a>
+												</div>
+											</div>
+											<div class="col-8 col-12-small">
+												<p class="sidebar">A warm welcome to <a href="group/junfu.shtml">Junfu Tian</a> who is joining us for one of his CDT rotations. (February 2021)</p>
+											</div>
+										</div>
+
+										<hr class="sidebar">
+										
 									<ul class="actions center">
 										<li><a href="/news.shtml" class="button">More</a></li>
 									</ul>

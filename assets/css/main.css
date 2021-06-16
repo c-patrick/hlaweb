@@ -162,8 +162,14 @@ em, i {
 p {
 	margin: 0 0 2em 0;
 }
+p.nomargin{
+	margin: 0;
+}
 p.pub {
 	margin: 1em 0 0 0;
+}
+p.sidebar {
+	margin: 0 0 1em 0;
 }
 h1, h2, h3, h4, h5, h6 {
 	color: var(--header-color, #3d4449);
@@ -265,7 +271,7 @@ hr.major {
 	margin: 3em 0;
 }
 hr.sidebar {
-	margin: 0 0 2em 0;
+	margin: 0 0 1em 0;
 }
 .align-left {
 	text-align: left;
@@ -3731,4 +3737,62 @@ dark-mode-toggle {
 	margin-right: auto;
 	width: 50%;
 	border: var(--oxlogo-border);
+}
+/* Sidebar CSS grid */
+.grid {
+	display: grid;
+	width: 100%;
+	margin: auto;
+	margin-bottom: 1em;
+  }
+  .sidebar-picture {
+	padding: 2px;
+	margin: auto;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+	width: 100%;
+  }
+  .image.sidebar-picture img {
+	width: 100%;
+}
+/* 1 photo: make the width 100% */
+.sidebar-picture:only-child {
+width: 100%;
+}
+/* 2 photos: limit individual width to 50% */
+.sidebar-picture:first-child:nth-last-child(2),
+.sidebar-picture:first-child:nth-last-child(2) ~ .sidebar-picture {
+    width: 50%;
+}
+/* 3 photo: make the last one take two colums*/
+.sidebar-picture:nth-child(3):nth-last-child(1) {
+ grid-column:span 2;
+ width: 50%;
+}
+/* 4 photo: make the second in the second column */
+.sidebar-picture:nth-child(2):nth-last-child(3) {
+ grid-column:2;
+}
+@media screen and (max-width: 736px) {
+	.grid {
+		max-width: 75%;
+		align-items: center;
+  		justify-items: center;
+	}
+
+	/* Limit width of single pictures */
+	.sidebar-picture:only-child {
+		max-width: 60%;
+	}
+
+	/* 2 or more pictures allowed to span grid */
+	.sidebar-picture:first-child:nth-last-child(2),
+	.sidebar-picture:first-child:nth-last-child(2) ~ .sidebar-picture {
+    	width: 100%;
+	}
+	/* For small screens, second photo goes in next column 2 instead of row 2 */
+	.sidebar-picture:nth-last-child(1) {
+		grid-column: 2;
+	}
 }

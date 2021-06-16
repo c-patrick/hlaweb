@@ -116,7 +116,7 @@
 											</ul>
 											</center>
 										</article>
-										<article>
+										<!--<article>
 											<a href="group/janko.shtml" class="image"><img src="images/group/people/janko.jpg" alt="" /></a>
 										  	<center>
 												<h3>Janko Hergenhahn</h3>
@@ -124,7 +124,7 @@
 												<li><a href="group/janko.shtml" class="button small">view</a></li>
 											</ul>
 											</center>
-										</article>
+										</article>-->
 										<article>
 											<a href="group/tom.shtml" class="image"><img src="images/group/people/tom.jpg" alt="" /></a>
 										  	<center>
@@ -144,15 +144,6 @@
 											</center>
 										</article>
 										<article>
-											<a href="group/paramveer.shtml" class="image"><img src="images/group/people/paramveer.jpg" alt="" /></a>
-										  	<center>
-												<h3>Paramveer Kumar</h3>
-											<ul class="actions center">
-												<li><a href="group/paramveer.shtml" class="button small">view</a></li>
-											</ul>
-											</center>
-										</article>
-										<article>
 											<a href="group/kate.shtml" class="image"><img src="images/group/people/kate.jpg" alt="" /></a>
 										  	<center>
 												<h3>Kathryn Leslie</h3>
@@ -167,15 +158,6 @@
 												<h3>Marcin Majewski</h3>
 											<ul class="actions center">
 												<li><a href="group/marcin.shtml" class="button small">view</a></li>
-											</ul>
-											</center>
-										</article>
-										<article>
-											<a href="group/stephen.shtml" class="image"><img src="images/group/people/stephen.jpg" alt="" /></a>
-										  	<center>
-												<h3>Stephen Marriott</h3>
-											<ul class="actions center">
-												<li><a href="group/stephen.shtml" class="button small">view</a></li>
 											</ul>
 											</center>
 										</article>
@@ -212,15 +194,6 @@
 												<h3>Wojtek Stawski</h3>
 											<ul class="actions center">
 												<li><a href="group/wojtek.shtml" class="button small">view</a></li>
-											</ul>
-											</center>
-										</article>
-										<article>
-											<a href="group/steffen.shtml" class="image"><img src="images/group/people/steffen.jpg" alt="" /></a>
-										  	<center>
-												<h3>Steffen Woltering</h3>
-											<ul class="actions center">
-												<li><a href="group/steffen.shtml" class="button small">view</a></li>
 											</ul>
 											</center>
 										</article>

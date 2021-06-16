@@ -158,6 +158,28 @@
 											</tr>
 										</thead>
 										<tbody>
+											<!-- EXAMPLE ENTRY -->
+											<!--<tr>
+												<td class="break"><a href="group/XXXX.shtml">XXXX</a></td>
+												<td>XXXX</td>
+												<td>XXXX.</td>
+											</tr>-->
+
+											<tr>
+												<td class="break"><a href="group/steffen.shtml">Steffen Woltering</a></td>
+												<td>PDRA (2017-2021)</td>
+												<td>Scientific Staff at Technische Universit&auml;t Dresden.</td>
+											</tr>
+											<tr>
+												<td class="break"><a href="group/stephen.shtml">Stephen Marriott</a></td>
+												<td>Part II student (2020-2021)</td>
+												<!--<td>XXXX.</td>-->
+											</tr>
+											<tr>
+												<td class="break"><a href="group/paramveer.shtml">Paramveer Kumar</a></td>
+												<td>Part II student (2020-2021)</td>
+												<!--<td>XXXX.</td>-->
+											</tr>
 											<tr>
 												<td class="break"><a href="group/pernille.shtml">Pernille S. Bols</a></td>
 												<td>DPhil student (2017-2020)</td>
@@ -226,7 +248,7 @@
 											<tr>
 												<td class="break">Isabell Gruebner</td>
 												<td>DPhil student (2015-2019)</td>
-												<td>Data Scientist at Beamly in London, UK.</td>
+												<td>Data Scientist at AstraZeneca, UK.</td>
 											</tr>
 											<tr>
 												<td class="break">Michel Rickhaus</td>
