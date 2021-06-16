@@ -33,14 +33,14 @@
 									
 									<nav id="old_news">
 										<ul>
-											<li> <span class="opener active">2020</span>
-											  	<ul>
-													<table>	
+														<!-- EXAMPLE ENTRY -->
 														<!-- <tr class="old_news">
 															<td class="date">XXXX</td>
 															<td>XXXX</td>
-														</tr> -->		
-
+														</tr> -->
+											<li> <span class="opener active">2021</span>
+												<ul>
+												  	<table>	
 														<tr class="old_news">
 															<td class="date">January 2021</td>
 															<td>Congratulations to <a href="group/lorel.shtml">Lorel Scriven</a> for defending her thesis and leaving to join the Civil Service</td>
@@ -49,6 +49,12 @@
 															<td class="date">January 2021</td>
 															<td>Welcome to <a href="group/yueze.shtml">Yueze Gao</a>, joining us as a PostDoc</td>
 														</tr>
+													</table>
+												</ul>
+											</li>
+											<li> <span class="opener">2020</span>
+											  	<ul>
+													<table>	
 														<tr class="old_news">
 															<td class="date">December 2020</td>
 															<td>Goodbye to <a href="group/michael.shtml">Michael Jir&aacute;sek</a>, starting a PDRA position in the <a href="https://wennemers.ethz.ch/">Helma Wennemers group</a></td>	
