@@ -9,8 +9,7 @@
 
 
 :root {
-	color-scheme: dark light;
-	supported-color-schemes: dark light;
+	color-scheme: normal;
 	--duration: 0.5s;
 	--timing: ease;  
   }
