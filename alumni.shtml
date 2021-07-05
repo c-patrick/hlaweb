@@ -159,11 +159,13 @@
 										</thead>
 										<tbody>
 											<!-- EXAMPLE ENTRY -->
-											<!--<tr>
+											<!--
+											<tr>
 												<td class="break"><a href="group/XXXX.shtml">XXXX</a></td>
 												<td>XXXX</td>
 												<td>XXXX.</td>
-											</tr>-->
+											</tr>
+											-->
 
 											<tr>
 												<td class="break"><a href="group/steffen.shtml">Steffen Woltering</a></td>
@@ -173,12 +175,17 @@
 											<tr>
 												<td class="break"><a href="group/stephen.shtml">Stephen Marriott</a></td>
 												<td>Part II student (2020-2021)</td>
-												<!--<td>XXXX.</td>-->
+												<td></td>
 											</tr>
 											<tr>
 												<td class="break"><a href="group/paramveer.shtml">Paramveer Kumar</a></td>
 												<td>Part II student (2020-2021)</td>
-												<!--<td>XXXX.</td>-->
+												<td></td>
+											</tr>
+											<tr>
+												<td class="break"><a href="group/lorel.shtml">Lorel Scriven</a></td>
+												<td>DPhil student (2017-2020)</td>
+												<td>Policy adviser on science, research and innovation in the Civil Service.</td>
 											</tr>
 											<tr>
 												<td class="break"><a href="group/pernille.shtml">Pernille S. Bols</a></td>
