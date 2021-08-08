@@ -115,6 +115,17 @@
 										</article>
 										-->
 										<article>
+											<a href="https://doi.org/10.1021/acs.accounts.1c00323" class="image front"><img class="lazyload" data-src="images/abstracts/327.jpg" alt="" /></a>
+											<h3>From Macrocycles to Quantum Rings: Does Aromaticity Have a Size Limit?</h3>
+											<p><refdata class="authors">M. Jir&aacute;sek, H. L. Anderson and M. D. Peeks.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/journal/achre4">Acc. Chem. Res.</a></refdata>,
+												<refdata class="year">2021</refdata>,
+												<!--<refdata class="vol">XXXX</refdata>,-->
+												<refdata class="page">DOI: <a href="https://doi.org/10.1021/acs.accounts.1c00323">10.1021/acs.accounts.1c00323</a></refdata>
+											</p>
+										</article>
+										<article>
 											<a href="https://doi.org/10.1039/D1SC03050G" class="image front"><img class="lazyload" data-src="images/abstracts/326.jpg" alt="" /></a>
 											<h3>Charge transport through extended molecular wires with strongly correlated electrons</h3>
 											<p><refdata class="authors">J. O. Thomas, J. K. Sowa, B. Limburg, X. Bian, C. Evangeli, J. L. Swett, S. Tewari, J. Baugh, G. C. Schatz, G. A. D. Briggs, H. L. Anderson and J. A. Mol.</refdata></p>
@@ -189,17 +200,6 @@
 												<refdata class="year">2021</refdata>,
 												<refdata class="vol">6</refdata>,
 												<refdata class="page"><a href="https://doi.org/10.1039/D0NH00415D">49-58</a></refdata>
-											</p>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1103/PhysRevLett.125.206803" class="image front"><img class="lazyload" data-src="images/abstracts/319.jpg" alt="" /></a>
-											<h3>Molecular Quantum Rings Formed from a &pi;-Conjugated Macrocycle</h3>
-											<p><refdata class="authors">C. J. Judd, A. S. Nizovtsev, R. Plougmann, D. V. Kondratuk, H. L. Anderson, E. Besley and A. Saywell.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="http://journals.aps.org/prl/">Phys. Rev. Lett.</a></refdata>,
-												<refdata class="year">2020</refdata>,
-												<refdata class="vol">215</refdata>,
-												<refdata class="page"><a href="https://doi.org/10.1103/PhysRevLett.125.206803">206803</a></refdata>
 											</p>
 										</article>
 									</div>
