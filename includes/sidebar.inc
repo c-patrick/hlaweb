@@ -166,7 +166,7 @@
 									<ul class="contact">
 										<li class="icon solid fa-envelope"><a href="mailto:harry.anderson@chem.ox.ac.uk">harry.anderson@chem.ox.ac.uk</a></li>
 										<li class="icon solid fa-phone">+44 (0)1865 2 75704 </li>
-										<li class="icon solid fa-home">
+										<li class="icon solid fa-flask">
 											Department of Chemistry<br />
 											University of Oxford<br />
 											Chemistry Research Laboratory<br />
