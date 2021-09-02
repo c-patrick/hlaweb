@@ -121,8 +121,8 @@
 											<p>
 												<refdata class="journal"><a href="https://pubs.acs.org/journal/achre4">Acc. Chem. Res.</a></refdata>,
 												<refdata class="year">2021</refdata>,
-												<!--<refdata class="vol">XXXX</refdata>,-->
-												<refdata class="page">DOI: <a href="https://doi.org/10.1021/acs.accounts.1c00323">10.1021/acs.accounts.1c00323</a></refdata>
+												<refdata class="vol">54</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1021/acs.accounts.1c00323">3241-3251</a></refdata>
 											</p>
 										</article>
 										<article>
@@ -132,8 +132,8 @@
 											<p>
 												<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
 												<refdata class="year">2021</refdata>,
-												<!-- <refdata class="vol">XXXX</refdata>, -->
-												<refdata class="page">DOI: <a href="https://doi.org/10.1039/D1SC03050G">10.1039/D1SC03050G</a></refdata>
+												<refdata class="vol">12</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1039/D1SC03050G">11121-11129</a></refdata>
 											</p>
 										</article>
 										<article>
