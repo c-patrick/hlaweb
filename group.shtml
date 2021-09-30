@@ -116,6 +116,15 @@
 											</ul>
 											</center>
 										</article>
+										<article>
+											<a href="group/prakhar.shtml" class="image"><img src="images/group/people/prakhar.jpg" alt="" /></a>
+										  	<center>
+												<h3>Prakhar Gupta</h3>
+											<ul class="actions center">
+												<li><a href="group/prakhar.shtml" class="button small">view</a></li>
+											</ul>
+											</center>
+										</article>
 										<!--<article>
 											<a href="group/janko.shtml" class="image"><img src="images/group/people/janko.jpg" alt="" /></a>
 										  	<center>
@@ -125,6 +134,15 @@
 											</ul>
 											</center>
 										</article>-->
+										<article>
+											<a href="group/jake.shtml" class="image"><img src="images/group/people/jake.jpg" alt="" /></a>
+										  	<center>
+												<h3>Jake Holmes</h3>
+											<ul class="actions center">
+												<li><a href="group/jake.shtml" class="button small">view</a></li>
+											</ul>
+											</center>
+										</article>
 										<article>
 											<a href="group/tom.shtml" class="image"><img src="images/group/people/tom.jpg" alt="" /></a>
 										  	<center>
@@ -198,20 +216,20 @@
 											</center>
 										</article>
 										<article>
+											<a href="group/thea.shtml" class="image"><img src="images/group/people/thea.jpg" alt="" /></a>
+										  	<center>
+												<h3>Th&eacute;a Toutoungy</h3>
+											<ul class="actions center">
+												<li><a href="group/thea.shtml" class="button small">view</a></li>
+											</ul>
+											</center>
+										</article>
+										<article>
 											<a href="group/virginia.shtml" class="image"><img src="images/group/people/virginia.jpg" alt="" /></a>
 										  	<center>
 												<h3>Virginia Wycisk</h3>
 											<ul class="actions center">
 												<li><a href="group/virginia.shtml" class="button small">view</a></li>
-											</ul>
-											</center>
-										</article>
-										<article>
-											<a href="group/wenjun.shtml" class="image"><img src="images/group/people/wenjun.jpg" alt="" /></a>
-										  	<center>
-												<h3>Wenjun Xu</h3>
-											<ul class="actions center">
-												<li><a href="group/wenjun.shtml" class="button small">view</a></li>
 											</ul>
 											</center>
 										</article>

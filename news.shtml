@@ -40,7 +40,19 @@
 														</tr> -->
 											<li> <span class="opener active">2021</span>
 												<ul>
-												  	<table>	
+												  	<table>
+														<tr class="old_news">
+															<td class="date">May 2021</td>
+															<td>Welcome to <a href="group/joshua.shtml">Joshua Field</a> who is joining us for his second CDT rotation.</td>
+														</tr>
+														<tr class="old_news">
+															<td class="date">May 2021</td>
+															<td>Goodbye <a href="group/junfu.shtml">Junfu Tian</a> who is leaving us to continue his CDT rotation.</td>
+														</tr>
+														<tr class="old_news">
+															<td class="date">February 2021</td>
+															<td>A warm welcome to <a href="group/junfu.shtml">Junfu Tian</a> who is joining us for one of his CDT rotations.</td>
+														</tr>
 														<tr class="old_news">
 															<td class="date">January 2021</td>
 															<td>Congratulations to <a href="group/lorel.shtml">Lorel Scriven</a> for defending her thesis and leaving to join the Civil Service</td>

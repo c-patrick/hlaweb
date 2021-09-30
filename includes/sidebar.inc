@@ -71,86 +71,87 @@
 									<header class="major">
 									  <h2>Recent News</h2>
 									</header>
+
+									<div class="row">
+										<div class="col-4 col-12-small">
+											<div class="grid">
+												<a href="group/wenjun.shtml" class="image sidebar-picture"><img src="images/group/people/wenjun.jpg" alt="" /></a>
+											</div>
+										</div>
+										<div class="col-8 col-12-small">
+											<p class="sidebar">Goodbye <a href="group/wenjun.shtml">Wenjun</a>, we wish you the best for your future! (September 2021)</p>
+										</div>
+									</div>
+
+									<hr class="sidebar">
+
+									<div class="row">
+										<div class="col-4 col-12-small">
+											<div class="grid">
+												<a href="group/jake.shtml" class="image sidebar-picture"><img src="images/group/people/jake.jpg" alt="" /></a>
+												<a href="group/prakhar.shtml" class="image sidebar-picture"><img src="images/group/people/prakhar.jpg" alt="" /></a>
+											</div>
+										</div>
+										<div class="col-8 col-12-small">
+											<p class="sidebar">Welcome to our two new DPhil students, <a href="group/jake.shtml">Jake Holmes</a> and <a href="group/prakhar.shtml">Prakhar Gupta</a>! (September 2021)</p>
+										</div>
+									</div>
+								
+									<hr class="sidebar">
+								
+									<div class="row">
+										<div class="col-4 col-12-small">
+											<div class="grid">
+												<a href="group/thea.shtml" class="image sidebar-picture"><img src="images/group/people/thea.jpg" alt="" /></a>
+											</div>
+										</div>
+										<div class="col-8 col-12-small">
+											<p class="sidebar">A warm welcome to <a href="group/thea.shtml">Th&eacute;a Toutoungy</a>, who is joining us for her Part II. (September 2021)</p>
+										</div>
+									</div>
+								
+									<hr class="sidebar">
+								
+									<div class="row">
+										<div class="col-4 col-12-small">
+											<div class="grid">
+												<a href="group/wenjun.shtml" class="image sidebar-picture"><img src="images/group/people/wenjun.jpg" alt="" /></a>
+											</div>
+										</div>
+										<div class="col-8 col-12-small">
+											<p class="sidebar">Congratulations to <a href="group/wenjun.shtml">Wenjun Xu</a> for submitting his thesis! (June 2021)</p>
+										</div>
+									</div>
+								
+									<hr class="sidebar">
+								
+									<div class="row">
+										<div class="col-4 col-12-small">
+											<div class="grid">
+												<a href="group/steffen.shtml" class="image sidebar-picture"><img src="images/group/people/steffen.jpg" alt="" /></a>
+											</div>
+										</div>
+										<div class="col-8 col-12-small">
+											<p class="sidebar">Goodbye to <a href="group/steffen.shtml">Steffen Woltering</a> who is starting at Technische Universit&auml;t Dresden. We wish you the best with your future! (June 2021)</p>
+										</div>
+									</div>
 									
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<div class="grid">
-													<a href="group/wenjun.shtml" class="image sidebar-picture"><img src="images/group/people/wenjun.jpg" alt="" /></a>
-												</div>
-											</div>
-											<div class="col-8 col-12-small">
-												<p class="sidebar">Congratulations to <a href="group/wenjun.shtml">Wenjun Xu</a> for submitting his thesis! (June 2021)</p>
-											</div>
-										</div>
-
-										<hr class="sidebar">
-
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<div class="grid">
-													<a href="group/steffen.shtml" class="image sidebar-picture"><img src="images/group/people/steffen.jpg" alt="" /></a>
-												</div>
-											</div>
-											<div class="col-8 col-12-small">
-												<p class="sidebar">Goodbye to <a href="group/steffen.shtml">Steffen Woltering</a> who is starting at Technische Universit&auml;t Dresden. We wish you the best with your future! (June 2021)</p>
+									<hr class="sidebar">
+								
+									<div class="row">
+										<div class="col-4 col-12-small">
+											<div class="grid">
+												<a href="group/janko.shtml" class="image sidebar-picture"><img src="images/group/people/janko.jpg" alt="" /></a>
+												<a href="group/stephen.shtml" class="image sidebar-picture"><img src="images/group/people/stephen.jpg" alt="" /></a>
+												<a href="group/paramveer.shtml" class="image sidebar-picture"><img src="images/group/people/paramveer.jpg" alt="" /></a>
 											</div>
 										</div>
-										
-										<hr class="sidebar">
-
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<div class="grid">
-													<a href="group/janko.shtml" class="image sidebar-picture"><img src="images/group/people/janko.jpg" alt="" /></a>
-													<a href="group/stephen.shtml" class="image sidebar-picture"><img src="images/group/people/stephen.jpg" alt="" /></a>
-													<a href="group/paramveer.shtml" class="image sidebar-picture"><img src="images/group/people/paramveer.jpg" alt="" /></a>
-												</div>
-											</div>
-											<div class="col-8 col-12-small">
-												<p class="sidebar">Congratulations and goodbye to <a href="group/janko.shtml">Janko</a>, <a href="group/stephen.shtml">Stephen</a> and <a href="group/paramveer.shtml">Paramveer</a> who have sumbitted their Part II theses. (June 2021)</p>
-											</div>
+										<div class="col-8 col-12-small">
+											<p class="sidebar">Congratulations and goodbye to <a href="group/janko.shtml">Janko</a>, <a href="group/stephen.shtml">Stephen</a> and <a href="group/paramveer.shtml">Paramveer</a> who have sumbitted their Part II theses. (June 2021)</p>
 										</div>
-										
-										<hr class="sidebar">
-
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<div class="grid">
-													<a href="group/joshua.shtml" class="image sidebar-picture"><img src="images/group/people/joshua.jpg" alt="" /></a>
-												</div>
-											</div>
-											<div class="col-8 col-12-small">
-												<p class="sidebar">Welcome to <a href="group/joshua.shtml">Joshua Field</a> who is joining us for his second CDT rotation. (May 2021)</p>
-											</div>
-										</div>
-										
-										<hr class="sidebar">
-
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<div class="grid">
-													<a href="group/junfu.shtml" class="image sidebar-picture"><img src="images/group/people/junfu.jpg" alt="" /></a>
-												</div>
-											</div>
-											<div class="col-8 col-12-small">
-												<p class="sidebar">Goodbye <a href="group/junfu.shtml">Junfu Tian</a> who is leaving us to continue his CDT rotation. (May 2021)</p>
-											</div>
-										</div>
-
-										<hr class="sidebar">
-
-										<div class="row">
-											<div class="col-4 col-12-small">
-												<div class="grid">
-													<a href="group/junfu.shtml" class="image sidebar-picture"><img src="images/group/people/junfu.jpg" alt="" /></a>
-												</div>
-											</div>
-											<div class="col-8 col-12-small">
-												<p class="sidebar">A warm welcome to <a href="group/junfu.shtml">Junfu Tian</a> who is joining us for one of his CDT rotations. (February 2021)</p>
-											</div>
-										</div>
-
-										<hr class="sidebar">
+									</div>
+									
+									<hr class="sidebar">
 										
 									<ul class="actions center">
 										<li><a href="/news.shtml" class="button">More</a></li>
