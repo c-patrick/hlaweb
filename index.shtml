@@ -115,6 +115,17 @@
 										</article>
 										-->
 										<article>
+											<a href="https://doi.org/10.1038/s41598-021-99881-x" class="image front"><img class="lazyload" data-src="images/abstracts/328.jpg" alt="" /></a>
+											<h3>Self-assembly of a strapped linear porphyrin oligomer on HOPG</h3>
+												<p><refdata class="authors">A. Bellamy-Carter, C. Roche, H. L. Anderson, A. Saywell.</refdata></p>
+											<p>
+													<refdata class="journal"><a href="https://www.nature.com/srep/">Sci. Rep.</a></refdata>,
+													<refdata class="year">2021</refdata>,
+													<refdata class="vol">11</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1038/s41598-021-99881-x">20388</a></refdata>
+												</p>
+										</article>
+										<article>
 											<a href="https://doi.org/10.1021/acs.accounts.1c00323" class="image front"><img class="lazyload" data-src="images/abstracts/327.jpg" alt="" /></a>
 											<h3>From Macrocycles to Quantum Rings: Does Aromaticity Have a Size Limit?</h3>
 											<p><refdata class="authors">M. Jir&aacute;sek, H. L. Anderson and M. D. Peeks.</refdata></p>
@@ -167,39 +178,6 @@
 												<refdata class="year">2021</refdata>,
 												<refdata class="vol">10</refdata>,
 												<refdata class="page"><a href="https://doi.org/10.1038/s41377-020-00456-8">18</a></refdata>
-											</p>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1039/D0SC06097F" class="image front"><img class="lazyload" data-src="images/abstracts/322.jpg" alt="" /></a>
-											<h3>Cooperative assembly of H-bonded rosettes inside a porphyrin nanoring</h3>
-											<p><refdata class="authors">P. Motloch, P. S. Bols, H. L. Anderson and C. A. Hunter.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
-												<refdata class="year">2021</refdata>,
-												<refdata class="vol">12</refdata>,
-												<refdata class="page"><a href="https://doi.org/10.1039/D0SC06097F">1427-1432</a></refdata>
-											</p>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1002/anie.202013623" class="image front"><img class="lazyload" data-src="images/abstracts/321.jpg" alt="" /></a>
-											<h3>Masked Alkyne Equivalents for the Synthesis of Mechanically Interlocked Polyynes</h3>
-											<p><refdata class="authors">P. Gawel, S. Woltering, Y. Xiong, K. Christensen and H. L. Anderson.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3773">Angew. Chem. Int. Ed.</a></refdata>,
-												<refdata class="year">2021</refdata>,
-												<refdata class="vol">60</refdata>,
-												<refdata class="page"><a href="https://doi.org/10.1002/anie.202013623">5941-5947</a></refdata>
-											</p>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1039/D0NH00415D" class="image front"><img class="lazyload" data-src="images/abstracts/320.jpg" alt="" /></a>
-											<h3>Long-lived charged states of single porphyrin-tape junctions under ambient conditions</h3>
-											<p><refdata class="authors">E. Leary, G. Kastlunger, B. Limburg, L. Rinc&oacute;n-Garc&iacute;a, J. Hurtado-Gallego, M. T. Gonz&aacute;lez, G. R. Bollinger, N. Agrait, S. J. Higgins, H. L. Anderson, R. Stadler and R. J. Nichols.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journal/nh">Nanoscale Horiz.</a></refdata>,
-												<refdata class="year">2021</refdata>,
-												<refdata class="vol">6</refdata>,
-												<refdata class="page"><a href="https://doi.org/10.1039/D0NH00415D">49-58</a></refdata>
 											</p>
 										</article>
 									</div>

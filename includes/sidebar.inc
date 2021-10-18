@@ -98,6 +98,19 @@
 									</div>
 								
 									<hr class="sidebar">
+
+									<div class="row">
+										<div class="col-4 col-12-small">
+											<div class="grid">
+												<a href="group/thea.shtml" class="image sidebar-picture"><img src="images/group/people/janko.jpg" alt="" /></a>
+											</div>
+										</div>
+										<div class="col-8 col-12-small">
+											<p class="sidebar">Welcome back to <a href="group/janko.shtml">Janko</a>, who is joining us for his DPhil. (September 2021)</p>
+										</div>
+									</div>
+								
+									<hr class="sidebar">
 								
 									<div class="row">
 										<div class="col-4 col-12-small">
@@ -133,21 +146,6 @@
 										</div>
 										<div class="col-8 col-12-small">
 											<p class="sidebar">Goodbye to <a href="group/steffen.shtml">Steffen Woltering</a> who is starting at Technische Universit&auml;t Dresden. We wish you the best with your future! (June 2021)</p>
-										</div>
-									</div>
-									
-									<hr class="sidebar">
-								
-									<div class="row">
-										<div class="col-4 col-12-small">
-											<div class="grid">
-												<a href="group/janko.shtml" class="image sidebar-picture"><img src="images/group/people/janko.jpg" alt="" /></a>
-												<a href="group/stephen.shtml" class="image sidebar-picture"><img src="images/group/people/stephen.jpg" alt="" /></a>
-												<a href="group/paramveer.shtml" class="image sidebar-picture"><img src="images/group/people/paramveer.jpg" alt="" /></a>
-											</div>
-										</div>
-										<div class="col-8 col-12-small">
-											<p class="sidebar">Congratulations and goodbye to <a href="group/janko.shtml">Janko</a>, <a href="group/stephen.shtml">Stephen</a> and <a href="group/paramveer.shtml">Paramveer</a> who have sumbitted their Part II theses. (June 2021)</p>
 										</div>
 									</div>
 									

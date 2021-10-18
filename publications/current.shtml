@@ -71,6 +71,24 @@
 									-->
 									<div class="row ref">
 										<div class="col-1 col-12-small">
+											<h4 class="refdatanum">328</h4>
+										</div>
+										<div class="col-9 col-12-small">
+											<h3>Self-assembly of a strapped linear porphyrin oligomer on HOPG</h3>
+											<p><refdata class="authors">A. Bellamy-Carter, C. Roche, H. L. Anderson, A. Saywell.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://www.nature.com/srep/">Sci. Rep.</a></refdata>,
+												<refdata class="year">2021</refdata>,
+												<refdata class="vol">11</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1038/s41598-021-99881-x">20388</a></refdata>
+											</p>
+										</div>
+										<div class="col-2 col-12-small">
+											<span class="image pub"><img class="lazyload" data-src="images/abstracts/328.jpg" alt="" /></span>
+										</div>
+									</div>
+									<div class="row ref">
+										<div class="col-1 col-12-small">
 											<h4 class="refdatanum">327</h4>
 										</div>
 										<div class="col-9 col-12-small">
