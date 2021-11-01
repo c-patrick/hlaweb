@@ -34,7 +34,7 @@
 										<h2>Contact the Group</h2>
 									</header>
 
-									<p class="nolink">If you are planning to visit us, then you can find directions <a href="directions.shtml"><b>here</a></b>.</p>
+									<p>If you are planning to visit us, then you can find directions <a href="directions.shtml"><b>here</a></b>.</p>
 										
 									<p>You can contact <a href="group/harry.shtml">Prof. Harry Anderson</a> as follows:</p>
 									
@@ -65,17 +65,17 @@
 										<h2>Find us</h2>
 									</header>
 									
-									<p class="nolink">
+									<p>
 										If you are planning to visit us in the <a class="one" href="http://www.chem.ox.ac.uk/crl/" ><b>Chemistry Research Laboratory</b></a>, here in Oxford, then just pick one of the links below to go to a handy map appropriate for you. The Chemistry Research Laboratory (CRL) is located on South Parks Road, adjacent to Mansfield road, in central Oxford.
 									</p>
 									
 									<h3>By car</h3>
-									<p class="nolink">
-										If you are arriving by car there are poor parking facilities in central Oxford but you can park at one of the <a class="one" href="http://www.parkandride.net/oxford/html/oxford_frameset.html" ><b>Park and Ride</b></a> car parks and catch one of the frequent buses into the centre.
+									<p>
+										If you are arriving by car there are poor parking facilities in central Oxford but you can park at one of the <a href="http://www.parkandride.net/oxford/html/oxford_frameset.html" ><b>Park and Ride</b></a> car parks and catch one of the frequent buses into the centre.
 									</p>
 									
 									<h3>By train</h3>
-									<p class="nolink">
+									<p>
 										Oxford is connected by regular trains to other major cities. To find out train times, please visit <a href="http://www.nationalrail.co.uk/" target="_blank"><b>The National Rail Website</b></a>. From the station you can walk (using the map below), which takes approximately 15 minutes.
 									</p>
 									
@@ -188,20 +188,20 @@
 										});
 									</script>
 									
-									<p class="nolink">Alternatively, you can take a taxi, which depart from just outside the station. There are currently no convienient local bus services which serve the science area.</p>
+									<p>Alternatively, you can take a taxi, which depart from just outside the station. There are currently no convienient local bus services which serve the science area.</p>
 									
 									<h3>By bus</h3>
-									<p class="nolink">
+									<p>
 										Oxford can be reached by cross-country bus services run by <a href="http://www.nationalexpress.com/home.aspx" target="_blank"><b>National Express</b></a>. From the centre of London, the <a href="http://www.oxfordtube.com/" target="_blank"><b>Oxford tube</b></a> and <a href="http://www.oxfordbus.co.uk/main.php?page_id=27" target="_blank"><b>Oxford Bus Company</b></a> run regular services to Oxford departing from Baker Street, Marble Arch and Victoria.
 									</p>
 									
 									<h3>By air</h3>
-									<p class="nolink">
+									<p>
 										The nearest airports to Oxford are the London airports, or Birmingham International. The Oxford Bus Company runs direct buses between <a href="http://www.oxfordbus.co.uk/main.php?page_id=24" target="_blank"><b>Heathrow</b></a> and <a href="http://www.oxfordbus.co.uk/main.php?page_id=25" target="_blank"><b>Gatwick</b></a>.
 									</p>
 									
 									<h3>Useful Links</h3>
-									<p class="nolink">
+									<p>
 										<b><a href="http://www.chem.ox.ac.uk/maps.html" target="_blank">The University's own interactive map of Oxford </a><br>
 									<a href="http://www.dailyinfo.co.uk/sheet/maps/map.htm" target="_blank">Daily Info maps of Oxford </a></b></p>
 									

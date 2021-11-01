@@ -8,10 +8,10 @@
 	<head>
 		<title>Anderson Research Group | University of Oxford</title>
 		<meta name="keywords" content="porphyrin, rotaxanes, PDT, photodynamic therapy, molecular wires, molecular machines, supramolecular chemistry, encapsulation, dyes, photophysics" />
+		<meta name="description" content="Group vacancy listings and information for prospective applicants.">
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--#include virtual="/includes/base.inc" -->
-		<!--#include virtual="/includes/head_theme.inc" -->
+		<!--#include virtual="includes/head_theme.inc" -->
 	</head>
 	<body class="is-preload">
 
@@ -22,33 +22,46 @@
 					<div id="main">
 						<div class="inner">
 							<!-- Header -->
-								<!--#include virtual="/includes/header.inc" -->
+								<!--#include virtual="includes/header.inc" -->
 
 
 							<!-- Content -->
-								<section>
-									<header class="name-center">
-									  <h2>Prof. Harry L. Anderson</h2>
-									</header>
-
-									<span class="image profile"><img src="/images/group/people/harry3.jpg" alt="" /></span>
-
-									<h3>Professor, Group Leader and Professorial Fellow at Keble College</h3><br>
-
-									<p>
-										<b>First Degree:</b> University of Oxford 1983-1987. I was an undergraduate at <a class="one" href="http://www.chch.ox.ac.uk" >Christ Church.</a><br_profile>
-										<b>PhD:</b> University of Cambridge 1987-1990. I worked with <a class="one" href="http://www.ch.cam.ac.uk/staff/jkms.html" >Jeremy Sanders.</a><br_profile>
-										<b>Postdoc:</b> ETH Z&#252;rich, with <a class="one" href="http://www.diederich.chem.ethz.ch/">Fran&ccedil;ois Diederich.</a><br_profile>
-										<b>E-mail:</b> <a class="one" href="mailto:harry.anderson@chem.ox.ac.uk">harry.anderson@chem.ox.ac.uk</a><br_profile>
-										<b>Telephone:</b> +44 (0)1865 2 75704<br_profile>
-										<b>Other Interests:</b> Walking and painting.<br_profile>
-										<b>CV:</b> <a class="one" href="assets/files/hla_cv.pdf">pdf format</a>
-									</p>
-							</section>
 							<section>
 								<header class="major">
-									<h2>Links to research lectures</h2>
-								</header>	
+									<h2>Video Talks</h2>
+								</header>
+								<header class="major">
+									<h3>Open Day videos</h3>
+								</header>
+								<div class="row ptb2 talks">
+									<div class="col-4 col-12-small pb1">
+										<h3>OxICFM Open Day</h3>
+										<b><div class="date">2021</div></b>
+								  	</div>
+								  	<div class="col-8 col-12-small">
+										<iframe height="400" width="100%"
+											src="https://www.youtube.com/embed/hDngqzq1saI">
+									  	</iframe> 
+								  	</div>
+								</div>	
+								<hr>	
+								<div class="row ptb2 talks">
+									<div class="col-4 col-12-small pb1">
+										<h3>Graduate Open Day</h3>
+										<b><div class="date">2020</div></b>
+								  	</div>
+									<div class="col-8 col-12-small">
+										<iframe height="400" width="100%"
+											src="https://www.youtube.com/embed/D5-zCJVXMak">
+										</iframe> 
+								  	</div>
+								</div>
+							</section>	
+							
+							<section>
+								<header class="major">
+									<h3>Research Lectures</h3>
+								</header>
 								<div class="row ptb2 talks">
 									<div class="col-4 col-12-small pb1">
 										<h3>Chemical & Physical Society, UCL, London</h3>
@@ -72,7 +85,8 @@
 										</iframe> 
 								  	</div>
 								</div>
-							</section>
+							</section>	
+
 						</div>
 					</div>
 

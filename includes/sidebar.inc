@@ -42,6 +42,7 @@
 												<li><a href="https://www.chem.ox.ac.uk">Oxford Chemistry</a></li>
 											</ul>
 										</li>
+										<li><a href="/talks.shtml">Video Talks</a></li>
 										<li><a href="/vacancies.shtml">Join Us</a></li>
 										<li><a href="/contact.shtml">Find Us</a></li>
 										<li><a href="/collaborators.shtml">Our Collaborators</a></li>
@@ -71,6 +72,19 @@
 									<header class="major">
 									  <h2>Recent News</h2>
 									</header>
+
+									<div class="row">
+										<div class="col-4 col-12-small">
+											<div class="grid">
+												<a href="group/virginia.shtml" class="image sidebar-picture"><img src="images/group/people/virginia.jpg" alt="" /></a>
+											</div>
+										</div>
+										<div class="col-8 col-12-small">
+											<p class="sidebar">Goodbye <a href="group/virginia.shtml">Virginia Wycisk</a>, who is returning to Germany. (October 2021)</p>
+										</div>
+									</div>
+
+									<hr class="sidebar">
 
 									<div class="row">
 										<div class="col-4 col-12-small">
@@ -136,19 +150,6 @@
 										</div>
 									</div>
 								
-									<hr class="sidebar">
-								
-									<div class="row">
-										<div class="col-4 col-12-small">
-											<div class="grid">
-												<a href="group/steffen.shtml" class="image sidebar-picture"><img src="images/group/people/steffen.jpg" alt="" /></a>
-											</div>
-										</div>
-										<div class="col-8 col-12-small">
-											<p class="sidebar">Goodbye to <a href="group/steffen.shtml">Steffen Woltering</a> who is starting at Technische Universit&auml;t Dresden. We wish you the best with your future! (June 2021)</p>
-										</div>
-									</div>
-									
 									<hr class="sidebar">
 										
 									<ul class="actions center">

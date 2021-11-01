@@ -33,14 +33,18 @@
 									
 									<nav id="old_news">
 										<ul>
-														<!-- EXAMPLE ENTRY -->
-														<!-- <tr class="old_news">
-															<td class="date">XXXX</td>
-															<td>XXXX</td>
-														</tr> -->
 											<li> <span class="opener active">2021</span>
 												<ul>
 												  	<table>
+													<!-- EXAMPLE ENTRY -->
+													<!-- <tr class="old_news">
+														<td class="date">XXXX</td>
+														<td>XXXX</td>
+													</tr> -->
+														<tr class="old_news">
+															<td class="date">June 2021</td>
+															<td>Goodbye to <a href="group/steffen.shtml">Steffen Woltering</a> who is starting at Technische Universit&auml;t Dresden. We wish you the best with your future!</td>
+														</tr>
 														<tr class="old_news">
 															<td class="date">June 2021</td>
 															<td>Congratulations and goodbye to <a href="group/janko.shtml">Janko</a>, <a href="group/stephen.shtml">Stephen</a> and <a href="group/paramveer.shtml">Paramveer</a> who have sumbitted their Part II theses!</td>

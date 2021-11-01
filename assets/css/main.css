@@ -1208,6 +1208,9 @@ hr.sidebar {
 .row.gtr-200.gtr-uniform > * {
 	padding-top: 3em;
 }
+.row.talks {
+	text-align: center;
+}
 }
 
 @media screen and (max-width: 480px) {
@@ -2802,6 +2805,9 @@ body.is-preload #sidebar {
 	top: 1em;
 	width: 5em;
 }
+#sidebar .sidebar {
+	text-align: center;
+}
 }
 /* Header */
 #header {
@@ -3774,7 +3780,7 @@ width: 100%;
 
 	/* Limit width of single pictures */
 	.sidebar-picture:only-child {
-		max-width: 60%;
+		max-width: 50%;
 	}
 
 	/* 2 or more pictures allowed to span grid */
@@ -3786,4 +3792,9 @@ width: 100%;
 	.sidebar-picture:nth-last-child(1) {
 		grid-column: 2;
 	}
+}
+
+.date {
+	font-style: italic;
+  	margin-bottom: 1em;
 }
