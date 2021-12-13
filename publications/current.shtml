@@ -50,27 +50,24 @@
 
 									<section>
 										<!-- PREPRINTS - Comment out when empty -->
-										<!-- 
 										<h3>Preprints</h3>
 										<div class="row ref">
 											<div class="col-1 col-12-small">
-												<h4 class="refdatanum">XXXX</h4>
+												<h4 class="refdatanum">1</h4>
 											</div>
 											<div class="col-9 col-12-small">
-												<h3>XXXX</h3>
-												<p><refdata class="authors">XXXX.</refdata></p>
+												<h3>How Globally Aromatic Are Six-Porphyrin Nanorings?</h3>
+												<p><refdata class="authors">J.-R. Deng, D. Bradley, M. Jir&aacute;sek, H. L. Anderson, M. D. Peeks.</refdata></p>
 												<p>
-													<refdata class="journal"><a href="XXXX">XXXX</a></refdata>,
-													<refdata class="year">XXXX</refdata>,
-													<refdata class="vol">XXXX</refdata>,
-													<refdata class="page"><a href="https://doi.org/XXXX">XXXX</a></refdata>
+													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
+													<refdata class="year">2021</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.33774/chemrxiv-2021-hm34v">10.33774/chemrxiv-2021-hm34v</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" data-src="images/abstracts/XXXX.jpg" alt="" /></span>
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/1.jpg" alt="" /></span>
 											</div>
 										</div>
-										-->
 									</section>
 									
 									<section>
@@ -97,6 +94,24 @@
 											</div>
 										</div>
 										-->
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">329</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>A Peierls Transition in Long Polymethine Molecular Wires: Evolution of Molecular Geometry and Single-Molecule Conductance</h3>
+												<p><refdata class="authors">W. Xu, E. Leary, S. Sangtarash, M. Jir&aacute;sek, M. T. Gonz&aacute;lez, K. E. Christensen, L. Abell&aacute;n Vicente, N. Agra&iuml;t, S. J. Higgins, R. J. Nichols, C. J. Lambert, H. L. Anderson.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+													<refdata class="year">2021</refdata>,
+													<!-- <refdata class="vol">XXXX</refdata>, -->
+													<refdata class="page"> DOI: <a href="https://doi.org/10.1021/jacs.1c10747">10.1021/jacs.1c10747</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/329.jpg" alt="" /></span>
+											</div>
+										</div>
 										<div class="row ref">
 											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">328</h4>
