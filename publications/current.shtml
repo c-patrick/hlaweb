@@ -53,6 +53,23 @@
 										<h3>Preprints</h3>
 										<div class="row ref">
 											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">2</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Polyyne [3]rotaxanes: Synthesis via dicobalt carbonyl complexes and enhanced stability</h3>
+												<p><refdata class="authors">C. W. Patrick, J. F. Woods, P. Gawel, C. E. Otteson, A. L. Thompson, T. D. W. Claridge, R. Jasti, H. L. Anderson.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
+													<refdata class="year">2021</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2021-wlz9b">10.26434/chemrxiv-2021-wlz9b</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/2.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">1</h4>
 											</div>
 											<div class="col-9 col-12-small">
