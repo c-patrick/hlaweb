@@ -115,14 +115,26 @@
 										</article>
 										-->
 										<article>
+											<a href="https://doi.org/10.1002/anie.202116897" class="image front"><img class="lazyload" data-src="images/abstracts/330.jpg" alt="" /></a>
+											<h3>Polyyne [3]rotaxanes: Synthesis via dicobalt carbonyl complexes and enhanced stability</h3>
+											<p><refdata class="authors">C. W. Patrick, J. F. Woods, P. Gawel, C. E. Otteson, A. L. Thompson, T. D. W. Claridge, R. Jasti, H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://onlinelibrary.wiley.com/journal/15213773">Angew. Chem. Int. Ed.</a></refdata>,
+												<refdata class="year">2021</refdata>,
+												<refdata class="page">DOI: <a href="https://doi.org/10.1002/anie.202116897">10.1002/anie.202116897</a></refdata> | 
+												<refdata class="page">ChemRxiv: <a href="https://doi.org/10.26434/chemrxiv-2021-wlz9b">10.26434/chemrxiv-2021-wlz9b</a></refdata>
+												
+											</p>
+										</article>
+										<article>
 											<a href="https://doi.org/10.1021/jacs.1c10747" class="image front"><img class="lazyload" data-src="images/abstracts/329.jpg" alt="" /></a>
 											<h3>A Peierls Transition in Long Polymethine Molecular Wires: Evolution of Molecular Geometry and Single-Molecule Conductance</h3>
 											<p><refdata class="authors">W. Xu, E. Leary, S. Sangtarash, M. Jir&aacute;sek, M. T. Gonz&aacute;lez, K. E. Christensen, L. Abell&aacute;n Vicente, N. Agra&iuml;t, S. J. Higgins, R. J. Nichols, C. J. Lambert, H. L. Anderson.</refdata></p>
 											<p>
 												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
 												<refdata class="year">2021</refdata>,
-												<!-- <refdata class="vol">XXXX</refdata>, -->
-												<refdata class="page"> DOI: <a href="https://doi.org/10.1021/jacs.1c10747">10.1021/jacs.1c10747</a></refdata>
+												<refdata class="vol">143</refdata>,
+												<refdata class="page">20472-20481<a href="https://doi.org/10.1021/jacs.1c10747">10.1021/jacs.1c10747</a></refdata>
 											</p>
 										</article>
 										<article>
@@ -167,17 +179,6 @@
 												<refdata class="year">2021</refdata>,
 												<refdata class="vol">94</refdata>,
 												<refdata class="page"><a href="https://doi.org/10.1246/bcsj.20200345">798-811</a></refdata>
-											</p>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1021/jacs.0c12845" class="image front"><img class="lazyload" data-src="images/abstracts/324.jpg" alt="" /></a>
-											<h3>Experimental and Theoretical Evidence for Aromatic Stabilization Energy in Large Macrocycles</h3>
-											<p><refdata class="authors">M. Jir&aacute;sek, M. Rickhaus, L. Tejerina and H. L. Anderson.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
-												<refdata class="year">2021</refdata>,
-												<refdata class="vol">143</refdata>,
-												<refdata class="page"><a href="https://doi.org/10.1021/jacs.0c12845">2403-2412</a></refdata>
 											</p>
 										</article>
 									</div>
