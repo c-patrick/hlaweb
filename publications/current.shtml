@@ -70,23 +70,6 @@
 										</div>
 										<div class="row ref">
 											<div class="col-1 col-12-small">
-												<h4 class="refdatanum">2</h4>
-											</div>
-											<div class="col-9 col-12-small">
-												<h3>Polyyne [3]rotaxanes: Synthesis via dicobalt carbonyl complexes and enhanced stability</h3>
-												<p><refdata class="authors">C. W. Patrick, J. F. Woods, P. Gawel, C. E. Otteson, A. L. Thompson, T. D. W. Claridge, R. Jasti, H. L. Anderson.</refdata></p>
-												<p>
-													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
-													<refdata class="year">2021</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2021-wlz9b">10.26434/chemrxiv-2021-wlz9b</a></refdata>
-												</p>
-											</div>
-											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/2.jpg" alt="" /></span>
-											</div>
-										</div>
-										<div class="row ref">
-											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">1</h4>
 											</div>
 											<div class="col-9 col-12-small">
@@ -128,6 +111,25 @@
 											</div>
 										</div>
 										-->
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">2</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Polyyne [3]rotaxanes: Synthesis via dicobalt carbonyl complexes and enhanced stability</h3>
+												<p><refdata class="authors">C. W. Patrick, J. F. Woods, P. Gawel, C. E. Otteson, A. L. Thompson, T. D. W. Claridge, R. Jasti, H. L. Anderson.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://onlinelibrary.wiley.com/journal/15213773">Angew. Chem. Int. Ed.</a></refdata>,
+													<refdata class="year">2021</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1002/anie.202116897">10.1002/anie.202116897</a></refdata> | 
+													<refdata class="page">ChemRxiv<a href="https://doi.org/10.26434/chemrxiv-2021-wlz9b">10.26434/chemrxiv-2021-wlz9b</a></refdata>
+													
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/2.jpg" alt="" /></span>
+											</div>
+										</div>
 										<div class="row ref">
 											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">329</h4>
@@ -280,7 +282,7 @@
 												<h3>Masked Alkyne Equivalents for the Synthesis of 	Mechanically Interlocked Polyynes</h3>
 												<p><refdata class="authors">P. Gawel, S. Woltering, Y. 	Xiong, K. Christensen and H. L. Anderson.</refdata></p>
 												<p>
-													<refdata class="journal"><a href="http://onlinelibrary.	wiley.com/journal/10.1002/(ISSN)1521-3773">Angew. Chem. 	Int. Ed.</a></refdata>,
+													<refdata class="journal"><a href="https://onlinelibrary.wiley.com/journal/15213773">Angew. Chem. Int. Ed.</a></refdata>,
 													<refdata class="year">2021</refdata>,
 													<refdata class="vol">60</refdata>,
 													<refdata class="page"><a href="https://doi.org/10.1002/	anie.202013623">5941-5947</a></refdata>
