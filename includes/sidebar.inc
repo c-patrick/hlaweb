@@ -76,6 +76,19 @@
 									<div class="row">
 										<div class="col-4 col-12-small">
 											<div class="grid">
+												<a href="group/iago.shtml" class="image sidebar-picture"><img src="images/group/people/iago.jpg" alt="" /></a>
+											</div>
+										</div>
+										<div class="col-8 col-12-small">
+											<p class="sidebar">A warm welcome to <a href="group/iago.shtml">Iago</a>, who is joining us as a Postdoctoral Research Assistant. (January 2022)</p>
+										</div>
+									</div>
+
+									<hr class="sidebar">
+
+									<div class="row">
+										<div class="col-4 col-12-small">
+											<div class="grid">
 												<a href="group/virginia.shtml" class="image sidebar-picture"><img src="images/group/people/virginia.jpg" alt="" /></a>
 											</div>
 										</div>
@@ -134,19 +147,6 @@
 										</div>
 										<div class="col-8 col-12-small">
 											<p class="sidebar">A warm welcome to <a href="group/thea.shtml">Th&eacute;a Toutoungy</a>, who is joining us for her Part II. (September 2021)</p>
-										</div>
-									</div>
-								
-									<hr class="sidebar">
-								
-									<div class="row">
-										<div class="col-4 col-12-small">
-											<div class="grid">
-												<a href="group/wenjun.shtml" class="image sidebar-picture"><img src="images/group/people/wenjun.jpg" alt="" /></a>
-											</div>
-										</div>
-										<div class="col-8 col-12-small">
-											<p class="sidebar">Congratulations to <a href="group/wenjun.shtml">Wenjun Xu</a> for submitting his thesis! (June 2021)</p>
 										</div>
 									</div>
 								
