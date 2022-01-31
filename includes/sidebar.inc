@@ -12,7 +12,7 @@
 									</header>
 									<ul>
 										<li><a href="/index.shtml">Homepage</a></li>
-										<li><a href="http://research.chem.ox.ac.uk/harry-anderson.aspx">Research</a></li>
+										<li><a href="https://www.chem.ox.ac.uk/people/harry-anderson?filter_types-2626476[]=&filter_series-2626476[]=">Research</a></li>
 										<li>
 											<span class="opener">Publications</span>
 											<ul>
