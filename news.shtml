@@ -30,7 +30,7 @@
 									<header class="major">
 										<h2>Old News</h2>
 									</header>
-									
+
 									<nav id="old_news">
 										<ul>
 											<li> <span class="opener active">2021</span>
@@ -41,6 +41,11 @@
 														<td class="date">XXXX</td>
 														<td>XXXX</td>
 													</tr> -->
+
+														<tr class="old_news">
+															<td class="date">September 2021</td>
+															<td>A warm welcome to <a href="group/thea.shtml">Th&eacute;a Toutoungy</a>, who is joining us for her Part II.</td>
+														</tr>
 														<tr class="old_news">
 															<td class="date">June 2021</td>
 															<td>Congratulations to <a href="group/wenjun.shtml">Wenjun Xu</a> for submitting his thesis!</td>

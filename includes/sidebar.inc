@@ -72,6 +72,18 @@
 									<header class="major">
 									  <h2>Recent News</h2>
 									</header>
+									<div class="row">
+										<div class="col-4 col-12-small">
+											<div class="grid">
+												<a href="group/marcin.shtml" class="image sidebar-picture"><img src="images/group/people/marcin.jpg" alt="" /></a>
+											</div>
+										</div>
+										<div class="col-8 col-12-small">
+											<p class="sidebar">Goodbye <a href="group/marcin.shtml">Marcin Majewski</a>, who is returning to Poland. (January 2022)</p>
+										</div>
+									</div>
+
+									<hr class="sidebar">
 
 									<div class="row">
 										<div class="col-4 col-12-small">
@@ -134,19 +146,6 @@
 										</div>
 										<div class="col-8 col-12-small">
 											<p class="sidebar">Welcome back to <a href="group/janko.shtml">Janko</a>, who is joining us for his DPhil. (September 2021)</p>
-										</div>
-									</div>
-								
-									<hr class="sidebar">
-								
-									<div class="row">
-										<div class="col-4 col-12-small">
-											<div class="grid">
-												<a href="group/thea.shtml" class="image sidebar-picture"><img src="images/group/people/thea.jpg" alt="" /></a>
-											</div>
-										</div>
-										<div class="col-8 col-12-small">
-											<p class="sidebar">A warm welcome to <a href="group/thea.shtml">Th&eacute;a Toutoungy</a>, who is joining us for her Part II. (September 2021)</p>
 										</div>
 									</div>
 								
