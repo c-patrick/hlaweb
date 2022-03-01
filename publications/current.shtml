@@ -53,6 +53,40 @@
 										<h3>Preprints</h3>
 										<div class="row ref">
 											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">4</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Singly- and Triply-Linked Magnetic Porphyrin Lanthanide Arrays</h3>
+												<p><refdata class="authors">J. M. Van Raden, D. I. Alexandropoulos, M. Slota, S. Sopp, T. Matsuno, A. L. Thompson, H. Isobe, H. L. Anderson and L. Bogani</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
+													<refdata class="year">2022</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2022-1hqfc">10.26434/chemrxiv-2022-1hqfc</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/4.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">3</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Bending a Photonic Wire into a Ring</h3>
+												<p><refdata class="authors">H. Gotfredsen, J.-R. Deng, J. Van Raden, M. Righetto, J. Hergenhahn, M. Clarke, A. Bellamy-Carter, J. Hart, J. O’Shea, T. D. W. Claridge, F. Duarte, A. Saywell, L. M. Herz and H. L. Anderson.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
+													<refdata class="year">2022</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2022-6b0pc">10.26434/chemrxiv-2022-6b0pc</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/3.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">2</h4>
 											</div>
 											<div class="col-9 col-12-small">
