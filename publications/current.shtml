@@ -53,6 +53,23 @@
 										<h3>Preprints</h3>
 										<div class="row ref">
 											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">5</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Charge-state dependent vibrational relaxation in a single-molecule junction</h3>
+												<p><refdata class="authors">X. Bian, Z. Chen, J. K. Sowa, C. Evangeli, B. Limburg, J. L. Swett, J. Baugh, G. A. D. Briggs, H. L. Anderson, J. A. Mol and J. O. Thomas</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://arxiv.org/">arXiv</a></refdata>,
+													<refdata class="year">2022</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.48550/arXiv.2202.12682">10.48550/arXiv.2202.12682</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/5.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">4</h4>
 											</div>
 											<div class="col-9 col-12-small">
