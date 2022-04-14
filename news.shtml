@@ -41,7 +41,10 @@
 														<td class="date">XXXX</td>
 														<td>XXXX</td>
 													</tr> -->
-
+														<tr class="old_news">
+															<td class="date">September 2021</td>
+															<td>Welcome back to <a href="group/janko.shtml">Janko</a>, who is joining us for his DPhil. </td>
+														</tr>
 														<tr class="old_news">
 															<td class="date">September 2021</td>
 															<td>A warm welcome to <a href="group/thea.shtml">Th&eacute;a Toutoungy</a>, who is joining us for her Part II.</td>

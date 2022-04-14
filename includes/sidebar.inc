@@ -72,6 +72,20 @@
 									<header class="major">
 									  <h2>Recent News</h2>
 									</header>
+
+									<div class="row">
+										<div class="col-4 col-12-small">
+											<div class="grid">
+												<a href="group/jeff.shtml" class="image sidebar-picture"><img src="images/group/people/jeff.jpg" alt="" /></a>
+											</div>
+										</div>
+										<div class="col-8 col-12-small">
+											<p class="sidebar">Goodbye to <a href="group/jeff.shtml">Jeff</a>, all the best in the future! (April 2022)</p>
+										</div>
+									</div>
+								
+									<hr class="sidebar">
+										
 									<div class="row">
 										<div class="col-4 col-12-small">
 											<div class="grid">
@@ -138,19 +152,6 @@
 								
 									<hr class="sidebar">
 
-									<div class="row">
-										<div class="col-4 col-12-small">
-											<div class="grid">
-												<a href="group/thea.shtml" class="image sidebar-picture"><img src="images/group/people/janko.jpg" alt="" /></a>
-											</div>
-										</div>
-										<div class="col-8 col-12-small">
-											<p class="sidebar">Welcome back to <a href="group/janko.shtml">Janko</a>, who is joining us for his DPhil. (September 2021)</p>
-										</div>
-									</div>
-								
-									<hr class="sidebar">
-										
 									<ul class="actions center">
 										<li><a href="/news.shtml" class="button">More</a></li>
 									</ul>
