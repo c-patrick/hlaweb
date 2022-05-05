@@ -53,7 +53,7 @@
 										<h3>Preprints</h3>
 										<div class="row ref">
 											<div class="col-1 col-12-small">
-												<h4 class="refdatanum">5</h4>
+												<h4 class="refdatanum">4</h4>
 											</div>
 											<div class="col-9 col-12-small">
 												<h3>Charge-state dependent vibrational relaxation in a single-molecule junction</h3>
@@ -62,23 +62,6 @@
 													<refdata class="journal"><a href="https://arxiv.org/">arXiv</a></refdata>,
 													<refdata class="year">2022</refdata>,
 													<refdata class="page">DOI: <a href="https://doi.org/10.48550/arXiv.2202.12682">10.48550/arXiv.2202.12682</a></refdata>
-												</p>
-											</div>
-											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/5.jpg" alt="" /></span>
-											</div>
-										</div>
-										<div class="row ref">
-											<div class="col-1 col-12-small">
-												<h4 class="refdatanum">4</h4>
-											</div>
-											<div class="col-9 col-12-small">
-												<h3>Singly- and Triply-Linked Magnetic Porphyrin Lanthanide Arrays</h3>
-												<p><refdata class="authors">J. M. Van Raden, D. I. Alexandropoulos, M. Slota, S. Sopp, T. Matsuno, A. L. Thompson, H. Isobe, H. L. Anderson and L. Bogani</refdata></p>
-												<p>
-													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
-													<refdata class="year">2022</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2022-1hqfc">10.26434/chemrxiv-2022-1hqfc</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
@@ -164,6 +147,25 @@
 										-->
 										<div class="row ref">
 											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">331</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Singly and Triply Linked Magnetic Porphyrin Lanthanide Arrays</h3>
+												<p><refdata class="authors">J. M. Van Raden, D. I. Alexandropoulos, M. Slota, S. Sopp, T. Matsuno, A. L. Thompson, H. Isobe, H. L. Anderson and L. Bogani.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+													<refdata class="year">2022</refdata>,
+													<refdata class="vol">144</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1021/jacs.2c02084">10.1021/jacs.2c02084</a></refdata> | 
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2022-1hqfc">ChemRxiv</a></refdata>	
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/331.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">330</h4>
 											</div>
 											<div class="col-9 col-12-small">
@@ -172,6 +174,7 @@
 												<p>
 													<refdata class="journal"><a href="https://onlinelibrary.wiley.com/journal/15213773">Angew. Chem. Int. Ed.</a></refdata>,
 													<refdata class="year">2021</refdata>,
+													<refdata class="vol">61</refdata>,
 													<refdata class="page">DOI: <a href="https://doi.org/10.1002/anie.202116897">10.1002/anie.202116897</a></refdata> | 
 													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2021-wlz9b">ChemRxiv</a></refdata>	
 												</p>

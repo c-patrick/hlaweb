@@ -115,12 +115,25 @@
 										</article>
 										-->
 										<article>
+											<a href="https://doi.org/10.1021/jacs.2c02084" class="image front"><img class="lazyload" data-src="images/abstracts/331.jpg" alt="" /></a>
+											<h3>Singly and Triply Linked Magnetic Porphyrin Lanthanide Arrays</h3>
+											<p><refdata class="authors">J. M. Van Raden, D. I. Alexandropoulos, M. Slota, S. Sopp, T. Matsuno, A. L. Thompson, H. Isobe, H. L. Anderson and L. Bogani.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+												<refdata class="year">2022</refdata>,
+												<refdata class="vol">144</refdata>,
+												<refdata class="page">DOI: <a href="https://doi.org/10.1021/jacs.2c02084">10.1021/jacs.2c02084</a></refdata> | 
+												<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2022-1hqfc">ChemRxiv</a></refdata>	
+											</p>
+										</article>
+										<article>
 											<a href="https://doi.org/10.1002/anie.202116897" class="image front"><img class="lazyload" data-src="images/abstracts/330.jpg" alt="" /></a>
 											<h3>Polyyne [3]rotaxanes: Synthesis via dicobalt carbonyl complexes and enhanced stability</h3>
 											<p><refdata class="authors">C. W. Patrick, J. F. Woods, P. Gawel, C. E. Otteson, A. L. Thompson, T. D. W. Claridge, R. Jasti, H. L. Anderson.</refdata></p>
 											<p>
 												<refdata class="journal"><a href="https://onlinelibrary.wiley.com/journal/15213773">Angew. Chem. Int. Ed.</a></refdata>,
 												<refdata class="year">2021</refdata>,
+												<refdata class="vol">61</refdata>,
 												<refdata class="page">DOI: <a href="https://doi.org/10.1002/anie.202116897">10.1002/anie.202116897</a></refdata> | 
 												<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2021-wlz9b">ChemRxiv</a></refdata>	
 											</p>
@@ -173,17 +186,6 @@
 												<refdata class="year">2021</refdata>,
 												<refdata class="vol">12</refdata>,
 												<refdata class="page"><a href="https://doi.org/10.1039/D1SC03050G">11121-11129</a></refdata>
-											</p>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1246/bcsj.20200345" class="image front"><img class="lazyload" data-src="images/abstracts/325.jpg" alt="" /></a>
-											<h3>A Short History of Cyclocarbons</h3>
-											<p><refdata class="authors">H. L. Anderson, C. W. Patrick, L. M. Scriven and S. L. Woltering.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="https://www.journal.csj.jp/journal/bcsj">Bull. Chem. Soc. Jpn.</a></refdata>,
-												<refdata class="year">2021</refdata>,
-												<refdata class="vol">94</refdata>,
-												<refdata class="page"><a href="https://doi.org/10.1246/bcsj.20200345">798-811</a></refdata>
 											</p>
 										</article>
 									</div>
