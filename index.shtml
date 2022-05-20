@@ -115,6 +115,18 @@
 										</article>
 										-->
 										<article>
+											<a href="https://doi.org/10.1039/d1tc05951c" class="image front"><img class="lazyload" data-src="images/abstracts/332.jpg" alt="" /></a>
+											<h3>A Porphyrin Pentamer as a Bright Emitter for NIR OLEDs</h3>
+											<p><refdata class="authors">L. Tejerina, A. G. Rapidis, M. Rickhaus, M. Petri, Z. Genene, E. Wang, A. Minotto, H. L. Anderson and F. Cacialli.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://www.rsc.org/journals-books-databases/about-journals/journal-of-materials-chemistry-c/">J. Mater. Chem. C</a></refdata>,
+												<refdata class="year">2022</refdata>,
+												<refdata class="vol">10</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1039/D1SC03050G">5929-5933</a></refdata> | 
+												<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2021-v8b0k">ChemRxiv</a></refdata>
+											</p>
+										</article>
+										<article>
 											<a href="https://doi.org/10.1021/jacs.2c02084" class="image front"><img class="lazyload" data-src="images/abstracts/331.jpg" alt="" /></a>
 											<h3>Singly and Triply Linked Magnetic Porphyrin Lanthanide Arrays</h3>
 											<p><refdata class="authors">J. M. Van Raden, D. I. Alexandropoulos, M. Slota, S. Sopp, T. Matsuno, A. L. Thompson, H. Isobe, H. L. Anderson and L. Bogani.</refdata></p>
@@ -134,7 +146,7 @@
 												<refdata class="journal"><a href="https://onlinelibrary.wiley.com/journal/15213773">Angew. Chem. Int. Ed.</a></refdata>,
 												<refdata class="year">2021</refdata>,
 												<refdata class="vol">61</refdata>,
-												<refdata class="page">DOI: <a href="https://doi.org/10.1002/anie.202116897">10.1002/anie.202116897</a></refdata> | 
+												<refdata class="page">DOI: <a href="https://doi.org/10.1002/anie.202116897">e202116897</a></refdata> | 
 												<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2021-wlz9b">ChemRxiv</a></refdata>	
 											</p>
 											<div class="box">
@@ -175,17 +187,6 @@
 												<refdata class="year">2021</refdata>,
 												<refdata class="vol">54</refdata>,
 												<refdata class="page"><a href="https://doi.org/10.1021/acs.accounts.1c00323">3241-3251</a></refdata>
-											</p>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1039/D1SC03050G" class="image front"><img class="lazyload" data-src="images/abstracts/326.jpg" alt="" /></a>
-											<h3>Charge transport through extended molecular wires with strongly correlated electrons</h3>
-											<p><refdata class="authors">J. O. Thomas, J. K. Sowa, B. Limburg, X. Bian, C. Evangeli, J. L. Swett, S. Tewari, J. Baugh, G. C. Schatz, G. A. D. Briggs, H. L. Anderson and J. A. Mol.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
-												<refdata class="year">2021</refdata>,
-												<refdata class="vol">12</refdata>,
-												<refdata class="page"><a href="https://doi.org/10.1039/D1SC03050G">11121-11129</a></refdata>
 											</p>
 										</article>
 									</div>
