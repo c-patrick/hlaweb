@@ -153,15 +153,6 @@
 											</center>
 										</article>
 										<article>
-											<a href="group/igorr.shtml" class="image"><img src="images/group/people/igorr.jpg" alt="" /></a>
-										  	<center>
-												<h3>Igor Rončević</h3>
-											<ul class="actions center">
-												<li><a href="group/igorr.shtml" class="button small">view</a></li>
-											</ul>
-											</center>
-										</article>
-										<article>
 											<a href="group/kate.shtml" class="image"><img src="images/group/people/kate.jpg" alt="" /></a>
 										  	<center>
 												<h3>Kathryn Leslie</h3>
@@ -221,6 +212,15 @@
 												<h3>He Zhu</h3>
 											<ul class="actions center">
 												<li><a href="group/he.shtml" class="button small">view</a></li>
+											</ul>
+											</center>
+										</article>
+										<article>
+											<a href="group/igorr.shtml" class="image"><img src="images/group/people/igorr.jpg" alt="" /></a>
+										  	<center>
+												<h3>Igor Rončević</h3>
+											<ul class="actions center">
+												<li><a href="group/igorr.shtml" class="button small">view</a></li>
 											</ul>
 											</center>
 										</article>
