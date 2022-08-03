@@ -115,6 +115,18 @@
 										</article>
 										-->
 										<article>
+											<a href="https://doi.org/10.1002/anie.202201231" class="image front"><img class="lazyload" data-src="images/abstracts/333.jpg" alt="" /></a>
+											<h3>How Globally Aromatic Are Six-Porphyrin Nanorings?</h3>
+											<p><refdata class="authors">J.-R. Deng, D. Bradley, M. Jir&aacute;sek, H. L. Anderson, M. D. Peeks.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://onlinelibrary.wiley.com/journal/15213773">Angew. Chem. Int. Ed.</a></refdata>,
+												<refdata class="year">2022</refdata>,
+												<refdata class="vol">61</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1002/anie.202201231">e202201231</a></refdata> | 
+												<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2021-hm34v">ChemRxiv</a></refdata>	
+											</p>
+										</article>
+										<article>
 											<a href="https://doi.org/10.1039/d1tc05951c" class="image front"><img class="lazyload" data-src="images/abstracts/332.jpg" alt="" /></a>
 											<h3>A Porphyrin Pentamer as a Bright Emitter for NIR OLEDs</h3>
 											<p><refdata class="authors">L. Tejerina, A. G. Rapidis, M. Rickhaus, M. Petri, Z. Genene, E. Wang, A. Minotto, H. L. Anderson and F. Cacialli.</refdata></p>
@@ -144,7 +156,7 @@
 											<p><refdata class="authors">C. W. Patrick, J. F. Woods, P. Gawel, C. E. Otteson, A. L. Thompson, T. D. W. Claridge, R. Jasti, H. L. Anderson.</refdata></p>
 											<p>
 												<refdata class="journal"><a href="https://onlinelibrary.wiley.com/journal/15213773">Angew. Chem. Int. Ed.</a></refdata>,
-												<refdata class="year">2021</refdata>,
+												<refdata class="year">2022</refdata>,
 												<refdata class="vol">61</refdata>,
 												<refdata class="page"><a href="https://doi.org/10.1002/anie.202116897">e202116897</a></refdata> | 
 												<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2021-wlz9b">ChemRxiv</a></refdata>	
@@ -177,17 +189,6 @@
 													<refdata class="vol">11</refdata>,
 													<refdata class="page"><a href="https://doi.org/10.1038/s41598-021-99881-x">20388</a></refdata>
 												</p>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1021/acs.accounts.1c00323" class="image front"><img class="lazyload" data-src="images/abstracts/327.jpg" alt="" /></a>
-											<h3>From Macrocycles to Quantum Rings: Does Aromaticity Have a Size Limit?</h3>
-											<p><refdata class="authors">M. Jir&aacute;sek, H. L. Anderson and M. D. Peeks.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="https://pubs.acs.org/journal/achre4">Acc. Chem. Res.</a></refdata>,
-												<refdata class="year">2021</refdata>,
-												<refdata class="vol">54</refdata>,
-												<refdata class="page"><a href="https://doi.org/10.1021/acs.accounts.1c00323">3241-3251</a></refdata>
-											</p>
 										</article>
 									</div>
 									
