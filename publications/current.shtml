@@ -53,6 +53,23 @@
 										<h3>Preprints</h3>
 										<div class="row ref">
 											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">4</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Conjugated Porphyrin Tapes as Quantum Mediators for Vanadyl Qubits</h3>
+												<p><refdata class="authors">I. Pozo, F. Lombardi, D. I. Alexandropoulos, F. Kong, J.-R. Deng, P. N. Horton, S. J. Coles, W. K. Myers, L. Bogani and H. L. Anderson</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
+													<refdata class="year">2022</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2022-1v5b4">10.26434/chemrxiv-2022-1v5b4</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/4.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">3</h4>
 											</div>
 											<div class="col-9 col-12-small">
