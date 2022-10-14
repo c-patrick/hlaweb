@@ -147,6 +147,43 @@
 										-->
 										<div class="row ref">
 											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">335</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Exchange-induced spin polarization in a single magnetic molecule junction</h3>
+												<p><refdata class="authors">T. Pei, J. O. Thomas, S. Sopp, M.-Y. Tsang, N. Dotti, J. Baugh, N. F. Chilton, S. Cardona-Serra, A. Gaita-Ariño, H. L. Anderson and L. Bogani.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://www.nature.com/ncomms/">Nat. Commun.</a></refdata>,
+													<refdata class="year">2022</refdata>,
+													<refdata class="vol">13</refdata>,
+													<refdata class="page"><a href="https://www.nature.com/articles/s41467-022-31909-w">4506</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/335.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">334</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Population and coherence dynamics in large conjugated porphyrin nanorings</h3>
+												<p><refdata class="authors">G. Bressan, M. Jir&aacute;sek, P. Roy, H. L. Anderson, S. R. Meech and I. A. Heisler.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
+													<refdata class="year">2022</refdata>,
+													<refdata class="vol">13</refdata>,
+													<refdata class="page"><a href="https://pubs.rsc.org/en/content/articlelanding/2022/SC/D2SC01971J">9624-9636</a></refdata> |
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2022-h22dk">ChemRxiv</a></refdata>	
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/334.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">333</h4>
 											</div>
 											<div class="col-9 col-12-small">
@@ -250,17 +287,17 @@
 												<h4 class="refdatanum">328</h4>
 											</div>
 											<div class="col-9 col-12-small">
-												<h3>Self-assembly of a strapped linear porphyrin oligomer on 	HOPG</h3>
-												<p><refdata class="authors">A. Bellamy-Carter, C. Roche, H. 	L. Anderson, A. Saywell.</refdata></p>
+												<h3>Self-assembly of a strapped linear porphyrin oligomer on HOPG</h3>
+												<p><refdata class="authors">A. Bellamy-Carter, C. Roche, H. L. Anderson, A. Saywell.</refdata></p>
 												<p>
-													<refdata class="journal"><a href="https://www.nature.com/	srep/">Sci. Rep.</a></refdata>,
+													<refdata class="journal"><a href="https://www.nature.com/srep/">Sci. Rep.</a></refdata>,
 													<refdata class="year">2021</refdata>,
 													<refdata class="vol">11</refdata>,
-													<refdata class="page"><a href="https://doi.org/10.1038/	s41598-021-99881-x">20388</a></refdata>
+													<refdata class="page"><a href="https://doi.org/10.1038/s41598-021-99881-x">20388</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" 	data-src="images/abstracts/328.jpg" alt="" /></span>
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/328.jpg" alt="" /></span>
 											</div>
 										</div>
 										<div class="row ref">
@@ -268,17 +305,17 @@
 												<h4 class="refdatanum">327</h4>
 											</div>
 											<div class="col-9 col-12-small">
-												<h3>From Macrocycles to Quantum Rings: Does Aromaticity Have 	a Size Limit?</h3>
-												<p><refdata class="authors">M. Jir&aacute;sek, H. L. 	Anderson and M. D. Peeks.</refdata></p>
+												<h3>From Macrocycles to Quantum Rings: Does Aromaticity Have a Size Limit?</h3>
+												<p><refdata class="authors">M. Jir&aacute;sek, H. L. Anderson and M. D. Peeks.</refdata></p>
 												<p>
-													<refdata class="journal"><a href="https://pubs.acs.org/	journal/achre4">Acc. Chem. Res.</a></refdata>,
+													<refdata class="journal"><a href="https://pubs.acs.org/journal/achre4">Acc. Chem. Res.</a></refdata>,
 													<refdata class="year">2021</refdata>,
 													<refdata class="vol">54</refdata>,
-													<refdata class="page"><a href="https://doi.org/10.1021/	acs.accounts.1c00323">3241-3251</a></refdata>
+													<refdata class="page"><a href="https://doi.org/10.1021/acs.accounts.1c00323">3241-3251</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" 	data-src="images/abstracts/327.jpg" alt="" /></span>
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/327.jpg" alt="" /></span>
 											</div>
 										</div>
 										<div class="row ref">
@@ -286,17 +323,17 @@
 												<h4 class="refdatanum">326</h4>
 											</div>
 											<div class="col-9 col-12-small">
-												<h3>Charge transport through extended molecular wires with 	strongly correlated electrons</h3>
-												<p><refdata class="authors">J. O. Thomas, J. K. Sowa, B. 	Limburg, X. Bian, C. Evangeli, J. L. Swett, S. Tewari, J. 	Baugh, G. C. Schatz, G. A. D. Briggs, H. L. Anderson and J. 	A. Mol.</refdata></p>
+												<h3>Charge transport through extended molecular wires with strongly correlated electrons</h3>
+												<p><refdata class="authors">J. O. Thomas, J. K. Sowa, B. Limburg, X. Bian, C. Evangeli, J. L. Swett, S. Tewari, J. 	Baugh, G. C. Schatz, G. A. D. Briggs, H. L. Anderson and J. A. Mol.</refdata></p>
 												<p>
-													<refdata class="journal"><a href="https://pubs.rsc.org/	en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
+													<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
 													<refdata class="year">2021</refdata>,
 													<refdata class="vol">12</refdata>,
-													<refdata class="page"><a href="https://doi.org/10.1039/	D1SC03050G">11121-11129</a></refdata>
+													<refdata class="page"><a href="https://doi.org/10.1039/D1SC03050G">11121-11129</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" 	data-src="images/abstracts/326.jpg" alt="" /></span>
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/326.jpg" alt="" /></span>
 											</div>
 										</div>
 										<div class="row ref">
@@ -305,16 +342,16 @@
 											</div>
 											<div class="col-9 col-12-small">
 												<h3>A Short History of Cyclocarbons</h3>
-												<p><refdata class="authors">H. L. Anderson, C. W. Patrick, 	L. M. Scriven and S. L. Woltering.</refdata></p>
+												<p><refdata class="authors">H. L. Anderson, C. W. Patrick, L. M. Scriven and S. L. Woltering.</refdata></p>
 												<p>
-													<refdata class="journal"><a href="https://www.journal.	csj.jp/journal/bcsj">Bull. Chem. Soc. Jpn.</a></refdata>,
+													<refdata class="journal"><a href="https://www.journal.csj.jp/journal/bcsj">Bull. Chem. Soc. Jpn.</a></refdata>,
 													<refdata class="year">2021</refdata>,
 													<refdata class="vol">94</refdata>,
-													<refdata class="page"><a href="https://doi.org/10.1246/	bcsj.20200345">798-811</a></refdata>
+													<refdata class="page"><a href="https://doi.org/10.1246/bcsj.20200345">798-811</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" 	data-src="images/abstracts/325.jpg" alt="" /></span>
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/325.jpg" alt="" /></span>
 											</div>
 										</div>
 										<div class="row ref">
@@ -322,17 +359,17 @@
 												<h4 class="refdatanum">324</h4>
 											</div>
 											<div class="col-9 col-12-small">
-												<h3>Experimental and Theoretical Evidence for Aromatic 	Stabilization Energy in Large Macrocycles</h3>
+												<h3>Experimental and Theoretical Evidence for Aromatic Stabilization Energy in Large Macrocycles</h3>
 												<p><refdata class="authors">M. Jir&aacute;sek, M. Rickhaus, 	L. Tejerina and H. L. Anderson.</refdata></p>
 												<p>
-													<refdata class="journal"><a href="https://pubs.acs.org/	journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+													<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
 													<refdata class="year">2021</refdata>,
 													<refdata class="vol">143</refdata>,
-													<refdata class="page"><a href="https://doi.org/10.1021/	jacs.0c12845">2403-2412</a></refdata>
+													<refdata class="page"><a href="https://doi.org/10.1021/jacs.0c12845">2403-2412</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" 	data-src="images/abstracts/324.jpg" alt="" /></span>
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/324.jpg" alt="" /></span>
 											</div>
 										</div>
 										<div class="row ref">
@@ -340,17 +377,17 @@
 												<h4 class="refdatanum">323</h4>
 											</div>
 											<div class="col-9 col-12-small">
-												<h3>Towards efficient near-infrared fluorescent organic 	light-emitting diodes</h3>
-												<p><refdata class="authors">A. Minotto, I. Bulut, A. G. 	Rapidis, G. Carnicella, M. Patrini, E. Lunedei, H. L. 	Anderson and F. Cacialli.</refdata></p>
+												<h3>Towards efficient near-infrared fluorescent organic light-emitting diodes</h3>
+												<p><refdata class="authors">A. Minotto, I. Bulut, A. G. Rapidis, G. Carnicella, M. Patrini, E. Lunedei, H. L. Anderson and F. Cacialli.</refdata></p>
 												<p>
-													<refdata class="journal"><a href="https://www.nature.com/	lsa/">Light Sci. Appl.</a></refdata>,
+													<refdata class="journal"><a href="https://www.nature.com/lsa/">Light Sci. Appl.</a></refdata>,
 													<refdata class="year">2021</refdata>,
 													<refdata class="vol">10</refdata>,
-													<refdata class="page"><a href="https://doi.org/10.1038/	s41377-020-00456-8">18</a></refdata>
+													<refdata class="page"><a href="https://doi.org/10.1038/s41377-020-00456-8">18</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" 	data-src="images/abstracts/323.jpg" alt="" /></span>
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/323.jpg" alt="" /></span>
 											</div>
 										</div>
 										<div class="row ref">
@@ -358,17 +395,17 @@
 												<h4 class="refdatanum">322</h4>
 											</div>
 											<div class="col-9 col-12-small">
-												<h3>Cooperative assembly of H-bonded rosettes inside a 	porphyrin nanoring</h3>
-												<p><refdata class="authors">P. Motloch, P. S. Bols, H. L. 	Anderson and C. A. Hunter.</refdata></p>
+												<h3>Cooperative assembly of H-bonded rosettes inside a porphyrin nanoring</h3>
+												<p><refdata class="authors">P. Motloch, P. S. Bols, H. L. Anderson and C. A. Hunter.</refdata></p>
 												<p>
-													<refdata class="journal"><a href="https://pubs.rsc.org/	en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
+													<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journalissues/sc">Chem. Sci.</a></refdata>,
 													<refdata class="year">2021</refdata>,
 													<refdata class="vol">12</refdata>,
-													<refdata class="page"><a href="https://doi.org/10.1039/	D0SC06097F">1427-1432</a></refdata>
+													<refdata class="page"><a href="https://doi.org/10.1039/D0SC06097F">1427-1432</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" 	data-src="images/abstracts/322.jpg" alt="" /></span>
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/322.jpg" alt="" /></span>
 											</div>
 										</div>
 										<div class="row ref">
@@ -382,11 +419,11 @@
 													<refdata class="journal"><a href="https://onlinelibrary.wiley.com/journal/15213773">Angew. Chem. Int. Ed.</a></refdata>,
 													<refdata class="year">2021</refdata>,
 													<refdata class="vol">60</refdata>,
-													<refdata class="page"><a href="https://doi.org/10.1002/	anie.202013623">5941-5947</a></refdata>
+													<refdata class="page"><a href="https://doi.org/10.1002/anie.202013623">5941-5947</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" 	data-src="images/abstracts/321.jpg" alt="" /></span>
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/321.jpg" alt="" /></span>
 											</div>
 										</div>
 										<div class="row ref">
@@ -394,17 +431,17 @@
 												<h4 class="refdatanum">320</h4>
 											</div>
 											<div class="col-9 col-12-small">
-												<h3>Long-lived charged states of single porphyrin-tape 	junctions under ambient conditions</h3>
-												<p><refdata class="authors">E. Leary, G. Kastlunger, B. 	Limburg, L. Rinc&oacute;n-Garc&iacute;a, J. Hurtado-Gallego, 	M. T. Gonz&aacute;lez, G. R. Bollinger, N. Agrait, S. J. 	Higgins, H. L. Anderson, R. Stadler and R. J. Nichols.</	refdata></p>
+												<h3>Long-lived charged states of single porphyrin-tape junctions under ambient conditions</h3>
+												<p><refdata class="authors">E. Leary, G. Kastlunger, B. Limburg, L. Rinc&oacute;n-Garc&iacute;a, J. Hurtado-Gallego, M. T. Gonz&aacute;lez, G. R. Bollinger, N. Agrait, S. J. Higgins, H. L. Anderson, R. Stadler and R. J. Nichols.</refdata></p>
 												<p>
-													<refdata class="journal"><a href="https://pubs.rsc.org/	en/journals/journal/nh">Nanoscale Horiz.</a></refdata>,
+													<refdata class="journal"><a href="https://pubs.rsc.org/en/journals/journal/nh">Nanoscale Horiz.</a></refdata>,
 													<refdata class="year">2021</refdata>,
 													<refdata class="vol">6</refdata>,
-													<refdata class="page"><a href="https://doi.org/10.1039/	D0NH00415D">49-58</a></refdata>
+													<refdata class="page"><a href="https://doi.org/10.1039/D0NH00415D">49-58</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" 	data-src="images/abstracts/320.jpg" alt="" /></span>
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/320.jpg" alt="" /></span>
 											</div>
 										</div>
 									</section>
