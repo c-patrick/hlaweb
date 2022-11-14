@@ -72,6 +72,47 @@
 									<header class="major">
 									  <h2>Recent News</h2>
 									</header>
+								
+									<div class="row">
+										<div class="col-4 col-12-small">
+											<div class="grid">
+												<a href="group/lidao.shtml" class="image sidebar-picture"><img src="images/group/people/lidao.jpg" alt="" /></a>
+												<a href="group/chiara.shtml" class="image sidebar-picture"><img src="images/group/people/chiara.jpg" alt="" /></a>
+												<a href="group/freddie.shtml" class="image sidebar-picture"><img src="images/group/people/freddie.jpg" alt="" /></a>
+											</div>
+										</div>
+										<div class="col-8 col-12-small">
+											<p class="sidebar">Welcome to our new Part-II students, <a href="group/lidao.shtml">Lidao Li</a>, <a href="group/chiara.shtml">Chiara Pigaiani</a> and <a href="group/freddie.shtml">Frederick Leslie</a>! (September 2022)</p>
+										</div>
+									</div>
+
+									<hr class="sidebar">
+
+									<div class="row">
+										<div class="col-4 col-12-small">
+											<div class="grid">
+												<a href="group/connor.shtml" class="image sidebar-picture"><img src="images/group/people/connor.jpg" alt="" /></a>
+											</div>
+										</div>
+										<div class="col-8 col-12-small">
+											<p class="sidebar">Congratulations to <a href="group/connor.shtml">Connor</a> for defending his thesis and leaving to join Cambridge Display Technology. (June 2022)</p>
+										</div>
+									</div>
+
+									<hr class="sidebar">
+
+									<div class="row">
+										<div class="col-4 col-12-small">
+											<div class="grid">
+												<a href="group/thea.shtml" class="image sidebar-picture"><img src="images/group/people/thea.jpg" alt="" /></a>
+											</div>
+										</div>
+										<div class="col-8 col-12-small">
+											<p class="sidebar">Congratulations to <a href="group/thea.shtml">Th&eacute;a</a> for handing in the Part-II thesis. (June 2022)</p>
+										</div>
+									</div>
+								
+									<hr class="sidebar">
 
 									<div class="row">
 										<div class="col-4 col-12-small">
@@ -110,46 +151,6 @@
 										</div>
 									</div>
 
-									<hr class="sidebar">
-
-									<div class="row">
-										<div class="col-4 col-12-small">
-											<div class="grid">
-												<a href="group/virginia.shtml" class="image sidebar-picture"><img src="images/group/people/virginia.jpg" alt="" /></a>
-											</div>
-										</div>
-										<div class="col-8 col-12-small">
-											<p class="sidebar">Goodbye <a href="group/virginia.shtml">Virginia Wycisk</a>, who is returning to Germany. (October 2021)</p>
-										</div>
-									</div>
-
-									<hr class="sidebar">
-
-									<div class="row">
-										<div class="col-4 col-12-small">
-											<div class="grid">
-												<a href="group/wenjun.shtml" class="image sidebar-picture"><img src="images/group/people/wenjun.jpg" alt="" /></a>
-											</div>
-										</div>
-										<div class="col-8 col-12-small">
-											<p class="sidebar">Goodbye <a href="group/wenjun.shtml">Wenjun</a>, we wish you the best for your future! (September 2021)</p>
-										</div>
-									</div>
-
-									<hr class="sidebar">
-
-									<div class="row">
-										<div class="col-4 col-12-small">
-											<div class="grid">
-												<a href="group/jake.shtml" class="image sidebar-picture"><img src="images/group/people/jake.jpg" alt="" /></a>
-												<a href="group/prakhar.shtml" class="image sidebar-picture"><img src="images/group/people/prakhar.jpg" alt="" /></a>
-											</div>
-										</div>
-										<div class="col-8 col-12-small">
-											<p class="sidebar">Welcome to our two new DPhil students, <a href="group/jake.shtml">Jake Holmes</a> and <a href="group/prakhar.shtml">Prakhar Gupta</a>! (September 2021)</p>
-										</div>
-									</div>
-								
 									<hr class="sidebar">
 
 									<ul class="actions center">

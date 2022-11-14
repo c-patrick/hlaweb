@@ -53,32 +53,15 @@
 										<h3>Preprints</h3>
 										<div class="row ref">
 											<div class="col-1 col-12-small">
-												<h4 class="refdatanum">3</h4>
+												<h4 class="refdatanum">2</h4>
 											</div>
 											<div class="col-9 col-12-small">
 												<h3>Conjugated Porphyrin Tapes as Quantum Mediators for Vanadyl Qubits</h3>
-												<p><refdata class="authors">I. Pozo, F. Lombardi, D. I. Alexandropoulos, F. Kong, J.-R. Deng, P. N. Horton, S. J. Coles, W. K. Myers, L. Bogani and H. L. Anderson</refdata></p>
+												<p><refdata class="authors">I. Pozo, F. Lombardi, D. I. Alexandropoulos, F. Kong, J.-R. Deng, P. N. Horton, S. J. Coles, W. K. Myers, L. Bogani and H. L. Anderson.</refdata></p>
 												<p>
 													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
 													<refdata class="year">2022</refdata>,
 													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2022-1v5b4">10.26434/chemrxiv-2022-1v5b4</a></refdata>
-												</p>
-											</div>
-											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/3.jpg" alt="" /></span>
-											</div>
-										</div>
-										<div class="row ref">
-											<div class="col-1 col-12-small">
-												<h4 class="refdatanum">2</h4>
-											</div>
-											<div class="col-9 col-12-small">
-												<h3>Phase-Coherent Charge Transport through a Porphyrin Nanoribbon-Graphene Junction</h3>
-												<p><refdata class="authors">Z. Chen, J.-R. Deng, S. Hou, X. Bian, J. L. Swett, Q. Wu, J. Baugh, G. A. D. Briggs, J. A. Mol, C. J. Lambert, H. L. Anderson and J. O. Thomas</refdata></p>
-												<p>
-													<refdata class="journal"><a href="https://arxiv.org/">arXiv</a></refdata>,
-													<refdata class="year">2022</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.48550/arXiv.2205.08499">10.48550/arXiv.2205.08499</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
@@ -90,12 +73,12 @@
 												<h4 class="refdatanum">1</h4>
 											</div>
 											<div class="col-9 col-12-small">
-												<h3>Charge-state dependent vibrational relaxation in a single-molecule junction</h3>
-												<p><refdata class="authors">X. Bian, Z. Chen, J. K. Sowa, C. Evangeli, B. Limburg, J. L. Swett, J. Baugh, G. A. D. Briggs, H. L. Anderson, J. A. Mol and J. O. Thomas</refdata></p>
+												<h3>Phase-Coherent Charge Transport through a Porphyrin Nanoribbon-Graphene Junction</h3>
+												<p><refdata class="authors">Z. Chen, J.-R. Deng, S. Hou, X. Bian, J. L. Swett, Q. Wu, J. Baugh, G. A. D. Briggs, J. A. Mol, C. J. Lambert, H. L. Anderson and J. O. Thomas.</refdata></p>
 												<p>
 													<refdata class="journal"><a href="https://arxiv.org/">arXiv</a></refdata>,
 													<refdata class="year">2022</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.48550/arXiv.2202.12682">10.48550/arXiv.2202.12682</a></refdata>
+													<refdata class="page">DOI: <a href="https://doi.org/10.48550/arXiv.2205.08499">10.48550/arXiv.2205.08499</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
@@ -130,6 +113,25 @@
 										-->
 										<div class="row ref">
 											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">337</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Charge-state dependent vibrational relaxation in a single-molecule junction</h3>
+												<p><refdata class="authors">X. Bian, Z. Chen, J. K. Sowa, C. Evangeli, B. Limburg, J. L. Swett, J. Baugh, G. A. D. Briggs, H. L. Anderson, J. A. Mol and J. O. Thomas.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://journals.aps.org/prl/">Phys. Rev. Lett.</a></refdata>,
+													<refdata class="year">2022</refdata>,
+													<refdata class="vol">129</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1103/PhysRevLett.129.207702">207702</a></refdata> |
+													<refdata class="page"><a href="https://doi.org/10.48550/arXiv.2202.12682">arXiv</a></refdata>	
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/337.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">336</h4>
 											</div>
 											<div class="col-9 col-12-small">
@@ -142,6 +144,15 @@
 													<refdata class="page">DOI: <a href="https://doi.org/10.1038/s41557-022-01032-w">10.1038/s41557-022-01032-w</a></refdata> |
 													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2022-6b0pc">ChemRxiv</a></refdata>	
 												</p>
+												<div class="box">
+													<b>Highlighted in:</b>
+														<p class="pub">
+															<refdata class="journal"><a href="https://cen.acs.org/index.html">C&E News</a></refdata> (25 Oct. 2022); <a href="https://cen.acs.org/synthesis/Molecular-ring-mimics-photosynthetic-machinery/100/web/2022/10?utm_source=Newsletter&utm_medium=Newsletter&utm_campaign=CEN">"<i>Molecular ring mimics photosynthetic machinery</i>"</a>, Mark Peplow
+														</p>
+														<p class="pub">
+															<refdata class="journal"><a href="https://www.chemistryviews.org/">ChemistryViews</a></refdata> (30 Oct. 2022); <a href="https://www.chemistryviews.org/24-porphyrin-nanoring-as-a-model-for-light-harvesting-systems/?utm_source=dlvr.it&utm_medium=twitter">"<i>24-Porphyrin Nanoring as a Model for Light-Harvesting Systems</i>"</a>
+														</p>
+													</div>
 											</div>
 											<div class="col-2 col-12-small">
 												<span class="image pub"><img class="lazyload" data-src="images/abstracts/336.jpg" alt="" /></span>
@@ -158,7 +169,7 @@
 													<refdata class="journal"><a href="https://www.nature.com/ncomms/">Nat. Commun.</a></refdata>,
 													<refdata class="year">2022</refdata>,
 													<refdata class="vol">13</refdata>,
-													<refdata class="page"><a href="https://www.nature.com/articles/s41467-022-31909-w">4506</a></refdata>
+													<refdata class="page"><a href="https://doi.org/10.1038/s41467-022-31909-w">4506</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
