@@ -37,25 +37,40 @@
 										<thead>
 											<tr>
 											<th>Previous Members</th>
-											<th>Previous Position</th>
+											<th>Position in the HLA group</th>
 											<th>Current Institution</th>
 											</tr>
 										</thead>
 										<tbody>
+											<tr>
+												<td><a href="http://anderson.chem.ox.ac.uk/" target="_blank">Ed Anderson</a></td>
+												<td>Part II 1996-1997</td>
+												<td>Oxford University, UK</td>
+											</tr>
+											<tr>
+												<td><a href="https://yonsei.pure.elsevier.com/en/persons/milan-balaz" target="_blank">Milan Balaz</a></td>
+												<td>Postdoctoral RA 2005-2008</td>
+												<td>Yonsei University, South Korea</td>
+											</tr>
+											<tr>
+												<td><a href="https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/principal-scientists/rienk-eelkema" target="_blank">Rienk Eelkema</a></td>
+												<td>Postdoctoral RA 2006-2008</td>
+												<td>Delft University</td>
+											</tr>
+											<tr>
+												<td><a href="https://locbp.pages.uzh.ch/web/" target="_blank">Pablo Rivera-Fuentes</a></td>
+												<td>Postdoctoral RA 2014-2015</td>
+												<td>University of Zurich, Switzerland</td>
+											</tr>
 											<tr>
 												<td><a href="http://gawel.edu.pl" target="_blank">Przemyslaw Gawel</a></td>
 												<td>Postdoctoral RA 2015-2019</td>
 												<td>Polish Academy of Sciences, Poland</td>
 											</tr>
 											<tr>
-												<td><a href="https://www.chem.uzh.ch/en/research/groups/rickhaus" target="_blank">Michel Rickhaus</a></td>
-												<td>Postdoctoral RA 2016-2019</td>
-												<td>University of Zurich, Switzerland</td>
-											</tr>
-											<tr>
-												<td><a href="https://research.unsw.edu.au/people/dr-martin-peeks" target="_blank">Martin Peeks</a></td>
-												<td>Postdoctoral RA (2017, 2018-19)</td>
-												<td>University of New South Wales, Australia</td>
+												<td><a href="https://www.ncl.ac.uk/nes/people/profile/michaelhall.html" target="_blank">Michael Hall</a></td>
+												<td>Part II 1998-1999</td>
+												<td>Newcastle University, UK</td>
 											</tr>
 											<tr>
 												<td><a href="http://sams.ics-cnrs.unistra.fr/en/team/current-members/permanent-members/dr-andreas-v-jentzsch/" target="_blank">Andreas Jentzsch</a></td>
@@ -63,13 +78,58 @@
 												<td>University of Strasbourg, France</td>
 											</tr>
 											<tr>
+												<td><a href="https://iscr.univ-rennes1.fr/huriye-akdas-kilic" target="_blank">Huriye Akdas-Kilig</a></td>
+												<td>Postdoctoral RA 2002-2004</td>
+												<td>University of Rennes, France</td>
+											</tr>
+											<tr>
+												<td><a href="http://research.chem.ox.ac.uk/matthew-langton.aspx" target="_blank">Matthew Langton</a></td>
+												<td>Part II 2010-2011</td>
+												<td>Oxford University, UK</td>
+											</tr>
+											<tr>
+												<td><a href=" https://limburglab.com" target="_blank">Bart Limburg</a></td>
+												<td>Postdoctoral RA 2016-2018</td>
+												<td>University of Barcelona, Spain</td>
+											</tr>
+											<tr>
+												<td><a href="http://www.labome.org/expert/japan/kyoto/morisue/mitsuhiko-morisue-1641645.html" target="_blank">Mitsuhiko Morisue</a></td>
+												<td>Visiting Academic 2010-2011</td>
+												<td>Kyoto Institute of Technology, Japan</td>
+											</tr>
+											<tr>
+												<td><a href="http://www.chem.tsukuba.ac.jp/nakamura/en/index.html" target="_blank">Takashi Nakamura</a></td>
+												<td>Visiting Student 2010</td>
+												<td>Assistant Professor at the University of Tsukuba, Japan</a></td>
+											</tr>
+											<tr>
+												<td><a href="http://www.nims.go.jp/macromol/nakanishi" target="_blank">Takashi Nakanishi</a></td>
+												<td>Postdoctoral RA 2003</td>
+												<td>National Institute for Materials Science, Tsukuba, Japan</td>
+											</tr>
+											<tr>
+												<td><a href="https://mjplab.org/" target="_blank">Milosz Pawlicki</a></td>
+												<td>Postdoctoral RA 2007-2008</td>
+												<td>Jagiellonian University, Kraków, Poland</td>
+											</tr>
+											<tr>
+												<td><a href="https://research.unsw.edu.au/people/dr-martin-peeks" target="_blank">Martin Peeks</a></td>
+												<td>Postdoctoral RA (2017, 2018-19)</td>
+												<td>University of New South Wales, Australia</td>
+											</tr>
+											<tr>
+												<td><a href="https://pevelerlab.wordpress.com" target="_blank">William Peveler</a></td>
+												<td>Part II 2010-2011</td>
+												<td>University of Glasgow</td>
+											</tr>
+											<tr>
 												<td><a href="http://staff.lincoln.ac.uk/ggilramirez" target="_blank">Guzman Gil-Ramirez</a></td>
 												<td>Postdoctoral RA 2010-2012</td>
 												<td>University of Lincoln, UK</td>
 											</tr>
 											<tr>
-												<td><a href="https://locbp.pages.uzh.ch/web/" target="_blank">Pablo Rivera-Fuentes</a></td>
-												<td>Postdoctoral RA 2014-2015</td>
+												<td><a href="https://www.chem.uzh.ch/en/research/groups/rickhaus" target="_blank">Michel Rickhaus</a></td>
+												<td>Postdoctoral RA 2016-2019</td>
 												<td>University of Zurich, Switzerland</td>
 											</tr>
 											<tr>
@@ -78,54 +138,9 @@
 												<td>University of Toronto, Canada</td>
 											</tr>
 											<tr>
-												<td><a href="http://www.labome.org/expert/japan/kyoto/morisue/mitsuhiko-morisue-1641645.html" target="_blank">Mitsuhiko Morisue</a></td>
-												<td>Visiting Academic 2010-2011</td>
-												<td>Kyoto Institute of Technology, Japan</td>
-											</tr>
-											<tr>
-												<td><a href="http://research.chem.ox.ac.uk/matthew-langton.aspx" target="_blank">Matthew Langton</a></td>
-												<td>Part II 2010-2011</td>
-												<td>Oxford University, UK</td>
-											</tr>
-											<tr>
-												<td><a href="http://www.chem.tsukuba.ac.jp/nakamura/en/index.html" target="_blank">Takashi Nakamura</a></td>
-												<td>Visiting Student 2010</td>
-												<td>Assistant Professor at the University of Tsukuba, Japan</a></td>
-											</tr>
-											<tr>
 												<td><a href="http://hyoka.ofc.kyushu-u.ac.jp/search/details/K004176/english.html" target="_blank">Atsuomi Shundo</td>
 												<td>Postdoctoral RA 2009-2010</td>
 												<td>Kyushu University, Japan</td>
-											</tr>
-											<tr>
-												<td><a href="https://mjplab.org/" target="_blank">Milosz Pawlicki</a></td>
-												<td>Postdoctoral RA 2007-2008</td>
-												<td>Jagiellonian University, Kraków, Poland</td>
-											</tr>
-											<tr>
-												<td><a href="https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/principal-scientists/rienk-eelkema" target="_blank">Rienk Eelkema</a></td>
-												<td>Postdoctoral RA 2006-2008</td>
-												<td>Delft University</td>
-											</tr>
-											<tr>
-												<td><a href="https://yonsei.pure.elsevier.com/en/persons/milan-balaz" target="_blank">Milan Balaz</a></td>
-												<td>Postdoctoral RA 2005-2008</td>
-												<td>Yonsei University, South Korea</td>
-											</tr>
-											<tr>
-												<td><a href="https://chem.as.uky.edu/users/saodom0" target="_blank">Susan Odom</a></td>
-												<td>Visiting PhD Student 2005</td>
-												<td>Assistant Professor, University of Kentucky, USA</td>
-											</tr>
-											<tr>
-												<td><a href="https://iscr.univ-rennes1.fr/huriye-akdas-kilic" target="_blank">Huriye Akdas-Kilig</a></td>
-												<td>Postdoctoral RA 2002-2004</td>
-												<td>University of Rennes, France</td>
-											</tr>
-											<tr>
-												<td><a href="http://www.nims.go.jp/macromol/nakanishi" target="_blank">Takashi Nakanishi</a></td>
-												<td>Postdoctoral RA 2003</td>
-												<td>National Institute for Materials Science, Tsukuba, Japan</td>
 											</tr>
 											<tr>
 												<td><a href="http://park.itc.u-tokyo.ac.jp/terao/custom.html" target="_blank">Jun Terao</a></td>
@@ -137,28 +152,18 @@
 												<td>Postdoctoral RA 2000-2002</td>
 												<td>University of Bilkent, Turkey</td>
 											</tr>
-											<tr>
-												<td><a href="https://www.ncl.ac.uk/nes/people/profile/michaelhall.html" target="_blank">Michael Hall</a></td>
-												<td>Part II 1998-1999</td>
-												<td>Newcastle University, UK</td>
-											</tr>
-											<tr>
-												<td><a href="http://anderson.chem.ox.ac.uk/" target="_blank">Ed Anderson</a></td>
-												<td>Part II 1996-1997</td>
-												<td>Oxford University, UK</td>
-											</tr>
 										</tbody>
 									</table>
 									
 									<hr />
 									
-									<p>If you are a previous member of the group please stay in touch and let us know how you are doing. It's always nice to know how the people you have worked with are getting on and what they are currently doing. <a href="mailto:connor.patrick@chem.ox.ac.uk">(Please click here to update your current status)</a></p>
+									<p>If you are a previous member of the group please stay in touch and let us know how you are doing. It's always nice to know how the people you have worked with are getting on and what they are currently doing. <a href="mailto:prakhar.gupta@chem.ox.ac.uk">(Please click here to update your current status)</a></p>
 									
 									<table class="alumni nolink">
 										<thead>
 											<tr>
 												<th>Previous Members</th>
-												<th>Position in the group</th>
+												<th>Position in the HLA group</th>
 												<th>What they went on to</th>
 											</tr>
 										</thead>
