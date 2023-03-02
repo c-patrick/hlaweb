@@ -115,6 +115,18 @@
 										</article>
 										-->
 										<article>
+											<a href="https://doi.org/10.1038/s41598-021-99881-x" class="image front"><img class="lazyload" data-src="images/abstracts/338.jpg" alt="" /></a>
+											<h3>Strained Porphyrin Tape-Cycloparaphenylene Hybrid Nanorings</h3>
+											<p><refdata class="authors">W. Stawski, J. M. Van Raden, C. W. Patrick, P. N. Horton, J. Coles and H. L. Anderson.</refdata></p>
+											<p>
+												<refdata class="journal"><a href="https://pubs.acs.org/journal/orlef7">Org. Lett.</a></refdata>,
+												<refdata class="year">2023</refdata>,
+												<refdata class="vol">25</refdata>,
+												<refdata class="page"><a href="https://doi.org/10.1021/acs.orglett.2c04089">378-383</a></refdata> |
+												<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2022-c4dht">ChemRxiv</a></refdata>	
+											</p>
+										</article>
+										<article>
 											<a href="https://doi.org/10.1103/PhysRevLett.129.207702" class="image front"><img class="lazyload" data-src="images/abstracts/337.jpg" alt="" /></a>
 											<h3>Charge-state dependent vibrational relaxation in a single-molecule junction</h3>
 											<p><refdata class="authors">X. Bian, Z. Chen, J. K. Sowa, C. Evangeli, B. Limburg, J. L. Swett, J. Baugh, G. A. D. Briggs, H. L. Anderson, J. A. Mol and J. O. Thomas.</refdata></p>
@@ -181,18 +193,6 @@
 												<refdata class="page"><a href="https://doi.org/10.1002/anie.202201231">e202201231</a></refdata> |
 												<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2021-hm34v">ChemRxiv</a></refdata>	
 												</p>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1038/s41598-021-99881-x" class="image front"><img class="lazyload" data-src="images/abstracts/332.jpg" alt="" /></a>
-											<h3>A Porphyrin Pentamer as a Bright Emitter for NIR OLEDs</h3>
-											<p><refdata class="authors">L. Tejerina, A. G. Rapidis, M. Rickhaus, M. Petri, Z. Genene, E. Wang, A. Minotto, H. L. Anderson and F. Cacialli.</refdata></p>
-											<p>
-												<refdata class="journal"><a href="https://www.rsc.org/journals-books-databases/about-journals/journal-of-materials-chemistry-c/">J. Mater. Chem. C</a></refdata>,
-												<refdata class="year">2022</refdata>,
-												<refdata class="vol">10</refdata>,
-												<refdata class="page"><a href="https://doi.org/10.1039/d1tc05951c">5929-5933</a></refdata> | 
-												<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2021-v8b0k">ChemRxiv</a></refdata>	
-											</p>
 										</article>
 									</div>
 									

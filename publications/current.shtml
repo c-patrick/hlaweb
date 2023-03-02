@@ -56,12 +56,12 @@
 												<h4 class="refdatanum">3</h4>
 											</div>
 											<div class="col-9 col-12-small">
-												<h3>Strained Porphyrin Tape-Cycloparaphenylene Hybrid Nanorings</h3>
-												<p><refdata class="authors">W. Stawski, J. M. Van Raden, C. W. Patrick, P. N. Horton, J. Coles and H. L. Anderson.</refdata></p>
+												<h3>Masked alkynes for synthesis of threaded carbon chains</h3>
+												<p><refdata class="authors">C. W. Patrick, Y. Gao, P. Gupta, A. L. Thompson, A. W. Parker and H. L. Anderson.</refdata></p>
 												<p>
 													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
 													<refdata class="year">2022</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2022-c4dht">10.26434/chemrxiv-2022-c4dht</a></refdata>
+													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2023-cdlwl">10.26434/chemrxiv-2023-cdlwl</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
@@ -128,6 +128,25 @@
 											</div>
 										</div>
 										-->
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">338</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Strained Porphyrin Tape-Cycloparaphenylene Hybrid Nanorings</h3>
+												<p><refdata class="authors">W. Stawski, J. M. Van Raden, C. W. Patrick, P. N. Horton, J. Coles and H. L. Anderson.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://pubs.acs.org/journal/orlef7">Org. Lett.</a></refdata>,
+													<refdata class="year">2023</refdata>,
+													<refdata class="vol">25</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1021/acs.orglett.2c04089">378-383</a></refdata> |
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2022-c4dht">ChemRxiv</a></refdata>	
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/338.jpg" alt="" /></span>
+											</div>
+										</div>
 										<div class="row ref">
 											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">337</h4>
