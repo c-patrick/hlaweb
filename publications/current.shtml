@@ -56,12 +56,12 @@
 												<h4 class="refdatanum">5</h4>
 											</div>
 											<div class="col-9 col-12-small">
-												<h3>A photoswitchable solvatochromic dye for probing membrane ordering by RESOLFT super-resolution microscopy</h3>
-												<p><refdata class="authors">A. T. Frawley, K. G. Leslie, V. Wycisk, S. Galiani, D. Shrestha, C. Eggeling, and H. L. Anderson.</refdata></p>
+												<h3>On-surface synthesis of a doubly anti-aromatic carbon allotrope: Cyclo[16]carbon</h3>
+												<p><refdata class="authors">Y. Gao, F. Albrecht, I. Rončević, I. Ettedgui, P. Kumar, L. M. Scriven, K. E. Christensen, S. Mishra, L. Righetti, M. Rossmannek, I. Tavernelli, H. L. Anderson and L. Gross.</refdata></p>
 												<p>
 													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
 													<refdata class="year">2023</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2023-9f4zq">10.26434/chemrxiv-2023-9f4zq</a></refdata>
+													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2023-w124b">10.26434/chemrxiv-2023-w124b</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
@@ -73,12 +73,12 @@
 												<h4 class="refdatanum">4</h4>
 											</div>
 											<div class="col-9 col-12-small">
-												<h3>Covalent Template-Directed Synthesis of a Spoked 18-Porphyrin Nanoring</h3>
-												<p><refdata class="authors">M. A. Majewski, W. Stawski, J. M. Van Raden, M. Clarke, J. Hart, J. N. O’Shea, A. Saywell and H. L. Anderson.</refdata></p>
+												<h3>A photoswitchable solvatochromic dye for probing membrane ordering by RESOLFT super-resolution microscopy</h3>
+												<p><refdata class="authors">A. T. Frawley, K. G. Leslie, V. Wycisk, S. Galiani, D. Shrestha, C. Eggeling, and H. L. Anderson.</refdata></p>
 												<p>
 													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
 													<refdata class="year">2023</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2023-n1kzs">10.26434/chemrxiv-2023-n1kzs</a></refdata>
+													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2023-9f4zq">10.26434/chemrxiv-2023-9f4zq</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
@@ -164,6 +164,25 @@
 										-->
 										<div class="row ref">
 											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">341</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Covalent Template-Directed Synthesis of a Spoked 18-Porphyrin Nanoring</h3>
+												<p><refdata class="authors">M. A. Majewski, W. Stawski, J. M. Van Raden, M. Clarke, J. Hart, J. N. O’Shea, A. Saywell and H. L. Anderson.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://pubs.acs.org/journal/orlef7">Angew. Chem. Int. Ed.</a></refdata>,
+													<refdata class="year">2023</refdata>,
+													<refdata class="vol">62</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1002/anie.202302114">e202302114</a></refdata> |
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-n1kzs">ChemRxiv</a></refdata>	
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/341.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">340</h4>
 											</div>
 											<div class="col-9 col-12-small">
@@ -175,9 +194,9 @@
 													<refdata class="page">DOI: <a href="https://doi.org/10.1039/D2SC04998H">10.1039/D2SC04998H</a></refdata>
 												</p>
 											</div>
-											<!--<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" data-src="images/abstracts/339.jpg" alt="" /></span>
-											</div>-->
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/340.jpg" alt="" /></span>
+											</div>
 										</div>
 										<div class="row ref">
 											<div class="col-1 col-12-small">
@@ -246,7 +265,7 @@
 													<refdata class="journal"><a href="https://www.nature.com/nchem/">Nat. Chem.</a></refdata>,
 													<refdata class="year">2022</refdata>,
 													<refdata class="vol">14</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.1038/s41557-022-01032-w">10.1038/s41557-022-01032-w</a></refdata> |
+													<refdata class="page"><a href="https://doi.org/10.1038/s41557-022-01032-w">1436–1442</a></refdata> |
 													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2022-6b0pc">ChemRxiv</a></refdata>	
 												</p>
 												<div class="box">
