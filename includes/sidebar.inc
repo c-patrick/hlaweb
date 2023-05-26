@@ -46,6 +46,7 @@
 										<li><a href="/vacancies.shtml">Join Us</a></li>
 										<li><a href="/contact.shtml">Find Us</a></li>
 										<li><a href="/collaborators.shtml">Our Collaborators</a></li>
+										<li><a href="/erc.shtml">ERC Grant</a></li>
 									</ul>
 								</nav>
 

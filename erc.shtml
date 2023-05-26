@@ -1,0 +1,112 @@
+<!DOCTYPE HTML>
+<!--
+	Harry Anderson Group Website
+	Connor Patrick | connor<dot>patrick<at>chem<dot>ox<dot>ac<dot>uk
+	https://github.com/c-patrick/hlaweb
+-->
+<html lang="en">
+	<head>
+		<title>Anderson Research Group | University of Oxford</title>
+		<meta name="keywords" content="porphyrin, rotaxanes, PDT, photodynamic therapy, molecular wires, molecular machines, supramolecular chemistry, encapsulation, dyes, photophysics" />
+		<meta name="description" content="A collection of groups with whom we collaborate with.">
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--#include virtual="includes/head_theme.inc" -->
+		<link href="assets/css/flag-icon.css" rel="stylesheet">
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								<!--#include virtual="includes/header.inc" -->
+
+
+							<!-- Content -->
+								<section>
+									<header class="major">
+										<h3>ERC Advanced Grant:	Nanoscale Aromaticity and Supramolecular Electronic Materials
+                                            ARO-MAT (Project Number: 885606)
+                                        </h3>
+									</header>
+									<p><img src="images/abstracts/erc.jpg" alt="erc" style="float:right;"><b>Conspectus:</b> ARO-MAT targets emergent cooperative electronic and magnetic phenomena in molecules with dimensions of 5–25 nm (i.e. as big as many proteins). The project is developing supramolecular architectures with large pi-systems and well-defined geometries, in which the frontier orbitals coherently delocalize charge over the whole nanostructure. Aromaticity is a key emergent phenomenon; it can be defined as the ability of a cyclic molecule to sustain a ring current when placed in a magnetic field. Until recently, it was thought that aromaticity is restricted to small molecules, with circuits of less than about 22 pi-electrons. Anderson has shown that circuits of more than 160 pi-electrons (circumference > 15 nm) can exhibit strong aromatic ring currents. Testing even larger rings will elucidate the link between aromaticity and the persistent currents found in non-molecular mesoscopic rings (diameter 50–500 nm). ARO-MAT is exploring the effects of molecular size and topology on nanoscale aromaticity. Other emergent phenomena to be addressed include the formation of open-shell singlet polyradical ground states, magnetic bistability in systems with many paramagnetic metal centers, and the control of charge transport through single-molecule devices by quantum interference. This multidisciplinary project combines organic synthesis, supramolecular chemistry, theory, electronic structure calculations, NMR and EPR spectroscopy, magnetochemistry, molecular electronics and low-temperature charge transport experiments. The core objective is to create low band gap materials with unprecedented electronic and magnetic properties, and to understand the structure-property relationships governing the behavior of these new materials. Most of the target structures are based on metalloporphyrins because of their redox activity, stability, structural versatility, suitability for template-directed synthesis and ability to position multiple strongly coupled paramagnetic metal centers.</p>
+                                </section>
+                                <div class="row">
+                                    <div class="col-4 col-12-small">
+                                        <section>
+                                            <header class="name-center">
+                                                <h3><i>Principal Investigator:</i></h3>  
+                                            </header>
+                                            <header class="name-center">
+                                                <h3>Prof. Harry L. Anderson</h3>
+                                            </header>
+                                            <center>
+                                                <h4>(Oxford University, Department of Chemistry)</h4><br><br>     
+                                            </center>
+                                            <a href="https://www.chem.ox.ac.uk/people/harry-anderson" class="image profile"><img src="/images/group/people/harry5.jpg" alt="" /></a>        
+                                            <header class="name-center">
+                                            <h3><a href="https://www.chem.ox.ac.uk/people/harry-anderson"><b>Profile</b></a></h3><br> 
+                                            </header>                                               
+                                        </section>
+                                    </div>
+                                    <div class="col-8 col-12-small">
+                                        <header class="name-center">
+                                            <h3><i>Senior Team Members:</i></h3> 
+                                        </header>
+                                        <div class="row">
+                                            <div class="col-6 col-12-small">
+                                                <section>
+                                                    <header class="name-center">
+                                                        <h3>Prof. Lapo Bogani</h3>
+                                                    </header>
+                                                    <center>
+                                                        <h4>(Oxford University, Department of Materials)</h4><br><br>     
+                                                    </center>       
+                                                    <a href="https://www.materials.ox.ac.uk/peoplepages/bogani.html" class="image profile"><img src="/images/group/people/lapo.jpg" alt="" /></a>
+                                                    <header class="name-center">
+                                                        <h3><a href="https://www.materials.ox.ac.uk/peoplepages/bogani.html"><b>Profile</b></a></h3><br> 
+                                                    </header>                                               
+                                                </section>
+                                            </div>
+                                            <div class="col-6 col-12-small">
+                                                <section>
+                                                    <header class="name-center">
+                                                        <h3>Prof. Christiane R. Timmel</h3>
+                                                    </header>
+                                                    <center>
+                                                        <h4>(Oxford University, Department of Chemistry & Centre for Advanced Electron Spin Resonance)</h4><br>     
+                                                    </center>       
+                                                    <a href="https://www.chem.ox.ac.uk/people/christiane-timmel" class="image profile"><img src="/images/group/people/chris.jpg" alt="" /></a>
+                                                    <header class="name-center">
+                                                        <h3><a href="https://www.chem.ox.ac.uk/people/christiane-timmel"><b>Profile</b></a></h3><br> 
+                                                    </header>                                               
+                                                </section>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+				<!--#include virtual="/includes/sidebar.inc" -->	
+
+			</div>
+		
+		<!-- IE-Banner -->
+			<!--#include virtual="/includes/ie-banner.inc" -->
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script src="assets/js/lazysizes.min.js"></script>
+
+	</body>
+</html>
