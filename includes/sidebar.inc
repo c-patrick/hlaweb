@@ -73,7 +73,50 @@
 									<header class="major">
 									  <h2>Recent News</h2>
 									</header>
-								
+
+									<hr class="sidebar">
+
+									<div class="row">
+										<div class="col-4 col-12-small">
+											<div class="grid">
+												<a href="group/lidao.shtml" class="image sidebar-picture"><img src="images/group/people/lidao.jpg" alt="" /></a>
+												<a href="group/chiara.shtml" class="image sidebar-picture"><img src="images/group/people/chiara.jpg" alt="" /></a>
+												<a href="group/freddie.shtml" class="image sidebar-picture"><img src="images/group/people/freddie.jpg" alt="" /></a>
+											</div>
+										</div>
+										<div class="col-8 col-12-small">
+											<p class="sidebar">Congratulations to <a href="group/lidao.shtml">Lidao Li</a>, <a href="group/chiara.shtml">Chiara Pigaiani</a> and <a href="group/freddie.shtml">Frederick Leslie</a> for handing in their Part-II thesis. (June 2023)</p>
+										</div>
+									</div>
+
+									<hr class="sidebar">
+
+									<div class="row">
+										<div class="col-4 col-12-small">
+											<div class="grid">
+												<a href="group/jieren.shtml" class="image sidebar-picture"><img src="images/group/people/jieren.jpg" alt="" /></a>
+											</div>
+										</div>
+										<div class="col-8 col-12-small">
+											<p class="sidebar">Congratulations to <a href="group/jieren.shtml">Kenny</a>, for defending his thesis and leaving to join as PDRA in Bailey group. (June 2023)</p>
+										</div>
+									</div>
+
+									<hr class="sidebar">
+
+									<div class="row">
+										<div class="col-4 col-12-small">
+											<div class="grid">
+												<a href="group/arnau.shtml" class="image sidebar-picture"><img src="images/group/people/arnau.jpg" alt="" /></a>
+											</div>
+										</div>
+										<div class="col-8 col-12-small">
+											<p class="sidebar">A warm welcome to, <a href="group/arnau.shtml">Arnau</a>, who is joining us as a Postdoctoral Research Assistant. (October 2022)</p>
+										</div>
+									</div>
+
+									<hr class="sidebar">
+
 									<div class="row">
 										<div class="col-4 col-12-small">
 											<div class="grid">
@@ -87,6 +130,22 @@
 										</div>
 									</div>
 
+
+									<hr class="sidebar">
+
+
+									<div class="row">
+										<div class="col-4 col-12-small">
+											<div class="grid">
+												<a href="group/igorr.shtml" class="image sidebar-picture"><img src="images/group/people/igorr.jpg" alt="" /></a>
+											</div>
+										</div>
+										<div class="col-8 col-12-small">
+											<p class="sidebar">A warm welcome to, <a href="group/igorr.shtml">Igor</a>, who is joining us as a Postdoctoral Research Assistant. (June 2022)</p>
+										</div>
+									</div>
+
+
 									<hr class="sidebar">
 
 									<div class="row">
@@ -99,60 +158,6 @@
 											<p class="sidebar">Congratulations to <a href="group/connor.shtml">Connor</a> for defending his thesis and leaving to join Cambridge Display Technology. (June 2022)</p>
 										</div>
 									</div>
-
-									<hr class="sidebar">
-
-									<div class="row">
-										<div class="col-4 col-12-small">
-											<div class="grid">
-												<a href="group/thea.shtml" class="image sidebar-picture"><img src="images/group/people/thea.jpg" alt="" /></a>
-											</div>
-										</div>
-										<div class="col-8 col-12-small">
-											<p class="sidebar">Congratulations to <a href="group/thea.shtml">Th&eacute;a</a> for handing in the Part-II thesis. (June 2022)</p>
-										</div>
-									</div>
-								
-									<hr class="sidebar">
-
-									<div class="row">
-										<div class="col-4 col-12-small">
-											<div class="grid">
-												<a href="group/jeff.shtml" class="image sidebar-picture"><img src="images/group/people/jeff.jpg" alt="" /></a>
-											</div>
-										</div>
-										<div class="col-8 col-12-small">
-											<p class="sidebar">Goodbye to <a href="group/jeff.shtml">Jeff</a>, all the best in the future! (April 2022)</p>
-										</div>
-									</div>
-								
-									<hr class="sidebar">
-										
-									<div class="row">
-										<div class="col-4 col-12-small">
-											<div class="grid">
-												<a href="group/marcin.shtml" class="image sidebar-picture"><img src="images/group/people/marcin.jpg" alt="" /></a>
-											</div>
-										</div>
-										<div class="col-8 col-12-small">
-											<p class="sidebar">Goodbye <a href="group/marcin.shtml">Marcin Majewski</a>, who is returning to Poland. (January 2022)</p>
-										</div>
-									</div>
-
-									<hr class="sidebar">
-
-									<div class="row">
-										<div class="col-4 col-12-small">
-											<div class="grid">
-												<a href="group/iago.shtml" class="image sidebar-picture"><img src="images/group/people/iago.jpg" alt="" /></a>
-											</div>
-										</div>
-										<div class="col-8 col-12-small">
-											<p class="sidebar">A warm welcome to <a href="group/iago.shtml">Iago</a>, who is joining us as a Postdoctoral Research Assistant. (January 2022)</p>
-										</div>
-									</div>
-
-									<hr class="sidebar">
 
 									<ul class="actions center">
 										<li><a href="/news.shtml" class="button">More</a></li>
