@@ -54,11 +54,11 @@
 											</center>
 										</article>
 										<article>
-											<a href="group/keith.shtml" class="image"><img src="images/group/people/keith.jpg" alt="" /></a>
+											<a href="group/sara.shtml" class="image"><img src="images/group/people/sara.jpg" alt="" /></a>
 										  	<center>
-												<h3>Keith Andrews</h3>
+												<h3>Sara Borghi</h3>
 											<ul class="actions center">
-												<li><a href="group/keith.shtml" class="button small">view</a></li>
+												<li><a href="group/sara.shtml" class="button small">view</a></li>
 											</ul>
 											</center>
 										</article>
@@ -122,6 +122,15 @@
 												<h3>Jake Holmes</h3>
 											<ul class="actions center">
 												<li><a href="group/jake.shtml" class="button small">view</a></li>
+											</ul>
+											</center>
+										</article>
+										<article>
+											<a href="group/toby.shtml" class="image"><img src="images/group/people/toby.jpg" alt="" /></a>
+										  	<center>
+												<h3>Toby Johnson</h3>
+											<ul class="actions center">
+												<li><a href="group/toby.shtml" class="button small">view</a></li>
 											</ul>
 											</center>
 										</article>

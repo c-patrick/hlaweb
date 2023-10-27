@@ -32,7 +32,7 @@
 											<h1 align="center">Welcome to the Anderson group website!</h1>
 										</header>
 										<div class="row">
-											<div class="col-8 col-12-small">
+											<div class="col-14 col-12-small">
 												<div class="slides">
 													<img class="mySlides w3-animate-opacity" alt="Frontpage Slideshow" src="images/group/group_500.jpg">
 													<img class="mySlides w3-animate-opacity lazyload" alt="Frontpage Slideshow" data-src="images/slideshow/img2.jpg" >
@@ -72,11 +72,11 @@
 												</section> -->
 												
 											</div>
-											<div class="col-4 col-12-small twitter_pad">
+											<!--<div class="col-4 col-12-small twitter_pad">
 												<div class="box twitter">
 													<a class="twitter-timeline" href="https://twitter.com/HLAGroupOx?ref_src=twsrc%5Etfw" data-chrome="nofooter noborders transparent" data-height="600" data-theme="light">Tweets by HLAGroupOx</a>
 												</div>
-											</div>
+											</div> -->
 										</div>
 									</div>
 								</section>
@@ -114,6 +114,23 @@
 											</p>
 										</article>
 										-->
+										<article>
+											<a href="https://doi.org/10.1038/s41586-023-06566-8" class="image front"><img class="lazyload" data-src="images/abstracts/349.jpg" alt="" /></a>
+											<h3>On-surface synthesis of a doubly anti-aromatic carbon allotrope: Cyclo[16]carbon</h3>
+												<p><refdata class="authors">Y. Gao, F. Albrecht, I. Rončević, I. Ettedgui, P. Kumar, L. M. Scriven, K. E. Christensen, S. Mishra, L. Righetti, M. Rossmannek, I. Tavernelli, H. L. Anderson and L. Gross.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://www.nature.com/">Nature</a></refdata>,
+													<refdata class="year">2023</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1038/s41586-023-06566-8">10.1038/s41586-023-06566-8</a></refdata> | 
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-w124b-v2">ChemRxiv</a></refdata>
+												</p>
+												<div class="box">
+													<b>Highlighted in:</b>
+														<p class="pub">
+															<refdata class="journal"><a href="https://www.chemistryworld.com/">Chemistry world</a></refdata> (26 Oct. 2023); <a href="https://www.chemistryworld.com/news/carbons-anti-aromatic-allotrope-is-ringing-the-changes/4018331.article">"<i>Carbon’s anti-aromatic allotrope is ringing the changes</i>"</a>, Michael Gross
+														</p>
+												</div>
+										</article>
 										<article>
 											<a href="https://doi.org/10.1016/j.chempr.2023.09.013" class="image front"><img class="lazyload" data-src="images/abstracts/348.jpg" alt="" /></a>
 											<h3>Enhanced Coherence by Coupling Spins through a Delocalized π-System: Vanadyl Porphyrin Dimers</h3>
@@ -181,18 +198,6 @@
 													<refdata class="vol">145</refdata>,
 													<refdata class="page"><a href="https://doi.org/10.1021/jacs.3c03549">1859–11865</a></refdata> |
 													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-wsrp7">ChemRxiv</a></refdata>
-												</p>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1021/jacs.3c02451" class="image front"><img class="lazyload" data-src="images/abstracts/343.jpg" alt="" /></a>
-											<h3>Phase-Coherent Charge Transport through a Porphyrin Nanoribbon-Graphene Junction</h3>
-												<p><refdata class="authors">Z. Chen, J.-R. Deng, S. Hou, X. Bian, J. L. Swett, Q. Wu, J. Baugh, G. A. D. Briggs, J. A. Mol, C. J. Lambert, H. L. Anderson and J. O. Thomas.</refdata></p>
-												<p>
-													<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
-													<refdata class="year">2023</refdata>,
-													<refdata class="vol">145</refdata>,
-													<refdata class="page"><a href="https://doi.org/10.1021/jacs.3c02451">15265–15274</a></refdata> |
-													<refdata class="page"><a href="https://doi.org/10.48550/arXiv.2205.08499">ChemRxiv</a></refdata>
 												</p>
 										</article>
 									</div>
