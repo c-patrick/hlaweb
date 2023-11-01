@@ -130,6 +130,24 @@
 										-->
 										<div class="row ref">
 											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">350</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>The impact of spin-orbit coupling on fine-structure and spin polarisation in photoexcited porphyrin triplet states.</h3>
+												<p><refdata class="authors">G. Moise, A. J. Redman, S. Richert, W. K. Myers, I. Bulut, P. S. Bolls, M. Rickhaus, J. Sun, H. L. Anderson, and C. R. Timmel.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://www.sciencedirect.com/journal/journal-of-magnetic-resonance">J. Magnetic Reson</a></refdata>,
+													<refdata class="year">2023</refdata>,
+													<refdata class="vol">355</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1016/j.jmr.2023.107546">107546</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/350.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">349</h4>
 											</div>
 											<div class="col-9 col-12-small">
@@ -145,6 +163,9 @@
 													<b>Highlighted in:</b>
 														<p class="pub">
 															<refdata class="journal"><a href="https://www.chemistryworld.com/">Chemistry world</a></refdata> (26 Oct. 2023); <a href="https://www.chemistryworld.com/news/carbons-anti-aromatic-allotrope-is-ringing-the-changes/4018331.article">"<i>Carbon’s anti-aromatic allotrope is ringing the changes</i>"</a>, Michael Gross
+														</p>
+														<p class="pub">
+															<refdata class="journal"><a href="https://cen.acs.org/index.html">C&E News</a></refdata> (30 Oct. 2023); <a href="https://cen.acs.org/physical-chemistry/chemical-bonding/16-carbon-ring-doubly-antiaromatic/101/i36">"<i>16-carbon ring is doubly antiaromatic</i>"</a>, Bethany Halford
 														</p>
 												</div>
 											</div>
@@ -260,7 +281,7 @@
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/1.jpg" alt="" /></span>
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/343.jpg" alt="" /></span>
 											</div>
 										</div>
 										<div class="row ref">
