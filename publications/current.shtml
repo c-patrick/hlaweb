@@ -56,6 +56,23 @@
 												<h4 class="refdatanum">3</h4>
 											</div>
 											<div class="col-9 col-12-small">
+												<h3>Characterization of the odd-number cyclo[13]carbon and its dimer C26</h3>
+												<p><refdata class="authors">F. Albrecht, I. Rončević, Y. Gao, F. Paschke, S. Mishra, H. L. Anderson and L. Gross.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
+													<refdata class="year">2023</refdata>,
+													<refdata class="page">DOI: <a href="https://10.26434/chemrxiv-2023-ddrh7">10.26434/chemrxiv-2023-ddrh7</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/3.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">2</h4>
+											</div>
+											<div class="col-9 col-12-small">
 												<h3>The Dianion and Tetraanion of [18]Annulene</h3>
 												<p><refdata class="authors">W. Stawski, Y. Zhu,  I. Rončević, Z. Wei, M. A. Petrukhina and H. L. Anderson.</refdata></p>
 												<p>
@@ -70,7 +87,7 @@
 										</div>
 										<div class="row ref">
 											<div class="col-1 col-12-small">
-												<h4 class="refdatanum">2</h4>
+												<h4 class="refdatanum">1</h4>
 											</div>
 											<div class="col-9 col-12-small">
 												<h3>Porphyrin-Fused Graphene Nanoribbons</h3>
@@ -83,23 +100,6 @@
 											</div>
 											<div class="col-2 col-12-small">
 												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/5.jpg" alt="" /></span>
-											</div>
-										</div>
-										<div class="row ref">
-											<div class="col-1 col-12-small">
-												<h4 class="refdatanum">1</h4>
-											</div>
-											<div class="col-9 col-12-small">
-												<h3>Masked alkynes for synthesis of threaded carbon chains</h3>
-												<p><refdata class="authors">C. W. Patrick, Y. Gao, P. Gupta, A. L. Thompson, A. W. Parker and H. L. Anderson.</refdata></p>
-												<p>
-													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
-													<refdata class="year">2022</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2023-cdlwl">10.26434/chemrxiv-2023-cdlwl</a></refdata>
-												</p>
-											</div>
-											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/3.jpg" alt="" /></span>
 											</div>
 										</div>
 									</section>
@@ -128,6 +128,42 @@
 											</div>
 										</div>
 										-->
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">352</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Aromaticity Reversal Induced by Vibrations in Cyclo[16]carbon</h3>
+												<p><refdata class="authors">I. Rončević, F. J. Leslie, M. Rossmannek, I. Tavernelli, L. Gross and H. L. Anderson.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+													<refdata class="year">2023</refdata>,
+													<refdata class="vol">145</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1021/jacs.3c10207"> 26962–26972</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/352.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">351</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Masked alkynes for synthesis of threaded carbon chains</h3>
+												<p><refdata class="authors">C. W. Patrick, Y. Gao, P. Gupta, A. L. Thompson, A. W. Parker and H. L. Anderson.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://www.nature.com/nchem/">Nat. Chem.</a></refdata>,
+													<refdata class="year">2023</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1038/s41557-023-01374-z">10.1038/s41557-023-01374-z</a></refdata> |
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-cdlwl">ChemRxiv</a></refdata>	
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/351.jpg" alt="" /></span>
+											</div>
+										</div>
 										<div class="row ref">
 											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">350</h4>
@@ -166,6 +202,9 @@
 														</p>
 														<p class="pub">
 															<refdata class="journal"><a href="https://cen.acs.org/index.html">C&E News</a></refdata> (30 Oct. 2023); <a href="https://cen.acs.org/physical-chemistry/chemical-bonding/16-carbon-ring-doubly-antiaromatic/101/i36">"<i>16-carbon ring is doubly antiaromatic</i>"</a>, Bethany Halford
+														</p>
+														<p class="pub">
+															<refdata class="journal"><a href="https://www.nature.com/">Nature</a></refdata> 2023, 623, 922-924, <a href=" https://doi.org/10.1038/d41586-023-03575-5">"<i>Carbon rings push limits of chemical theories</i>"</a>, P. Gaweł and C. Foroutan-Nejad
 														</p>
 												</div>
 											</div>
