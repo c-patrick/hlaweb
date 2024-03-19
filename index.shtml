@@ -50,14 +50,14 @@
 												<p>We believe that a better understanding of the relationship between molecular structure, molecular function and macroscopic properties will give us the ability to build functional materials on the molecular scale.</p>
 											
 												<!-- Vacancy -->
-												<!--<section>
+												<section>
 													<div class="box mb0">
-														<p style="text-align: center"><strong> Postdoctoral position available in <a href="https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_display_in_irish=N&p_company=10&p_internal_external=E&p_form_profile_detail=&p_recruitment_id=162070&p_refresh_search=Y&p_applicant_no=&p_display_apply_ind=Y&p_process_type=">Synthesis of Porphyrin-Based Molecular Wires and Nanorings</a></strong></p>
+														<p style="text-align: center"><strong> Postdoctoral position available in <a href="https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_recruitment_id=170740&p_form_profile_detail=&p_company=10&p_display_in_irish=N&p_refresh_search=Y&p_internal_external=E&p_display_apply_ind=Y&p_applicant_no=&p_process_type=">Synthetic Organic Chemistry & Molecular Electronics</a></strong></p>
 														<ul class="actions fit">
 															<li><a href="https://www.chem.ox.ac.uk/jobs?" class="button primary">view</a></li>
 														</ul>
 													</div>
-												</section>--> 
+												</section>
 
 												<!-- Special Notice -->
 												<!-- The following box can be used to advertise any special notices -->
@@ -115,6 +115,29 @@
 										</article>
 										-->
 										<article>
+											<a href="https://doi.org/10.1021/jacs.3c07734" class="image front"><img class="lazyload" data-src="images/abstracts/354.jpg" alt="" /></a>
+											<h3>Ballistic Conductance through Porphyrin Nanoribbons</h3>
+												<p><refdata class="authors">J.-R. Deng, M. T. González, H. Zhu, H. L. Anderson and E. Leary.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+													<refdata class="year">2023</refdata>,
+													<refdata class="vol">146</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1021/jacs.3c07734">10.1021/jacs.3c07734</a></refdata>
+												</p>
+										</article>
+										<article>
+											<a href="https://doi.org/10.1002/anie.202400103" class="image front"><img class="lazyload" data-src="images/abstracts/353.jpg" alt="" /></a>
+											<h3>Template-Directed Synthesis of Strained meso-meso-Linked Porphyrin Nanorings</h3>
+												<p><refdata class="authors">J. Van Raden,  J.-R. Deng,  H. Gotfredsen,  J. Hergenhahn,  M. Clarke,  M. Edmondson,  J. Hart,  J. O'Shea,  F. Duarte,  A. Saywell and  H. L. Anderson.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">Angew. Chem. Int. Ed.</a></refdata>,
+													<refdata class="year">2024</refdata>,
+													<refdata class="vol">63</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1002/anie.202400103">10.1002/anie.202400103</a></refdata> |
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2024-skz1w">ChemRxiv</a></refdata>
+												</p>
+										</article>
+										<article>
 											<a href="https://doi.org/10.1016/j.chempr.2023.09.013" class="image front"><img class="lazyload" data-src="images/abstracts/351.jpg" alt="" /></a>
 											<h3>Masked alkynes for synthesis of threaded carbon chains</h3>
 												<p><refdata class="authors">C. W. Patrick, Y. Gao, P. Gupta, A. L. Thompson, A. W. Parker and H. L. Anderson.</refdata></p>
@@ -170,16 +193,6 @@
 													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-qh6p6">ChemRxiv</a></refdata>
 												</p>
 										</article>
-										<article>
-											<a href="https://doi.org/10.1039/D3SC01458D" class="image front"><img class="lazyload" data-src="images/abstracts/346.jpg" alt="" /></a>
-											<h3>How do donor and acceptor substituents change the photophysical and photochemical behavior of dithienylethenes? The search for a water-soluble visible-light photoswitch</h3>
-												<p><refdata class="authors">S. Qiu, A. T. Frawley, K. G. Leslie and H. L. Anderson.</refdata></p>
-												<p>
-													<refdata class="journal"><a href="https://www.rsc.org/journals-books-databases/about-journals/chemical-science/">Chem. Sci.</a></refdata>,
-													<refdata class="year">2023</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.1039/D3SC01458D">10.1039/D3SC01458D</a></refdata> | 
-													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-f5102">ChemRxiv</a></refdata>
-												</p>
 											<!--<div class="box">
 												<b>Highlighted in:</b>
 													<p class="pub">
@@ -192,19 +205,6 @@
 														<refdata class="journal"><a href="https://www.thieme-connect.com/products/ejournals/journal/10.1055/s-00000131">Synfacts</a></refdata> 2023, 19, 0133; <a href="https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0042-1751815">"<i>A Giant Photonic Ring</i>"</a>, Dahui Zhao, Chen Li
 													</p>
 											</div> -->
-										</article>
-										<article>
-											<a href="https://doi.org/10.1002/ange.202307035" class="image front"><img class="lazyload" data-src="images/abstracts/345.jpg" alt="" /></a>
-											<h3>Anthracene-Porphyrin Nanoribbons</h3>
-												<p><refdata class="authors">H. Zhu, Q. Chen, I. Rončević, K. E. Christensen and H. L. Anderson.</refdata></p>
-												<p>
-														<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">Angew. Chem. Int. Ed.</a></refdata>,
-														<refdata class="year">2023</refdata>,
-														<refdata class="vol">62</refdata>,
-														<refdata class="page"><a href="https://doi.org/10.1002/ange.202307035">e202307035</a></refdata> |
-														<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-zl7ck">ChemRxiv</a></refdata>
-												</p>
-										</article>
 									</div>
 									
 									<center>
