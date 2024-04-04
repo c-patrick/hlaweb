@@ -56,12 +56,12 @@
 												<h4 class="refdatanum">3</h4>
 											</div>
 											<div class="col-9 col-12-small">
-												<h3>Characterization of the odd-number cyclo[13]carbon and its dimer C26</h3>
-												<p><refdata class="authors">F. Albrecht, I. Rončević, Y. Gao, F. Paschke, S. Mishra, H. L. Anderson and L. Gross.</refdata></p>
+												<h3>Charge Delocalization and Global Aromaticity in a Partially Fused 12-Porphyrin Nanoring</h3>
+												<p><refdata class="authors">S. M. Kopp, H. Gotfredsen, J. Hergenhahn, A. Rodríguez-Rubio, J.-R. Deng, H. Zhu, W. Stawski and H. L. Anderson.</refdata></p>
 												<p>
 													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
-													<refdata class="year">2023</refdata>,
-													<refdata class="page">DOI: <a href="https://10.26434/chemrxiv-2023-ddrh7">10.26434/chemrxiv-2023-ddrh7</a></refdata>
+													<refdata class="year">2024</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-wg9xj">10.26434/chemrxiv-2024-wg9xj</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
@@ -73,16 +73,16 @@
 												<h4 class="refdatanum">2</h4>
 											</div>
 											<div class="col-9 col-12-small">
-												<h3>The Dianion and Tetraanion of [18]Annulene</h3>
-												<p><refdata class="authors">W. Stawski, Y. Zhu,  I. Rončević, Z. Wei, M. A. Petrukhina and H. L. Anderson.</refdata></p>
+												<h3>Cationic Polaron Delocalization in Porphyrin Nanoribbon</h3>
+												<p><refdata class="authors">S. M. Kopp,1 J.-R. Deng, A. J. Redman, H. Gotfredsen, R. M. J. Jacobs, H. L. Anderson and C. R. Timmel.</refdata></p>
 												<p>
 													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
-													<refdata class="year">2023</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2023-ql8pk">10.26434/chemrxiv-2023-ql8pk</a></refdata>
+													<refdata class="year">2024</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-3l5bg-v2">10.26434/chemrxiv-2024-3l5bg-v2</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/1.jpg" alt="" /></span>
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/2.jpg" alt="" /></span>
 											</div>
 										</div>
 										<div class="row ref">
@@ -90,18 +90,19 @@
 												<h4 class="refdatanum">1</h4>
 											</div>
 											<div class="col-9 col-12-small">
-												<h3>Porphyrin-Fused Graphene Nanoribbons</h3>
-												<p><refdata class="authors">Q. Chen, A. Lodi, H. Zhang, A. Gee, H. Wang, F. Kong, M. Clarke, M. Edmondson, J. Hart, J. O’Shea, W. Stawski, J. Baugh, A. Narita, A. Saywell, M. Bonn, K. Müllen, L. Bogani and H. L. Anderson.</refdata></p>
+												<h3>Characterization of the odd-number cyclo[13]carbon and its dimer C26</h3>
+												<p><refdata class="authors">F. Albrecht, I. Rončević, Y. Gao, F. Paschke, S. Mishra, H. L. Anderson and L. Gross.</refdata></p>
 												<p>
 													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
 													<refdata class="year">2023</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2023-ghvdb">10.26434/chemrxiv-2023-ghvdb</a></refdata>
+													<refdata class="page">DOI: <a href="https://10.26434/chemrxiv-2023-ddrh7">10.26434/chemrxiv-2023-ddrh7</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/5.jpg" alt="" /></span>
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/1.jpg" alt="" /></span>
 											</div>
 										</div>
+										
 									</section>
 									
 									<section>
@@ -130,6 +131,42 @@
 										-->
 										<div class="row ref">
 											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">356</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>The Dianion and Tetraanion of [18]Annulene</h3>
+												<p><refdata class="authors">W. Stawski, Y. Zhu,  I. Rončević, Z. Wei, M. A. Petrukhina and H. L. Anderson.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://www.nature.com/nchem/">Nat. Chem.</a></refdata>,
+													<refdata class="year">2024</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1038/s41557-024-01469-1">10.1038/s41557-024-01469-1</a></refdata> |
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-ql8pk">ChemRxiv</a></refdata>	
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/356.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">355</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Porphyrin-Fused Graphene Nanoribbons</h3>
+												<p><refdata class="authors">Q. Chen, A. Lodi, H. Zhang, A. Gee, H. Wang, F. Kong, M. Clarke, M. Edmondson, J. Hart, J. O’Shea, W. Stawski, J. Baugh, A. Narita, A. Saywell, M. Bonn, K. Müllen, L. Bogani and H. L. Anderson.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://www.nature.com/nchem/">Nat. Chem.</a></refdata>,
+													<refdata class="year">2024</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1038/s41557-024-01477-1">10.1038/s41557-024-01477-1</a></refdata> |
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-ghvdb">ChemRxiv</a></refdata>	
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/355.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">354</h4>
 											</div>
 											<div class="col-9 col-12-small">
@@ -137,9 +174,9 @@
 												<p><refdata class="authors">J.-R. Deng, M. T. González, H. Zhu, H. L. Anderson and E. Leary.</refdata></p>
 												<p>
 													<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
-													<refdata class="year">2023</refdata>,
+													<refdata class="year">2024</refdata>,
 													<refdata class="vol">146</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.1021/jacs.3c07734">10.1021/jacs.3c07734</a></refdata>
+													<refdata class="page"><a href="https://doi.org/10.1021/jacs.3c07734"> 3651–3659</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
@@ -157,7 +194,7 @@
 													<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">Angew. Chem. Int. Ed.</a></refdata>,
 													<refdata class="year">2024</refdata>,
 													<refdata class="vol">63</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.1002/anie.202400103">10.1002/anie.202400103</a></refdata> |
+													<refdata class="page"><a href="https://doi.org/10.1002/anie.202400103">e202400103</a></refdata> |
 													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2024-skz1w">ChemRxiv</a></refdata>
 												</p>
 											</div>
@@ -193,9 +230,16 @@
 												<p>
 													<refdata class="journal"><a href="https://www.nature.com/nchem/">Nat. Chem.</a></refdata>,
 													<refdata class="year">2023</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.1038/s41557-023-01374-z">10.1038/s41557-023-01374-z</a></refdata> |
+													<refdata class="vol">16</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1038/s41557-023-01374-z">193-200</a></refdata> |
 													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-cdlwl">ChemRxiv</a></refdata>	
 												</p>
+												<div class="box">
+													<b>Highlighted in:</b>
+														<p class="pub">
+															<refdata class="journal"><a href="https://www.nature.com/nchem/">Nat. Chem.</a></refdata> (23 Jan 2024); <a href="https://www.nature.com/articles/s41557-023-01425-5">"<i>Interlocked polyynes towards stable carbynes</i>"</a>, Adrian Saura-Sanmartin
+														</p>
+												</div>
 											</div>
 											<div class="col-2 col-12-small">
 												<span class="image pub"><img class="lazyload" data-src="images/abstracts/351.jpg" alt="" /></span>

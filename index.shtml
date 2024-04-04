@@ -50,14 +50,14 @@
 												<p>We believe that a better understanding of the relationship between molecular structure, molecular function and macroscopic properties will give us the ability to build functional materials on the molecular scale.</p>
 											
 												<!-- Vacancy -->
-												<section>
+												<!--<section>
 													<div class="box mb0">
 														<p style="text-align: center"><strong> Postdoctoral position available in <a href="https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_recruitment_id=170740&p_form_profile_detail=&p_company=10&p_display_in_irish=N&p_refresh_search=Y&p_internal_external=E&p_display_apply_ind=Y&p_applicant_no=&p_process_type=">Synthetic Organic Chemistry & Molecular Electronics</a></strong></p>
 														<ul class="actions fit">
 															<li><a href="https://www.chem.ox.ac.uk/jobs?" class="button primary">view</a></li>
 														</ul>
 													</div>
-												</section>
+												</section> -->
 
 												<!-- Special Notice -->
 												<!-- The following box can be used to advertise any special notices -->
@@ -71,12 +71,12 @@
 													</div>
 												</section> -->
 												
-											</div>
-											<!--<div class="col-4 col-12-small twitter_pad">
+											<!--</div>
+											<div class="col-4 col-12-small twitter_pad">
 												<div class="box twitter">
 													<a class="twitter-timeline" href="https://twitter.com/HLAGroupOx?ref_src=twsrc%5Etfw" data-chrome="nofooter noborders transparent" data-height="600" data-theme="light">Tweets by HLAGroupOx</a>
 												</div>
-											</div> -->
+											</div> --> 
 										</div>
 									</div>
 								</section>
@@ -115,6 +115,28 @@
 										</article>
 										-->
 										<article>
+											<a href="https://doi.org/10.1038/s41557-024-01469-1" class="image front"><img class="lazyload" data-src="images/abstracts/356.jpg" alt="" /></a>
+											<h3>The Dianion and Tetraanion of [18]Annulene</h3>
+												<p><refdata class="authors">W. Stawski, Y. Zhu,  I. Rončević, Z. Wei, M. A. Petrukhina and H. L. Anderson.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://www.nature.com/nchem/">Nat. Chem.</a></refdata>,
+													<refdata class="year">2024</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1038/s41557-024-01469-1">10.1038/s41557-024-01469-1</a></refdata> |
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-ql8pk">ChemRxiv</a></refdata>	
+												</p>
+										</article>
+										<article>
+											<a href="https://doi.org/10.1038/s41557-024-01477-1" class="image front"><img class="lazyload" data-src="images/abstracts/355.jpg" alt="" /></a>
+											<h3>Porphyrin-Fused Graphene Nanoribbonsn</h3>
+												<p><refdata class="authors">Q. Chen, A. Lodi, H. Zhang, A. Gee, H. Wang, F. Kong, M. Clarke, M. Edmondson, J. Hart, J. O’Shea, W. Stawski, J. Baugh, A. Narita, A. Saywell, M. Bonn, K. Müllen, L. Bogani and H. L. Anderson.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://www.nature.com/nchem/">Nat. Chem.</a></refdata>,
+													<refdata class="year">2024</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1038/s41557-024-01477-1">10.1038/s41557-024-01477-1</a></refdata> |
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-ghvdb">ChemRxiv</a></refdata>	
+												</p>
+										</article>
+										<article>
 											<a href="https://doi.org/10.1021/jacs.3c07734" class="image front"><img class="lazyload" data-src="images/abstracts/354.jpg" alt="" /></a>
 											<h3>Ballistic Conductance through Porphyrin Nanoribbons</h3>
 												<p><refdata class="authors">J.-R. Deng, M. T. González, H. Zhu, H. L. Anderson and E. Leary.</refdata></p>
@@ -147,6 +169,12 @@
 													<refdata class="page">DOI: <a href="https://doi.org/10.1038/s41557-023-01374-z">10.1038/s41557-023-01374-z</a></refdata> |
 													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-cdlwl">ChemRxiv</a></refdata>	
 												</p>
+												<div class="box">
+													<b>Highlighted in:</b>
+														<p class="pub">
+															<refdata class="journal"><a href="https://www.nature.com/nchem/">Nat. Chem.</a></refdata> (23 Jan 2024); <a href="https://www.nature.com/articles/s41557-023-01425-5">"<i>Interlocked polyynes towards stable carbynes</i>"</a>, Adrian Saura-Sanmartin
+														</p>
+												</div>
 										</article>
 										<article>
 											<a href="https://doi.org/10.1038/s41586-023-06566-8" class="image front"><img class="lazyload" data-src="images/abstracts/349.jpg" alt="" /></a>
@@ -170,28 +198,6 @@
 															<refdata class="journal"><a href="https://www.nature.com/">Nature</a></refdata> 2023, 623, 922-924, <a href=" https://doi.org/10.1038/d41586-023-03575-5">"<i>Carbon rings push limits of chemical theories</i>"</a>, P. Gaweł and C. Foroutan-Nejad
 														</p>
 												</div>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1016/j.chempr.2023.09.013" class="image front"><img class="lazyload" data-src="images/abstracts/348.jpg" alt="" /></a>
-											<h3>Enhanced Coherence by Coupling Spins through a Delocalized π-System: Vanadyl Porphyrin Dimers</h3>
-												<p><refdata class="authors">I. Pozo, Z. Huang, F. Lombardi, D. Alexandropoulos, F. Kong, M. Slota, J.-R. Deng, W. Stawski, P. Horton, S. Coles, W. Myers, L. Bogani and H. L.Anderson.</refdata></p>
-												<p>
-													<refdata class="journal"><a href="https://www.sciencedirect.com/journal/chem">Chem</a></refdata>,
-													<refdata class="year">2023</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.1016/j.chempr.2023.09.013">10.1016/j.chempr.2023.09.013</a></refdata> | 
-													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2022-1v5b4-v2">ChemRxiv</a></refdata>
-												</p>
-										</article>
-										<article>
-											<a href="https://doi.org/10.1039/d3sc04251k" class="image front"><img class="lazyload" data-src="images/abstracts/347.jpg" alt="" /></a>
-											<h3>Crystallographic evidence for global aromaticity in the di-anion and tetra-anion of a cyclophane hydrocarbon</h3>
-												<p><refdata class="authors">W. Stawski, Y. Zhu, Z. Wei, M. A. Petrukhina and H. L. Anderson.</refdata></p>
-												<p>
-													<refdata class="journal"><a href="https://www.rsc.org/journals-books-databases/about-journals/chemical-science/">Chem. Sci.</a></refdata>,
-													<refdata class="year">2023</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.1039/d3sc04251k">10.1039/d3sc04251k</a></refdata> | 
-													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-qh6p6">ChemRxiv</a></refdata>
-												</p>
 										</article>
 											<!--<div class="box">
 												<b>Highlighted in:</b>
