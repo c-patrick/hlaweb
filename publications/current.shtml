@@ -131,6 +131,30 @@
 										-->
 										<div class="row ref">
 											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">357</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Quantum interference enhances the performance of single-molecule transistors</h3>
+												<p><refdata class="authors">Z. Chen, I. M. Grace, S. L. Woltering, L. Chen, A. Gee, J. Baugh, G. A. D. Briggs, L. Bogani, J. A. Mol, C. J. Lambert, H. L. Anderson and J. O. Thomas.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://www.nature.com/nnano/">Nat. Nanotechnol.</a></refdata>,
+													<refdata class="year">2024</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1038/s41565-024-01633-1">10.1038/s41565-024-01633-1</a></refdata> |
+													<refdata class="page"><a href="https://doi.org/10.48550/arXiv.2304.08535">arXiv</a></refdata>	
+												</p>
+												<div class="box">
+													<b>Highlighted in:</b>
+														<p class="pub">
+															<refdata class="journal"><a href="https://www.nature.com/nnano/">Nat. Nano.</a></refdata> (2024); <a href="https://doi.org/10.1038/s41565-024-01634-0">"<i>Graphene edge interference improves single-molecule transistors</i>"</a>, Héctor Vázquez
+														</p>
+												</div>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/357.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">356</h4>
 											</div>
 											<div class="col-9 col-12-small">
@@ -273,7 +297,8 @@
 												<p>
 													<refdata class="journal"><a href="https://www.nature.com/">Nature</a></refdata>,
 													<refdata class="year">2023</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.1038/s41586-023-06566-8">10.1038/s41586-023-06566-8</a></refdata> | 
+													<refdata class="vol">623</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1038/s41586-023-06566-8">977–981</a></refdata> | 
 													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-w124b-v2">ChemRxiv</a></refdata>
 												</p>
 												<div class="box">
@@ -303,7 +328,8 @@
 												<p>
 													<refdata class="journal"><a href="https://www.sciencedirect.com/journal/chem">Chem</a></refdata>,
 													<refdata class="year">2023</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.1016/j.chempr.2023.09.013">10.1016/j.chempr.2023.09.013</a></refdata> | 
+													<refdata class="vol">10</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1016/j.chempr.2023.09.013">299-316</a></refdata> | 
 													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2022-1v5b4-v2">ChemRxiv</a></refdata>
 												</p>
 											</div>
@@ -321,7 +347,8 @@
 												<p>
 													<refdata class="journal"><a href="https://www.rsc.org/journals-books-databases/about-journals/chemical-science/">Chem. Sci.</a></refdata>,
 													<refdata class="year">2023</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.1039/d3sc04251k">10.1039/d3sc04251k</a></refdata> | 
+													<refdata class="vol">14</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1039/d3sc04251k">14109-14114</a></refdata> | 
 													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-qh6p6">ChemRxiv</a></refdata>
 												</p>
 											</div>
@@ -339,7 +366,8 @@
 												<p>
 													<refdata class="journal"><a href="https://www.rsc.org/journals-books-databases/about-journals/chemical-science/">Chem. Sci.</a></refdata>,
 													<refdata class="year">2023</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.1039/D3SC01458D">10.1039/D3SC01458D</a></refdata> | 
+													<refdata class="vol">14</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1039/D3SC01458D">9123-9135</a></refdata> | 
 													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2023-f5102">ChemRxiv</a></refdata>
 												</p>
 											</div>
