@@ -53,49 +53,15 @@
 										<h3>Preprints</h3>
 										<div class="row ref">
 											<div class="col-1 col-12-small">
-												<h4 class="refdatanum">4</h4>
-											</div>
-											<div class="col-9 col-12-small">
-												<h3>Global aromaticity in neutral porphyrin nanobelts</h3>
-												<p><refdata class="authors">M. Vitek, J.-R. Deng, H. L. Anderson and I. Rončević.</refdata></p>
-												<p>
-													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
-													<refdata class="year">2024</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-vj96d-v2">10.26434/chemrxiv-2024-vj96d-v2</a></refdata>
-												</p>
-											</div>
-											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/4.jpg" alt="" /></span>
-											</div>
-										</div>
-										<div class="row ref">
-											<div class="col-1 col-12-small">
-												<h4 class="refdatanum">3</h4>
-											</div>
-											<div class="col-9 col-12-small">
-												<h3>Charge and spin transfer dynamics in a weakly coupled porphyrin dimer</h3>
-												<p><refdata class="authors">S. M. Kopp, A. J. Redman, I. Rončević, L. Schröder, L. Bogani, H. L. Anderson and C. R. Timmel.</refdata></p>
-												<p>
-													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
-													<refdata class="year">2024</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-5kkhf">10.26434/chemrxiv-2024-5kkhf</a></refdata>
-												</p>
-											</div>
-											<div class="col-2 col-12-small">
-												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/3.jpg" alt="" /></span>
-											</div>
-										</div>
-										<div class="row ref">
-											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">2</h4>
 											</div>
 											<div class="col-9 col-12-small">
-												<h3>Charge Delocalization and Global Aromaticity in a Partially Fused 12-Porphyrin Nanoring</h3>
-												<p><refdata class="authors">S. M. Kopp, H. Gotfredsen, J. Hergenhahn, A. Rodríguez-Rubio, J.-R. Deng, H. Zhu, W. Stawski and H. L. Anderson.</refdata></p>
+												<h3>High Charge Carrier Mobility in Porphyrin Nanoribbons</h3>
+												<p><refdata class="authors">H. Zhu, G. Wen, W. Zheng, N. H. Rees, W. Stawski, H. I. Wang, M. Bonn and H. L. Anderson.</refdata></p>
 												<p>
 													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
 													<refdata class="year">2024</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-wg9xj">10.26434/chemrxiv-2024-wg9xj</a></refdata>
+													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-dwwm6">10.26434/chemrxiv-2024-dwwm6</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
@@ -107,18 +73,18 @@
 												<h4 class="refdatanum">1</h4>
 											</div>
 											<div class="col-9 col-12-small">
-												<h3>Cationic Polaron Delocalization in Porphyrin Nanoribbon</h3>
-												<p><refdata class="authors">S. M. Kopp,1 J.-R. Deng, A. J. Redman, H. Gotfredsen, R. M. J. Jacobs, H. L. Anderson and C. R. Timmel.</refdata></p>
+												<h3>Global aromaticity in neutral porphyrin nanobelts</h3>
+												<p><refdata class="authors">M. Vitek, J.-R. Deng, H. L. Anderson and I. Rončević.</refdata></p>
 												<p>
 													<refdata class="journal"><a href="https://chemrxiv.org/">ChemRxiv</a></refdata>,
 													<refdata class="year">2024</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-3l5bg-v2">10.26434/chemrxiv-2024-3l5bg-v2</a></refdata>
+													<refdata class="page">DOI: <a href="https://doi.org/10.26434/chemrxiv-2024-vj96d-v2">10.26434/chemrxiv-2024-vj96d-v2</a></refdata>
 												</p>
 											</div>
 											<div class="col-2 col-12-small">
 												<span class="image pub"><img class="lazyload" data-src="images/abstracts/preprint/1.jpg" alt="" /></span>
 											</div>
-										</div>										
+										</div>					
 									</section>
 									
 									<section>
@@ -145,6 +111,117 @@
 											</div>
 										</div>
 										-->
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">365</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Polymorphism and flexibility of six-porphyrin nanorings in the solid state</h3>
+												<p><refdata class="authors">W. Stawski and H. L. Anderson.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://www.rsc.org/journals-books-databases/about-journals/chemical-science/">Chem. Sci.</a></refdata>,
+													<refdata class="year">2024</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1039/D4SC05255B">10.1039/D4SC05255B</a></refdata> | 
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2024-bg249">ChemRxiv</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/365.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">364</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Bimolecular Sandwich Aggregates of Porphyrin Nanorings</h3>
+												<p><refdata class="authors">H. Gotfredsen, J. Hergenhahn, F. Duarte, T. D. W. Claridge and H. L. Anderson.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+													<refdata class="year">2024</refdata>,
+													<refdata class="vol">146</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1021/jacs.4c09267">25232−25244</a></refdata> 
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/364.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">363</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Connections to the Electrodes Control the Transport Mechanism in Single-Molecule Transistors</h3>
+												<p><refdata class="authors">Z. Chen, S. L. Woltering, B. Limburg, M.-Y. Tsang, J. Baugh, G. A. D. Briggs, J. A. Mol, H. L. Anderson and J. O. Thomas.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">Angew. Chem. Int. Ed.</a></refdata>,
+													<refdata class="year">2024</refdata>,
+													<refdata class="vol">63</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1002/anie.202401323">e202401323</a></refdata> 
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/363.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">362</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Charge and spin transfer dynamics in a weakly coupled porphyrin dimer</h3>
+												<p><refdata class="authors">S. M. Kopp, A. J. Redman, I. Rončević, L. Schröder, L. Bogani, H. L. Anderson and C. R. Timmel.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">J. Am. Chem. Soc.</a></refdata>,
+													<refdata class="year">2024</refdata>,
+													<refdata class="vol">146</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1021/jacs.4c04186">21476–21489</a></refdata> | 
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2024-5kkhf">ChemRxiv</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/362.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">361</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Charge Delocalization and Global Aromaticity in a Partially Fused 12-Porphyrin Nanoring</h3>
+												<p><refdata class="authors">S. M. Kopp, H. Gotfredsen, J. Hergenhahn, A. Rodríguez-Rubio, J.-R. Deng, H. Zhu, W. Stawski and H. L. Anderson.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://www.sciencedirect.com/journal/chem">Chem</a></refdata>,
+													<refdata class="year">2024</refdata>,
+													<refdata class="vol">10</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1016/j.chempr.2024.06.034">10.1016/j.chempr.2024.06.034</a></refdata> | 
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2024-wg9xj">ChemRxiv</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/361.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">360</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Cationic Polaron Delocalization in Porphyrin Nanoribbon</h3>
+												<p><refdata class="authors">S. M. Kopp, J.-R. Deng, A. J. Redman, H. Gotfredsen, R. M. J. Jacobs, H. L. Anderson and C. R. Timmel.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://www.sciencedirect.com/journal/chem">Chem</a></refdata>,
+													<refdata class="year">2024</refdata>,
+													<refdata class="vol">10</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1016/j.chempr.2024.07.011">10.1016/j.chempr.2024.07.011</a></refdata> | 
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2024-3l5bg-v2">ChemRxiv</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/360.jpg" alt="" /></span>
+											</div>
+										</div>			
 										<div class="row ref">
 											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">359</h4>
