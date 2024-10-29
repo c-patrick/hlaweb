@@ -33,7 +33,7 @@
 								<header class="major">
 									<h3>Open Day videos</h3>
 								</header>
-								<div class="row ptb2 talks">
+								<!--<div class="row ptb2 talks">
 									<div class="col-4 col-12-small pb1">
 										<h3>OxICFM Open Day</h3>
 										<b><div class="date">2021</div></b>
@@ -43,7 +43,7 @@
 											src="https://www.youtube.com/embed/hDngqzq1saI">
 									  	</iframe> 
 								  	</div>
-								</div>	
+								</div>	-->
 								<hr>	
 								<div class="row ptb2 talks">
 									<div class="col-4 col-12-small pb1">
