@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<!--
+	Harry Anderson Group Website
+	Connor Patrick | connor<dot>patrick<at>chem<dot>ox<dot>ac<dot>uk
+	https://github.com/c-patrick/hlaweb
+-->
+<html lang="en">
+	<head>
+		<title>Anderson Research Group | University of Oxford</title>
+		<meta name="keywords" content="porphyrin, rotaxanes, PDT, photodynamic therapy, molecular wires, molecular machines, supramolecular chemistry, encapsulation, dyes, photophysics" />
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--#include virtual="/includes/base.inc" -->
+		<!--#include virtual="/includes/head_theme.inc" -->
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								<!--#include virtual="/includes/header.inc" -->
+
+
+							<!-- Content -->
+								<section>
+									<header class="name-center">
+									  <h2>Sam Leggatt</h2>
+									</header>
+
+									<span class="image profile"><img src="/images/group/people/sam.jpg" alt="" /></span>
+
+									<h3>Part II Student (2024)</h3><br>
+
+									<p>
+										<b>Project:</b> Molecular compasses.<br_profile>
+										<b>Support:</b> Departmental.<br_profile>
+										<b>Previous Degrees:</b> MChem, Oxford (present).<br_profile>
+										<b>Other Interests:</b> Running, reading, cooking.</a><br_profile>
+									</p>
+						  </section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+				<!--#include virtual="/includes/sidebar.inc" -->	
+
+			</div>
+		
+		<!-- IE-Banner -->
+			<!--#include virtual="/includes/ie-banner.inc" -->
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script src="assets/js/lazysizes.min.js"></script>
+
+	</body>
+</html>

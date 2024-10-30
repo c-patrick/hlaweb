@@ -72,6 +72,24 @@
 											</center>
 										</article>
 										<article>
+											<a href="group/kaman.shtml" class="image"><img src="images/group/people/kaman.jpg" alt="" /></a>
+										  	<center>
+												<h3>Kaman Cheung</h3>
+											<ul class="actions center">
+												<li><a href="group/kaman.shtml" class="button small">view</a></li>
+											</ul>
+											</center>
+										</article>
+										<article>
+											<a href="group/jakub.shtml" class="image"><img src="images/group/people/jakub.jpg" alt="" /></a>
+										  	<center>
+												<h3>Jakub Chomiuk</h3>
+											<ul class="actions center">
+												<li><a href="group/jakub.shtml" class="button small">view</a></li>
+											</ul>
+											</center>
+										</article>
+										<article>
 											<a href="group/joshua.shtml" class="image"><img src="images/group/people/joshua.jpg" alt="" /></a>
 										  	<center>
 												<h3>Joshua Field</h3>
@@ -90,11 +108,29 @@
 											</center>
 										</article>
 										<article>
+											<a href="group/amit.shtml" class="image"><img src="images/group/people/amit.jpg" alt="" /></a>
+										  	<center>
+												<h3>Amit Ghosh</h3>
+											<ul class="actions center">
+												<li><a href="group/amit.shtml" class="button small">view</a></li>
+											</ul>
+											</center>
+										</article>
+										<article>
 											<a href="group/lene.shtml" class="image"><img src="images/group/people/lene.jpg" alt="" /></a>
 										  	<center>
 												<h3>Lene Godde</h3>
 											<ul class="actions center">
 												<li><a href="group/lene.shtml" class="button small">view</a></li>
+											</ul>
+											</center>
+										</article>
+										<article>
+											<a href="group/leonard.shtml" class="image"><img src="images/group/people/leonard.jpg" alt="" /></a>
+										  	<center>
+												<h3>Leonard Goh</h3>
+											<ul class="actions center">
+												<li><a href="group/leonard.shtml" class="button small">view</a></li>
 											</ul>
 											</center>
 										</article>
@@ -126,11 +162,11 @@
 											</center>
 										</article>
 										<article>
-											<a href="group/bobby.shtml" class="image"><img src="images/group/people/bobby.jpg" alt="" /></a>
+											<a href="group/sam.shtml" class="image"><img src="images/group/people/sam.jpg" alt="" /></a>
 										  	<center>
-												<h3>Sili Qiu</h3>
+												<h3>Sam Leggatt</h3>
 											<ul class="actions center">
-												<li><a href="group/bobby.shtml" class="button small">view</a></li>
+												<li><a href="group/sam.shtml" class="button small">view</a></li>
 											</ul>
 											</center>
 										</article>

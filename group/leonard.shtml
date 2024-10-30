@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<!--
+	Harry Anderson Group Website
+	Connor Patrick | connor<dot>patrick<at>chem<dot>ox<dot>ac<dot>uk
+	https://github.com/c-patrick/hlaweb
+-->
+<html lang="en">
+	<head>
+		<title>Anderson Research Group | University of Oxford</title>
+		<meta name="keywords" content="porphyrin, rotaxanes, PDT, photodynamic therapy, molecular wires, molecular machines, supramolecular chemistry, encapsulation, dyes, photophysics" />
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--#include virtual="/includes/base.inc" -->
+		<!--#include virtual="/includes/head_theme.inc" -->
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								<!--#include virtual="/includes/header.inc" -->
+
+
+							<!-- Content -->
+								<section>
+									<header class="name-center">
+									  <h2>Leonard Goh</h2>
+									</header>
+
+									<span class="image profile"><img src="/images/group/people/leonard.jpg" alt="" /></span>
+
+									<h3>DPhil Student (2024-)</h3><br>
+
+									<p>
+										<b>Project:</b> Surface synthesis of porphyrin-anthracene polymers & cyclocarbons<br_profile>
+										<b>Previous Degrees:</b> MSc, BA (Hons) in Natural Sciences at the University of Cambridge <br_profile>
+										<b>Other Interests:</b> Table Tennis, Swimming, Tea, Whisky, Board Games</a><br_profile>
+										<b>ORCID:</b> <a href="https://orcid.org/0009-0007-4797-5074">0009-0007-4797-5074</a>
+									</p>
+						  </section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+				<!--#include virtual="/includes/sidebar.inc" -->	
+
+			</div>
+		
+		<!-- IE-Banner -->
+			<!--#include virtual="/includes/ie-banner.inc" -->
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script src="assets/js/lazysizes.min.js"></script>
+
+	</body>
+</html>
