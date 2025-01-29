@@ -56,7 +56,63 @@
 													<table class="theses">
 														<tbody>
 															<tr>
-																<td><h4 class="refdatanum">23</h4></td>
+																<td><h4 class="refdatanum">32</h4></td>
+																<td><b>Joshua Field</b></td>
+																<td>
+																	<a href="https://ora4-prd.bodleian.ox.ac.uk/objects/uuid:0164082c-ce49-41e4-bee9-f423be607477"><i>Synthetic approaches to all-porphyrin nanorings</i></a>
+																	(2024, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">31</h4></td>
+																<td><b>Sili Qiu</b></td>
+																<td>
+																	<a href="https://ora4-prd.bodleian.ox.ac.uk/objects/uuid:0164082c-ce49-41e4-bee9-f423be607477"><i>Design and synthesis of diarylethene photoswitches: from photochemical properties to switchable fluorescence and photopharmacology</i></a>
+																	(2024, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">30</h4></td>
+																<td><b>Sebastian Kopp</b></td>
+																<td>
+																	<a href="https://ora4-prd.bodleian.ox.ac.uk/objects/uuid:558d0596-bbdb-4bb8-9c5d-e27ea94c5d70"><i>Controlling charge and spin delocalization in porphyrin nanomaterials – synthesis and magnetic resonance studies</i></a>
+																	(2024, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">29</h4></td>
+																<td><b>He Zhu</b></td>
+																<td>
+																	<a href="https://ora4-prd.bodleian.ox.ac.uk/objects/uuid:7085497e-f25a-447b-9dab-e87c38ab6230"><i>Porphyrin-based molecular wires</i></a>
+																	(2024, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">28</h4></td>
+																<td><b>Wojciech Stawski</b></td>
+																<td>
+																	<a href="https://ora4-prd.bodleian.ox.ac.uk/objects/uuid:af5b7097-6d24-4291-8247-8b470c420bfa"><i>π-conjugated macrocycles: synthesis, structure and electronic properties</i></a>
+																	(2023, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">27</h4></td>
+																<td><b>Kathryn Leslie</b></td>
+																<td>
+																	<a href="https://ora4-prd.bodleian.ox.ac.uk/objects/uuid:36784c30-e829-43fb-bc6e-d0ebb7fc4adf"><i>Photoswitchable fluorescent dyes for RESOLFT super-resolution microscopy</i></a>
+																	(2023, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">26</h4></td>
+																<td><b> Jieren Deng</b></td>
+																<td>
+																	<a href="https://ora4-prd.bodleian.ox.ac.uk/objects/uuid:5b72d9a6-3d86-4b5e-93cd-284ab57ccd5e"><i>Fused porphyrin oligomers as molecular wires and approaches to related nanobelts</i></a>
+																	(2022, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">25</h4></td>
 																<td><b>Connor Patrick</b></td>
 																<td>
 																	<a href="https://ora.ox.ac.uk/objects/uuid:083cbbcd-7848-4aec-9150-6ff5bc7aea96"><i>Towards polyyne rotaxanes and catenanes</i></a>
@@ -64,7 +120,15 @@
 																</td>
 															</tr>
 															<tr>
-																<td><h4 class="refdatanum">22</h4></td>
+																<td><h4 class="refdatanum">24</h4></td>
+																<td><b>Lorel Scriven</b></td>
+																<td>
+																	<a href="https://ora4-prd.bodleian.ox.ac.uk/objects/uuid:dab99fa2-d8c1-4094-8f73-67464629d144"><i>Molecular carbon allotropes: cyclo[n]carbons</i></a>
+																	(2021, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">23</h4></td>
 																<td><b>Wenjun Xu</b></td>
 																<td>
 																	<a href="https://ora.ox.ac.uk/objects/uuid:d0f92e11-dcff-44f6-9968-d1194967d510"><i>Synthesis and characterization of molecular wires with small bond-length alternation</i></a>
@@ -72,11 +136,19 @@
 																</td>
 															</tr>
 															<tr>
-																<td><h4 class="refdatanum">21</h4></td>
+																<td><h4 class="refdatanum">22</h4></td>
 																<td><b>Michael Jir&aacute;sek</b></td>
 																<td>
 																	<a href="https://ora.ox.ac.uk/objects/uuid:b60cf840-f3d4-4155-8308-687ff6209a7e"><i>Exploring electronic delocalization in porphyrin oligomers</i></a>
 																	(2020, embargoed)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">21</h4></td>
+																<td><b>William Kendrick</b></td>
+																<td>
+																	<a href="https://ora4-prd.bodleian.ox.ac.uk/objects/uuid:b8416a9b-b9a3-456d-a621-79917ffb1c1c"><i>Synthesis and ultrafast spectroscopy of porphyrin molecular wires</i></a>
+																	(2019, embargoed)
 																</td>
 															</tr>
 															<tr>
@@ -247,6 +319,30 @@
 											  	<ul>
 													<table class="theses">
 														<tbody>
+															<tr>
+																<td><h4 class="refdatanum">55</h4></td>
+																<td><b>Jack Pickering</b></td>
+																<td>
+																	<a href="protected/theses/part2/jack2024.pdf"><i>Synthesis and Applications of a Water-Soluble Porphyrin Nanoring</i></a>
+																	(2023-24)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">54</h4></td>
+																<td><b>Sara Borghi</b></td>
+																<td>
+																	<a href="protected/theses/part2/sara2024.pdf"><i>Synthesis of a π Conjugated Porphyrin Square</i></a>
+																	(2023-24)
+																</td>
+															</tr>
+															<tr>
+																<td><h4 class="refdatanum">53</h4></td>
+																<td><b>Owen Kanisius</b></td>
+																<td>
+																	<a href="protected/theses/part2/owen2024.pdf"><i>Synthesis and characterisation of charged paramagnetic porphyrin dimers by cw-EPR</i></a>
+																	(2023-24)
+																</td>
+															</tr>
 															<tr>
 																<td><h4 class="refdatanum">52</h4></td>
 																<td><b>Chiara Pigaiani</b></td>

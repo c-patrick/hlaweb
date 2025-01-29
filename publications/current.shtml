@@ -49,7 +49,7 @@
 									<h2>Present - 2021</h2>
 
 									<section>
-										<!-- PREPRINTS - Comment out when empty -->
+										<!-- PREPRINTS - Comment out when empty 
 										<h3>Preprints</h3>
 										<div class="row ref">
 											<div class="col-1 col-12-small">
@@ -86,7 +86,7 @@
 											</div>
 										</div>					
 									</section>
-									
+									-->
 									<section>
 										<h3>Publications</h3>
 									
@@ -113,6 +113,98 @@
 										-->
 										<div class="row ref">
 											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">370</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Molecular Aharonov-Bohm Interferometers Based on Porphyrin Nanorings</h3>
+												<p><refdata class="authors">C. Y. Cheng, G. Harari, I. Rončević, J. E. Peralta, H. L. Anderson, A. M. Wibowo-Teale and O. Hod.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://www.rsc.org/journals-books-databases/about-journals/chemical-science/">Chem. Sci.</a></refdata>,
+													<refdata class="year">2025</refdata>,
+													<refdata class="page">DOI: <a href="https://doi.org/10.1039/D4SC07992B">10.1039/D4SC07992B</a></refdata> | 
+													<refdata class="page"><a href=" https://doi.org/10.26434/chemrxiv-2024-4j7g2">ChemRxiv</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/370.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">369</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Global aromaticity in neutral porphyrin nanobelts</h3>
+												<p><refdata class="authors">M. Vitek, J.-R. Deng, H. L. Anderson and I. Rončević.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://pubs.acs.org/journal/ancac3">ACS Nano</a></refdata>,
+													<refdata class="year">2025</refdata>,
+													<refdata class="vol">19</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1021/acsnano.4c14100">1405</a></refdata> | 
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2024-vj96d-v2">ChemRxiv</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/369.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">368</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>High Charge Carrier Mobility in Porphyrin Nanoribbons</h3>
+												<p><refdata class="authors">H. Zhu, G. Wen, W. Zheng, N. H. Rees, W. Stawski, H. I. Wang, M. Bonn and H. L. Anderson.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://onlinelibrary.wiley.com/journal/15213773">Angew. Chem. Int.</a></refdata>,
+													<refdata class="year">2025</refdata>,
+													<refdata class="vol">164</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1002/anie.202417429">e202417429</a></refdata> | 
+													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2024-dwwm6">ChemRxiv</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/368.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">367</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Radical Anions of Porphyrin Molecular Wires: Delocalization and Dynamics</h3>
+												<p><refdata class="authors">J. Hergenhahn, J. M. Holmes, J.-R. Deng, H. Gotfredsen, R. M. J. Jacobs, S. M. Kopp, C. R. Timmel and H. L. Anderson.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat?ref=breadcrumb">J. Am. Chem. Soc. </a></refdata>,
+													<refdata class="year">2024</refdata>,
+													<refdata class="vol">147</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1021/jacs.4c14161">978–987</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/367.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
+												<h4 class="refdatanum">366</h4>
+											</div>
+											<div class="col-9 col-12-small">
+												<h3>Encapsulation of an Au25 Nanocluster inside a Porphyrin Nanoring Enhances Singlet Oxygen Generation and Photo-Electrocatalytic CO2 Reduction</h3>
+												<p><refdata class="authors">A. Ziarati, H. Gotfredsen, A. Rosspeintner, J. Zhao, H. L. Anderson and T. Bürgi.</refdata></p>
+												<p>
+													<refdata class="journal"><a href="https://onlinelibrary.wiley.com/journal/15213773">Angew. Chem. Int. Ed. </a></refdata>,
+													<refdata class="year">2025</refdata>,
+													<refdata class="vol">64</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1002/anie.202414908">e202414908</a></refdata>
+												</p>
+											</div>
+											<div class="col-2 col-12-small">
+												<span class="image pub"><img class="lazyload" data-src="images/abstracts/366.jpg" alt="" /></span>
+											</div>
+										</div>
+										<div class="row ref">
+											<div class="col-1 col-12-small">
 												<h4 class="refdatanum">365</h4>
 											</div>
 											<div class="col-9 col-12-small">
@@ -120,8 +212,9 @@
 												<p><refdata class="authors">W. Stawski and H. L. Anderson.</refdata></p>
 												<p>
 													<refdata class="journal"><a href="https://www.rsc.org/journals-books-databases/about-journals/chemical-science/">Chem. Sci.</a></refdata>,
-													<refdata class="year">2024</refdata>,
-													<refdata class="page">DOI: <a href="https://doi.org/10.1039/D4SC05255B">10.1039/D4SC05255B</a></refdata> | 
+													<refdata class="year">2024</refdata>, 
+													<refdata class="vol">15</refdata>,
+													<refdata class="page"><a href="https://doi.org/10.1039/D4SC05255B">16938-16946</a></refdata> | 
 													<refdata class="page"><a href="https://doi.org/10.26434/chemrxiv-2024-bg249">ChemRxiv</a></refdata>
 												</p>
 											</div>
@@ -155,7 +248,7 @@
 												<h3>Connections to the Electrodes Control the Transport Mechanism in Single-Molecule Transistors</h3>
 												<p><refdata class="authors">Z. Chen, S. L. Woltering, B. Limburg, M.-Y. Tsang, J. Baugh, G. A. D. Briggs, J. A. Mol, H. L. Anderson and J. O. Thomas.</refdata></p>
 												<p>
-													<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">Angew. Chem. Int. Ed.</a></refdata>,
+													<refdata class="journal"><a href="https://onlinelibrary.wiley.com/journal/15213773">Angew. Chem. Int. Ed.</a></refdata>,
 													<refdata class="year">2024</refdata>,
 													<refdata class="vol">63</refdata>,
 													<refdata class="page"><a href="https://doi.org/10.1002/anie.202401323">e202401323</a></refdata> 
@@ -345,7 +438,7 @@
 												<h3>Template-Directed Synthesis of Strained meso-meso-Linked Porphyrin Nanorings</h3>
 												<p><refdata class="authors">J. Van Raden,  J.-R. Deng,  H. Gotfredsen,  J. Hergenhahn,  M. Clarke,  M. Edmondson,  J. Hart,  J. O'Shea,  F. Duarte,  A. Saywell and  H. L. Anderson.</refdata></p>
 												<p>
-													<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">Angew. Chem. Int. Ed.</a></refdata>,
+													<refdata class="journal"><a href="https://onlinelibrary.wiley.com/journal/15213773">Angew. Chem. Int. Ed.</a></refdata>,
 													<refdata class="year">2024</refdata>,
 													<refdata class="vol">63</refdata>,
 													<refdata class="page"><a href="https://doi.org/10.1002/anie.202400103">e202400103</a></refdata> |
@@ -513,7 +606,7 @@
 												<h3>Anthracene-Porphyrin Nanoribbons</h3>
 												<p><refdata class="authors">H. Zhu, Q. Chen, I. Rončević, K. E. Christensen and H. L. Anderson.</refdata></p>
 												<p>
-														<refdata class="journal"><a href="https://pubs.acs.org/journal/jacsat">Angew. Chem. Int. Ed.</a></refdata>,
+														<refdata class="journal"><a href="https://onlinelibrary.wiley.com/journal/15213773">Angew. Chem. Int. Ed.</a></refdata>,
 														<refdata class="year">2023</refdata>,
 														<refdata class="vol">62</refdata>,
 														<refdata class="page"><a href="https://doi.org/10.1002/ange.202307035">e202307035</a></refdata> |
@@ -588,7 +681,7 @@
 												<h3>Covalent Template-Directed Synthesis of a Spoked 18-Porphyrin Nanoring</h3>
 												<p><refdata class="authors">M. A. Majewski, W. Stawski, J. M. Van Raden, M. Clarke, J. Hart, J. N. O’Shea, A. Saywell and H. L. Anderson.</refdata></p>
 												<p>
-													<refdata class="journal"><a href="https://pubs.acs.org/journal/orlef7">Angew. Chem. Int. Ed.</a></refdata>,
+													<refdata class="journal"><a href="https://onlinelibrary.wiley.com/journal/15213773">Angew. Chem. Int. Ed.</a></refdata>,
 													<refdata class="year">2023</refdata>,
 													<refdata class="vol">62</refdata>,
 													<refdata class="page"><a href="https://doi.org/10.1002/anie.202302114">e202302114</a></refdata> |
